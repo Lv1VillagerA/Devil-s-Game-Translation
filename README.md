@@ -1,0 +1,1 @@
+# Devil's Game-Translation
