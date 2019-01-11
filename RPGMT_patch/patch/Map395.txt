@@ -1,0 +1,37 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「トレーダーキャンプにようこそ。
+　ハンターのお客さん」
+> CONTEXT: Map395/events/5/pages/0/8/Dialogue
+「Welcome to trader camp. Hunter's guests」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺たちが売っているのは、
+　全てこの辺りの遺跡から発掘したものだ。
+　多少壊れてはいるが、淫魔相手には有効な品ばかりだよ」
+> CONTEXT: Map395/events/5/pages/0/11/Dialogue
+「We are selling, All excavated from the ruins around here.
+Although it is somewhat broken, it is only valid items for
+the bastards」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]なるほど、遺跡品を掘り出しては、
+　淫魔ハンター相手に販売しているのですか。
+　なかなかに商魂たくましいですね\\C[3]」
+> CONTEXT: Map395/events/5/pages/0/20/Dialogue
+\\C[3]「\\C[0]Indeed, digging down the ruins,
+Do you sell it to a fantasy hunter partner?
+It's quite a strong business person\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]遺跡品の発掘を主にしている方たちですか。
+　淫魔との戦闘は行わず、極力回避に徹すると。
+　まぁ…それでも危険ですが\\C[3]」
+> CONTEXT: Map395/events/5/pages/0/31/Dialogue
+\\C[3]「\\C[0]Are those who mainly excavate ruins?
+I will not battle with bad guys, and if I try to avoid as
+much as possible. Well ... it's still dangerous\\C[3]」#MTLed
+> END STRING

@@ -1,0 +1,14 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]なっ…！　魔晶石が…！\\C[1]」
+> CONTEXT: Map074/events/4/pages/0/6/Dialogue
+\\C[1]「\\C[0]BecomeMagic stone ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうそう、結界の要である魔晶石も、
+　ボクが直接淫気を注ぎ込めば…っと\\C[10]」
+> CONTEXT: Map074/events/4/pages/0/8/Dialogue
+\\C[10]「\\C[0]Oh yeah, the magic stone, which is the essence of the
+barrier, If myself pours it directly ...\\C[10]」#MTLed
+> END STRING

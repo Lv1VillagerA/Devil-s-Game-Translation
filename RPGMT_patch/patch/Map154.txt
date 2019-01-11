@@ -1,0 +1,70 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+領主の部屋　２Ｆ
+> CONTEXT: Map154/display_name/
+Lord's room 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+戸棚の中には何も入っていない。
+> CONTEXT: Map154/events/5/pages/0/7/Dialogue
+> CONTEXT: Map150/events/33/pages/0/7/Dialogue
+> CONTEXT: Map150/events/34/pages/0/7/Dialogue
+> CONTEXT: Map150/events/35/pages/0/7/Dialogue
+> CONTEXT: Map150/events/36/pages/0/7/Dialogue
+> CONTEXT: Map150/events/37/pages/0/7/Dialogue
+> CONTEXT: Map150/events/38/pages/0/7/Dialogue
+> CONTEXT: Map150/events/39/pages/0/7/Dialogue
+> CONTEXT: Map150/events/40/pages/0/7/Dialogue
+> CONTEXT: Map150/events/41/pages/0/7/Dialogue
+> CONTEXT: Map150/events/42/pages/0/7/Dialogue
+> CONTEXT: Map150/events/45/pages/0/7/Dialogue
+> CONTEXT: Map150/events/46/pages/0/7/Dialogue
+> CONTEXT: Map150/events/47/pages/0/7/Dialogue
+> CONTEXT: Map150/events/48/pages/0/7/Dialogue
+> CONTEXT: Map150/events/49/pages/0/7/Dialogue
+> CONTEXT: Map150/events/51/pages/0/7/Dialogue
+> CONTEXT: Map150/events/52/pages/0/7/Dialogue
+> CONTEXT: Map150/events/53/pages/0/7/Dialogue
+> CONTEXT: Map150/events/54/pages/0/7/Dialogue
+> CONTEXT: Map150/events/67/pages/0/7/Dialogue
+> CONTEXT: Map150/events/68/pages/0/7/Dialogue
+> CONTEXT: Map150/events/70/pages/0/7/Dialogue
+> CONTEXT: Map150/events/71/pages/0/7/Dialogue
+> CONTEXT: Map150/events/72/pages/0/7/Dialogue
+There is nothing in the cabinet.#MTLed
+> END STRING
+
+> BEGIN STRING
+館の備品などが、きちんとしまわれている。
+> CONTEXT: Map154/events/6/pages/1/7/Dialogue
+> CONTEXT: Map146/events/17/pages/1/7/Dialogue
+The furniture etc of the hall are properly stowed.#MTLed
+> END STRING
+
+> BEGIN STRING
+高級そうな衣服が丁寧にしまわれている。
+> CONTEXT: Map154/events/7/pages/0/7/Dialogue
+> CONTEXT: Map154/events/8/pages/0/7/Dialogue
+Clothes that are likely to be fine are gathered carefully.#MTLed
+> END STRING
+
+> BEGIN STRING
+多数のこけしが乱雑にしまわれている。
+> CONTEXT: Map154/events/9/pages/0/7/Dialogue
+Many kokeshi are cluttered.#MTLed
+> END STRING
+
+> BEGIN STRING
+領主としての１００の心得などの本が並んでいる。
+> CONTEXT: Map154/events/10/pages/0/7/Dialogue
+> CONTEXT: Map154/events/11/pages/0/7/Dialogue
+Books such as 100 knowledge as a lord are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+人参やごぼうや大根など棒状の野菜がしまわれている。
+> CONTEXT: Map154/events/12/pages/0/7/Dialogue
+Stick-like vegetables such as carrots, burdocks and
+radishes are stored.#MTLed
+> END STRING

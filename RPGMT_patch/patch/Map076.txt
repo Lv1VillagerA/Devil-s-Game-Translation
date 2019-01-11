@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]ここの結界を破ったのと、同じ要領でね\\C[10]」
+> CONTEXT: Map076/events/4/pages/0/6/Dialogue
+\\C[10]「\\C[0]In the same way you broke the barrier here\\C[10]」#MTLed
+> END STRING

@@ -1,0 +1,224 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+B1 治療室
+> CONTEXT: Map070/display_name/
+B1 treatment room#MTLed
+> END STRING
+
+> BEGIN STRING
+底が暗くて良く見えないが、とてもおりられそうにない。
+良く見たら縄梯子の取り付け箇所がある。
+施設内の何処かに、しまわれているのかもしれない。
+> CONTEXT: Map070/events/1/pages/0/10/Dialogue
+The bottom is dark and can not be seen well, but it is
+unlikely to be very good. If you look good, there is a
+mounting point for the rope ladder. It may be lost
+somewhere in the facility.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…良し、
+　これなら下の階におりられそうだな\\C[1]」
+> CONTEXT: Map070/events/1/pages/1/15/Dialogue
+\\C[1]「\\C[0]... Good, This seems to be able to fall on the lower floor\\C[1]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+何に使うか良くわからない道具がしまってある。
+> CONTEXT: Map070/events/8/pages/1/7/Dialogue
+> CONTEXT: Map070/events/9/pages/1/7/Dialogue
+> CONTEXT: Map070/events/10/pages/1/7/Dialogue
+> CONTEXT: Map070/events/11/pages/1/7/Dialogue
+I do not know well what tools I use.#MTLed
+> END STRING
+
+> BEGIN STRING
+医者の日誌がしまわれている。
+読みますか？
+> CONTEXT: Map070/events/12/pages/0/7/Dialogue
+The doctor's diary is out. Do you read?#MTLed
+> END STRING
+
+> BEGIN STRING
+○月△日　午後６時
+気を失っているエルフの娘が、結界の外に倒れているのを、
+見回り中の警備員が発見する。
+> CONTEXT: Map070/events/12/pages/0/13/Dialogue
+○ Monday, Sunday, 6 PM. The daughter of the elf who is
+losing falls out of the barrier, A security guard while
+looking around finds it.#MTLed
+> END STRING
+
+> BEGIN STRING
+○月△日　午後７時
+すぐさま診療所に運び込み検査をするが、
+どうやら気を失っている以外に、
+身体的な異常は見られないことがわかった。
+> CONTEXT: Map070/events/12/pages/0/17/Dialogue
+○ Monday - Sunday at 7 PM. Immediately afterwards it
+carries out inspection to the clinic, Apparently besides
+losing mind, I found that I could not see any physical
+abnormality.#MTLed
+> END STRING
+
+> BEGIN STRING
+○月△日　午後８時
+消灯時間も近づいてきたため、
+今日の所は病室のベッドに寝かせ、
+目覚めるまで様子を見ることにする。
+> CONTEXT: Map070/events/12/pages/0/22/Dialogue
+○ Monday - Sunday, 8 PM. Because the time to turn off has
+come close, Lay down today's bed on the bed in the hospital
+room, I will see the state until I wake up.#MTLed
+> END STRING
+
+> BEGIN STRING
+○月△日　午後９時
+何やら診療所の内部が妙に騒がしい。
+既に消灯時間に入ったため、
+病室外への出入りは禁止しているはずなのだが。
+> CONTEXT: Map070/events/12/pages/0/27/Dialogue
+○ Monday, Sunday, 9 PM. The interior of the clinic is
+strangely noisy. Since we have already gone off,
+Although it should be banned from entering and leaving the
+hospital room.#MTLed
+> END STRING
+
+> BEGIN STRING
+○月△日　午後１０時
+騒ぎが始まってから一時間が経過したが、
+院内の騒ぎ声は大きくなる一方だ。
+ナースたちは何をしているのだろうか。
+> CONTEXT: Map070/events/12/pages/0/32/Dialogue
+○ Monday, Sunday, 10 PM. One hour has passed since the
+commotion started, The noise in the hospital is getting
+bigger. What are the nurses doing?#MTLed
+> END STRING
+
+> BEGIN STRING
+○月△日　午後１１時
+ようやく本日の仕事が終わったため、
+私も院内の様子を見に行くことにする。
+騒ぎを収められない職員には、たっぷりと説教をしなければ…。
+> CONTEXT: Map070/events/12/pages/0/37/Dialogue
+○ Monday, Sunday, 11 PM. Finally because the work of today
+was over, I will go to see the inside of the hospital.
+For officials who can not make a fuss, we must preach on
+plenty ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ここで日誌は終わっている。
+> CONTEXT: Map070/events/12/pages/0/42/Dialogue
+Here the diary is over.#MTLed
+> END STRING
+
+> BEGIN STRING
+手術用の刃物類が丁寧にしまわれている。
+> CONTEXT: Map070/events/14/pages/0/7/Dialogue
+> CONTEXT: Map070/events/15/pages/0/7/Dialogue
+Cutting tools for surgery are carefully stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+治癒魔法に関する書物が収められている。
+> CONTEXT: Map070/events/16/pages/0/7/Dialogue
+Books on curative magic are contained.#MTLed
+> END STRING
+
+> BEGIN STRING
+人体の構造についての書物が収められている。
+> CONTEXT: Map070/events/17/pages/0/7/Dialogue
+Books on the structure of the human body are contained.#MTLed
+> END STRING
+
+> BEGIN STRING
+「くそぉっ！　また淫魔が来たのか！
+　誰が来ようとこの扉は絶対に開けないぞ！」
+> CONTEXT: Map070/events/18/pages/0/8/Dialogue
+「Damn it! Did the fellowship come again!
+Whoever comes, I can not open this door absolutely!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]落ち着け、俺は人間だ！
+　助けに来たんだ！\\C[1]」
+> CONTEXT: Map070/events/18/pages/0/11/Dialogue
+\\C[1]「\\C[0]Calm down, I am a human! I came here to help!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「嘘だ！　そうやって扉を開けたら、
+　隠れている淫魔が寄ってたかって、
+　俺たちを吸い尽くすに決まっている！」
+> CONTEXT: Map070/events/18/pages/0/14/Dialogue
+「It is a lie! If you do open the door like that,
+I wanted to hide a hidden devil, It is decided to exhaust
+our breath!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]違う！　俺は人間だ！
+　淫魔なんかじゃない！\\C[1]」
+> CONTEXT: Map070/events/18/pages/0/18/Dialogue
+\\C[1]「\\C[0]Wrong!I am a human! I'm not a horny man!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺はな…この診療所で何人もの男たちが、
+　淫魔化したナースや女患者たちに、
+　搾り尽くされるのを見てきたんだよ！」
+> CONTEXT: Map070/events/18/pages/0/21/Dialogue
+「I ... There are many men in this clinic,
+To nursing female patients and female patients,
+I saw that it was being squeezed!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「美女の誘いだとホイホイついていったら最後、
+　アヘ顔になるまで犯された挙句、
+　そのまま天国逝きだ…一人の例外もなくな！」
+> CONTEXT: Map070/events/18/pages/0/26/Dialogue
+「If it is a beautiful woman's invitation and touched Hoy
+Hoi Last, A fellow who was violated until becoming a face,
+Heaven is gone as it is ... There is no exception of one
+person!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「さぁ…わかったら帰ってくれ！
+　お前が誰かは知らないが、周囲が安全になるまで、
+　俺たちはこの部屋から出るわけにはいかないんだ！」
+> CONTEXT: Map070/events/18/pages/0/30/Dialogue
+> CONTEXT: Map070/events/18/pages/1/7/Dialogue
+「Now ... when you understand return home!
+I do not know who you are, but until the surroundings are
+safe, We can not get out of this room!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]どうやらいくら説得しても、
+　ここから出てくる気はなさそうだな\\C[1]）
+> CONTEXT: Map070/events/18/pages/1/11/Dialogue
+\\C[1](\\C[0] No matter how much I persuade you,
+I do not feel like coming out of here\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]ギルドが本腰を入れて動かない以上、
+　耳を貸してくれないか。
+　それなら、俺だけこの場に留まっても仕方ないか\\C[1]）
+> CONTEXT: Map070/events/18/pages/1/14/Dialogue
+\\C[1](\\C[0] As long as the guild does not move forward,
+Will you lend me your ears? Then I can not help it even if
+I stay in this place only\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+箱のなかには何も入っていない。
+> CONTEXT: Map070/events/22/pages/0/7/Dialogue
+> CONTEXT: Map070/events/23/pages/0/7/Dialogue
+> CONTEXT: Map070/events/24/pages/0/7/Dialogue
+There is nothing in the box.#MTLed
+> END STRING

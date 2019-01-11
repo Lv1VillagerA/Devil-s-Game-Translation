@@ -1,0 +1,167 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+精奴隷市場
+> CONTEXT: Map006/display_name/
+Precision slave market#MTLed
+> END STRING
+
+> BEGIN STRING
+「この先は淫女王様のお部屋よ。
+　今は先ほど連れ帰ったエルフの女と、
+　仲良く遊んでいる最中なの」
+> CONTEXT: Map006/events/11/pages/0/6/Dialogue
+「The other side is the room of King of the Horny.
+Now with the elf 's lady who brought back,
+I am playing with each other」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら淫女王が手を出すなと言われていても、
+　無理やり通ろうとすれば……わかるわよね？」
+> CONTEXT: Map006/events/11/pages/0/10/Dialogue
+「Even though it is said that no matter how horny king will
+put out his hands, If you try to forcibly go through ......
+You understand?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]\\N[6]を今すぐ助けたいのは山々だが、
+　ここで俺が倒されては元も子もないか\\C[1]）
+> CONTEXT: Map006/events/11/pages/0/23/Dialogue
+\\C[1](\\C[0] \\N[6] It is mountains that I want to save right now,
+Where I am knocked down, there are neither young nor
+children\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]ここは、何か別の手を探すしかないか\\C[1]）
+> CONTEXT: Map006/events/11/pages/0/26/Dialogue
+\\C[1](\\C[0] Do you have to look for something else here\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+「あら…その小瓶は、…気が利くわね。
+　丁度お腹がすいてたのよ」
+> CONTEXT: Map006/events/11/pages/1/7/Dialogue
+「Oh ... that vial ... it feels good. I was just hungry」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でもタダで貰うのも何だし、
+　貴方…奥に行っても良いわよ」
+> CONTEXT: Map006/events/11/pages/1/10/Dialogue
+「But whatever you get with free stuff, You ... you may go
+to the back」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そろそろ淫女王様も、
+　あのエルフとの遊びに飽きた頃でしょうしね」
+> CONTEXT: Map006/events/11/pages/1/13/Dialogue
+「Soon the King of Horny, I guess it's about time I got
+tired of playing with that elf」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふーん…貴方が淫女王様のお気に入りの男ね」
+> CONTEXT: Map006/events/12/pages/0/6/Dialogue
+「Hmm ... you are the king's favorite man」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かにおいしそうだわ。
+　あぁ、ちなみにアタシから襲う気はないわよ。
+　でも…もし貴方が手を出せば…うふふ」
+> CONTEXT: Map006/events/12/pages/0/8/Dialogue
+「It looks delicious. Oh, by the way I do not feel like
+attacking you. But ... if you get out ... Uufu」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まったく…捕らえた精奴隷を購入するのは良いが、
+　この場で即始めるとはな」
+> CONTEXT: Map006/events/13/pages/0/6/Dialogue
+「Absolutely ... It is good to purchase a caught slave,
+We are not going to start right here.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「自分の住処に連れ帰るまで、待てないのか」
+> CONTEXT: Map006/events/13/pages/0/9/Dialogue
+「Can not wait until I take him back to my place?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「後片付けをするコチラの身にも、
+　なって欲しいものだ…ブツブツ」
+> CONTEXT: Map006/events/13/pages/0/11/Dialogue
+「Also to clean up the clothes, I want you to become ... ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここは精奴隷を販売する、
+　淫魔専用の精奴隷市だ」
+> CONTEXT: Map006/events/14/pages/0/6/Dialogue
+「Here we sell a slave, It is a precision slave exclusive
+use for the bastard」#MTLed
+> END STRING
+
+> BEGIN STRING
+「種族は人間でもエルフでも獣人でも、
+　男でさえあれば、何の問題もないぞ」
+> CONTEXT: Map006/events/14/pages/0/9/Dialogue
+「Races are human, elves, beasts, If you are a man, there
+will be no problem」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁたまに売れ残った精奴隷が、
+　この場で処分されることもあるがな」
+> CONTEXT: Map006/events/14/pages/0/12/Dialogue
+「Well sacrificed slavery sometimes sold,
+Sometimes it is disposed of at this place」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一応言っておくが、
+　くれぐれも変な気は起こさないことだ」
+> CONTEXT: Map006/events/14/pages/0/16/Dialogue
+「For the time being, Do not worry if you do not feel
+strange」#MTLed
+> END STRING
+
+> BEGIN STRING
+「多勢に無勢と言葉は知っているだろう？
+　たとえ淫女王様直々のお言葉だろうと、
+　もし問題を起こすようなら…な」
+> CONTEXT: Map006/events/14/pages/0/19/Dialogue
+「Do you know the word indefinite and words?
+No matter whether the word of a horny king or not,
+If it seems to cause problems ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ、ちなみに私たちは貴方を襲う気はないわよ」
+> CONTEXT: Map006/events/15/pages/0/11/Dialogue
+「Oh, by the way we do not feel like attacking you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫女王様から直々に、
+　もし貴女たちの前に人間の男が現れても、
+　手を出しちゃ駄目だよ～\\I[140]と、言われてるからね」
+> CONTEXT: Map006/events/15/pages/0/13/Dialogue
+「Directly from the hilarious king, If a human man appears
+before you, Do not put out your hands ~ \\I[140] It is said, is
+not it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも貴方がその気なら、
+　こちらも全員がかりで可愛がってあげるから、
+　そのつもりでいることね」
+> CONTEXT: Map006/events/15/pages/0/17/Dialogue
+「However, if you care about that, Because we also love it
+with all of us, That is what I intend to do.」#MTLed
+> END STRING

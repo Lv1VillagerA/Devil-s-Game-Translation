@@ -1,0 +1,43 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「最近この町に引っ越してきたんだけど、
+　やっぱり淫魔が弱いわね」
+> CONTEXT: Map296/events/6/pages/0/12/Dialogue
+「I recently moved to this town, After all it is weak
+fellows」#MTLed
+> END STRING
+
+> BEGIN STRING
+「アタシのような新米ハンターでも、
+　問題なく討伐が出来るわ。まぁ…油断は出来ないんだけどね」
+> CONTEXT: Map296/events/6/pages/0/15/Dialogue
+「Even brand new hunters like me, You can clear out without
+problems.Well ... I can not take care of it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「トレーダーキャンプは遺跡から発掘した品を売って、
+　生計を立ててるんだよ」
+> CONTEXT: Map296/events/7/pages/0/12/Dialogue
+「Trader camp sells excavated items from ruins,
+I am making a living」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ハンター協会に卸売じゃなくて、
+　直接売るから値段はふっかけられるけど、
+　欲しい品が確実に手に入るのは、やっぱり便利だよね」
+> CONTEXT: Map296/events/7/pages/0/15/Dialogue
+「Not to the Hunter Association wholesale,
+Because you sell directly, the price can be puffed up,
+It is really convenient that you get the item you want
+certainly」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その前に、周辺の遺跡物を回収しながら移動してるから、
+　探しだすのは難しいんだけどね」
+> CONTEXT: Map296/events/7/pages/0/19/Dialogue
+「Before that, I moved while collecting ruins around me,
+It's hard to find out, though」#MTLed
+> END STRING

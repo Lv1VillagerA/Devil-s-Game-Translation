@@ -1,0 +1,65 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+色々な薬品が収納されている。
+> CONTEXT: Map066/events/4/pages/0/6/Dialogue
+> CONTEXT: Map066/events/7/pages/0/6/Dialogue
+Various chemicals are stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+「実は一人息子の面倒を見ているのですが、
+　最近あるモノを欲しがっているのです」
+> CONTEXT: Map066/events/5/pages/0/6/Dialogue
+「Actually I am taking care of my only son,
+I recently wanted some things」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも私にはカードがどれも同じに見えて、
+　何を買ってあげれば良いのか」
+> CONTEXT: Map066/events/5/pages/0/9/Dialogue
+「But to me all cards look the same, What should I buy?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ですから息子の名前でギルドに依頼を出し、
+　せめて依頼料だけでも払っているのですよ」
+> CONTEXT: Map066/events/5/pages/0/12/Dialogue
+「So I asked the guild for my son's name,
+At least it is paying only the request fee」#MTLed
+> END STRING
+
+> BEGIN STRING
+「せめて夫が出稼ぎから帰ってくれば、
+　同じ男同士…相談に乗ってあげられるのですが、
+　女手ひとつでは…ままならないですね」
+> CONTEXT: Map066/events/5/pages/0/15/Dialogue
+「At least when my husband returns home from work,
+The same men ... You can ride in consultation,
+There is nothing left for a single girlfriend」#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な服が綺麗に折りたたまれている。
+> CONTEXT: Map066/events/6/pages/1/6/Dialogue
+Various clothes are folded nicely.#MTLed
+> END STRING
+
+> BEGIN STRING
+子育てや医療に関する本が並んでいる。
+> CONTEXT: Map066/events/8/pages/0/6/Dialogue
+> CONTEXT: Map066/events/9/pages/0/6/Dialogue
+Books on child rearing and medical care are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+包丁やオタマなどが入っている。
+> CONTEXT: Map066/events/10/pages/0/6/Dialogue
+Kitchen knives and tattoos are included.#MTLed
+> END STRING
+
+> BEGIN STRING
+お皿やコップなどが綺麗に収納されている。
+> CONTEXT: Map066/events/11/pages/0/6/Dialogue
+Plates and cups are stored neatly.#MTLed
+> END STRING

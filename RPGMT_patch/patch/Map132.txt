@@ -1,0 +1,77 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「今回は相手にあのマリーダがいたとはいえ、
+　村の結界がこうも容易に破られるとは」
+> CONTEXT: Map132/events/4/pages/0/6/Dialogue
+「Although this married partner was in this opponent this
+time, The village's barrier is easily broken as well」#MTLed
+> END STRING
+
+> BEGIN STRING
+「君たちの活躍により、
+　他の淫魔は何とか追い返すことが出来たが、
+　あのまま雪崩込まれていたら、どうなっていたことか」
+> CONTEXT: Map132/events/4/pages/0/9/Dialogue
+「With your success, Although I managed to repair the other
+bastards somehow, I wondered what had become like if I had
+been snowed as it was」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これは早急に破られた大結界を補修し、
+　より強固にしなければ！」
+> CONTEXT: Map132/events/4/pages/0/13/Dialogue
+「It repaired the large boundary that was urgently broken,
+We must make it stronger!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そのための材料を揃えるためなら、
+　魔貨を惜しんではいけないと、私は考えるのだが」
+> CONTEXT: Map132/events/4/pages/0/16/Dialogue
+「To align the materials for that, I think that it is
+imperative to spare money」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私の夫を吸い殺した淫魔を、
+　絶対に許しません」
+> CONTEXT: Map132/events/5/pages/0/6/Dialogue
+「I will destroy my husband, I will never forgive you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もし貴方たちが淫核を所有しているのなら、
+　私が買い取りましょう」
+> CONTEXT: Map132/events/5/pages/0/9/Dialogue
+「If you own an abusive nucleus, Let me buy it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ギルドに依頼として出しておきましたので、
+　受けてくれると嬉しいですね。
+　まぁ…その、無理にとは言いませんが」
+> CONTEXT: Map132/events/5/pages/0/12/Dialogue
+「As I asked the guild for a request, I am happy if you
+accept it. Well ... that, I will not say that」#MTLed
+> END STRING
+
+> BEGIN STRING
+エルフ独特の魔法薬が並んでいる。
+> CONTEXT: Map132/events/6/pages/1/6/Dialogue
+> CONTEXT: Map132/events/7/pages/1/6/Dialogue
+Elven unique magical drugs line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+かなりの古さのピアノが置いてある。
+> CONTEXT: Map132/events/10/pages/0/6/Dialogue
+> CONTEXT: Map132/events/11/pages/0/6/Dialogue
+There is a piano of quite oldness.#MTLed
+> END STRING
+
+> BEGIN STRING
+観葉植物はとてもいきいきとしている。
+> CONTEXT: Map132/events/12/pages/0/6/Dialogue
+The ornamental plants are very vivid.#MTLed
+> END STRING

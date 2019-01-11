@@ -1,0 +1,36 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　３Ｆ
+> CONTEXT: Map165/display_name/
+Tower of seal 3F#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふぁ…もう…魔力が…尽きそうなのよぉ…\\I[140]」
+> CONTEXT: Map165/events/21/pages/0/7/Dialogue
+「Fa ... ... already ... magical power ... it seems to run
+out ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも…これでようやく…解放される…\\I[140]
+　私も…淫女王様の…仲魔にぃ…\\I[140]」
+> CONTEXT: Map165/events/21/pages/0/9/Dialogue
+「But ... By this ... finally ... released ... \\I[140]
+Me too ... ... King of the Hilarious King ... Announcer ...
+\\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…淫女王様…俺は…幸せですぅ…\\I[140]」
+> CONTEXT: Map165/events/22/pages/0/7/Dialogue
+「Oh ... the hilarious king ... I am ... I'm happy ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ですから…俺の魔力の全て…捧げましゅぅ…\\I[140]
+　あっあぁ…堕ちて…いくぅ\\I[140]」
+> CONTEXT: Map165/events/22/pages/0/9/Dialogue
+「So ... All of my magical power ... I dedicated ... \\I[140]
+Ah ... ... it's going down ... \\I[140]」#MTLed
+> END STRING

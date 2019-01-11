@@ -1,0 +1,92 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+領主の館　１Ｆ
+> CONTEXT: Map113/display_name/
+> CONTEXT: Map112/display_name/
+Lord of the lord 1F#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]何かもう、館の門も開け放たれてたし、
+　私たち…明らかに歓迎されてるよね？\\C[29]」
+> CONTEXT: Map113/events/41/pages/0/8/Dialogue
+\\C[29]「\\C[0]Something has already been opened for the gate of the
+hall, We ... clearly being welcomed, are not you?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はい、館の奥から上級淫魔の淫気を、
+　確かに感じますわよ」
+> CONTEXT: Map113/events/41/pages/0/13/Dialogue
+「Yes, from the back of the hall, I certainly feel it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]だが、上級淫魔が領主になって長いのに、
+　どうしてナタリアは、今まで気づけなかったんだ？\\C[1]」
+> CONTEXT: Map113/events/41/pages/0/16/Dialogue
+\\C[1]「\\C[0]However, even though senior demons became lord,
+Why did not Natalia ever notice?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それは、天使の管理不行き届きと言いますか、
+　この島には多少の才能を持つ人間はいても、
+　上級淫魔と戦える素質も持つ適格者がおりませんでしたの」
+> CONTEXT: Map113/events/41/pages/0/22/Dialogue
+「Is it said that angel's management is outraged,
+Even though there are some talented people on this island,
+I did not have qualified people who also have the ability
+to fight against senior demons」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私にとって何よりも優先すべきは、
+　この世界の招かれざる客である、
+　淫女王アニスの排除ですわ」
+> CONTEXT: Map113/events/41/pages/0/29/Dialogue
+「What should be given priority over anything to me,
+Being invited guest of this world, It is the elimination of
+the female king Anise」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ですので適格者たちのいる大陸の上級淫魔を、
+　優先的に排除しつつ、徐々に範囲を拡大していくと」
+> CONTEXT: Map113/events/41/pages/0/33/Dialogue
+「So we have a senior demon in the continent where
+qualified people are, While gradually expanding the range
+while eliminating it preferentially」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あぁ…だから後回しになってたんだ。
+　何か納得したよ\\C[29]」
+> CONTEXT: Map113/events/41/pages/0/36/Dialogue
+\\C[29]「\\C[0]Ah ... so I was postponed.
+I was convinced\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「申し訳ありませんわ。私にもっと力があれば…」
+> CONTEXT: Map113/events/41/pages/0/42/Dialogue
+「I'm sorry. If I have more power ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]まぁ良いさ。多少遅くなっちまったが、
+　こうして俺たちが立ち寄ったんだ\\C[1]」
+> CONTEXT: Map113/events/41/pages/0/44/Dialogue
+\\C[1]「\\C[0]Well good. It got somewhat late,
+So we dropped in\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そうそう、上級淫魔さえ倒せば、
+　時間はかかるだろうけどいずれは元に戻るはずだし！
+　今は先を急ごうよ！\\C[29]」
+> CONTEXT: Map113/events/41/pages/0/48/Dialogue
+\\C[29]「\\C[0]If you defeat even the senior demonic,
+It will take time, but which one should be back!
+Let 's hurry ahead now!\\C[29]」#MTLed
+> END STRING

@@ -1,0 +1,94 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自警団の詰め所
+> CONTEXT: Map156/display_name/
+Vigilante's packing room#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふん…町の外では凶悪な淫魔が暴れているらしいが、
+　ここは魔法都市だ」
+> CONTEXT: Map156/events/4/pages/0/6/Dialogue
+「Hmm ... It seems that heinous demons are rampant outside
+the town, This is a magical city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「結界の中に淫魔が侵入したら、
+　私たちの魔法で吹き飛ばしてやる」
+> CONTEXT: Map156/events/4/pages/0/9/Dialogue
+「When the bastard penetrated into the barrier,
+I will blow it off with our magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも、こう見えてまだまだ未熟な以上、
+　慢心せずに鍛錬は怠れないがな」
+> CONTEXT: Map156/events/4/pages/0/12/Dialogue
+「Although it looks like this, it is still immature,
+I will not forget to train without sincerity」#MTLed
+> END STRING
+
+> BEGIN STRING
+万が一のための武器だろうか。しかし埃をかぶっている。
+> CONTEXT: Map156/events/5/pages/0/6/Dialogue
+Is it a weapon for any chance? However, it is wearing dust.#MTLed
+> END STRING
+
+> BEGIN STRING
+「たとえ外でどれだけ淫魔が暴れようが、
+　魔法都市の大結界を破れるものか」
+> CONTEXT: Map156/events/6/pages/0/6/Dialogue
+「No matter how much hero is rampant outside,
+Can you break the magical city's great boundaries」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかしそれより厄介なのは、
+　この騒動に便乗して我々の町に、
+　諜報員を送り込もうとする他国だ」
+> CONTEXT: Map156/events/6/pages/0/9/Dialogue
+「But more troublesome than that, In this town we pick you
+up, It is another country trying to send intelligence
+agents」#MTLed
+> END STRING
+
+> BEGIN STRING
+「流石の大結界も魔物ではない、
+　普通の人間には作動しないからな。
+　どちらにせよ、さらなる警戒が必要だろう」
+> CONTEXT: Map156/events/6/pages/0/13/Dialogue
+「The great boundary of drift is not a demon,
+It will not work for ordinary people. Either way, we need
+more vigilance」#MTLed
+> END STRING
+
+> BEGIN STRING
+棚の中には戦闘用の魔法道具が大量にしまわれている。
+> CONTEXT: Map156/events/7/pages/1/6/Dialogue
+> CONTEXT: Map156/events/8/pages/1/6/Dialogue
+In the shelf a large amount of magic tools for battle are
+stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+万が一のための武器だろうか。しかし殆どが錆びついている。
+> CONTEXT: Map156/events/9/pages/0/6/Dialogue
+Is it a weapon for any chance? However, most of them are
+rusted.#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃用の魔法道具が埃をかぶっている。
+> CONTEXT: Map156/events/10/pages/0/6/Dialogue
+> CONTEXT: Map156/events/11/pages/0/6/Dialogue
+> CONTEXT: Map156/events/12/pages/0/6/Dialogue
+A magic tool for attack is wearing dust.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法の専門書が乱雑に並んでいる。
+> CONTEXT: Map156/events/13/pages/0/6/Dialogue
+> CONTEXT: Map156/events/14/pages/0/6/Dialogue
+Magical professional books are lined up in disorder.#MTLed
+> END STRING

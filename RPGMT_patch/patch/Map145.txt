@@ -1,0 +1,13 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+調理室　１Ｆ
+> CONTEXT: Map145/display_name/
+Cooking room 1F#MTLed
+> END STRING
+
+> BEGIN STRING
+様々な調味料に混じって、得体の知れない薬が見える。
+> CONTEXT: Map145/events/9/pages/1/7/Dialogue
+Mixed with various seasonings, you can see unfamiliar
+medicine.#MTLed
+> END STRING

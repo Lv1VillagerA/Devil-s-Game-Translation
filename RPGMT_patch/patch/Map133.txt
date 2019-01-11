@@ -1,0 +1,79 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふむ…やはりいくつかの魔法衣に、
+　ほころびが見えるな」
+> CONTEXT: Map133/events/4/pages/0/6/Dialogue
+「Hmm ... ... again to some witchcraft, I can see the
+frills.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら神聖魔法で補強したとはいえ、
+　淫魔の手管の前には為す術もなし…か」
+> CONTEXT: Map133/events/4/pages/0/9/Dialogue
+「Even though it has reinforced with sacred magic,
+There is no technique to do before the troublesome maiden
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでも多少の効果はある以上、
+　軽視は出来んか」
+> CONTEXT: Map133/events/4/pages/0/12/Dialogue
+「Still there are some effects, Can not be neglected」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今回のような最悪の事態を考えると、
+　追加でもう十…いや、二十は欲しいか」
+> CONTEXT: Map133/events/4/pages/0/15/Dialogue
+「Considering the worst situation like this time,
+Ten more in addition ... No, do you want twenty?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この村に住むエルフは、
+　人間たちを毛嫌いしていますが、
+　今回のことは本当に感謝しているのですよ」
+> CONTEXT: Map133/events/7/pages/0/6/Dialogue
+「Elves living in this village, I am preoccupied with
+humans, I really appreciate it this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その証拠に、
+　ギルドの依頼達成による報酬という形で、
+　受けた恩を返そうとしているのですよ」
+> CONTEXT: Map133/events/7/pages/0/10/Dialogue
+「on that evidence, In the form of remuneration by
+achieving the request of the guild, I am trying to return
+my received benefit」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だってこの村に来て依頼を受けてくれる人間は、
+　貴方たち以外一人もいませんもの」
+> CONTEXT: Map133/events/7/pages/0/14/Dialogue
+「Because a man who comes to this village and receives a
+request, There is not one other than you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「村の皆は口にこそ出しませんが、
+　もう本当に照れ屋さんで…うふふふ」
+> CONTEXT: Map133/events/7/pages/0/17/Dialogue
+「Everyone in the village does not appear in the mouth,
+It's really a shy shop ... Uhufufu」#MTLed
+> END STRING
+
+> BEGIN STRING
+観葉植物が元気に育っている。
+> CONTEXT: Map133/events/13/pages/0/6/Dialogue
+The ornamental plants are growing up healthily.#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な裁縫道具が収納されている。
+> CONTEXT: Map133/events/14/pages/0/6/Dialogue
+Various sewing tools are stored.#MTLed
+> END STRING

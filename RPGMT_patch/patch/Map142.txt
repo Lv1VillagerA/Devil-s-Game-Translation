@@ -1,0 +1,239 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+教会
+> CONTEXT: Map142/display_name/
+> CONTEXT: Map122/display_name/
+> CONTEXT: Map116/display_name/
+> CONTEXT: Map088/display_name/
+> CONTEXT: Map068/display_name/
+A church#MTLed
+> END STRING
+
+> BEGIN STRING
+天使に関する本や、聖書が綺麗に並べられている。
+> CONTEXT: Map142/events/5/pages/0/6/Dialogue
+> CONTEXT: Map142/events/6/pages/0/6/Dialogue
+> CONTEXT: Map122/events/5/pages/0/6/Dialogue
+> CONTEXT: Map122/events/6/pages/0/6/Dialogue
+> CONTEXT: Map116/events/5/pages/0/6/Dialogue
+> CONTEXT: Map116/events/6/pages/0/6/Dialogue
+> CONTEXT: Map088/events/5/pages/0/6/Dialogue
+> CONTEXT: Map088/events/6/pages/0/6/Dialogue
+> CONTEXT: Map068/events/7/pages/0/6/Dialogue
+> CONTEXT: Map068/events/8/pages/0/6/Dialogue
+A book about angels and the Bible are beautifully lined up.#MTLed
+> END STRING
+
+> BEGIN STRING
+「天使様の現界失敗の噂は事実です。
+　しかし、希望を捨ててはいけません」
+> CONTEXT: Map142/events/7/pages/0/6/Dialogue
+「Rumors of angel 's current world failure are facts.
+But do not give up hope」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに天使様の力を借り、
+　淫魔を退けることは出来なくなりました」
+> CONTEXT: Map142/events/7/pages/0/9/Dialogue
+「Certainly borrowing the power of the angel,
+I can not dismiss a devil」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし私たちには魔法の力があります。
+　二百年前の大戦よりも、遥かに成長した今ならば、
+　必ず淫魔たちにも通用し…」
+> CONTEXT: Map142/events/7/pages/0/12/Dialogue
+「But we have magical powers. Now that it has grown far
+more than the great war two hundred years ago,
+Always pass even for the demons ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+演説は続いている…。
+> CONTEXT: Map142/events/7/pages/0/16/Dialogue
+> CONTEXT: Map142/events/8/pages/0/16/Dialogue
+The speech is continuing ....#MTLed
+> END STRING
+
+> BEGIN STRING
+「町の外からの大聖堂が堕ちたという噂、
+　確かに正しいですが、まだ人は敗北していません」
+> CONTEXT: Map142/events/8/pages/0/6/Dialogue
+「The rumor that the cathedral from the outside of the town
+has fell, It is certainly correct, but people are not
+defeated yet」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう…天使様の現界は叶いませんでしたが、
+　今も我々を導いてくださっています」
+> CONTEXT: Map142/events/8/pages/0/9/Dialogue
+「Yes ... ... Although the angel 's current world did not
+come true, We are still leading us」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それ証拠に現在、西にそびえる封印の塔に向け、
+　この町の…いえ、世界中の勇気ある者たちが、
+　淫女王アニスの野望を打ち砕くため…」
+> CONTEXT: Map142/events/8/pages/0/12/Dialogue
+「To that evidence now, towards the tower of the seal
+rising to the west, In this town ... No, courageous people
+all over the world, To crush the ambition of the villain
+king Anis ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら魔法が強くても、
+　淫魔には全く効かないって聞いたぜ？」
+> CONTEXT: Map142/events/9/pages/0/6/Dialogue
+「No matter how much magic is strong, I heard that it does
+not work at all for bad luck?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ俺は魔法都市から出たことはないから、
+　シスターの言うことを、
+　黙って信じるしかないんだがな」
+> CONTEXT: Map142/events/9/pages/0/9/Dialogue
+「Well I never got out of a magical city,
+Sister's saying, I have no choice but to believe in silence
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…やっぱり大聖堂の噂は本当だったのね」
+> CONTEXT: Map142/events/10/pages/0/6/Dialogue
+「Huh ... after all the rumors of the cathedral was true」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし大聖堂にいるシスターだけでなく、
+　天使様現界の噂をわざと流して、
+　巡礼者たちもまとめて淫魔化するなんてね」
+> CONTEXT: Map142/events/10/pages/0/8/Dialogue
+「But not only Sister in the cathedral, Angel-sama
+Sentences rumors of the world on purpose,
+It is a psychedelic gathering together to become a fantasy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔をただの魔物だと思って油断すると、
+　大敗するのは、私たち人間のほうかもしれないわね」
+> CONTEXT: Map142/events/10/pages/0/12/Dialogue
+「I thought that the devil was just a demon and I made up
+my mind, It might be that we humans are defeated」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どちらにせよ、ワシはもうこの年じゃ。
+　今さら外には行けぬよ」
+> CONTEXT: Map142/events/11/pages/0/6/Dialogue
+「Either way, Eagle is already this year.
+I can not go outside now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「出来ることと言えば、
+　今度こそ天使様が現界出来るよう、
+　こうして祈ることだけじゃ」
+> CONTEXT: Map142/events/11/pages/0/9/Dialogue
+「Speaking of what you can do, This time to make an angel
+like this now, Just to pray」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私がもう少し若ければねぇ。
+　淫魔だろうと何だろうと、
+　炎の魔法の消し炭にしてやるのに」
+> CONTEXT: Map142/events/12/pages/0/6/Dialogue
+「I wish I were a little young. Whether it's a bad guy or
+not, I will make magical fire of fire」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ他の町は知らないけど、
+　魔法都市の大結界の中に入れば安心だよ」
+> CONTEXT: Map142/events/12/pages/0/10/Dialogue
+「Well I do not know other cities, It is safe to put it in
+the magical city's great barrier」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ご主人様が、淫魔なんて俺の魔法で倒してやる！と、
+　十人以上に及ぶ屈強な戦士や魔法使いの方々と、
+　町の外に行ったっきり帰ってきません」
+> CONTEXT: Map142/events/13/pages/0/6/Dialogue
+「Your husband will defeat the bad guys with my magic! When,
+With ten or more powerful warriors and wizards,
+I went outside the town I definitely did not come back.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その後一分もしないうちにご主人様たちの、
+　絶叫とも喘ぎ声とも区別がつかない叫びが…あぁ！」
+> CONTEXT: Map142/events/13/pages/0/10/Dialogue
+「Less than a minute afterwards the master,
+There is a cry that can not be distinguished from screaming
+and panting voice ... Oh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やはり、奴隷のお前は足手まといだから付いてくるな！
+　…と言われても、
+　こっそり付いていくべきだったかしら？」
+> CONTEXT: Map142/events/13/pages/0/13/Dialogue
+「After all, you are slavery wearing clothes so do not come
+with me! Even if it is said, Should I have followed you
+secretly?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こう見えて性技に関しては、
+　ちょっとした腕なのですよ。
+　毎晩ご主人様を鳴かせていましたし…ふふっ」
+> CONTEXT: Map142/events/13/pages/0/17/Dialogue
+「As for this, It is a little arms. I was singing my
+husband every evening ... Huh?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私の夫は優秀な魔法使いなのですが、
+　昨日天使様のお告げを受け、
+　封印の塔に向かいました」
+> CONTEXT: Map142/events/14/pages/0/6/Dialogue
+「My husband is an excellent wizard, Yesterday I received
+an angel's announcement, I headed to the seal tower」#MTLed
+> END STRING
+
+> BEGIN STRING
+「夫は最後に、この私は天使の加護を受けた適格者だ。
+　淫女王だろうと遅れを取ることは絶対にない。
+　君は家で天使にではなく、私の勝利を祈っていれば良い」
+> CONTEXT: Map142/events/14/pages/0/10/Dialogue
+「Finally, my husband is a qualified person who received
+angel protection. Absolutely never take a delay as you are
+a lady king. You better pray for my victory, not at the
+angel at home.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろん、何人もの腕利きの冒険者の方も雇い、
+　万全の準備をしましたが、…それでも心配です」
+> CONTEXT: Map142/events/14/pages/0/14/Dialogue
+「Of course, I also hire a number of skilled adventurers,
+I prepared everything, but ... I am still worried」#MTLed
+> END STRING
+
+> BEGIN STRING
+「果たして私の夫は、選ばれた適格者というだけで、
+　下級淫魔と一度も戦わずに勝利出来るほど、
+　淫女王というのは、弱い存在なのでしょうか？」
+> CONTEXT: Map142/events/14/pages/0/17/Dialogue
+「In fact my husband is simply a qualified person who is
+elected, To the extent that you can win without lower
+fighting fighting, Is it a weak existence that the King of
+Nymphs is?」#MTLed
+> END STRING

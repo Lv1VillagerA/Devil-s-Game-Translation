@@ -1,0 +1,118 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「家族が多いと食事を作るのも大変です」
+> CONTEXT: Map158/events/4/pages/0/6/Dialogue
+「It is hard to make meals when there are many families」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こういう手間は、
+　魔法が使えてもあまり変わりませんね」
+> CONTEXT: Map158/events/4/pages/0/8/Dialogue
+「In this way, Even if magic can be used, it does not
+change very much」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでも魔法道具の普及で、
+　昔と比べれば格段に楽になりましたけど」
+> CONTEXT: Map158/events/4/pages/0/11/Dialogue
+「Still with the spread of magic tools, Although it became
+much easier compared to the past」#MTLed
+> END STRING
+
+> BEGIN STRING
+「さてと、夫の料理には隠し味の興奮剤をっと、
+　パラパラ～…今日の夜も頑張ってもらわないとね」
+> CONTEXT: Map158/events/4/pages/0/14/Dialogue
+「Well, husband 's dish had a hidden taste stimulant,
+Parapara ~ ... I must do my best this evening」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ママのご飯美味しくて大好きだよ！
+　早く出来ないかな～」
+> CONTEXT: Map158/events/5/pages/0/6/Dialogue
+「Mama's rice It is tasty and I love you!
+I wonder if I can do it soon ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もうっ！　少しは大人しく待てないのかしら？」
+> CONTEXT: Map158/events/6/pages/0/6/Dialogue
+「Already! I wonder if I can wait a little more adultly?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「将来立派な魔法使いになるためには、食事に関しても、
+　常に落ち着きを持たなくてはいけない…って、
+　ママが言ってたわよ！」
+> CONTEXT: Map158/events/6/pages/0/8/Dialogue
+「In order to be a wise wizard in the future,
+Always have to have calm ... ..., Mommy was saying!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやはや、家の子たちが騒がしくてすいませんね」
+> CONTEXT: Map158/events/7/pages/0/6/Dialogue
+「No, I am sorry that the boys are noisy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「実は私、大きな声では言えませんが、
+　昔は奴隷だったのですよ」
+> CONTEXT: Map158/events/7/pages/0/8/Dialogue
+「Actually, I can not say it with a loud voice,
+It used to be a slave in the past」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私が奴隷市で売られている所をたまたま、
+　優秀な魔法使いである妻に一目惚れされましてね」
+> CONTEXT: Map158/events/7/pages/0/11/Dialogue
+「It happens that I am sold in a slave city,
+Love at first sight to his wife, an excellent wizard」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私自身には魔法の力はありませんがね。
+　それが今では二人の子供が生まれ、
+　両方共魔力を秘めていましたし、一安心ですよ」
+> CONTEXT: Map158/events/7/pages/0/14/Dialogue
+「I myself have no power of magic. It is now that two
+children were born, Both of them kept magical powers, I am
+relieved」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ魔法使いでない私が大人しくしていれば、
+　そこまで波風は立ちませんし、
+　この町で暮らすのも案外悪くないですよ」
+> CONTEXT: Map158/events/7/pages/0/18/Dialogue
+「Well it's not a wizard If I keep quiet,
+There is no waving wind there, It is surprisingly bad to
+live in this town」#MTLed
+> END STRING
+
+> BEGIN STRING
+棚の隅には夜の営み用の道具がいくつか見える。
+> CONTEXT: Map158/events/8/pages/1/6/Dialogue
+> CONTEXT: Map158/events/9/pages/1/6/Dialogue
+In the corner of the shelf you can see some tools for
+nightly activities.#MTLed
+> END STRING
+
+> BEGIN STRING
+病気や怪我の薬などに紛れて媚薬という文字が見え隠れする。
+> CONTEXT: Map158/events/10/pages/0/6/Dialogue
+> CONTEXT: Map158/events/11/pages/0/6/Dialogue
+The phrase "aphrodisiac" is distracted by diseases and
+medicine for injury, and it disappears.#MTLed
+> END STRING
+
+> BEGIN STRING
+調理器具が綺麗に収納されている。
+> CONTEXT: Map158/events/12/pages/0/6/Dialogue
+> CONTEXT: Map158/events/13/pages/0/6/Dialogue
+The cooking utensils are stored neatly.#MTLed
+> END STRING

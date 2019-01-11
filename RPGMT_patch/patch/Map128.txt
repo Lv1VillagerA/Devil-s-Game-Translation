@@ -1,0 +1,78 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大森林　境界の橋
+> CONTEXT: Map128/display_name/
+Bridge of large forest boundary#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]…あれ？　おかしいなぁ\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/9/Dialogue
+\\C[29]「\\C[0]…that?It's strange.\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どうしたんだ？　\\N[6]\\C[1]」
+> CONTEXT: Map128/events/7/pages/0/11/Dialogue
+\\C[1]「\\C[0]What happened?In case \\N[6]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]この先にはエルフの村を外界から隠すための、
+　強力な結界が張ってあるはずなんだけど\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/13/Dialogue
+\\C[29]「\\C[0]Beyond this is to hide the village of the elves from the
+outside world, It should have a strong barrier\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]何というか…今はその魔力を、
+　全く感じないの\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/16/Dialogue
+\\C[29]「\\C[0]What is that ... now that magical power,
+I do not feel it at all.\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[6]ちゃんが帰って来るのを察知して、
+　結界を解除してくれたのではありませんの？」
+> CONTEXT: Map128/events/7/pages/0/19/Dialogue
+「\\N[6] Knowing that chan will come back,
+You did not cancel the barrier?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それはないと思うけどなぁ。
+　だって私、村の皆に嫌われてたし…\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/24/Dialogue
+\\C[29]「\\C[0]I do not think that's it. 'Cause I was being hated by
+everyone in the village ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それに人間や魔物は問答無用で弾かれるけど、
+　エルフの私なら解除しなくても、
+　難なく素通り出来るしね\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/28/Dialogue
+\\C[29]「\\C[0]Besides, humans and demons are played without asking
+questions, Even if I do not cancel it, I can go through
+without difficulty\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「なるほど…どちらにせよ、
+　こうなったら直接エルフの村に行き、
+　確認するしかありませんわね」
+> CONTEXT: Map128/events/7/pages/0/32/Dialogue
+「I see ... in either case, In that case, I went directly
+to the village of elves, There is no choice but to confirm」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そうだな。
+　とにかく今は褐色の淫魔に追いつき、倒すのが先だ。
+　考えるのは後回しにしよう\\C[1]」
+> CONTEXT: Map128/events/7/pages/0/37/Dialogue
+\\C[1]「\\C[0]... That's right. Anyway, now it is time to catch up with
+brown devil and destroy it. Let's think about to postpone\\C[1]」#MTLed
+> END STRING

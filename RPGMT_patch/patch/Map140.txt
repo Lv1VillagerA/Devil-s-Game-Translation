@@ -1,0 +1,192 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+冒険者ギルド
+> CONTEXT: Map140/display_name/
+> CONTEXT: Map131/display_name/
+> CONTEXT: Map117/display_name/
+> CONTEXT: Map108/display_name/
+> CONTEXT: Map100/display_name/
+> CONTEXT: Map081/display_name/
+> CONTEXT: Map069/display_name/
+Adventurer Guild#MTLed
+> END STRING
+
+> BEGIN STRING
+「冒険者ギルドに何か用か？
+　依頼の斡旋からここ最近の情報や宿泊まで、
+　うちは幅広くやってるよ」現在 \\V[1] 魔貨
+> CONTEXT: Map140/events/1/pages/0/17/Dialogue
+> CONTEXT: Map131/events/1/pages/0/17/Dialogue
+> CONTEXT: Map117/events/1/pages/0/17/Dialogue
+> CONTEXT: Map108/events/1/pages/0/17/Dialogue
+> CONTEXT: Map100/events/1/pages/0/17/Dialogue
+> CONTEXT: Map081/events/1/pages/0/17/Dialogue
+> CONTEXT: Map069/events/1/pages/0/17/Dialogue
+> CONTEXT: Map044/events/1/pages/0/17/Dialogue
+「Is it for something for the adventurer guild?
+From the request mediation to the recent information and
+accommodation, My house is doing a lot」Current \\V[1] Witch#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼を受けたい
+> CONTEXT: Map140/events/1/pages/0/21/Choice/0
+> CONTEXT: Map131/events/1/pages/0/21/Choice/0
+> CONTEXT: Map117/events/1/pages/0/21/Choice/0
+> CONTEXT: Map108/events/1/pages/0/21/Choice/0
+> CONTEXT: Map100/events/1/pages/0/21/Choice/0
+> CONTEXT: Map081/events/1/pages/0/21/Choice/0
+> CONTEXT: Map069/events/1/pages/0/21/Choice/0
+> CONTEXT: Map044/events/1/pages/0/21/Choice/0
+I want to receive a request#MTLed
+> END STRING
+
+> BEGIN STRING
+情報を聞きたい
+> CONTEXT: Map140/events/1/pages/0/21/Choice/1
+> CONTEXT: Map131/events/1/pages/0/21/Choice/1
+> CONTEXT: Map117/events/1/pages/0/21/Choice/1
+> CONTEXT: Map108/events/1/pages/0/21/Choice/1
+> CONTEXT: Map100/events/1/pages/0/21/Choice/1
+> CONTEXT: Map081/events/1/pages/0/21/Choice/1
+> CONTEXT: Map069/events/1/pages/0/21/Choice/1
+> CONTEXT: Map044/events/1/pages/0/21/Choice/1
+I want to hear information#MTLed
+> END STRING
+
+> BEGIN STRING
+泊まる　\\V[2]魔貨※宝復活
+> CONTEXT: Map140/events/1/pages/0/21/Choice/2
+> CONTEXT: Map131/events/1/pages/0/21/Choice/2
+> CONTEXT: Map117/events/1/pages/0/21/Choice/2
+> CONTEXT: Map108/events/1/pages/0/21/Choice/2
+> CONTEXT: Map100/events/1/pages/0/21/Choice/2
+> CONTEXT: Map081/events/1/pages/0/21/Choice/2
+> CONTEXT: Map069/events/1/pages/0/21/Choice/2
+> CONTEXT: Map044/events/1/pages/0/21/Choice/2
+stay \\V[2] Magical coin * treasure resurrection#MTLed
+> END STRING
+
+> BEGIN STRING
+「酒場にいた冒険者の連中は皆、
+　西に建つ封印の塔に行ったよ」
+> CONTEXT: Map140/events/1/pages/0/29/Dialogue
+「Everyone of the adventurers who were in the bar,
+I went to the seal tower to be built in the west」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何でも淫女王を倒して、一山当てるとか何とか。
+　おこぼれ狙いの連中も、かなりの数いたね」
+> CONTEXT: Map140/events/1/pages/0/32/Dialogue
+「Everything knocks down the horny king and puts a mountain
+or something. There were quite a few people who wanted to
+spill them」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ天啓を受けてない冒険者が殆どだったけど、
+　あれだけの人数が淫女王の討伐に向かったんだ。
+　もう片付いてるんじゃないかな？」
+> CONTEXT: Map140/events/1/pages/0/35/Dialogue
+「Well, most of the adventurers did not receive Tenshi,
+That number of people headed for the suppression of the
+lady king. I guess she has already gotten along yet?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ところでお二人さんは何か飲んでいくかい？
+　ちなみにうちは、宿泊もやってるよ」
+> CONTEXT: Map140/events/1/pages/0/39/Dialogue
+「By the way, do you drink something? By the way, we also
+have accommodation」#MTLed
+> END STRING
+
+> BEGIN STRING
+「残念だが、魔貨が足りないよ」
+> CONTEXT: Map140/events/1/pages/0/48/Dialogue
+> CONTEXT: Map131/events/1/pages/0/41/Dialogue
+> CONTEXT: Map117/events/1/pages/0/83/Dialogue
+> CONTEXT: Map108/events/1/pages/0/66/Dialogue
+> CONTEXT: Map100/events/1/pages/0/59/Dialogue
+> CONTEXT: Map081/events/1/pages/0/76/Dialogue
+> CONTEXT: Map069/events/1/pages/0/57/Dialogue
+> CONTEXT: Map044/events/1/pages/0/57/Dialogue
+「Sorry, I do not have enough money」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃ、ゆっくり休んでいきな」
+> CONTEXT: Map140/events/1/pages/0/56/Dialogue
+> CONTEXT: Map131/events/1/pages/0/49/Dialogue
+> CONTEXT: Map117/events/1/pages/0/91/Dialogue
+> CONTEXT: Map108/events/1/pages/0/74/Dialogue
+> CONTEXT: Map100/events/1/pages/0/67/Dialogue
+> CONTEXT: Map081/events/1/pages/0/84/Dialogue
+> CONTEXT: Map069/events/1/pages/0/65/Dialogue
+> CONTEXT: Map044/events/1/pages/0/65/Dialogue
+「Well then, I will take a good rest」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ、ゆっくりしていきな」
+> CONTEXT: Map140/events/1/pages/0/75/Dialogue
+> CONTEXT: Map131/events/1/pages/0/68/Dialogue
+> CONTEXT: Map117/events/1/pages/0/110/Dialogue
+> CONTEXT: Map108/events/1/pages/0/93/Dialogue
+> CONTEXT: Map100/events/1/pages/0/86/Dialogue
+> CONTEXT: Map081/events/1/pages/0/103/Dialogue
+> CONTEXT: Map069/events/1/pages/0/84/Dialogue
+> CONTEXT: Map044/events/1/pages/0/84/Dialogue
+「Well, go slowly」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ、君の受けられるような依頼は……今はないな」
+> CONTEXT: Map140/events/1/pages/2/344/Dialogue
+> CONTEXT: Map131/events/1/pages/2/344/Dialogue
+> CONTEXT: Map117/events/1/pages/2/344/Dialogue
+> CONTEXT: Map108/events/1/pages/2/344/Dialogue
+> CONTEXT: Map100/events/1/pages/2/344/Dialogue
+> CONTEXT: Map081/events/1/pages/2/344/Dialogue
+> CONTEXT: Map069/events/1/pages/2/346/Dialogue
+> CONTEXT: Map044/events/1/pages/2/344/Dialogue
+「Hmm, the request that you can accept ... ... It is not now
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+高級そうなワインが綺麗に収納されている。
+> CONTEXT: Map140/events/10/pages/0/6/Dialogue
+> CONTEXT: Map140/events/11/pages/0/6/Dialogue
+> CONTEXT: Map140/events/18/pages/0/6/Dialogue
+The fine wine is stored neatly.#MTLed
+> END STRING
+
+> BEGIN STRING
+美しい花が陽の光を浴びている。
+> CONTEXT: Map140/events/12/pages/0/6/Dialogue
+Beautiful flowers are taking the sunlight.#MTLed
+> END STRING
+
+> BEGIN STRING
+鉢植えの植物が陽の光を浴びている。
+> CONTEXT: Map140/events/13/pages/0/6/Dialogue
+> CONTEXT: Map140/events/14/pages/0/6/Dialogue
+Potted plants are bathed in sunlight.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法に関する入門書がずらりと並んでいる。
+> CONTEXT: Map140/events/15/pages/0/6/Dialogue
+> CONTEXT: Map140/events/16/pages/0/6/Dialogue
+> CONTEXT: Map140/events/17/pages/0/6/Dialogue
+Introductory books on magic are lined up.#MTLed
+> END STRING
+
+> BEGIN STRING
+古いピアノだが、頻繁に手入れされているようだ。
+> CONTEXT: Map140/events/19/pages/0/6/Dialogue
+It is an old piano, but it seems to be frequently
+maintained.#MTLed
+> END STRING

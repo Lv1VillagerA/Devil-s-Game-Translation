@@ -1,0 +1,32 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]それって、精神と時の…\\C[1]」
+> CONTEXT: Map060/events/2/pages/0/20/Dialogue
+\\C[1]「\\C[0]It's a spirit and time ...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それ以上、言わせませんわ！
+　とにかくこの空間なら、
+　\\N[1]の性的能力のレベルアップが可能ですわよ」
+> CONTEXT: Map060/events/2/pages/0/22/Dialogue
+「I will not say it any more! Anyway in this space,
+In case \\N[1] You can upgrade your sexual ability
+level」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まだ目覚めていない\\N[1]の性的能力を、
+　覚醒させる行為ですわね」
+> CONTEXT: Map060/events/2/pages/0/38/Dialogue
+「I have not woken up yet. \\N[1] The sexual ability,
+It's an awakening act」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そこの青い玉に手を触れれば、
+　\\N[1]の力を引き出せますわよ」
+> CONTEXT: Map060/events/2/pages/0/52/Dialogue
+「If you touch the blue ball there, In case \\N[1] You
+can draw out the power of」#MTLed
+> END STRING

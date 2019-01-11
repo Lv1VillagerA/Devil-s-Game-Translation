@@ -1,0 +1,445 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ここ最近のことなのだが、町の皆の様子が何かおかしいんだ」
+> CONTEXT: Map081/events/1/pages/0/30/Dialogue
+「Something is wrong with everyone in the town as it is
+recently」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何というか…性に対して妙に寛容というか。
+　いや違うな。歯止めが効かなくなっているようだ」
+> CONTEXT: Map081/events/1/pages/0/32/Dialogue
+「What ... is it strangely tolerant to sex?
+No, it is not. The pawl seems to stop working」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今のところはこの町だけだが、
+　原因がわからない以上、
+　外に広がる可能性もあるから、非常に厄介な問題だよ」
+> CONTEXT: Map081/events/1/pages/0/35/Dialogue
+「For now it's only this town, I do not know the cause,
+Because there is a possibility of spreading out, it is a
+very troublesome problem」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちなみに黒い屋根の家の人が、
+　この異変に最初に気づいたらしいよ」
+> CONTEXT: Map081/events/1/pages/0/39/Dialogue
+「By the way, a person with a black roof house,
+It seems she first noticed this incident」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おかげで町の皆は元に戻ったが、
+　まだ解決してない問題があるんだ」
+> CONTEXT: Map081/events/1/pages/0/45/Dialogue
+「Thanks to everyone in the town we returned,
+There are problems that have not been solved yet」#MTLed
+> END STRING
+
+> BEGIN STRING
+「海に出るための唯一の街道に、山賊が陣取ってね。
+　行商人の連中は皆立ち往生中ってわけだ」
+> CONTEXT: Map081/events/1/pages/0/48/Dialogue
+「Bandits came up on the only road to get to the sea.
+All the peddler's people are stuck」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一応大木や岩はどかして通れるようにはしたが、
+　相手はただの山賊ではないらしい」
+> CONTEXT: Map081/events/1/pages/0/51/Dialogue
+「For once, I tried to pass big trees and rocks through,
+The other party seems to be not just a bandit」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔化した山賊が相手じゃ、
+　どんなに熟練の魔法使いや戦士だとしても、
+　簡単にはいかないからね…はぁ、頭が痛いよ」
+> CONTEXT: Map081/events/1/pages/0/54/Dialogue
+「The opponent who made a fantasy is an opponent,
+No matter how skilled wizards or warriors are,
+It will not be easy, right ... well, my head hurts」#MTLed
+> END STRING
+
+> BEGIN STRING
+「山賊連中が何とかなったおかげで、
+　また街道を通って品物が届くようになったよ」
+> CONTEXT: Map081/events/1/pages/0/60/Dialogue
+「Thanks to the bandits getting through, Also the goods
+came to be delivered through the highway」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おかげで良い酒が飲めるってもんだ。
+　いやぁ…君たちのおかげだね！　ありがとう！」
+> CONTEXT: Map081/events/1/pages/0/63/Dialogue
+「Thanks to that I can drink good sake. Wow ... thanks to
+you guys! Thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+様々な洋酒が綺麗に並べられている。
+> CONTEXT: Map081/events/11/pages/0/6/Dialogue
+> CONTEXT: Map081/events/12/pages/0/6/Dialogue
+Various kinds of liquors are beautifully lined up.#MTLed
+> END STRING
+
+> BEGIN STRING
+酒やツマミに関する本が並んでいる。
+> CONTEXT: Map081/events/13/pages/0/6/Dialogue
+> CONTEXT: Map081/events/14/pages/0/6/Dialogue
+Books about sake and knobs line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+「山奥の村にしろこの町にしろ、
+　淫魔が餌に出来る人の数は、
+　外の町よりも遥かに少ないからな」
+> CONTEXT: Map081/events/15/pages/0/6/Dialogue
+「Do it in a mountain village or in this town,
+The number of people the bastard can feed,
+It's far less than outside town.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかしそれでも、
+　最近は淫魔の数が明らかに増え、
+　町のすぐ外にまで現れ始めたようだ」
+> CONTEXT: Map081/events/15/pages/0/10/Dialogue
+「However, Recently the number of 淫 魔 has increased clearly,
+It seems that it began to appear just outside the town」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こうして実際に被害が出た以上、
+　自警団長としては、
+　それ相応の対応をしなければな」
+> CONTEXT: Map081/events/15/pages/0/14/Dialogue
+「As a result of actual damage, As vice-police headmaster,
+I have to take appropriate measures」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…この間、
+　共闘してた彼女が淫魔にイかされちゃってさぁ。
+　いやぁ参ったよ」
+> CONTEXT: Map081/events/16/pages/0/7/Dialogue
+「Huh ... During this time, She was fighting in a fight and
+she got it done by a bad guy. Well, I thought.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「敵の敵は味方と言うやつか。
+　淫魔と結託して突然俺に襲いかかってきてね」
+> CONTEXT: Map081/events/16/pages/0/11/Dialogue
+「The enemy 's enemy is called a friend. Suddenly attacking
+me by collusion with a loser」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろ目の前の彼女は、能力的に俺と同格なんだぜ。
+　淫魔だけでも厄介なのに、
+　俺の弱点知り尽くした、恐ろしい彼女が…ね」
+> CONTEXT: Map081/events/16/pages/0/14/Dialogue
+「She is in the same capacity as me before and behind me.
+Even though it is troublesome only by a bad guy,
+A terrible girlfriend who knows my weak point ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おまけに淫魔化により、
+　性的攻撃力が上昇していたんだぜ？
+　奇跡的に勝てて良かったよ…いや、本当にね」
+> CONTEXT: Map081/events/16/pages/0/18/Dialogue
+「As a bona fide addition, Sexual attack power was rising?
+It was good that I could win a miracle ... No, really.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「状態異常を防ぐ特技を覚えたからといって、
+　必ず防げるわけではないぞ」
+> CONTEXT: Map081/events/17/pages/0/6/Dialogue
+「Just because I remember a special skill to prevent
+condition abnormalities, You can not necessarily prevent it
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「例えばイきそう２０％を一つと、
+　イきそう４０％を二つ覚えているとするが」
+> CONTEXT: Map081/events/17/pages/0/9/Dialogue
+「For example, with 20% one seems to be good,
+Let's say that you remember two 40%」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この場合はまずイきそうを２０％で防ぎ、
+　防げなかった場合は、４０％でまた防ぐ、
+　さらに防げなかった場合はもう一度４０％で防ぐのだ」
+> CONTEXT: Map081/events/17/pages/0/12/Dialogue
+「In this case 20% will prevent it first,
+If you can not prevent it, it will also prevent at 40%
+If you can not prevent further, prevent 40% again」#MTLed
+> END STRING
+
+> BEGIN STRING
+「つまり確率的には１００％を越えていても、
+　判定はそのつど行われるために、
+　絶対に防げるわけではないというわけだ」
+> CONTEXT: Map081/events/17/pages/0/16/Dialogue
+「In other words, even if it exceeds 100% probabilistically,
+For each decision to be made, It is not absolutely
+preventable」#MTLed
+> END STRING
+
+> BEGIN STRING
+「って…俺は何を言ってるんだ？」
+> CONTEXT: Map081/events/17/pages/0/20/Dialogue
+「What ... What am I talking about?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやはや困ったよ。
+　この先の街道に山賊が現れたようで、
+　大木や岩で道が塞がれてしまってね」
+> CONTEXT: Map081/events/18/pages/0/6/Dialogue
+「No, I was in trouble. It seems that bandits appeared in
+the road ahead, The road is blocked with big trees and
+rocks」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まっ…モノは数日もあればどかせるらしいが、
+　問題の山賊を何とかしない限り、
+　行商人の私たちは、いつまでも立ち往生だよ」
+> CONTEXT: Map081/events/18/pages/0/10/Dialogue
+「Wait ... thing seems to go somewhere if there are several
+days, Unless you manage a bandit of problems,
+We are stuck forever, our peddler」#MTLed
+> END STRING
+
+> BEGIN STRING
+「へぇ…花の泉の淫魔を…倒したって？
+　そりゃすごい！」
+> CONTEXT: Map081/events/18/pages/1/6/Dialogue
+「Wow ... you bastard flower fountains ... you knocked down?
+That's awesome!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやぁ！　君たちを私の専属護衛団として、
+　正式に雇いたいぐらいだよ！」
+> CONTEXT: Map081/events/18/pages/1/9/Dialogue
+「Well! You guys as my exclusive escort team,
+I want to officially hire you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でもいくら君たちが強くても、
+　峠の山賊連中には歯がたたないだろうね」
+> CONTEXT: Map081/events/18/pages/1/12/Dialogue
+「But how much are you guys, The bandits in the pass will
+not have teeth」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら街道を塞いでいた木や岩をどかしても、
+　山賊が陣取っていちゃぁね。
+　はぁ…本当にいつになったら通れるやら」
+> CONTEXT: Map081/events/18/pages/1/15/Dialogue
+「Even if you turn trees and rocks that were blocking the
+highway, Bandits are crowded. Haa ... I guess when I really
+can go」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええっ！　今度は山賊連中も倒したって？」
+> CONTEXT: Map081/events/18/pages/2/6/Dialogue
+「What! Next time you killed bandits too?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやぁもう…言葉もないとはこのことだよ」
+> CONTEXT: Map081/events/18/pages/2/8/Dialogue
+「Well ... it is this that it has no words」#MTLed
+> END STRING
+
+> BEGIN STRING
+「通れるようになった所で悪いんだけど、
+　結局この町に住むことにしたんだよ」
+> CONTEXT: Map081/events/18/pages/2/10/Dialogue
+「I am bad at places where I can pass, After all I decided
+to live in this town」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁアレだ。愛着がわいたというか。
+　ずっと足止めされてたせいで、
+　この町の人たちとも、すっかり顔なじみだしね！」
+> CONTEXT: Map081/events/18/pages/2/13/Dialogue
+「Well it is. I say that I love you. Because of being stuck
+all the way, Everyone in this town is quite familiar!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやはや、君たちにはすまないが！
+　そういうわけなんだよ！」
+> CONTEXT: Map081/events/18/pages/2/17/Dialogue
+「No, I'm sorry about you! That's why!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「せっかく花の泉を見るために訪れたのに、
+　そちらには淫魔が現れ、
+　仕方ないので戻ろうとしても、大木で道を塞がれ立ち往生」
+> CONTEXT: Map081/events/19/pages/0/6/Dialogue
+「Although I visited to see the spring of flowers,
+A fantasy appeared there, Even if I tried to go back
+because it was useless, the road was blocked by a big tree
+and stuck」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…まさに八方塞がりですね。
+　とはいえ、私は魔法都市で旦那様に買われた身ですし、
+　黙って付いていく他はありませんが」
+> CONTEXT: Map081/events/19/pages/0/10/Dialogue
+「Haa ... it is exactly eight obstructions.
+Nonetheless, I am a magical city bought by my husband,
+There is no other thing that keeps silent」#MTLed
+> END STRING
+
+> BEGIN STRING
+「花の泉の淫魔を倒されたのですか？
+　それはすごいですね」
+> CONTEXT: Map081/events/19/pages/1/6/Dialogue
+「Have you been beaten the flower fountain?
+That is amazing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とはいえ、旦那様がここを動かないと言うなら、
+　奴隷の私も動くわけにはいきません」
+> CONTEXT: Map081/events/19/pages/1/9/Dialogue
+「However, if my husband says that he will not move here,
+I can not move slaves as well」#MTLed
+> END STRING
+
+> BEGIN STRING
+「結局旦那様は、
+　この町に留まることを決めたようですね」
+> CONTEXT: Map081/events/19/pages/2/6/Dialogue
+「In the end my husband said, You seem to have decided to
+stay in this town」#MTLed
+> END STRING
+
+> BEGIN STRING
+「年をとると行商も辛くなるようですし、
+　この辺りが潮時ということです」
+> CONTEXT: Map081/events/19/pages/2/9/Dialogue
+「It seems that peddling becomes painful when getting older,
+This is the time around tide」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろん私は奴隷ですので、
+　旦那様が逝くまでは、最後までお付き合いしますよ」
+> CONTEXT: Map081/events/19/pages/2/12/Dialogue
+「Of course I am a slave, Until my husband dies, I'll keep
+on till the end」#MTLed
+> END STRING
+
+> BEGIN STRING
+「女冒険者だからって、
+　男よりも弱いと舐めてもらっちゃ困るわね！」
+> CONTEXT: Map081/events/20/pages/0/7/Dialogue
+「Because it is a female adventurer, If you are weaker than
+a man you will not want to lick it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔相手に一歩も引かず、
+　戦い抜いてみせるんだからね！」
+> CONTEXT: Map081/events/20/pages/0/10/Dialogue
+「I will not draw a step to the opponent,
+I will fight the battle!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でももしもイかされちゃったら、
+　目の前の男に襲いかかっちゃうから、
+　その点には注意してよね！」
+> CONTEXT: Map081/events/20/pages/0/13/Dialogue
+「But if I did it, I will attack the man in front of me,
+Be careful with that!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「エルフの嬢ちゃんを上手く使うコツは、
+　アンタよりも育て過ぎないことだ」
+> CONTEXT: Map081/events/21/pages/0/7/Dialogue
+「The trick to successfully use Elves'. It is not to grow
+too much than you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう、まずはサポート要員として使うことだ。
+　嬢ちゃんの攻撃、防御、道具、抵抗、行動、運を、
+　そのままアンタに上乗せしてくれるからな」
+> CONTEXT: Map081/events/21/pages/0/10/Dialogue
+「Yes, to start with as a support person.
+Lady's attack, defense, tools, resistance, behavior, luck,
+I will just add it to you as it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+「さらに、行動選択ごとに、
+　精力と理性をパートナーのレベルに応じて、
+　回復してくれるからな」
+> CONTEXT: Map081/events/21/pages/0/14/Dialogue
+「Furthermore, for each behavior selection,
+According to partner's level of energy and reason,
+I will recover.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「残念ながら精力と理性、特技までは上乗せされないが、
+　嬢ちゃんを、いきなり淫魔討伐に参加させても、
+　良い結果は望めないぜ？」
+> CONTEXT: Map081/events/21/pages/0/18/Dialogue
+「Unfortunately I can not add power and reason, up to feats,
+Even if you let her take part in sudden defeat suddenly,
+I can not hope for good results.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔の次の行動が通常攻撃だと思っても、
+　油断しては駄目よ」
+> CONTEXT: Map081/events/22/pages/0/7/Dialogue
+「Even though I think that the next action of the bastard
+is a normal attack, Do not be discouraged.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに受ける快感は少ないかもしれないけど、
+　一定の確率で状態異常にされてしまうからね」
+> CONTEXT: Map081/events/22/pages/0/10/Dialogue
+「There may be less pleasure received indeed,
+It will be conditionally abnormal with a certain
+probability」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁそれでも、必殺や連携よりはマシなんだけど、
+　本当に戦いでは何が起こるかわからないから、
+　油断出来ないわ」
+> CONTEXT: Map081/events/22/pages/0/13/Dialogue
+「Well, even though it is better than a deathbed or
+collaboration, I really do not know what will happen in the
+fight, I can not take care of it.」#MTLed
+> END STRING

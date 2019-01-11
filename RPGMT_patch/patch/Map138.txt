@@ -1,0 +1,78 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大聖堂　２Ｆ
+> CONTEXT: Map138/display_name/
+> CONTEXT: Map014/display_name/
+Cathedral 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+何処かで何かが動く音が聞こえた…。
+> CONTEXT: Map138/events/25/pages/0/20/Dialogue
+> CONTEXT: Map139/events/28/pages/0/20/Dialogue
+> CONTEXT: Map137/events/19/pages/0/20/Dialogue
+I heard something moving something ....#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔用の様々な道具が並んでいる。
+> CONTEXT: Map138/events/26/pages/1/7/Dialogue
+> CONTEXT: Map138/events/27/pages/1/7/Dialogue
+> CONTEXT: Map138/events/28/pages/0/7/Dialogue
+> CONTEXT: Map138/events/29/pages/0/7/Dialogue
+> CONTEXT: Map014/events/26/pages/1/7/Dialogue
+> CONTEXT: Map014/events/27/pages/1/7/Dialogue
+> CONTEXT: Map014/events/28/pages/0/7/Dialogue
+> CONTEXT: Map014/events/29/pages/0/7/Dialogue
+Various instruments for bad luck are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+天使への祈りに関する本が並んでいる。
+> CONTEXT: Map138/events/30/pages/0/7/Dialogue
+> CONTEXT: Map138/events/31/pages/0/7/Dialogue
+> CONTEXT: Map137/events/24/pages/0/7/Dialogue
+> CONTEXT: Map137/events/25/pages/0/7/Dialogue
+> CONTEXT: Map013/events/24/pages/0/7/Dialogue
+> CONTEXT: Map013/events/25/pages/0/7/Dialogue
+> CONTEXT: Map014/events/30/pages/0/7/Dialogue
+> CONTEXT: Map014/events/31/pages/0/7/Dialogue
+Books on angel prayers line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔の危険性及びその対処についての本が並んでいる。
+> CONTEXT: Map138/events/33/pages/0/7/Dialogue
+> CONTEXT: Map138/events/34/pages/0/7/Dialogue
+> CONTEXT: Map014/events/33/pages/0/7/Dialogue
+> CONTEXT: Map014/events/34/pages/0/7/Dialogue
+Books about the dangers of deceit and their coping are
+lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+シスターが身につける法衣がしまわれている。
+> CONTEXT: Map138/events/35/pages/0/7/Dialogue
+> CONTEXT: Map138/events/36/pages/0/7/Dialogue
+> CONTEXT: Map014/events/35/pages/0/7/Dialogue
+> CONTEXT: Map014/events/36/pages/0/7/Dialogue
+The gown worn by Sister is gone.#MTLed
+> END STRING
+
+> BEGIN STRING
+清らかな水が入った小瓶がたくさん並んでいる。
+> CONTEXT: Map138/events/37/pages/0/7/Dialogue
+> CONTEXT: Map138/events/38/pages/0/7/Dialogue
+> CONTEXT: Map014/events/37/pages/0/7/Dialogue
+> CONTEXT: Map014/events/38/pages/0/7/Dialogue
+A lot of small bottles containing pure water are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+布教用の教本などがしまわれている。
+> CONTEXT: Map138/events/39/pages/0/7/Dialogue
+> CONTEXT: Map138/events/40/pages/0/7/Dialogue
+> CONTEXT: Map014/events/39/pages/0/7/Dialogue
+> CONTEXT: Map014/events/40/pages/0/7/Dialogue
+Textbooks for propagation and the like are stolen.#MTLed
+> END STRING

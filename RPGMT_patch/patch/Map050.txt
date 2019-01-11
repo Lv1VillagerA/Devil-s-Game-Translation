@@ -1,0 +1,205 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+仲間の部屋
+> CONTEXT: Map050/display_name/
+Friend's Room#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]んっ…どうやら、
+　準備は整ったようだね\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/9/Dialogue
+\\C[29]「\\C[0]umph ... Apparently, It seems the preparation is ready\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+実は夢の中で天使に会った
+> CONTEXT: Map050/events/1/pages/0/12/Choice/0
+Actually I met an angel in my dream#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼の内容って何だっけ？
+> CONTEXT: Map050/events/1/pages/0/12/Choice/1
+What is the content of the request?#MTLed
+> END STRING
+
+> BEGIN STRING
+特に用はない
+> CONTEXT: Map050/events/1/pages/0/12/Choice/2
+There is no particular use#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]エルフの長老が聞かせてくれたお伽話にも、
+　天使と淫魔が出てきたから、
+　ただの夢じゃないかも知れないね\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/16/Dialogue
+\\C[29]「\\C[0]Even the fairy tale that the elder elders told us,
+Since angels and devils came out, It may not be just a
+dream\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっ…？　お伽話の内容？
+　うーん…私も聞いたのはかなり昔だから、
+　あまり詳しくは覚えてないんだけど\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/20/Dialogue
+\\C[29]「\\C[0]eh…? Contents of a fairy tale?
+Well ... I also heard it for quite a long time ago,
+I do not remember much details\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]人々の祈りの力で天使が呼び出されて、
+　色々あって淫魔の女王が倒された？……とかそんな感じで、
+　めでたしめでたし…だったような\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/24/Dialogue
+\\C[29]「\\C[0]Angel is called by the power of people's prayers,
+Have you been killed by the Queen of the Demon Lady? ... or
+something like that, Happy Happy New Year ... like it was\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うーん、長老に聞けばもう少し詳しくわかりそうだけど\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/30/Dialogue
+\\C[29]「\\C[0]Well, if I ask the elders I will understand a bit more\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そんなことより、
+　今は依頼を達成して報酬を得ることが大事だよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/32/Dialogue
+\\C[29]「\\C[0]From such a thing, Now it's important to achieve rewards
+and earn rewards\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]村のはずれにある、
+　古びた鉱山跡の調査だよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/37/Dialogue
+\\C[29]「\\C[0]In the outskirts of the village,
+It's an investigation of old mine traces\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]使われなくなった今も、
+　毎年定期的に調査だけはしてたらしいんだけど\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/40/Dialogue
+\\C[29]「\\C[0]Even now that it is no longer used,
+Every year I only want to do research on a regular basis\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]数日前に坑道の奥に向かった調査団が、
+　誰一人帰って来なかったらしいんだよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/45/Dialogue
+\\C[29]「\\C[0]A group of investigators heading to the back of the
+tunnel a few days ago, It seems that no one came back.\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]魔物の巣になっている場合も考えて、
+　この辺りで腕利きの冒険者である私たちに、
+　調査及び捜索の依頼が回ってきたというわけだよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/48/Dialogue
+\\C[29]「\\C[0]Consider the case where it is becoming a monster nest,
+To us who are skilled adventurers around here,
+A request for investigation and search has come\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]フルプレートの鎧も装備したようだし、
+　これで万一鉱山が魔物の巣になっていても、
+　撃退出来そうだね\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/56/Dialogue
+\\C[29]「\\C[0]It seems to be equipped with a full plate armor,
+Even if the mine should be a monster nest by any chance,
+I guess I can repel\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ギルドで場所は聞いてるから、
+　さっそく向かおうよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/60/Dialogue
+\\C[29]「\\C[0]Because I heard the place by the guild,
+Let's head right at once.\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はぁ…やっぱり家でのんびりするのは良いね\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/9/Dialogue
+\\C[29]「\\C[0]Haa ... it's nice to take it easy at home\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あっ、そうそう。
+　私を加入させるかサポートを受けて淫魔と戦うと、
+　一戦闘ごとにＬｖ分のＳＰを使うから気をつけてね\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/11/Dialogue
+\\C[29]「\\C[0]Ah, . If you join me or support me and fight against my
+bastards, Be careful as you use SP for Lv for each battle\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あと炭鉱や診療所の淫魔、
+　あと上級淫魔相手に加入やサポート中のまま戦闘を行うと、
+　強制的に離脱状態になるから、注意するんだよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/15/Dialogue
+\\C[29]「\\C[0]In addition, coal mines and clinics'
+Afterwards if you join an opponent who is an advanced
+senior and do fighting while supporting it,
+I forcibly get out of the way, so be careful\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私も出来れば、
+　ずっと一緒に戦いたいんだけど、
+　淫魔化の呪いって、思ったよりも厄介だね\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/19/Dialogue
+\\C[29]「\\C[0]If I could, I want to fight forever,
+Curse of a harlotiser is more awkward than I thought\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[6]が数ヶ月分の依頼料を使い、購入したピアノだ。
+彼女の腕前はプロも認めるほど…らしい。
+> CONTEXT: Map050/events/10/pages/0/6/Dialogue
+\\N[6] It is a piano I purchased, using a request fee
+for several months. It seems that she can appreciate
+professional skills as well.#MTLed
+> END STRING
+
+> BEGIN STRING
+俺が\\N[6]の初の依頼成功記念として、
+花屋の店員に聞いて買い与えた花だ。
+もう数年以上大切に育てている。
+> CONTEXT: Map050/events/11/pages/0/6/Dialogue
+I \\N[6] In commemoration of the first request for
+success, A flower shop clerk asked and bought it for me.
+I have raised it carefully for several years.#MTLed
+> END STRING
+
+> BEGIN STRING
+色鮮やかな魔法薬などが、
+ラベル付きでわかりやすく並べられている。
+> CONTEXT: Map050/events/12/pages/1/6/Dialogue
+Colorful magical medicine, etc., It is easy to understand
+with labels.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法や薬草学…その他難しそうな本が隙間なく、
+綺麗に並べられている。
+> CONTEXT: Map050/events/13/pages/0/6/Dialogue
+> CONTEXT: Map050/events/14/pages/0/6/Dialogue
+Magic and herbage ... other books that seem to be difficult
+are gaps, It is lined up beautifully.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[6]の眠っているベッドだ。
+きちんとベッドメイキングされている。
+> CONTEXT: Map050/events/17/pages/0/6/Dialogue
+\\N[6] It's a sleeping bed. It is properly bed-made.#MTLed
+> END STRING

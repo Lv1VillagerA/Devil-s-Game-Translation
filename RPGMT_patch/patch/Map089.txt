@@ -1,0 +1,49 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+子供の服から大人の服まで幅広く揃っている。
+> CONTEXT: Map089/events/4/pages/1/7/Dialogue
+> CONTEXT: Map089/events/5/pages/1/7/Dialogue
+It has a wide range from children's clothing to adult's
+clothing.#MTLed
+> END STRING
+
+> BEGIN STRING
+調理用品がきちんと整理されている。
+> CONTEXT: Map089/events/6/pages/0/7/Dialogue
+The cooking utensils are neatly organized.#MTLed
+> END STRING
+
+> BEGIN STRING
+風邪薬から傷薬まで色々な薬がきちんと並べられている。
+> CONTEXT: Map089/events/9/pages/0/7/Dialogue
+> CONTEXT: Map089/events/10/pages/0/7/Dialogue
+Various medicines from cold medicine to wound medicine are
+neatly arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+「今まで下積みばかりだが、
+　最近ようやく親方の隣で、
+　木こりとして斧を振るうことを許されたんだ」
+> CONTEXT: Map089/events/11/pages/0/6/Dialogue
+「Although I have accumulated much money,
+Recently, next to the master, I was allowed to wax the ax
+as a lumberjacket」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし前までは実技さえ出来れば良いと思っていたが、
+　予想以上に知識も必要になるんだな」
+> CONTEXT: Map089/events/11/pages/0/10/Dialogue
+「Although I thought that it would be good if I could
+practice even before, You need knowledge beyond
+expectations」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今さら慌てるのもどうかと思うが、
+　現在必死に知識を蓄えてるよ」
+> CONTEXT: Map089/events/11/pages/0/13/Dialogue
+「I wonder how to panic right now, Currently desperately
+knowledge is accumulated」#MTLed
+> END STRING

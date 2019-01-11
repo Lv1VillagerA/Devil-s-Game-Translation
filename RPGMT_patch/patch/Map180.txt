@@ -1,0 +1,53 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]その考えが間違いだとわかったのは、
+　奴隷として売られる前日だった\\C[10]」
+> CONTEXT: Map180/events/4/pages/0/5/Dialogue
+\\C[10]「\\C[0]It turned out that the idea was wrong,
+It was the day before being sold as a slave\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]その日…奴隷商人の口から、
+　こう聞かされたんだ\\C[10]」
+> CONTEXT: Map180/events/4/pages/0/8/Dialogue
+\\C[10]「\\C[0]That day ... From the mouth of a slave merchant,
+This is what I was told\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あの後すぐ別のエルフも捕らえようと、
+　お前の村に向かったと\\C[10]」
+> CONTEXT: Map180/events/4/pages/0/11/Dialogue
+\\C[10]「\\C[0]In order to capture another elf soon afterwards,
+As I headed to your village\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]しかし、歩けど歩けど村には辿り着けず、
+　うっそうとした森を彷徨うばかり、
+　その時ようやく村を守る結界の存在に気づいた…とな\\C[10]」
+> CONTEXT: Map180/events/4/pages/0/14/Dialogue
+\\C[10]「\\C[0]However, walking on foot, you can not reach the village,
+I just wandered around a stormy forest, At that time I
+noticed the existence of the barrier to protect the village
+at last ...\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]結局エルフたちを捕らえるのは諦めたが、
+　お前の仲間たちは村を守るのに必死で、
+　奴隷となったお前を見捨てたんだ…と\\C[10]」
+> CONTEXT: Map180/events/4/pages/0/18/Dialogue
+\\C[10]「\\C[0]Eventually I gave up trying to capture the elves,
+Your colleague desperately to protect the village,
+He abandoned you who became slaves ... and\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]その後アタシは、とある王族に売られ、
+　毎日のように犯され続けることになったのだ\\C[10]」
+> CONTEXT: Map180/events/4/pages/0/28/Dialogue
+\\C[10]「\\C[0]After that, I was sold to a certain royal family,
+It was decided to continue being fucked like every day\\C[10]」#MTLed
+> END STRING

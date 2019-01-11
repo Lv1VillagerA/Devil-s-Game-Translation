@@ -1,0 +1,32 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+奴隷保管所
+> CONTEXT: Map161/display_name/
+Slave depository#MTLed
+> END STRING
+
+> BEGIN STRING
+「他の奴隷商人がエルフを捕らえようとして、
+　全滅したという話だ」
+> CONTEXT: Map161/events/4/pages/0/6/Dialogue
+「Other slave merchants trying to capture the elves,
+It was said that it was annihilated」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だから俺は、危険なエルフは避けて、
+　これからは聖職者の奴隷を売り出す予定だ」
+> CONTEXT: Map161/events/4/pages/0/9/Dialogue
+「So I avoid dangerous elves, From now on we are going to
+sell slaves of clergy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「エルフの長い耳はごまかしようがないが、
+　聖職者なんてそれっぽい服を着せて、
+　適当な祈りの言葉を教えれば、素人にはわかりゃしねえぜ」
+> CONTEXT: Map161/events/4/pages/0/12/Dialogue
+「Although elves' long ears can not be cheated,
+In clothes like those like clergy, If you teach the proper
+prayer words, amateurs will not understand it」#MTLed
+> END STRING

@@ -1,0 +1,67 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+調味料や食材が収納されている。
+> CONTEXT: Map065/events/4/pages/0/6/Dialogue
+Seasonings and ingredients are stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+「あら…この寝間着にもほつれが。
+　繕うのにも限度があるし、
+　そろそろ新しいのを一着か二着は買い揃えるべきですね」
+> CONTEXT: Map065/events/5/pages/0/6/Dialogue
+「Oh ... There is also fraying in this nightdress.
+There is also a limit to patting,
+It is time to buy one or two new ones」#MTLed
+> CONTEXT: Map065/events/5/pages/1/6/Dialogue
+「Oh ... There is also fraying in this nightdress.
+There is also a limit to patting, It is time to buy one or
+two new ones」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも行商人の人はいつ来るかわかりませんし、
+　何より売値も高いですから…困りましたね」
+> CONTEXT: Map065/events/5/pages/0/10/Dialogue
+> CONTEXT: Map065/events/5/pages/1/10/Dialogue
+「But I do not know when the peddler will come,
+The selling price is also higher than anything ... I was in
+trouble」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私も昔は診療所でナースとして働いていましたが、
+　まさか…そのようなことになっていたなんて」
+> CONTEXT: Map065/events/5/pages/1/13/Dialogue
+「I used to work as a nurse in the clinic in the past,
+No way ... I wonder how it was supposed to be like that」#MTLed
+> END STRING
+
+> BEGIN STRING
+調味料や食材、その他薬品が綺麗に整頓されている。
+> CONTEXT: Map065/events/6/pages/0/6/Dialogue
+Seasonings, ingredients, and other chemicals are neatly
+arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+食器類がキチッと並べられている。
+> CONTEXT: Map065/events/7/pages/0/6/Dialogue
+> CONTEXT: Map065/events/8/pages/0/6/Dialogue
+The dishes are lined with kitchen.#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な種類の本が、あいうえお順に並べられている。
+> CONTEXT: Map065/events/9/pages/0/6/Dialogue
+> CONTEXT: Map065/events/10/pages/0/6/Dialogue
+Various kinds of books are arranged in alphabetical order.#MTLed
+> END STRING
+
+> BEGIN STRING
+傷薬から媚薬まで幅広い薬が、収納されている。
+> CONTEXT: Map065/events/11/pages/1/6/Dialogue
+> CONTEXT: Map065/events/12/pages/1/6/Dialogue
+A wide range of medicines ranging from wound medicines to
+aphrodisiacs are stored.#MTLed
+> END STRING

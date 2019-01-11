@@ -1,0 +1,88 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+山奥の村
+> CONTEXT: Map061/display_name/
+Mountain village#MTLed
+> END STRING
+
+> BEGIN STRING
+「おや？
+　今日はエルフの\\N[6]ちゃんは一緒じゃないのかい？」
+> CONTEXT: Map061/events/25/pages/0/6/Dialogue
+「Oh? Today is Elf's \\N[6] Is not she with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この村はいつも通りだよ。
+　見回りの必要がないぐらい、何も起きないね」
+> CONTEXT: Map061/events/25/pages/0/9/Dialogue
+「This village is as usual. Nothing happens, as long as
+there is no need to look around」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最近村の外では淫魔だ何だって騒がしいけど、
+　ここには、何の影響もないだろうね」
+> CONTEXT: Map061/events/25/pages/0/12/Dialogue
+「It is noisy recently outside the village It is noisy,
+It will have no effect here」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やぁ\\N[6]ちゃん、今日も美人だね」
+> CONTEXT: Map061/events/25/pages/1/6/Dialogue
+「Hey \\N[6] It's beautiful today, is not it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうかな？　いい加減、
+　\\N[1]から私に乗り換えるというのは？」
+> CONTEXT: Map061/events/25/pages/1/8/Dialogue
+「How about?Lazily. In case \\N[1] Why do you switch to
+me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっと…だから私、
+　そんな気は全くないんだけど、
+　貴方も相当しつこいのね\\C[29]」
+> CONTEXT: Map061/events/25/pages/1/11/Dialogue
+\\C[29]「\\C[0]Er ... ... So I, I do not feel like that at all,
+You too are too persistent\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はははっ、打たれ強いのが長所だからね。
+　もし気が変わったら、いつでも告白して欲しいな」
+> CONTEXT: Map061/events/25/pages/1/15/Dialogue
+「Hahahahah, it is a strong point that it is strong.
+If you change your mind, I want you to confess anytime」#MTLed
+> END STRING
+
+> BEGIN STRING
+「……クゥーン……クゥーン」
+> CONTEXT: Map061/events/34/pages/0/6/Dialogue
+「...... Queen ...... Queen」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]確かこの犬は、\\N[6]に懐いていたっけ。
+　…待ってろよ。すぐにまた、会わせてやるからな\\C[1]」
+> CONTEXT: Map061/events/34/pages/0/8/Dialogue
+\\C[1]「\\C[0]Surely this dog, \\N[6] I was pretty familiar with it.
+... Please wait.I will see you again soon\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「キャンキャン！　キャンキャン！」
+> CONTEXT: Map061/events/34/pages/1/6/Dialogue
+「!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はいはい、また頭撫でて欲しいの？
+　よしよ～し\\C[29]」
+> CONTEXT: Map061/events/34/pages/1/8/Dialogue
+\\C[29]「\\C[0]Do you want me to crank again?
+All in all\\C[29]」#MTLed
+> END STRING

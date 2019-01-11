@@ -1,0 +1,82 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[1]のリセット＝初期ステータス、レベル１に戻します
+\\N[6]のリセット＝初期ステータス、レベル１に戻します
+> CONTEXT: Map001/events/2/pages/0/6/Dialogue
+\\N[1] Reset to initial status, level 1. \\N[6]
+Reset to initial status, level 1#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]のリセット
+> CONTEXT: Map001/events/2/pages/0/9/Choice/0
+\\N[1] Reset#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[6]のリセット
+> CONTEXT: Map001/events/2/pages/0/9/Choice/1
+\\N[6] Reset#MTLed
+> END STRING
+
+> BEGIN STRING
+レベルリセットはしない
+> CONTEXT: Map001/events/2/pages/0/9/Choice/2
+Level reset not done#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]のレベルが１になりました。
+> CONTEXT: Map001/events/2/pages/0/78/Dialogue
+\\N[1] The level of 1 has become.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[6]のレベルが１になりました。
+> CONTEXT: Map001/events/2/pages/0/140/Dialogue
+\\N[6] The level of 1 has become.#MTLed
+> END STRING
+
+> BEGIN STRING
+二周目特典としては、
+魔貨１００万とＳＰ１０万、消費アイテム各10個ずつ、
+全非強化装備を各1個ずつ、全称号を追加で入手済みです。
+それ以外の特典は一切ありませんので、ご注意を。
+> CONTEXT: Map001/events/3/pages/0/6/Dialogue
+On the second lap bonus, One million warrants and one
+hundred thousand SP, 10 each consumable item,
+All unreinforced equipments are obtained one by one, all
+titles have been added. There are no other benefits, so be
+careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+二周目を始める
+> CONTEXT: Map001/events/3/pages/0/11/Choice/0
+Beginning the second lap#MTLed
+> END STRING
+
+> BEGIN STRING
+止める
+> CONTEXT: Map001/events/3/pages/0/11/Choice/1
+stop#MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨とＳＰを何度でも、増やせます。
+> CONTEXT: Map001/events/9/pages/0/6/Dialogue
+You can increase the number of spells and SP for many
+times.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨とＳＰを増やす
+> CONTEXT: Map001/events/9/pages/0/8/Choice/0
+Increase witch and SP#MTLed
+> END STRING
+
+> BEGIN STRING
+増やさない
+> CONTEXT: Map001/events/9/pages/0/8/Choice/1
+Do not increase#MTLed
+> END STRING

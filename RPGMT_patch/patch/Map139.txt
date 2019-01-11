@@ -1,0 +1,58 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大聖堂　３Ｆ
+> CONTEXT: Map139/display_name/
+> CONTEXT: Map015/display_name/
+Cathedral 3F#MTLed
+> END STRING
+
+> BEGIN STRING
+天使に関する祭具がしまわれている。
+> CONTEXT: Map139/events/29/pages/1/7/Dialogue
+> CONTEXT: Map015/events/29/pages/1/7/Dialogue
+The ritual about the angel is gone.#MTLed
+> END STRING
+
+> BEGIN STRING
+教会の役割についての本が並んでいる。
+> CONTEXT: Map139/events/31/pages/0/7/Dialogue
+> CONTEXT: Map139/events/32/pages/0/7/Dialogue
+> CONTEXT: Map015/events/31/pages/0/7/Dialogue
+> CONTEXT: Map015/events/32/pages/0/7/Dialogue
+Books about the role of the church line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+もっとも古い淫魔の侵攻についての本が並んでいる。
+> CONTEXT: Map139/events/33/pages/0/7/Dialogue
+> CONTEXT: Map139/events/34/pages/0/7/Dialogue
+> CONTEXT: Map015/events/33/pages/0/7/Dialogue
+> CONTEXT: Map015/events/34/pages/0/7/Dialogue
+Books about the oldest invasion of the fantasy are lining
+up.#MTLed
+> END STRING
+
+> BEGIN STRING
+天使の奇跡、人々の祈りに関する本が並んでいる。
+> CONTEXT: Map139/events/35/pages/0/7/Dialogue
+> CONTEXT: Map139/events/36/pages/0/7/Dialogue
+> CONTEXT: Map015/events/35/pages/0/7/Dialogue
+> CONTEXT: Map015/events/36/pages/0/7/Dialogue
+Angels' miracles, books on people's prayers line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+教会の祭事に関する本が並んでいる。
+> CONTEXT: Map139/events/37/pages/0/7/Dialogue
+> CONTEXT: Map139/events/38/pages/0/7/Dialogue
+> CONTEXT: Map015/events/37/pages/0/7/Dialogue
+> CONTEXT: Map015/events/38/pages/0/7/Dialogue
+Books on church festivals line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+祭事用の教本などがしまわれている。
+> CONTEXT: Map139/events/39/pages/0/7/Dialogue
+> CONTEXT: Map015/events/39/pages/0/7/Dialogue
+Textbooks for festivals and the like are stolen.#MTLed
+> END STRING

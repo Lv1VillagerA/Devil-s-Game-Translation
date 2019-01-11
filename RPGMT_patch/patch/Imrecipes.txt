@@ -1,0 +1,137 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ハイポーション
+> CONTEXT: Imrecipes/1/name/
+> CONTEXT: Imrecipes/15/name/
+> CONTEXT: Imrecipes/16/name/
+Hi-Potion#MTLed
+> END STRING
+
+> BEGIN STRING
+フルポーションＡ
+> CONTEXT: Imrecipes/2/name/
+Full potion A#MTLed
+> END STRING
+
+> BEGIN STRING
+フルポーションＢ
+> CONTEXT: Imrecipes/3/name/
+Full potion B#MTLed
+> END STRING
+
+> BEGIN STRING
+エリクサー
+> CONTEXT: Imrecipes/4/name/
+Elixir#MTLed
+> END STRING
+
+> BEGIN STRING
+ディスペルハーブ
+> CONTEXT: Imrecipes/5/name/
+Dispel herb#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード
+> CONTEXT: Imrecipes/6/name/
+Long Sword#lvl1
+> END STRING
+
+> BEGIN STRING
+ファルシオン
+> CONTEXT: Imrecipes/7/name/
+Falcion#lvl1
+> END STRING
+
+> BEGIN STRING
+クロスボウ
+> CONTEXT: Imrecipes/8/name/
+Crossbow#lvl1
+> END STRING
+
+> BEGIN STRING
+普段着
+> CONTEXT: Imrecipes/9/name/
+Casual Clothes#lvl1
+> END STRING
+
+> BEGIN STRING
+普段着をポーションをと換します。
+> CONTEXT: Imrecipes/9/description/
+I will exchange potion for casual clothes.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+バンダナ
+> CONTEXT: Imrecipes/10/name/
+Bandana#lvl1
+> END STRING
+
+> BEGIN STRING
+バンダナをポーションと交換します。
+> CONTEXT: Imrecipes/10/description/
+I will exchange a bandana for a potion.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+幸運のお守り
+> CONTEXT: Imrecipes/11/name/
+Lucky Charm#lvl1
+> END STRING
+
+> BEGIN STRING
+幸運のお守りをラックアップと交換します。
+> CONTEXT: Imrecipes/11/description/
+I will exchange lucky amulet for luck.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+光のタリスマン
+> CONTEXT: Imrecipes/12/name/
+Talisman of Light#lvl1
+> END STRING
+
+> BEGIN STRING
+光のタリスマンをいろいろと交換します。
+> CONTEXT: Imrecipes/12/description/
+I will exchange various kinds of Talisman of light.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+回復セット
+> CONTEXT: Imrecipes/13/name/
+Recovery set#MTLed
+> END STRING
+
+> BEGIN STRING
+ポーション、マジックウォーター、アンチドーテのセット
+> CONTEXT: Imrecipes/13/description/
+Set of potion, magic water, antidote
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+勇者セット
+> CONTEXT: Imrecipes/14/name/
+Hero set#MTLed
+> END STRING
+
+> BEGIN STRING
+初めての勇者セットです。
+駆け出しの勇者さんにおすすめです。
+> CONTEXT: Imrecipes/14/description/
+It is the first brave set. Recommended for the bravest
+brave man.#MTLed
+> END STRING
+
+> BEGIN STRING
+ＨＰを２５００ポイント回復する。
+> CONTEXT: Imrecipes/15/description/
+> CONTEXT: Imrecipes/16/description/
+Recover HP by 2,500 points.
+                                                           #MTLed
+> END STRING

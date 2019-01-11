@@ -1,0 +1,62 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　５Ｆ
+> CONTEXT: Map167/display_name/
+Tower of seal 5F#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…もうアタシ…ここから動きたくないわぁ…\\I[140]」
+> CONTEXT: Map167/events/25/pages/0/7/Dialogue
+「Oh ... already ... I do not want to move from here ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「魔力も理性も全て…魔法陣に吸い取られてるのぉ…\\I[140]
+　でもぉ…この快楽を得られるならぁ。
+　な…何もいらないわぁ\\I[140]」
+> CONTEXT: Map167/events/25/pages/0/9/Dialogue
+「Magical power and reason are all ... It is absorbed by
+the magic team ... \\I[140]. Well ... I wish I could get this
+pleasure. I ... I do not need anything \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+こちらの存在に全く気づかない。
+どうやら完全に理性を失っているようだ…。
+> CONTEXT: Map167/events/25/pages/0/13/Dialogue
+> CONTEXT: Map167/events/26/pages/0/16/Dialogue
+> CONTEXT: Map165/events/21/pages/0/12/Dialogue
+> CONTEXT: Map165/events/22/pages/0/12/Dialogue
+> CONTEXT: Map166/events/21/pages/0/12/Dialogue
+> CONTEXT: Map164/events/21/pages/0/15/Dialogue
+> CONTEXT: Map164/events/22/pages/0/12/Dialogue
+> CONTEXT: Map054/events/1/pages/0/14/Dialogue
+> CONTEXT: Map003/events/1/pages/0/14/Dialogue
+I do not notice this existence at all. Apparently seems to
+have completely lost reason.#MTLed
+> END STRING
+
+> BEGIN STRING
+「あひひ…僕が…僕じゃ…なくなっていきましゅぅ…\\I[140]」
+> CONTEXT: Map167/events/26/pages/0/7/Dialogue
+「Ohah ... I ... I am ... gone ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「全てが淫女王様に…吸い取られてぇ…\\I[140]
+　そして際限なく快楽が増幅してぇ…あひひひぃ\\I[140]」
+> CONTEXT: Map167/events/26/pages/0/9/Dialogue
+「Everything was sucked by a hilarious king ... ... \\I[140]
+And the pleasure has endlessly amplified ... Ohhhhhh \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もう大切な家族のことさぇ…思い出せにゃいぃ\\I[140]
+　でも…僕は幸せなんでしゅぅ…だって淫女王様に、
+　全てを捧げられるのだからぁ…あっ…またイきゅうぅ\\I[140]」
+> CONTEXT: Map167/events/26/pages/0/12/Dialogue
+「Things about an important family anymore ... Remember me
+\\I[140]. But ... I am happy ... Because even the hilarious king,
+Because it can devote everything ... ... Ayu ... \\I[140]」#MTLed
+> END STRING

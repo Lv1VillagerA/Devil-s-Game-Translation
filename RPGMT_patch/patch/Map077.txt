@@ -1,0 +1,17 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]まずは淫魔化させてない\\N[6]ちゃんを一人、
+　結界の近くに放置して～\\I[140]\\C[10]」
+> CONTEXT: Map077/events/4/pages/0/6/Dialogue
+\\C[10]「\\C[0]It is not made to be a foolishness at first \\N[6]
+One person, Leave it near the barrier ~ \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]次に結界の中に運び込まれた\\N[6]ちゃんの、
+　淫魔化の呪いを、
+　少しずつ強めていくって感じでね\\C[10]」
+> CONTEXT: Map077/events/4/pages/0/9/Dialogue
+\\C[10]「\\C[0]Then it was brought into the barrier \\N[6] s,
+The Curse of Succession, Feel it gradually strengthens\\C[10]」#MTLed
+> END STRING

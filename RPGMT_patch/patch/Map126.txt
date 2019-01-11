@@ -1,0 +1,133 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+メンタルとタイムの部屋
+> CONTEXT: Map126/display_name/
+> CONTEXT: Map060/display_name/
+Mental and time room#MTLed
+> END STRING
+
+> BEGIN STRING
+「何か聞きたいことがあれば、
+　どうぞお気軽に…ですわ」
+> CONTEXT: Map126/events/2/pages/0/9/Dialogue
+> CONTEXT: Map060/events/2/pages/0/9/Dialogue
+「If you have something to ask, Please do not hesitate ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ここは何処？
+> CONTEXT: Map126/events/2/pages/0/12/Choice/0
+> CONTEXT: Map060/events/2/pages/0/12/Choice/0
+Where is here?#MTLed
+> END STRING
+
+> BEGIN STRING
+Lvアップって何？
+> CONTEXT: Map126/events/2/pages/0/12/Choice/1
+> CONTEXT: Map060/events/2/pages/0/12/Choice/1
+What is Lv up?#MTLed
+> END STRING
+
+> BEGIN STRING
+Lvアップしたい
+> CONTEXT: Map126/events/2/pages/0/12/Choice/2
+> CONTEXT: Map060/events/2/pages/0/12/Choice/2
+> CONTEXT: Map007/events/11/pages/0/12/Choice/2
+I want to upgrade Lv#MTLed
+> END STRING
+
+> BEGIN STRING
+「簡単に言ってしまえば、
+　潜在意識の奥底ですわね」
+> CONTEXT: Map126/events/2/pages/0/14/Dialogue
+> CONTEXT: Map060/events/2/pages/0/14/Dialogue
+「Briefly speaking, It is deep subconscious.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この世界にいる間は現実では、
+　全く時間が経過しないと言っても良いですわ」
+> CONTEXT: Map126/events/2/pages/0/17/Dialogue
+> CONTEXT: Map060/events/2/pages/0/17/Dialogue
+「While in this world, in reality, It can be said that time
+has not passed at all」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]へぇ～…そうなんだぁ…すごいね\\C[29]」
+> CONTEXT: Map126/events/2/pages/0/20/Dialogue
+\\C[29]「\\C[0]Wow ... that's right ... amazing\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とにかくこの空間なら、
+　\\N[6]の性的能力のレベルアップが可能ですわよ」
+> CONTEXT: Map126/events/2/pages/0/22/Dialogue
+「Anyway in this space, In case \\N[6] You can upgrade
+your sexual ability level」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それとこの私は天使ナタリアの本体とは違い、
+　いわば分霊のようなものですので、
+　現実世界のことを聞かれても、困りますわよ」
+> CONTEXT: Map126/events/2/pages/0/25/Dialogue
+> CONTEXT: Map060/events/2/pages/0/26/Dialogue
+「And this is different from the body of angel Natalia,
+It is a kind of spirit so to speak, Even if asked about the
+real world, I will be in trouble」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうでなくては、他の適格者さんたちまで、
+　とても手が回りませんからね」
+> CONTEXT: Map126/events/2/pages/0/29/Dialogue
+> CONTEXT: Map060/events/2/pages/0/30/Dialogue
+「Otherwise, to other qualified people, I can not turn
+around very much.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まだ目覚めていない\\N[6]の性的能力を、
+　覚醒させる行為ですわね」
+> CONTEXT: Map126/events/2/pages/0/37/Dialogue
+「I have not woken up yet. \\N[6] The sexual ability,
+It's an awakening act」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも、私も力は有限ですので、
+　行使するたびに必要な魔貨はいただきますが」
+> CONTEXT: Map126/events/2/pages/0/40/Dialogue
+> CONTEXT: Map060/events/2/pages/0/41/Dialogue
+「However, since I also have limited power,
+Every time you exercise you will receive the necessary
+curse」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちなみにどれだけの性的能力を持っているかで、
+　個人のLvは上下しますわ。一般人は当然Lv1ですわね」
+> CONTEXT: Map126/events/2/pages/0/43/Dialogue
+> CONTEXT: Map060/events/2/pages/0/44/Dialogue
+「By the way how much sexual ability I have,
+The personal Lv will go up and down. The general public is
+obviously Lv 1」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そこの青い玉に手を触れれば、
+　\\N[6]の力を引き出せますわよ」
+> CONTEXT: Map126/events/2/pages/0/51/Dialogue
+「If you touch the blue ball there, In case \\N[6] You
+can draw out the power of」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも限界以上の力を引き出すことは、
+　私にも不可能ですわよ」
+> CONTEXT: Map126/events/2/pages/0/54/Dialogue
+> CONTEXT: Map060/events/2/pages/0/55/Dialogue
+「But to bring out more than the limit, It's impossible for
+me too」#MTLed
+> END STRING

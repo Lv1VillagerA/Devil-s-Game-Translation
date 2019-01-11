@@ -1,0 +1,13 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+立派な港町
+> CONTEXT: Map115/display_name/
+A wonderful port town#MTLed
+> END STRING
+
+> BEGIN STRING
+井戸の底から冷たそうな水が湧き出ている。
+> CONTEXT: Map115/events/23/pages/0/6/Dialogue
+> CONTEXT: Map115/events/24/pages/1/6/Dialogue
+Water that is cold is gushing from the bottom of the well.#MTLed
+> END STRING

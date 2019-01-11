@@ -1,0 +1,108 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「この教会は大聖堂のお膝元ですので、
+　足が不自由等でそちらまで行けない巡礼者の方は、
+　我が教会でお祈りするのですよ」
+> CONTEXT: Map122/events/7/pages/0/6/Dialogue
+> CONTEXT: Map122/events/7/pages/1/6/Dialogue
+> CONTEXT: Map122/events/7/pages/2/6/Dialogue
+「Because this church is the base of the cathedral,
+For pilgrims who can not go to that extent with their legs
+inconvenient, We pray at our church」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろん大聖堂まで直通の、
+　乗合馬車も出ていますが…貴方たちも、
+　天使様にお祈りを捧げてはどうですか？」
+> CONTEXT: Map122/events/7/pages/0/10/Dialogue
+> CONTEXT: Map122/events/7/pages/1/10/Dialogue
+> CONTEXT: Map122/events/7/pages/2/10/Dialogue
+「Of course, direct to the cathedral, There are also
+convulsions and carriages ... but you also,
+Why do not you give a prayer to the angel?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「天使様が淫魔の干渉を受けた以上、
+　もはや一刻の猶予もありません」
+> CONTEXT: Map122/events/7/pages/1/14/Dialogue
+> CONTEXT: Map122/events/7/pages/2/14/Dialogue
+「As the angel received interference from the bastard,
+There is no longer a moment of grace」#MTLed
+> END STRING
+
+> BEGIN STRING
+「次こそ完全な状態で現界してもらわなければ、
+　この世界の未来は……あぁ天使様！」
+> CONTEXT: Map122/events/7/pages/1/17/Dialogue
+> CONTEXT: Map122/events/7/pages/2/17/Dialogue
+「If we do not have the next in perfect condition next time,
+The future of this world ... .... Oh, angel!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いよいよ天使様が、
+　人間界に降り立つ日が迫ってきました」
+> CONTEXT: Map122/events/8/pages/0/6/Dialogue
+「The angel is finally here, The day that we get off to the
+human world is approaching」#MTLed
+> END STRING
+
+> BEGIN STRING
+「迷える子羊である我々を、
+　淫魔の手から救うために」
+> CONTEXT: Map122/events/8/pages/0/9/Dialogue
+「We are a lost lamb, To save from the hands of the bastard」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今では噂を聞きつけ、
+　世界中の多くの巡礼者が大聖堂に向かい、
+　天使様に祈りを捧げているとか」
+> CONTEXT: Map122/events/8/pages/0/12/Dialogue
+「Now I hear rumors, Many pilgrims all over the world head
+towards the cathedral, I am praying for an angel or
+something」#MTLed
+> END STRING
+
+> BEGIN STRING
+「大聖堂に向かった方々が、
+　まだ一人も戻って来ないことを考えると、
+　よほど熱心に祈っているのでしょうね」
+> CONTEXT: Map122/events/8/pages/0/16/Dialogue
+「People who headed to the cathedral, Considering that no
+one will come back yet, You probably are praying very hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+「たとえ天使様が堕ちてしまっても、
+　私たちは決して諦めません」
+> CONTEXT: Map122/events/8/pages/1/6/Dialogue
+> CONTEXT: Map122/events/8/pages/2/6/Dialogue
+「Even if an angel fell, We will never give up」#MTLed
+> END STRING
+
+> BEGIN STRING
+「清らかな心で祈り続ければ、
+　私たちの声は必ず届くのですから」
+> CONTEXT: Map122/events/8/pages/1/9/Dialogue
+> CONTEXT: Map122/events/8/pages/2/9/Dialogue
+「If you keep praying in a pure heart, Because our voice
+always arrives」#MTLed
+> END STRING
+
+> BEGIN STRING
+「さぁ…そこの貴方たちも、
+　天使様に向けて祈りを捧げましょう」
+> CONTEXT: Map122/events/8/pages/1/12/Dialogue
+> CONTEXT: Map122/events/8/pages/2/12/Dialogue
+「Well ... you guys, too, Let's pray for the angel.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロウソクや十字架などの聖具がしまわれている。
+> CONTEXT: Map122/events/9/pages/0/6/Dialogue
+> CONTEXT: Map122/events/10/pages/0/6/Dialogue
+Sacred materials such as candles and crosses are gone.#MTLed
+> END STRING

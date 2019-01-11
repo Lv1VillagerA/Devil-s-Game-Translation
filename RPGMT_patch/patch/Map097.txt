@@ -1,0 +1,80 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+薬品の素材が綺麗に整頓されている。
+> CONTEXT: Map097/events/4/pages/1/7/Dialogue
+Materials of chemicals are neatly arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+「んっ…怪我人かな？
+　とてもそうは見えないが」
+> CONTEXT: Map097/events/5/pages/0/7/Dialogue
+「Is it an injured person? I can not see it so」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私はこの村の村医者だよ。
+　君も魔物との戦いで傷ついたら、
+　ここに来ると良い」
+> CONTEXT: Map097/events/5/pages/0/10/Dialogue
+「I am a village doctor in this village. If you get hurt in
+the fight against demons, It is good to come here」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっともここ数年は、
+　魔物よりも淫魔の被害が増えたせいで、
+　外傷の患者は減る一方何だけどね」
+> CONTEXT: Map097/events/5/pages/0/14/Dialogue
+「In recent years, however, Because the damage of the
+bastard increased more than the demon, Although the number
+of patients with trauma is decreasing, why?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やっぱり淫魔用のお薬が全然足りないわ」
+> CONTEXT: Map097/events/6/pages/0/7/Dialogue
+「After all it is not enough medicine for bad luck」#MTLed
+> END STRING
+
+> BEGIN STRING
+「数年前から被害が出始めたけど、
+　ここ最近は急激に増加しちゃったからねぇ」
+> CONTEXT: Map097/events/6/pages/0/9/Dialogue
+「Although damage began to appear from several years ago,
+It has increased rapidly in recent years」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今度先生に報告しておきましょう。
+　本当にすぐにでも調達してもらわないと、
+　次の患者さんに、治療が行えないわ」
+> CONTEXT: Map097/events/6/pages/0/12/Dialogue
+「Let me report to the teacher next time.
+If we do not really procure it immediately,
+I can not treat the next patient.」#MTLed
+> END STRING
+
+> BEGIN STRING
+傷薬から精力剤まで幅広い薬が収納されている。
+> CONTEXT: Map097/events/7/pages/0/7/Dialogue
+> CONTEXT: Map097/events/8/pages/0/7/Dialogue
+> CONTEXT: Map097/events/10/pages/0/7/Dialogue
+> CONTEXT: Map097/events/11/pages/0/7/Dialogue
+> CONTEXT: Map097/events/12/pages/0/7/Dialogue
+> CONTEXT: Map097/events/13/pages/0/7/Dialogue
+A wide range of medicines ranging from wound medicine to
+energetic medicine are stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+綺麗な花が花瓶にいけてある。
+> CONTEXT: Map097/events/9/pages/0/7/Dialogue
+Pretty flowers are gone in the vase.#MTLed
+> END STRING
+
+> BEGIN STRING
+患者や薬品に関するリストがしまわれている。
+> CONTEXT: Map097/events/14/pages/0/7/Dialogue
+Lists of patients and medicines are listed.#MTLed
+> END STRING

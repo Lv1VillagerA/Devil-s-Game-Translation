@@ -1,0 +1,47 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+休息室　２Ｆ
+> CONTEXT: Map153/display_name/
+Rest room 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+用途不明の薬品が数多く並べられている。
+> CONTEXT: Map153/events/6/pages/1/7/Dialogue
+> CONTEXT: Map153/events/7/pages/1/7/Dialogue
+Many unknown chemicals are lined up.#MTLed
+> END STRING
+
+> BEGIN STRING
+身も心も虜にする術についてという本が並んでいる。
+> CONTEXT: Map153/events/8/pages/0/7/Dialogue
+> CONTEXT: Map153/events/9/pages/0/7/Dialogue
+> CONTEXT: Map152/events/37/pages/0/7/Dialogue
+> CONTEXT: Map152/events/38/pages/0/7/Dialogue
+Books are written about techniques of captivating body and
+mind.#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な物語があいうえお順に並んでいる。
+> CONTEXT: Map153/events/10/pages/0/7/Dialogue
+> CONTEXT: Map153/events/11/pages/0/7/Dialogue
+> CONTEXT: Map152/events/23/pages/0/7/Dialogue
+> CONTEXT: Map152/events/24/pages/0/7/Dialogue
+> CONTEXT: Map152/events/25/pages/0/7/Dialogue
+> CONTEXT: Map152/events/26/pages/0/7/Dialogue
+> CONTEXT: Map152/events/27/pages/0/7/Dialogue
+> CONTEXT: Map152/events/28/pages/0/7/Dialogue
+> CONTEXT: Map152/events/29/pages/0/7/Dialogue
+> CONTEXT: Map152/events/30/pages/0/7/Dialogue
+> CONTEXT: Map152/events/31/pages/0/7/Dialogue
+> CONTEXT: Map152/events/32/pages/0/7/Dialogue
+Various stories are lined up in alphabetical order.#MTLed
+> END STRING
+
+> BEGIN STRING
+従順な精奴隷に変えるにはという本が並んでいる。
+> CONTEXT: Map153/events/12/pages/0/7/Dialogue
+> CONTEXT: Map153/events/13/pages/0/7/Dialogue
+There are books to change to submissive sex slaves.#MTLed
+> END STRING

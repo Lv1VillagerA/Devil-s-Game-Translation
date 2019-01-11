@@ -1,0 +1,37 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　９Ｆ
+> CONTEXT: Map171/display_name/
+Seal Tower 9F#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうやら、ここが最上階のようですわね」
+> CONTEXT: Map171/events/8/pages/0/2/Dialogue
+「Apparently, this seems to be the top floor」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私の天使の力で、
+　転送石にこのポイントを登録しておきましたので、
+　準備不足だと思ったら、即座に離脱するのですわよ」
+> CONTEXT: Map171/events/8/pages/0/4/Dialogue
+「With the power of my angel, Since I registered this point
+in the transfer stone, If you think that preparation is
+insufficient, you will leave immediately」#MTLed
+> END STRING
+
+> BEGIN STRING
+「不完全な今の身では、
+　このようなことしか出来なくて、
+　申し訳ありませんわ」
+> CONTEXT: Map171/events/8/pages/0/11/Dialogue
+「In the incomplete present body, Only this kind of thing
+can be done, I'm sorry」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは…健闘を祈ってますわよ」
+> CONTEXT: Map171/events/8/pages/0/16/Dialogue
+「Well then ... I'm praying for a good fight」#MTLed
+> END STRING

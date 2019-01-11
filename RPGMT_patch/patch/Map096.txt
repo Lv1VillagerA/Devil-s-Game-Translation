@@ -1,0 +1,47 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+小さな漁村
+> CONTEXT: Map096/display_name/
+Small fishing village#MTLed
+> END STRING
+
+> BEGIN STRING
+かなり海に近いが、井戸の水はどうやら真水のようだ。
+> CONTEXT: Map096/events/17/pages/1/7/Dialogue
+> CONTEXT: Map096/events/22/pages/0/7/Dialogue
+It is pretty close to the ocean, but the water in the well
+seems to be fresh water.#MTLed
+> END STRING
+
+> BEGIN STRING
+「おうよっ！　実はこの村の東に、
+　今は使われてない下水道があるんだよ」
+> CONTEXT: Map096/events/21/pages/0/27/Dialogue
+「Opie!Actually, to the east of this village,
+There is a sewer that is not used now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ、下水に落としたのは確かだ。
+　とはいえ、今もまだ残っているかどうかまではな。
+　ただ探してくれるだけでも良いんだ。…頼む！」
+> CONTEXT: Map096/events/21/pages/0/47/Dialogue
+「Oh, it is certain that I dropped it into sewers.
+Nonetheless, it remains to be determined whether it still
+remains. Just just looking for it is okay.…ask!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もし見つからなかったとしても、
+　それはそれで、諦めがつくからな」
+> CONTEXT: Map096/events/21/pages/1/11/Dialogue
+「Even if you can not find it, That's it, I will give up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう…この村の東の区画は寂れ、
+　炭鉱時代の建物は、全て朽ち果ててしまったがのう」
+> CONTEXT: Map096/events/25/pages/0/12/Dialogue
+「Yes ... the east compartment of this village is sad,
+The buildings of the coal mine era have all been decayed」#MTLed
+> END STRING

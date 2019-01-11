@@ -1,0 +1,50 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+2F 診察室
+> CONTEXT: Map063/display_name/
+2F examination room#MTLed
+> END STRING
+
+> BEGIN STRING
+大きな道具や薬品などが、雑多にしまわれている。
+> CONTEXT: Map063/events/1/pages/1/7/Dialogue
+> CONTEXT: Map063/events/11/pages/1/7/Dialogue
+> CONTEXT: Map063/events/12/pages/0/7/Dialogue
+> CONTEXT: Map063/events/13/pages/0/7/Dialogue
+Large tools and chemicals are miscellaneous.#MTLed
+> END STRING
+
+> BEGIN STRING
+病気や傷に効く薬が、ラベル付されて綺麗に並んでいる。
+> CONTEXT: Map063/events/7/pages/1/7/Dialogue
+> CONTEXT: Map063/events/8/pages/1/7/Dialogue
+> CONTEXT: Map063/events/9/pages/1/7/Dialogue
+> CONTEXT: Map063/events/10/pages/1/7/Dialogue
+> CONTEXT: Map063/events/14/pages/0/7/Dialogue
+> CONTEXT: Map063/events/15/pages/0/7/Dialogue
+> CONTEXT: Map063/events/16/pages/0/7/Dialogue
+> CONTEXT: Map063/events/17/pages/0/7/Dialogue
+> CONTEXT: Map062/events/19/pages/1/7/Dialogue
+> CONTEXT: Map062/events/20/pages/1/7/Dialogue
+> CONTEXT: Map062/events/21/pages/1/7/Dialogue
+> CONTEXT: Map062/events/22/pages/1/7/Dialogue
+Drugs that are effective for diseases and injuries are
+labeled and beautifully lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+小さな瓶や帳簿が、綺麗に整頓されている。
+> CONTEXT: Map063/events/18/pages/0/7/Dialogue
+> CONTEXT: Map063/events/19/pages/0/7/Dialogue
+Small bottles and books are neatly arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+医学に関する専門書が、隙間なく並べられている。
+> CONTEXT: Map063/events/20/pages/0/7/Dialogue
+> CONTEXT: Map063/events/21/pages/0/7/Dialogue
+> CONTEXT: Map063/events/22/pages/0/7/Dialogue
+> CONTEXT: Map063/events/23/pages/0/7/Dialogue
+Professional books on medical science are arranged side by
+side.#MTLed
+> END STRING

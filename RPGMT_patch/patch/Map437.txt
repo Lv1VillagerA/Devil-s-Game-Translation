@@ -1,0 +1,202 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…ごちそうさま。
+　でもハンターのわりには、
+　あまり精の質は良くなかったわね\\C[2]」
+> CONTEXT: Map437/events/12/pages/0/11/Dialogue
+\\C[2]「\\C[0]Hey ... Thank you for the meal.
+But for Hunter, The quality of so much fine was not good\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]あら？　新しい餌が来たようね。
+　こっちもいただいちゃおうかしら\\C[2]」
+> CONTEXT: Map437/events/12/pages/0/18/Dialogue
+\\C[2]「\\C[0]Oh? It seems that a new bait has arrived.
+I wonder if you could get me a chance\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]
+> CONTEXT: Map437/events/12/pages/0/21/Choice/0
+> CONTEXT: Map437/events/12/pages/1/14/Choice/0
+> CONTEXT: Map396/events/6/pages/0/13/Choice/0
+> CONTEXT: Map395/events/5/pages/0/15/Choice/0
+> CONTEXT: Map295/events/8/pages/0/24/Choice/0
+> CONTEXT: Map295/events/9/pages/0/10/Choice/0
+> CONTEXT: Map295/events/9/pages/1/24/Choice/0
+\\N[11]#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+> CONTEXT: Map437/events/12/pages/0/21/Choice/1
+> CONTEXT: Map437/events/12/pages/1/14/Choice/1
+> CONTEXT: Map396/events/6/pages/0/13/Choice/1
+> CONTEXT: Map395/events/5/pages/0/15/Choice/1
+> CONTEXT: Map295/events/8/pages/0/24/Choice/1
+> CONTEXT: Map295/events/9/pages/0/10/Choice/1
+> CONTEXT: Map295/events/9/pages/1/24/Choice/1
+\\N[12]#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]危険です。旦那様。
+　どうやら上級淫魔のようです。
+　出来れば撤退をと進言したいところですが\\C[3]」
+> CONTEXT: Map437/events/12/pages/0/27/Dialogue
+\\C[3]「\\C[0]It is dangerous. Mr. Husband.
+Apparently it seems to be an advanced umami.
+I would like to tell you to withdraw if possible\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]上級淫魔！　資料でしか見たことはないぞ！
+　そんな相手と初戦で犯り合うのかよ！\\C[1]」
+> CONTEXT: Map437/events/12/pages/0/32/Dialogue
+> CONTEXT: Map437/events/12/pages/0/60/Dialogue
+\\C[1]「\\C[0]Senior demon! I have seen it only in materials!
+Do you get involved with such opponent in the first game?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]しかし相手の実力を察するに、
+　上級淫魔の中でも格下、かつての旦那様ならまだしも、
+　私と契約を果たした今、もはや敵ではありません\\C[3]」
+> CONTEXT: Map437/events/12/pages/0/37/Dialogue
+\\C[3]「\\C[0]However, to understand the opponent's ability,
+Even among senior demons, downgrading, if you are a former
+husband, I have contracted with myself now, it is no longer
+an enemy\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]人形の分際で言ってくれるわね。
+　確かに上級淫魔になったばかりだけど\\C[2]」
+> CONTEXT: Map437/events/12/pages/0/42/Dialogue
+> CONTEXT: Map437/events/12/pages/0/70/Dialogue
+\\C[2]「\\C[0]You can tell me with the doll's perimeter.
+Although it has certainly become an advanced 魔 魔\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]主人との契約を上書きして、
+　完全な淫魔に堕とすぐらい、私には容易いのよ。
+　今すぐそれを証明してあげるわ！\\C[2]」
+> CONTEXT: Map437/events/12/pages/0/45/Dialogue
+> CONTEXT: Map437/events/12/pages/0/73/Dialogue
+\\C[2]「\\C[0]Overwrite the contract with the master,
+It is easy for me to fall short as a perfect fantasy.
+I will prove it right now!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]いきなり上級淫魔が相手とは、
+　マスターに弱い淫魔を狩らせて経験を積ませる、
+　私のパーフェクトな計画が\\C[3]」
+> CONTEXT: Map437/events/12/pages/0/55/Dialogue
+\\C[3]「\\C[0]Senior supremacy is suddenly an opponent,
+Have the master hunt weak fancy and accumulate experience,
+My perfect plan is\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]そうですね。多少手間がかかりますが、
+　今のマスターは私と契約する前よりも、
+　遥かに淫気耐性が上昇していますし、問題ありません\\C[3]」
+> CONTEXT: Map437/events/12/pages/0/65/Dialogue
+\\C[3]「\\C[0]I agree. Although it takes some trouble,
+The current master is more than before contracting with me,
+It is far better tolerance to nastiness and there is no
+problem\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]やった…のか？\\C[1]」
+> CONTEXT: Map437/events/12/pages/1/12/Dialogue
+\\C[1]「\\C[0]You did it ...?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]はい、周囲に淫魔の反応はありません。
+　旦那様の勝利です\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/20/Dialogue
+\\C[3]「\\C[0]Yes, there is no reaction of the bastard in the
+surroundings. My husband's victory\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そっ…そうか。
+　しかし初戦闘の相手が、
+　まさかの上級淫魔とは驚いたよ\\C[1]」
+> CONTEXT: Map437/events/12/pages/1/24/Dialogue
+> CONTEXT: Map437/events/12/pages/1/51/Dialogue
+\\C[1]「\\C[0]Oh ... I see. But the first fighting opponent,
+I was surprised that it was a senior demon\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]旦那様と私の共同作業、
+　上手くいきましたね\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/28/Dialogue
+\\C[3]「\\C[0]My husband and I collaborate,
+It worked well\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]ひとまず休息もかねて、
+　旦那様の拠点に帰還するのが先決かと\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/31/Dialogue
+\\C[3]「\\C[0]For some time to rest, Whether returning to my husband's
+base is the first vote\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。短い間に色々起こりすぎた。
+　今は考えを整理する時間が欲しい。…帰るか\\C[1]」
+> CONTEXT: Map437/events/12/pages/1/35/Dialogue
+> CONTEXT: Map437/events/12/pages/1/62/Dialogue
+\\C[1]「\\C[0]That's right. Too many things happened in the short time.
+Now I want time to organize my thoughts. Are you going
+home?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]はい、それと生存者二名も回収し、
+　謝礼をいただくのがよろしいかと\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/38/Dialogue
+\\C[3]「\\C[0]Yes, it also collected 2 survivors,
+Would you please give me a reward?\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]周囲に淫気反応はなし、
+　マスターと私の勝利です\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/47/Dialogue
+\\C[3]「\\C[0]There is no irritating reaction around us,
+Master and I am victorious\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]はい、しかし私の助力がある今、
+　大した敵ではありませんでしたね\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/55/Dialogue
+\\C[3]「\\C[0]Yes, but with my help now, It was not a big enemy\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]ひとまず今後の対策もかねて、
+　マスターの拠点に帰還しましょう\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/58/Dialogue
+\\C[3]「\\C[0]For the time being, Let's return to the master's base\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]ええ、あとはそこに転がっている、
+　ボロ雑巾二枚も回収していきましょうか。
+　どうやらかろうじて、息があるようですし\\C[3]」
+> CONTEXT: Map437/events/12/pages/1/65/Dialogue
+\\C[3]「\\C[0]Well, the rest is rolling over there,
+Shall I collect two bottles of rags? Apparently, she seems
+to have a breath\\C[3]」#MTLed
+> END STRING

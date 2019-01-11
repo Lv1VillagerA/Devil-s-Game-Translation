@@ -1,0 +1,83 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[29]「\\C[0]はぁ…はぁ…この橋まで来れば、
+　エルフの結界の外だよ\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/11/Dialogue
+\\C[29]「\\C[0]Huh ... Huh ... If you come to this bridge,
+It's out of the barrier of the elves\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これで私は本当の意味で自由になれ…あれ？\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/14/Dialogue
+\\C[29]「\\C[0]Now I can become free in the real sense ... is that?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]向こうに誰か…\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/27/Dialogue
+\\C[29]「\\C[0]Someone over there ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おい見ろよ。エルフがいるぜ？
+　しかも女じゃねえか！」
+> CONTEXT: Map177/events/7/pages/0/43/Dialogue
+「Look at you. I have an elf. And she is a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そのわりには少々若すぎる気もするが、
+　それでも奴隷にすれば、人間の女とは比較にならない程、
+　高く売れるだろうな」
+> CONTEXT: Map177/events/7/pages/0/47/Dialogue
+「On the contrary it seems to be a bit too young,
+Still if you make it a slave, it is not comparable with a
+human woman, I will sell higher」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここはもうエルフの結界が及ばない場所。
+　さて、どうやって捕らえましょうかねぇ…ヒヒヒ！」
+> CONTEXT: Map177/events/7/pages/0/52/Dialogue
+「Here is where the elf 's barrier does not reach.
+Well, how can I catch it ... Hee hee!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっ…そうだ！
+　また結界の内に逃げ込めば…！\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/57/Dialogue
+\\C[29]「\\C[0]Oh ... that's right! If you run into the barrier again
+...!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あっ…あぁ…そんな！\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/79/Dialogue
+\\C[29]「\\C[0]Ah ... oh ... so much!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「というわけだお嬢さん。
+　観念してもらおうか」
+> CONTEXT: Map177/events/7/pages/0/82/Dialogue
+「That 's why young lady. Shall I have an idea」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやぁ…私ら奴隷商人としては、
+　大切な商品…何よりエルフに、
+　傷をつけたくないのですよ」
+> CONTEXT: Map177/events/7/pages/0/86/Dialogue
+「Well ... as we slave merchants, Important item ... more
+than anything else, I do not want to scratch it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だから…大人しくしてくれますよね？
+　大丈夫ですよ。優しく扱いますから…ね？」
+> CONTEXT: Map177/events/7/pages/0/91/Dialogue
+「So ... you make me quiet? No problem. Because I treat it
+kindly ... is not it?」#MTLed
+> END STRING

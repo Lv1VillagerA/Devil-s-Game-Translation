@@ -1,0 +1,105 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　８Ｆ
+> CONTEXT: Map170/display_name/
+Seal Tower 8F#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]んー…これじゃ駄目だね。
+　どうやら生み出された魔力が全部、
+　何処か別の場所に送られてるみたいだよ\\C[29]」
+> CONTEXT: Map170/events/14/pages/0/7/Dialogue
+> CONTEXT: Map167/events/21/pages/0/7/Dialogue
+> CONTEXT: Map167/events/22/pages/0/7/Dialogue
+> CONTEXT: Map167/events/23/pages/0/7/Dialogue
+> CONTEXT: Map167/events/24/pages/0/7/Dialogue
+\\C[29]「\\C[0]Hmm ... this is useless. Apparently all the magical
+powers created, It looks like I'm being sent to somewhere
+else.\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私の操作も受け付けないし、
+　多分淫女王アニスが何かしたんだと思うよ\\C[29]」
+> CONTEXT: Map170/events/14/pages/0/11/Dialogue
+> CONTEXT: Map167/events/21/pages/0/11/Dialogue
+> CONTEXT: Map167/events/22/pages/0/11/Dialogue
+> CONTEXT: Map167/events/23/pages/0/11/Dialogue
+> CONTEXT: Map167/events/24/pages/0/11/Dialogue
+\\C[29]「\\C[0]I will not accept my operation,
+Perhaps I think something was done by the horny king Anise\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+どうやら魔力が送られていないようだ。
+> CONTEXT: Map170/events/15/pages/0/9/Dialogue
+> CONTEXT: Map169/events/16/pages/0/9/Dialogue
+> CONTEXT: Map168/events/18/pages/0/9/Dialogue
+> CONTEXT: Map165/events/23/pages/0/9/Dialogue
+> CONTEXT: Map166/events/22/pages/0/9/Dialogue
+> CONTEXT: Map164/events/23/pages/0/9/Dialogue
+> CONTEXT: Map162/events/23/pages/0/9/Dialogue
+> CONTEXT: Map167/events/28/pages/0/9/Dialogue
+Apparently it seems that magical power has not been sent.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うーん…可動用の魔力容量が大きすぎて、
+　私一人の魔力じゃ全然足らないよ\\C[29]」
+> CONTEXT: Map170/events/15/pages/0/11/Dialogue
+> CONTEXT: Map169/events/16/pages/0/11/Dialogue
+> CONTEXT: Map168/events/18/pages/0/11/Dialogue
+> CONTEXT: Map165/events/23/pages/0/11/Dialogue
+> CONTEXT: Map166/events/22/pages/0/11/Dialogue
+> CONTEXT: Map164/events/23/pages/0/11/Dialogue
+> CONTEXT: Map162/events/23/pages/0/11/Dialogue
+> CONTEXT: Map167/events/28/pages/0/11/Dialogue
+\\C[29]「\\C[0]Well ... the magical capacity for mobility is too big,
+It's not enough for me alone\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どうすれば良いんだ？\\C[1]」
+> CONTEXT: Map170/events/15/pages/0/14/Dialogue
+> CONTEXT: Map169/events/16/pages/0/14/Dialogue
+> CONTEXT: Map168/events/18/pages/0/14/Dialogue
+> CONTEXT: Map165/events/23/pages/0/14/Dialogue
+> CONTEXT: Map166/events/22/pages/0/14/Dialogue
+> CONTEXT: Map164/events/23/pages/0/14/Dialogue
+> CONTEXT: Map162/events/23/pages/0/14/Dialogue
+> CONTEXT: Map167/events/28/pages/0/14/Dialogue
+\\C[1]「\\C[0]What should I do?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]…そうだね。
+　まだ稼働している大規模な魔晶石から、
+　エレベーターにバイバスを繋げて…\\C[29]」
+> CONTEXT: Map170/events/15/pages/0/16/Dialogue
+> CONTEXT: Map169/events/16/pages/0/16/Dialogue
+> CONTEXT: Map168/events/18/pages/0/16/Dialogue
+> CONTEXT: Map165/events/23/pages/0/16/Dialogue
+> CONTEXT: Map166/events/22/pages/0/16/Dialogue
+> CONTEXT: Map164/events/23/pages/0/16/Dialogue
+> CONTEXT: Map162/events/23/pages/0/16/Dialogue
+> CONTEXT: Map167/events/28/pages/0/16/Dialogue
+\\C[29]「\\C[0]…Yeah. From the large scale magic stone that is still in
+operation, Connect a bus to the elevator ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]まぁとにかく、
+　\\N[1]は青く光る石碑を探してよ。
+　後は私が何とかするから\\C[29]」
+> CONTEXT: Map170/events/15/pages/0/20/Dialogue
+> CONTEXT: Map169/events/16/pages/0/20/Dialogue
+> CONTEXT: Map168/events/18/pages/0/20/Dialogue
+> CONTEXT: Map165/events/23/pages/0/20/Dialogue
+> CONTEXT: Map166/events/22/pages/0/20/Dialogue
+> CONTEXT: Map164/events/23/pages/0/20/Dialogue
+> CONTEXT: Map162/events/23/pages/0/20/Dialogue
+> CONTEXT: Map167/events/28/pages/0/20/Dialogue
+\\C[29]「\\C[0]Well anyway, In case \\N[1] Look for a stone that
+shines blue. After I manage to do something\\C[29]」#MTLed
+> END STRING

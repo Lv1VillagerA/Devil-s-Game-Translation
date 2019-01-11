@@ -1,0 +1,71 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふーむ…天使の奇跡の力を秘めたと言われる魔法道具。
+　まだまだ研究し足りないですよ」
+> CONTEXT: Map157/events/4/pages/0/6/Dialogue
+「Hmmm ... a magical tool said to have the power of an
+angel 's miracle. I am still missing research」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやぁ、調べれば調べる程興味深い。
+　私も、大聖堂で起きたと言われる、
+　天使の現界を見てみたかったなぁ！」
+> CONTEXT: Map157/events/4/pages/0/9/Dialogue
+「Well, it is interesting to find out if you examine it.
+I am also said to have gotten up in the cathedral,
+I wanted to see the current world of angels!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もう…家の夫ったら、いつも天使…天使って、
+　そればっかり！」
+> CONTEXT: Map157/events/5/pages/0/6/Dialogue
+「Already ... If the husband of the house, angel always ...
+Angel, That's it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに天使様は美しいでしょうけど、
+　陰ながら夫を支える身近な天使にも、
+　ちょっとは関心を持って欲しいわ！」
+> CONTEXT: Map157/events/5/pages/0/9/Dialogue
+「Although Angel is surely beautiful, To the familiar angel
+who supports the husband in the shade, I want a little
+interest!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まっ…まぁ…今朝の料理のこっそり変えた味付け。
+　気づいてくれただけでなく、
+　美味しいって褒めてくれたのは良いけど…\\I[140]」
+> CONTEXT: Map157/events/5/pages/0/13/Dialogue
+「Well ... Well ... this seasoned seasoned dish was
+secretly changed. Not only did you notice,
+It was good that I praised it for delicious ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+棚の中には実験用の魔法道具が大量にしまわれている。
+> CONTEXT: Map157/events/6/pages/1/6/Dialogue
+> CONTEXT: Map157/events/7/pages/1/6/Dialogue
+A large amount of experimental magic tools are stored in
+the shelf.#MTLed
+> END STRING
+
+> BEGIN STRING
+天使や過去の淫魔の侵攻について書かれた本が並んでいる。
+> CONTEXT: Map157/events/8/pages/0/6/Dialogue
+> CONTEXT: Map157/events/9/pages/0/6/Dialogue
+> CONTEXT: Map157/events/10/pages/0/6/Dialogue
+> CONTEXT: Map157/events/11/pages/0/6/Dialogue
+Books written about angels and the invasion of past demons
+are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+実験用の試薬が大量に収納されている。
+> CONTEXT: Map157/events/12/pages/0/6/Dialogue
+> CONTEXT: Map157/events/13/pages/0/6/Dialogue
+Large amounts of reagents for experiments are stored.#MTLed
+> END STRING

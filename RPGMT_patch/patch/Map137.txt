@@ -1,0 +1,72 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大聖堂　１Ｆ
+> CONTEXT: Map137/display_name/
+> CONTEXT: Map013/display_name/
+Cathedral 1F#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔用の道具が並んでいる。
+> CONTEXT: Map137/events/20/pages/1/7/Dialogue
+> CONTEXT: Map137/events/21/pages/1/7/Dialogue
+> CONTEXT: Map013/events/20/pages/1/7/Dialogue
+> CONTEXT: Map013/events/21/pages/1/7/Dialogue
+Equestrian tools are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+神聖な天使及び邪悪な淫魔に関する本が並んでいる。
+> CONTEXT: Map137/events/22/pages/0/7/Dialogue
+> CONTEXT: Map137/events/23/pages/0/7/Dialogue
+> CONTEXT: Map013/events/22/pages/0/7/Dialogue
+> CONTEXT: Map013/events/23/pages/0/7/Dialogue
+Books about sacred angels and evil devils line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]大聖堂にまで淫魔の気配が！
+　ここの結界も破られたっていうの！\\C[29]」
+> CONTEXT: Map137/events/27/pages/0/10/Dialogue
+> CONTEXT: Map013/events/27/pages/0/10/Dialogue
+\\C[29]「\\C[0]There is a sign of bad luck still in the cathedral!
+The boundary here has been broken!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]こんな芸当が出来るのは、
+　上級淫魔…もしくはアニス以外いないだろう。
+　そしてナタリアとの連絡が、全く取れないことを考えると\\C[1]」
+> CONTEXT: Map137/events/27/pages/0/13/Dialogue
+> CONTEXT: Map013/events/27/pages/0/13/Dialogue
+\\C[1]「\\C[0]Such a trick can be done, Senior lusty ... or anything
+but Anise. And considering that we can not contact with
+Natalia at all\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はぁ…こいつはかなり、
+　ヤバイことになってきたな\\C[1]」
+> CONTEXT: Map137/events/27/pages/0/17/Dialogue
+> CONTEXT: Map013/events/27/pages/0/17/Dialogue
+\\C[1]「\\C[0]Huh ... this guy is pretty,
+I was getting ridiculous.\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うっ…うん、
+　とにかく問題の淫魔を探さないとね\\C[29]」
+> CONTEXT: Map137/events/27/pages/0/20/Dialogue
+> CONTEXT: Map013/events/27/pages/0/20/Dialogue
+\\C[29]「\\C[0]ugh ... Yeah, Anyway, I have to find a problematic problem\\C[29]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、流石にこの状況を、
+　放置するわけにはいかないからな\\C[1]」
+> CONTEXT: Map137/events/27/pages/0/24/Dialogue
+> CONTEXT: Map013/events/27/pages/0/24/Dialogue
+\\C[1]「\\C[0]Oh, this situation to flowing stones,
+You can not afford to leave it.\\C[1]」#MTLed
+> END STRING

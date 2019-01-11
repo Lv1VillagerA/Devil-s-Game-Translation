@@ -1,0 +1,104 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「さぁさぁ！　寄ってらっしゃい見てらっしゃい！」
+> CONTEXT: Map175/events/8/pages/0/8/Dialogue
+「Now! Take care and take a closer look!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「本日の目玉商品は、何とあの伝説に登場するエルフだ！
+　しかも女だよ！」
+> CONTEXT: Map175/events/8/pages/0/10/Dialogue
+「What is the main feature of today is the elf that
+appeared in that legend! And she is a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その美貌と白く柔らかな肌触りは！
+　まさに物語の中から飛び出してきたかのようだ！」
+> CONTEXT: Map175/events/8/pages/0/13/Dialogue
+「Its beautiful and white soft touch! It seems to have just
+jumped out of the story!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ多少若すぎて非力なのは、ご愛嬌というこった！」
+> CONTEXT: Map175/events/8/pages/0/16/Dialogue
+「Well, it is somewhat too young to be impotent, it was
+charming!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうだい！　誰がエルフのご主人様になるのかい！
+　さぁさぁ！　まずは十万魔貨からだ！」
+> CONTEXT: Map175/events/8/pages/0/18/Dialogue
+「How to do! Who will be the master of the elves!
+Now! First off from 100,000 demons!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうする？　エルフだぜ？　ここは買うか？」
+> CONTEXT: Map175/events/8/pages/0/33/Dialogue
+「what will you do? It's an elf? Do you buy here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ははっ！　冗談だろ？
+　いくらエルフと言っても、まだガキじゃねえか。
+　こんなのいくら高かろうが、一万魔貨が良いとこだぜ！」
+> CONTEXT: Map175/events/8/pages/0/36/Dialogue
+「Hahah! Are you kidding? No matter how much you say an
+elf, you're still an idiot. No matter how expensive it is,
+10,000 demons are good!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あの奴隷商人の奴…ふっかけやがって…」
+> CONTEXT: Map175/events/8/pages/0/41/Dialogue
+「That slave merchant's guy ... It's getting fuzzy ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あんな小柄なカラダでは、
+　労働力としては期待出来ないか。
+　それに娼婦として扱うにも不向き…ふむ」
+> CONTEXT: Map175/events/8/pages/0/44/Dialogue
+「In such a small body, Can not we expect it as a labor
+force? Also not suitable for treating as a prostitute ...
+hm」#MTLed
+> END STRING
+
+> BEGIN STRING
+「エルフは人間と比べて成長が遅いんですよ？
+　重労働が可能な体格になるまで、
+　いったい何年かかるやら」
+> CONTEXT: Map175/events/8/pages/0/49/Dialogue
+「Elf is growing slower than humans? Until it becomes a
+physique capable of hard labor, How long it will take」#MTLed
+> END STRING
+
+> BEGIN STRING
+「息子の夜伽の練習相手に使うにしても、
+　少々穴がキツすぎるのう」
+> CONTEXT: Map175/events/8/pages/0/54/Dialogue
+「Even if I use it as a practice partner of my son's night
+festival, Some holes are too tight」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何より、エルフという種族は皆、
+　我々人間を憎んでいますからね」
+> CONTEXT: Map175/events/8/pages/0/58/Dialogue
+「More than anything else the races, Elves,
+We hate human beings」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら裸になったとはいえ、いつ王子の寝首をかくか。
+　恐らく奴隷として扱うには、
+　もっとも不向きな種族でしょう」
+> CONTEXT: Map175/events/8/pages/0/61/Dialogue
+「How much will the Prince sleep, even though it has become
+naked? Probably as a slave, It is the most unsuitable tribe
+」#MTLed
+> END STRING

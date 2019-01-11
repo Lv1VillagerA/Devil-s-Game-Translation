@@ -1,0 +1,374 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]これで…戻ると良いのだが\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/9/Dialogue
+\\C[1]「\\C[0]With this ... It would be nice to go back\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっそんな…私…何てことを…うぁ…\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/12/Dialogue
+\\C[29]「\\C[0]Sounds like that ... I ... what ... what ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]が気に病む必要はない。
+　全てはアニスに操られてやったこと、
+　…そうだろ？\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/14/Dialogue
+\\C[1]「\\C[0]\\N[6] There is no need to be sick.
+Everything was manipulated by anise, ... Is that so?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっとっ…それは…一部…だけ…かな…でっでも、
+　\\N[1]…気をつかってくれてありがとう。
+　そうだね…私もこのままじゃ終われないよ！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/19/Dialogue
+\\C[29]「\\C[0]Ext ... It is ... part ... only ... Kana ... Even though,
+In case \\N[1] ... Thank you for being careful.
+That's right ... I can not finish as it is!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]絶対に、アニスの計画を止めて見せるから！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/23/Dialogue
+\\C[29]「\\C[0]Absolutely, I will stop the plans of Anise!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「…二人とも、私の声が聞こえます？」
+> CONTEXT: Map151/events/1/pages/0/30/Dialogue
+「... can both of you hear my voice?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]この声は…ナタリアか！\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/44/Dialogue
+\\C[1]「\\C[0]This voice is ... Natalia?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私も聞こえるよ！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/46/Dialogue
+\\C[29]「\\C[0]I can hear it too!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それは良かったですわ。
+　あまり時間もありませんし、手短に伝えますわ」
+> CONTEXT: Map151/events/1/pages/0/54/Dialogue
+「That was good. I do not have much time, I will tell you
+shortly.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まず\\N[6]ちゃんにはまだ、
+　淫魔化の呪いがかかっていますわ」
+> CONTEXT: Map151/events/1/pages/0/57/Dialogue
+「First \\N[6] To my chan, There is a curse of
+immortality」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっ…そんなぁ…でも今、
+　元に戻って…\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/66/Dialogue
+\\C[29]「\\C[0]Sort of ... Sort of ... but now,
+Go back to ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「残念ながら今の絶頂により、
+　一時的に沈静化しているだけで、
+　根本的な解決にはなっていませんわ」
+> CONTEXT: Map151/events/1/pages/0/75/Dialogue
+「Unfortunately due to the culmination of now,
+Just being temporarily calm down, It is not a fundamental
+solution」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今のままでは、
+　\\N[6]ちゃんは再び淫気に触れるだけで、
+　簡単に淫魔化してしまいますわ」
+> CONTEXT: Map151/events/1/pages/0/79/Dialogue
+「As it is now, In case \\N[6] She just touches the
+lusts again, It will make it easy to become a hoax」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]何とかならないのか？
+　そうだ！　天使の力なら…\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/89/Dialogue
+\\C[1]「\\C[0]Is not it manageable? That's it! If the power of an angel
+...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに天使の力なら、
+　ある程度は押さえることは可能ですわ」
+> CONTEXT: Map151/events/1/pages/0/95/Dialogue
+「Certainly if the power of angels, It is possible to hold
+down to a certain extent」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも完全に解呪するには、
+　呪いをかけた本人…アニスを倒す以外存在しませんわ」
+> CONTEXT: Map151/events/1/pages/0/98/Dialogue
+「But to completely dismiss, There is nothing other than to
+defeat Anise, who himself cursed ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]淫女王を…倒す…か\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/107/Dialogue
+\\C[1]「\\C[0]Defeat the King of Lady ... Defeat ...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろん淫女王アニスは、
+　私が責任をもって再び浄化しますので」
+> CONTEXT: Map151/events/1/pages/0/115/Dialogue
+「Of course, the virgin king Anise, Because I purify again
+with responsibility」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]たちは、
+　普段通りに過ごしていただいて構いませんわ」
+> CONTEXT: Map151/events/1/pages/0/118/Dialogue
+「\\N[1] We, I do not mind letting you stay as usual」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ただその際に、\\N[6]ちゃんはなるべく淫魔には、
+　近づかないようにと…今回はそれを伝えに来ましたの」
+> CONTEXT: Map151/events/1/pages/0/121/Dialogue
+「At that time, however, \\N[6] As much as possible,
+I came to tell you that this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あの…その淫女王を倒すの、
+　私も協力させてもらえませんか？\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/132/Dialogue
+\\C[29]「\\C[0]Um ... that 's why I will defeat that hilarious king,
+Could you please cooperate with me?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「理由を、…聞かせてくれますわよね？」
+> CONTEXT: Map151/events/1/pages/0/141/Dialogue
+「Why are you ... let me tell you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私…やっぱりやられっぱなしというのは、
+　性に合わないよ\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/149/Dialogue
+\\C[29]「\\C[0]I ... As I thought it was still being done,
+I will not suit sex.\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そりゃこんな状態の私が、
+　淫魔相手に何が出来るかわからないけど、
+　最悪何も出来ないかもしれない…ね\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/152/Dialogue
+\\C[29]「\\C[0]That's what I am in this state,
+I do not know what I can do with a female opponent,
+You may not be able to do anything worst ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それでも、やれるだけのことは、
+　やりたいんです！　黙って泣き寝入りなんて絶対に嫌！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/157/Dialogue
+\\C[29]「\\C[0]Still, the only thing I can do is,
+I want to do it! Absolutely disgusting silent and crying!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「…決意は固いようですわね。
+　わかりましたわ。淫魔化の呪いなら、
+　今の私の力でも、ある程度は押さえられますし」
+> CONTEXT: Map151/events/1/pages/0/166/Dialogue
+「... The resolution seems to be hard. I understand. If it
+is a curse of obscurity, Even with my power now, to some
+extent I can be held down」#MTLed
+> END STRING
+
+> BEGIN STRING
+「流石に上級淫魔や淫女王の淫気を打ち消すのは無理ですが、
+　補助的な役目ぐらいは十分に出来ますよ。
+　それで…\\N[1]はどうしますの？」
+> CONTEXT: Map151/events/1/pages/0/170/Dialogue
+「It is impossible to counteract the lascivious suffering
+or pretty king's lusty to falling rocks,
+I can do enough for ancillary roles. So ... \\N[1] What
+do you do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]まぁ俺も…仲間の\\N[6]を好き勝手されて、
+　黙って見ていられる程、人間出来てないからな\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/181/Dialogue
+\\C[1]「\\C[0]Well me too ... fellow \\N[6] Being selfish like you,
+Because I can not be human being enough to be quiet and
+watching\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうやら、決まりのようですわね」
+> CONTEXT: Map151/events/1/pages/0/190/Dialogue
+「Apparently, it sounds like a rule」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わかりましたわ。これからは私が、
+　貴方たち二人を導く天使となりますわ」
+> CONTEXT: Map151/events/1/pages/0/192/Dialogue
+「I understand. From now on, It will be an angel who leads
+you two people」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それは…どういう？\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/203/Dialogue
+\\C[1]「\\C[0]That ... What do you mean?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「強力な淫魔の気配を察知したり、
+　\\N[6]ちゃんの呪いを押さえたりを行いますわ」
+> CONTEXT: Map151/events/1/pages/0/211/Dialogue
+「You can sense strong signs of ugliness,
+In case \\N[6] I will hold down my curse」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも、実体化は出来ませんので、
+　ＳＰを使用してもやれることには限りがありますが」
+> CONTEXT: Map151/events/1/pages/0/214/Dialogue
+「However, since it can not be materialized,
+Although there is a limit to what you can do even using SP」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうですわね…この感じなら、
+　次の目的地はここから少し南にある、山間の宿場町ですわ」
+> CONTEXT: Map151/events/1/pages/0/217/Dialogue
+「That's right ... I feel like this, The next destination
+is a mountain lodging town which is a little south from
+here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]もしかして、そこに淫女王がいるの？\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/226/Dialogue
+\\C[29]「\\C[0]Perhaps, there is a hilarious king there?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうかもしれませんし、そうじゃないかもしれませんわ。
+　強力な淫気には間違いありませんが、
+　今の私の力は、そこまで万能ではありませんしね」
+> CONTEXT: Map151/events/1/pages/0/234/Dialogue
+「It may be so, it may not be the case. There is no doubt
+about strong lustiness, My power at the moment is not so
+versatile」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どちらにせよ、そこに上級淫魔がいるなら、
+　アニスの痕跡ぐらい辿れるはず…か\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/244/Dialogue
+\\C[1]「\\C[0]Either way, if there is an advanced sorrow,
+It should be able to trace traces of Anise ...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そういうことですわ。
+　何より淫魔の暴挙を黙ってみていることなど、出来ませんわ。
+　では善は急げと言いますし、早速出発しますわよ」
+> CONTEXT: Map151/events/1/pages/0/253/Dialogue
+「That's it. I can not do other things, such as silence of
+the violent acts of umami. So good is saying haste and we
+will start at once.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうそう、これからはアイテムの冒険者カードを使えば、
+　いつでも私と会話したり、
+　\\N[6]ちゃんのパーティー編成が行えますわ」
+> CONTEXT: Map151/events/1/pages/0/257/Dialogue
+「, From now on if you use the item's adventurer card,
+You can talk to me anytime, In case \\N[6] I can
+organize my party party」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これから長い付き合いになりますし、
+　お二人とも、よろしくお願いしますわね」
+> CONTEXT: Map151/events/1/pages/0/262/Dialogue
+「I will be going out for a long time now,
+Both of you, thank you for your consideration」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]こう見えてボクは淫女王だし、
+　色々忙しいんだよ\\C[10]」
+> CONTEXT: Map151/events/2/pages/0/0/Dialogue
+\\C[10]「\\C[0]I see like this, I'm a horny king,
+I am busy a lot\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]じゃぁね。
+　\\N[1]はここで死ぬまで\\N[6]ちゃん相手に、
+　ヘコヘコ腰を振ってると良いよ\\I[140]\\C[10]」
+> CONTEXT: Map151/events/2/pages/0/3/Dialogue
+\\C[10]「\\C[0]See you. In case \\N[1] Until we die here \\N[6]
+To the opponent, It is good to shake your waist \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+声は聞こえなくなった…。
+> CONTEXT: Map151/events/2/pages/0/7/Dialogue
+> CONTEXT: Map007/events/7/pages/0/133/Dialogue
+I can not hear the voice ....#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あはぁ…久し振りだね。\\N[1]\\C[29]」
+> CONTEXT: Map151/events/2/pages/0/22/Dialogue
+\\C[29]「\\C[0]Haha ... It's been a while. \\N[1]\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…\\N[6]。こっ…この感じは、
+　お前…まさか本当に淫魔に！\\C[1]」
+> CONTEXT: Map151/events/2/pages/0/24/Dialogue
+\\C[1]「\\C[0]... \\N[6] . Here ... this feeling,
+You ... ... No way it really is a bastard!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そんな悲しそうな顔をしないでよ。
+　淫女王様の力で立派な淫魔にしてもらって、
+　私…生まれ変わった気分なんだから\\I[140]\\C[29]」
+> CONTEXT: Map151/events/2/pages/0/29/Dialogue
+\\C[29]「\\C[0]Do not make such a sad face.
+Have a good hatred made by the power of the hilarious king,
+I ... I feel like I am reborn \\I[140]\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]だから\\N[1]も、
+　私と同じように身も心も堕ちちゃってよ\\I[140]\\C[29]」
+> CONTEXT: Map151/events/2/pages/0/36/Dialogue
+\\C[29]「\\C[0]So \\N[1] Also, My body and mind are falling like me
+\\I[140]\\C[29]」#MTLed
+> END STRING

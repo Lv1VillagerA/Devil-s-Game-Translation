@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+枯れ山　６合目
+> CONTEXT: Map092/display_name/
+Withering Mountain 6th Goto#MTLed
+> END STRING

@@ -1,0 +1,133 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルフの村
+> CONTEXT: Map178/display_name/
+> CONTEXT: Map130/display_name/
+Elf village#MTLed
+> END STRING
+
+> BEGIN STRING
+井戸の底から清らかな水が湧き出ている。
+> CONTEXT: Map178/events/3/pages/0/6/Dialogue
+> CONTEXT: Map178/events/4/pages/1/6/Dialogue
+> CONTEXT: Map079/events/23/pages/1/7/Dialogue
+> CONTEXT: Map079/events/24/pages/1/7/Dialogue
+Pure water gushes from the bottom of the well.#MTLed
+> END STRING
+
+> BEGIN STRING
+父　カイト
+母　リリナ
+ここに眠る
+> CONTEXT: Map178/events/6/pages/0/6/Dialogue
+> CONTEXT: Map178/events/6/pages/1/6/Dialogue
+Father Kite. Mother Ririna. Sleep here#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]父さんと母さんのお墓だよ。
+　二人ともエルフにしては若かったけど、病気でね\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/10/Dialogue
+\\C[29]「\\C[0]It is tomb of my father and mother.
+Both of us were young for the elves, but in illness\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そうか\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/13/Dialogue
+\\C[1]「\\C[0]…Really\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そう言えば今まで聞かなかったけど、
+　\\N[1]の両親は？\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/15/Dialogue
+\\C[29]「\\C[0]By the way, I have not heard it until now,
+In case \\N[1] Are your parents?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]んっ…？　ああ、二人とも冒険者として、
+　今も世界中を飛び回ってるんじゃないかな？\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/19/Dialogue
+\\C[1]「\\C[0]Huh? Oh, as both adventurers,
+I guess I'm flying all over the world now?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]一時は、
+　今俺たちが住んでる山奥の一軒家で、
+　子育てしてたらしいが\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/22/Dialogue
+\\C[1]「\\C[0]At one point, In a house in the mountains where we live
+now, I wish you were raising your child\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]母さんの産後の体調が元に戻ったら、
+　今度は俺も連れて三人で、
+　世界中を冒険する毎日だったよ\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/26/Dialogue
+\\C[1]「\\C[0]When my mother's postpartum physical condition returns,
+Next time I took with you three people, It was everyday to
+adventure all over the world\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっ…そうなの。
+　…随分個性的な両親だね\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/30/Dialogue
+\\C[29]「\\C[0]Oh ... that's right. ... It is quite a distinctive parents\\C[29]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]色々実戦形式で習ったからなぁ。
+　剣にしろ冒険にしろ…女にしろ\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/33/Dialogue
+\\C[1]「\\C[0]I learned it in various warfare forms.
+Be a sword or an adventure ... Woman\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それで俺が独り立ち出来る年になったら、
+　もう俺たちが教えられることは全部教えた。
+　後はお前一人で何とかしろって、置き手紙残してな\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/36/Dialogue
+\\C[1]「\\C[0]So when I can be independent,
+I taught everything we can teach. Later on I managed to do
+it by yourself, leave me the letter\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]多分面倒くさくなったんだろうな。
+　その後\\N[6]と出会うまで、
+　俺一人で適当に冒険者を続けてたわけだ\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/40/Dialogue
+\\C[1]「\\C[0]I guess it probably became troublesome.
+after that \\N[6] Until I met, It was that I kept
+adventurers properly by myself\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]へっ…へぇ…そんなことがあったんだ。
+　うん…\\N[1]のこと、少しわかった気がするよ\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/44/Dialogue
+\\C[29]「\\C[0]Hec ... Hey ... there was such a thing.
+Yup… \\N[1] I feel I understood it for a while\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「突然目の前の結界に穴が開いたと思ったら、
+　そこから大勢の淫魔が村に雪崩れ込んで来たんだ」
+> CONTEXT: Map178/events/7/pages/0/9/Dialogue
+「Suddenly when I thought that a hole had opened in the
+barrier in front of me, A lot of bad lucky crowns came into
+the village from there」#MTLed
+> END STRING
+
+> BEGIN STRING
+泉の中央から清らかな水が湧き出ている。
+> CONTEXT: Map178/events/8/pages/0/6/Dialogue
+Pure water gushes from the center of the fountain.#MTLed
+> END STRING

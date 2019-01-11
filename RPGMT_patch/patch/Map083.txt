@@ -1,0 +1,78 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+花の泉　東
+> CONTEXT: Map083/display_name/
+Fountain of Fountain East#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…あの柔らかそうなカラダ…たっ堪らん！」
+> CONTEXT: Map083/events/25/pages/0/7/Dialogue
+「Oh ... that kind of soft body ... I will not bear it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっ…もう我慢出来そうにない！
+　仲間が何人も搾り尽くされるのを見た！
+　そして皆が幸せそうな顔をして逝ったんだ！」
+> CONTEXT: Map083/events/25/pages/0/9/Dialogue
+「I ... have no more patience yet! I saw a lot of people
+collapsing my friends! And everyone passed away with a
+happy face!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ワシも味わいたいぞ！
+　いや！　味わわせてくれぇ！」
+> CONTEXT: Map083/events/25/pages/0/13/Dialogue
+「I want to taste the eagle too! Disagreeable! Please let
+me taste!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だっ…駄目だ！　流されてしまう！
+　いや…もう我慢の限界だぁ！　流されたいいぃ…！」
+> CONTEXT: Map083/events/25/pages/0/16/Dialogue
+「Well ... no! It will be swept away! No ... I can not
+resist it anymore! I want to be swept ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ひええぇ…せっかく名所を見に来たのに、
+　淫魔に囲まれてしまい、出るに出られないよ」
+> CONTEXT: Map083/events/27/pages/0/7/Dialogue
+「Hit ... I came to see the sights so much,
+I can not get out for getting out as it is surrounded by
+fantasies」#MTLed
+> END STRING
+
+> BEGIN STRING
+「幸いなことにこの場所は、
+　天使様によって守られているから、
+　淫魔は手が出せないようだけど」
+> CONTEXT: Map083/events/27/pages/0/10/Dialogue
+「Fortunately for this place, Because it is protected by an
+angel, I do not seem to be able to produce hands for 淫 魔」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それにいつまでもここにいるわけには…。
+　私の理性が保ちそうにありません！」
+> CONTEXT: Map083/events/27/pages/0/14/Dialogue
+「Besides, I am here forever .... My reason does not seem
+to be kept!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「滝の上にいる上級淫魔さえ何とかすれば、
+　脱出するチャンスが生まれるのですが」
+> CONTEXT: Map083/events/27/pages/0/17/Dialogue
+「Even senior superiors who are above the waterfall,
+somehow, I have a chance to escape」#MTLed
+> END STRING
+
+> BEGIN STRING
+幸せそうな顔をしながら、気を失っている…。
+> CONTEXT: Map083/events/28/pages/0/7/Dialogue
+While losing a happy face, I am distracted ....#MTLed
+> END STRING

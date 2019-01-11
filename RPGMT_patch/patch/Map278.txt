@@ -1,0 +1,128 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]見たことのある料理だが、
+　妙に甘ったるい香りがするな\\C[1]」
+> CONTEXT: Map278/events/1/pages/0/17/Dialogue
+\\C[1]「\\C[0]It is a dish that I have seen,
+Strangely sweet scent\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+一口だけ…
+> CONTEXT: Map278/events/1/pages/0/20/Choice/0
+Only a bite ...#MTLed
+> END STRING
+
+> BEGIN STRING
+止めておこう
+> CONTEXT: Map278/events/1/pages/0/20/Choice/1
+Let's stop it.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ひっ…一口だけなら\\C[1]」
+> CONTEXT: Map278/events/1/pages/0/22/Dialogue
+\\C[1]「\\C[0]If only ... a bite\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ちょっ…ちょっと！
+　困るよ！　一口だけでも食べてもらわないと！\\C[2]」
+> CONTEXT: Map278/events/1/pages/0/53/Dialogue
+\\C[2]「\\C[0]Hey ... Hey! I am in trouble! I have to eat even a bite!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]いや、
+　何となくだが危険な感じはしてたからな\\C[1]」
+> CONTEXT: Map278/events/1/pages/0/57/Dialogue
+\\C[1]「\\C[0]Disagreeable, Somehow I was feeling dangerous\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そっ…それじゃ、強引に…っていきたいところだけど、
+　お腹が空いてもう倒れそうだよ\\C[2]」
+> CONTEXT: Map278/events/1/pages/0/61/Dialogue
+\\C[2]「\\C[0]So ... well then, I would like to force ... ... but,
+I'm about to hurt when I am hungry\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]一生のお願いだよ！
+　手でも素股でも好きな方でシテあげるから、
+　お兄ちゃんの精を吸わせて！\\C[2]」
+> CONTEXT: Map278/events/1/pages/0/64/Dialogue
+\\C[2]「\\C[0]It's a lifetime request! I will give you citizens with
+whichever you like, even hands or bare feet,
+Let me suck your elder brother!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう今後一切人間を襲わないから！
+　ね？　ねっ？　良いでしょ？\\C[2]」
+> CONTEXT: Map278/events/1/pages/0/69/Dialogue
+\\C[2]「\\C[0]I will not attack any human beings at all!
+Is not it? Right? Is not that good?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+手で精をあげる
+> CONTEXT: Map278/events/1/pages/0/72/Choice/0
+Raise your hands with your hands#MTLed
+> END STRING
+
+> BEGIN STRING
+素股で精をあげる
+> CONTEXT: Map278/events/1/pages/0/72/Choice/1
+Raise your eyes with bare hands#MTLed
+> END STRING
+
+> BEGIN STRING
+断る
+> CONTEXT: Map278/events/1/pages/0/72/Choice/2
+turn down#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]いや、流石に無警戒のまま、
+　精を与えることは出来ない\\C[1]」
+> CONTEXT: Map278/events/1/pages/0/110/Dialogue
+\\C[1]「\\C[0]No, keeping it alarmless in fashionable stones,
+I can not give sperm\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それより、空腹だというなら、
+　さっさと淫界に帰ったほうが良い。
+　ここで俺が見逃しても、すぐに他のハンターが討伐に来るぞ\\C[1]」
+> CONTEXT: Map278/events/1/pages/0/113/Dialogue
+\\C[1]「\\C[0]In fact, if you say that you are hungry,
+You had better go back to the bad guys as quickly as
+possible. Even if I miss it here, other hunters will come
+to crush\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ぐぬぬ、やっぱりそれしかないかー。
+　人間界は十分に観光出来たし、引きどきかもね\\C[2]」
+> CONTEXT: Map278/events/1/pages/0/118/Dialogue
+\\C[2]「\\C[0]There is only it after all.
+The human world was able to tour sight enough, maybe it
+could be pulling off\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]うん、言いつけ通り淫界に帰ることにするよ。
+　親切に教えてくれてありがとう！\\C[2]」
+> CONTEXT: Map278/events/1/pages/0/122/Dialogue
+\\C[2]「\\C[0]Yes, I will decide to go back to the bad guys.
+Thank you for being kindly taught me!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]周囲の淫気も完全に消えてるし、
+　本当に帰ったようだな\\C[1]」
+> CONTEXT: Map278/events/1/pages/0/131/Dialogue
+\\C[1]「\\C[0]Their lusts are completely gone,
+You seem to have returned.\\C[1]」#MTLed
+> END STRING

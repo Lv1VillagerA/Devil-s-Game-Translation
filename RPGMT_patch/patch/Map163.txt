@@ -1,0 +1,20 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+B3 結界の要
+> CONTEXT: Map163/display_name/
+> CONTEXT: Map072/display_name/
+B3 The essence of the barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+扉は重く、とても開きそうにない。
+どうやら動力が送られていないようだ。
+> CONTEXT: Map163/events/2/pages/0/9/Dialogue
+> CONTEXT: Map072/events/7/pages/0/9/Dialogue
+> CONTEXT: Map070/events/27/pages/0/9/Dialogue
+> CONTEXT: Map071/events/12/pages/0/9/Dialogue
+> CONTEXT: Map063/events/25/pages/0/9/Dialogue
+> CONTEXT: Map062/events/32/pages/0/9/Dialogue
+The door is heavy, it does not seem very likely to open.
+Apparently it seems that power is not being sent.#MTLed
+> END STRING

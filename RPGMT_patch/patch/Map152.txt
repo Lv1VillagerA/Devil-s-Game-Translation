@@ -1,0 +1,68 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+娯楽部屋　２Ｆ
+> CONTEXT: Map152/display_name/
+Entertainment room 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+様々な遊具に混じって、謎の薬品がしまわれている。
+> CONTEXT: Map152/events/11/pages/1/7/Dialogue
+> CONTEXT: Map152/events/12/pages/1/7/Dialogue
+Mysterious medicines are gone, mixed in various playground
+equipment.#MTLed
+> END STRING
+
+> BEGIN STRING
+過去に館を訪れた人たちの荷物が埃をかぶっている。
+> CONTEXT: Map152/events/13/pages/0/7/Dialogue
+> CONTEXT: Map152/events/14/pages/0/7/Dialogue
+> CONTEXT: Map150/events/43/pages/0/7/Dialogue
+> CONTEXT: Map150/events/44/pages/0/7/Dialogue
+> CONTEXT: Map150/events/50/pages/0/7/Dialogue
+> CONTEXT: Map150/events/55/pages/0/7/Dialogue
+> CONTEXT: Map150/events/56/pages/0/7/Dialogue
+> CONTEXT: Map150/events/58/pages/0/7/Dialogue
+> CONTEXT: Map150/events/59/pages/0/7/Dialogue
+> CONTEXT: Map150/events/60/pages/0/7/Dialogue
+> CONTEXT: Map150/events/61/pages/0/7/Dialogue
+> CONTEXT: Map150/events/62/pages/0/7/Dialogue
+> CONTEXT: Map150/events/63/pages/0/7/Dialogue
+> CONTEXT: Map150/events/64/pages/0/7/Dialogue
+> CONTEXT: Map150/events/66/pages/0/7/Dialogue
+> CONTEXT: Map150/events/73/pages/0/7/Dialogue
+The baggage of those who visited the library in the past is
+wearing dust.#MTLed
+> END STRING
+
+> BEGIN STRING
+タンスの中には埃がつもっている。
+> CONTEXT: Map152/events/15/pages/0/7/Dialogue
+> CONTEXT: Map152/events/16/pages/0/7/Dialogue
+> CONTEXT: Map152/events/17/pages/0/7/Dialogue
+> CONTEXT: Map152/events/18/pages/0/7/Dialogue
+Dust is on the inside of the chest.#MTLed
+> END STRING
+
+> BEGIN STRING
+不気味な薬品が数多くしまわれている。
+> CONTEXT: Map152/events/19/pages/0/7/Dialogue
+> CONTEXT: Map152/events/20/pages/0/7/Dialogue
+> CONTEXT: Map152/events/21/pages/0/7/Dialogue
+> CONTEXT: Map152/events/22/pages/0/7/Dialogue
+A lot of eerie chemicals are stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+精奴隷の躾かたなどの本が並んでいる。
+> CONTEXT: Map152/events/33/pages/0/7/Dialogue
+> CONTEXT: Map152/events/34/pages/0/7/Dialogue
+Books such as how to discipline the slave are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+ご主人様と呼ばせるにはなどの本が並んでいる。
+> CONTEXT: Map152/events/35/pages/0/7/Dialogue
+> CONTEXT: Map152/events/36/pages/0/7/Dialogue
+There are books such as to call you master.#MTLed
+> END STRING

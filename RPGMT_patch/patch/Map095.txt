@@ -1,0 +1,252 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+山賊の頭の小屋
+> CONTEXT: Map095/display_name/
+Bandit's head cabin#MTLed
+> END STRING
+
+> BEGIN STRING
+「並みの淫気とは明らかに違いますわ！
+　間違いありません…上級淫魔ですわ！」
+> CONTEXT: Map095/events/4/pages/0/0/Dialogue
+「It is obviously different from the average dreadfulness!
+There is no mistake ... it is an advanced umami!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃは？　お前たちは誰にゃ？\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/11/Dialogue
+\\C[10]「\\C[0]Whoops? Who are you guys?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃぁ…人間の男とエルフの女…。
+　もしかして、お前たちが\\N[1]と\\N[6]かにゃ？\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/13/Dialogue
+\\C[10]「\\C[0]Huh ... Human man and Elf woman ....
+Perhaps you guys \\N[1] When \\N[6] Kannya?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]まっ…また私たちのこと、
+　どうして知ってるの？\\C[29]」
+> CONTEXT: Map095/events/4/pages/0/16/Dialogue
+\\C[29]「\\C[0]Makoto ... Also, about us,
+How do you know?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃははっ、やっぱりそうかにゃ！
+　淫女王様に聞いた通りだにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/21/Dialogue
+\\C[10]「\\C[0]Haha, I guess so! I heard the King of Himself\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]アタイは猫又の沙耶香にゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/24/Dialogue
+\\C[10]「\\C[0]I will have a cat named Sayaka\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]たちのことは、
+　淫魔の中で噂になってるにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/27/Dialogue
+\\C[10]「\\C[0]\\N[1] About us, I'm supposed to be a rumor in a
+bastard\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]噂だと？　…どういうことだ\\C[1]」
+> CONTEXT: Map095/events/4/pages/0/30/Dialogue
+\\C[1]「\\C[0]Rumor? …What does it mean\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]淫魔を狩れるだけの力を持った、
+　人間とエルフがいるってにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/34/Dialogue
+\\C[10]「\\C[0]Having the power to hunt the bastard,
+There is a person and an elf\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そんな\\N[1]たちを屈服させるのが、
+　今淫魔たちの中では最大の名誉だにゃ\\I[140]\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/37/Dialogue
+\\C[10]「\\C[0]Such \\N[1] It is the thing to succumb to,
+It is the greatest honor among the female demons now. \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]だから山賊たちを率いて、
+　手当たり次第に旅人を犯してれば、
+　向こうから来てくれると思ってたにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/40/Dialogue
+\\C[10]「\\C[0]So led the bandits, If you have committed a traveler at
+random, I thought that it came from over there\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あうぅ…じゃぁ…私たちはまんまと罠に…！\\C[29]」
+> CONTEXT: Map095/events/4/pages/0/44/Dialogue
+\\C[29]「\\C[0]Aw, ... well then ... we trap in ...!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃははっ！　そういうことだにゃ\\I[140]\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/46/Dialogue
+\\C[10]「\\C[0]Hahahah! That's it. \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]たちがどれだけ強いかは知らにゃいけど、
+　まさか上級淫魔に勝てるはずもないにゃ\\I[140]\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/48/Dialogue
+\\C[10]「\\C[0]\\N[1] I do not know how strong they are,
+There is no way that you can not beat the senior demonic \\I[140]\\C[10]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]さぁ行くにゃよ！
+　すぐアへらせてやるにゃ！\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/51/Dialogue
+\\C[10]「\\C[0]Here we go! I will let you get up soon!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「なっ…何とかなって良かったですわね」
+> CONTEXT: Map095/events/4/pages/1/11/Dialogue
+「Well ... It was good to be somehow」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん…沙耶香が油断していたおかげか、
+　辛うじて勝てた…のかな？\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/13/Dialogue
+\\C[29]「\\C[0]Yeah ... thanks to Sayaka's disappointment,
+I barely won ... could it be?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。だがこれからはもう、
+　上級淫魔でも油断はしてくれないだろうな\\C[1]」
+> CONTEXT: Map095/events/4/pages/1/16/Dialogue
+\\C[1]「\\C[0]That's right. But from now on,
+Even senior demorals will not give up.\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええ、上級淫魔を一度倒しただけなら、
+　まだ運が良かった程度で油断してくれますが、
+　流石に二度続けば…もう」
+> CONTEXT: Map095/events/4/pages/1/19/Dialogue
+「Yeah, if you just kill an advanced sorrow,
+Although I am careless with the extent that luck is still
+good, Continue twice on fluff ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これからは淫魔たちは本腰を入れて、
+　貴方たちを堕としに来るでしょう」
+> CONTEXT: Map095/events/4/pages/1/23/Dialogue
+「From now on, the devils put forward, I will come down to
+you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ともかく、お疲れ様ですわ。
+　もうこの大陸には上級淫魔の淫気は感じませんので、
+　しばらくはゆっくりすると良いですわ」
+> CONTEXT: Map095/events/4/pages/1/28/Dialogue
+「Anyway, thanks for your hard work. Since I do not feel
+sickness of senior demons anymore on this continent
+anymore, It is good to relax for a while」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっか…今の上級淫魔で最後だったんだ。
+　それで、次は何処に行けば良いの？\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/32/Dialogue
+\\C[29]「\\C[0]I see ... it was the last senior fancy now.
+So where should I go next?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええと、そうですわね。
+　今の状況ですと一番近いとはいえ、
+　まだ距離が離れ過ぎていて正確ではありませんが…」
+> CONTEXT: Map095/events/4/pages/1/35/Dialogue
+「Well, that's right. Although it is the closest in the
+current situation, Although distance is still too far away
+and it is not accurate ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここから南の方角…そう、海の向こうに、
+　上級淫魔の反応がありますわ」
+> CONTEXT: Map095/events/4/pages/1/39/Dialogue
+「From here towards the south ... Yes, across the sea,
+There is a reaction of senior demons」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうか。次は南か。
+　ともかく、次の大陸に着くまでの間は、
+　ゆっくり出来そうだな\\C[1]」
+> CONTEXT: Map095/events/4/pages/1/42/Dialogue
+\\C[1]「\\C[0]Really. Is next south? In any case, until you reach the
+next continent, I think I can do it slowly.\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]でも…南には…私、あんまり良い思い出が…\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/46/Dialogue
+\\C[29]「\\C[0]But ... in the south ... I have so much good memories ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「南に何かありますの？
+　ええと…確か南の大陸にはエルフの村と魔法都市、
+　…そして私が祀られている、大聖堂が有名でしたわね」
+> CONTEXT: Map095/events/4/pages/1/48/Dialogue
+「Is there something in the South? Um ... ... On the
+southern continent there are villages of elves and magic
+cities, ... and I was enshrined, the cathedral was famous」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああうん、あまり話すことでもないが、
+　\\N[6]はそっちで色々あってな\\C[1]」
+> CONTEXT: Map095/events/4/pages/1/52/Dialogue
+\\C[1]「\\C[0]Oh yeah, not to talk much, In case \\N[6] There are
+various things like that\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これは、天使として配慮が足りませんでしたわ。
+　\\N[6]ちゃん…傷ついてしまったのでしたら、
+　申し訳ありません。この通り、謝罪いたしますわ」
+> CONTEXT: Map095/events/4/pages/1/58/Dialogue
+「This was not enough consideration as an angel.
+In case \\N[6] Chan ... If it got hurt, I'm sorry.I'm
+sorry to apologize.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うっ…うん、別に気にしてないよ。
+　もうかなり昔のことだしね！
+　とにかく次の目的地も決まったことだし！\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/62/Dialogue
+\\C[29]「\\C[0]Oh ... yeah, I do not care about it.
+It's been a long time ago! Anyway the next destination is
+decided!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]元気出して行くよ！
+　えいえいおー！\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/67/Dialogue
+\\C[29]「\\C[0]I'll be fine! Eiyo!\\C[29]」#MTLed
+> END STRING

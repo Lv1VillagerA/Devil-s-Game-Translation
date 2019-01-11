@@ -1,0 +1,366 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]…\\N[6]！　コイツはヤバイ！
+　急いで転送石を…\\C[1]」
+> CONTEXT: Map007/events/7/pages/0/25/Dialogue
+\\C[1]「\\C[0]... \\N[6] ! This guy is awful!
+Hurry and transfer stones ...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]……\\N[6]？\\C[1]」
+> CONTEXT: Map007/events/7/pages/0/41/Dialogue
+\\C[1]「\\C[0]... .... \\N[6] What?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]…ふあぁ\\I[140]　何だかとても良い気分だよぉ\\I[140]\\C[29]」
+> CONTEXT: Map007/events/7/pages/0/47/Dialogue
+\\C[29]「\\C[0]... Fa \\I[140] I feel something very good \\I[140]\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふーん…そっちのエルフは、\\N[6]ちゃんって言うんだぁ。
+　良い娘だねーコッチにおいでよ～\\I[140]\\C[10]」
+> CONTEXT: Map007/events/7/pages/0/49/Dialogue
+\\C[10]「\\C[0]Hmmm ... Elf there, \\N[6] I say, chan.
+It is a good girl - come on in Kochi ~ \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]！　何処に行くんだ！　正気に戻れって！\\C[1]」
+> CONTEXT: Map007/events/7/pages/0/70/Dialogue
+\\C[1]「\\C[0]\\N[6] ! Where are you going! Let's get back to mind!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私…今ねぇ。最高に気持ち良いんだぁ\\I[140]
+　\\N[1]も一緒に行こうよぉ\\C[29]」
+> CONTEXT: Map007/events/7/pages/0/75/Dialogue
+\\C[29]「\\C[0]I ... right now. I feel comfortable at the highest \\I[140]
+In case \\N[1] Let's go together\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]でっ…そっちの男の人は\\N[1]って言うんだぁ。
+　ボクの魅了にここまで抗えるなんて、珍しいね\\I[140]\\C[10]」
+> CONTEXT: Map007/events/7/pages/0/80/Dialogue
+\\C[10]「\\C[0]Wow ... that guy's man is \\N[1] I say that.
+It is unusual to defeat my attraction so far \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]おい、お前！　\\N[6]をどうするつもりだ！\\C[1]」
+> CONTEXT: Map007/events/7/pages/0/85/Dialogue
+\\C[1]「\\C[0]Hey, you! In case \\N[6] I'm going to do!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もう、お前じゃないよ。ア・ニ・ス・\\I[140]
+　次からは、そっちで呼んで欲しいな～\\I[140]\\C[10]」
+> CONTEXT: Map007/events/7/pages/0/89/Dialogue
+\\C[10]「\\C[0]I'm not already you. anise· \\I[140]
+From next time, I'd like you to call me over there ~ \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[6]ちゃんは、
+　これからボクのお遊びに付き合ってもらうんだ～\\I[140]
+　じゃぁね～\\I[140]\\C[10]」
+> CONTEXT: Map007/events/7/pages/0/93/Dialogue
+\\C[10]「\\C[0]\\N[6] Chan. I'm going to go out for a while from now
+~ \\I[140]. See you. \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]まっ…待てっ！　アニス！\\C[1]」
+> CONTEXT: Map007/events/7/pages/0/98/Dialogue
+\\C[1]「\\C[0]Wait ... wait! Anise!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうそう、ボクたちはこの奥で遊んでるから、
+　\\N[6]ちゃんを助けたかったら、
+　後を追って来るんだね～\\I[140]\\C[10]」
+> CONTEXT: Map007/events/7/pages/0/120/Dialogue
+\\C[10]「\\C[0]Because we are playing around here,
+In case \\N[6] I wanted to help her, You are following
+the rest ~ \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もっとも、その淫魔を倒せたらだけど\\I[140]\\C[10]」
+> CONTEXT: Map007/events/7/pages/0/131/Dialogue
+\\C[10]「\\C[0]I wish I could defeat that bastard \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「くっ…！　一足遅かったですわ！
+　既にこの世界に実体化していたなんて！」
+> CONTEXT: Map007/events/7/pages/0/156/Dialogue
+「Come on ...! I was a bit late! It was already
+materialized in this world!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]なっ…お前は夢に出てきた天使！\\C[1]」
+> CONTEXT: Map007/events/7/pages/0/159/Dialogue
+\\C[1]「\\C[0]It is ... you are an angel who came out in a dream!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに天使ですが、私の名はナタリアですわ！
+　通称でなくちゃんと名前で！
+　っと…今はそれどころではありませんでしたわね」
+> CONTEXT: Map007/events/7/pages/0/162/Dialogue
+「Although it is an angel, my name is Natalia!
+Not a name but a proper name! Uh ... well it was not at the
+right now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「力を行使するには、まだ万全ではありませんが、
+　淫女王が現れた以上、
+　天使として出来る限り手助けさせてもらいますわ」
+> CONTEXT: Map007/events/7/pages/0/167/Dialogue
+「It is not yet complete to exercise power,
+As the King of Lady appeared, As an angel I will help you
+as much as I can」#MTLed
+> END STRING
+
+> BEGIN STRING
+「では重い鎧を外し、
+　私の後をついて来るのですわ」
+> CONTEXT: Map007/events/7/pages/0/171/Dialogue
+「Then remove the heavy armor, Follow me after me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ここが目的の鉱山か。
+　しかし…嫌な予感がするな\\C[1]」
+> CONTEXT: Map007/events/8/pages/0/7/Dialogue
+\\C[1]「\\C[0]Is this the target mine? But ... do not feel bad about it.\\C[1]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]何か周囲の空気が、
+　妙に甘ったるいというか\\C[1]」
+> CONTEXT: Map007/events/8/pages/0/10/Dialogue
+\\C[1]「\\C[0]Something's surrounding air,
+Or rather strangely sweet\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そう？　…私は何も感じないけど\\C[29]」
+> CONTEXT: Map007/events/8/pages/0/16/Dialogue
+\\C[29]「\\C[0]so? ... I do not feel anything\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それにもし本当に危険だと思ったら、
+　転送石を使えば脱出出来るし、問題ないよ\\C[29]」
+> CONTEXT: Map007/events/8/pages/0/20/Dialogue
+\\C[29]「\\C[0]Also, if you think that it is really dangerous,
+You can escape by using a transfer stone and there is no
+problem\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…重装備の状態では、
+　一方的に責められてしまう。
+　ここは、軽装でやるしかないか！\\C[1]」
+> CONTEXT: Map007/events/9/pages/1/8/Dialogue
+\\C[1]「\\C[0]... In the state of heavy equipment,
+It is unilaterally accused. Is there anything to do here in
+light clothing?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]よし…これで先に進めそうだ。
+　今は一刻も早く、\\N[6]を助けないと！\\C[1]」
+> CONTEXT: Map007/events/9/pages/2/6/Dialogue
+\\C[1]「\\C[0]Alright ... this is going to proceed further.
+As soon as possible, \\N[6] We must help!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あまり長くは実体化し続けられませんが、
+　\\N[6]ちゃんを助けるまでは、保たせてみせますわよ」
+> CONTEXT: Map007/events/11/pages/0/9/Dialogue
+「Although it can not continue materialization for too long,
+In case \\N[6] I can keep it until I help her」#MTLed
+> END STRING
+
+> BEGIN STRING
+チュートリアルを受ける
+> CONTEXT: Map007/events/11/pages/0/12/Choice/0
+Take the tutorial#MTLed
+> END STRING
+
+> BEGIN STRING
+回復してもらう
+> CONTEXT: Map007/events/11/pages/0/12/Choice/1
+Have it be recovered#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちなみにEnter、Escキーでメニューが開けますので、
+　\\N[1]の修得しているスキルを参考に、
+　対策を立てると良いですわ」
+> CONTEXT: Map007/events/11/pages/0/24/Dialogue
+> CONTEXT: Map007/events/11/pages/0/42/Dialogue
+> CONTEXT: Map007/events/11/pages/1/19/Dialogue
+「By the way, you can open the menu with Enter, Esc key,
+In case \\N[1] Based on the skill you are acquiring,
+It is good to take measures.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは、\\N[1]の行く道に幸あるよう、
+　ここで祈っていますわ\\I[140]」
+> CONTEXT: Map007/events/11/pages/0/28/Dialogue
+> CONTEXT: Map007/events/11/pages/0/46/Dialogue
+> CONTEXT: Map007/events/11/pages/0/68/Dialogue
+> CONTEXT: Map007/events/11/pages/1/23/Dialogue
+「Then, \\N[1] To be happy on the way to go,
+I pray here. \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これで淫魔に奪われた精力と理性は、
+　全て元通りですわよ」
+> CONTEXT: Map007/events/11/pages/0/39/Dialogue
+「Enthusiasm and reason, which was deprived by the demons
+by this, It's all restored」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは、\\N[1]の秘められた力を呼び覚ますため、
+　…少しの間目を閉じるのですわ」
+> CONTEXT: Map007/events/11/pages/0/54/Dialogue
+「Then, \\N[1] To awaken the secret power of
+... I close my eyes for a while」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちなみにEnter、Escキーでメニューが開けますので、
+　\\N[1]自身のことも色々調べてみると良いですわよ」
+> CONTEXT: Map007/events/11/pages/0/65/Dialogue
+「By the way, you can open the menu with Enter, Esc key,
+In case \\N[1] You should investigate yourself in
+various ways」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これで淫魔に奪われた精力と理性は、
+　全て元通りですわよ。
+　\\N[1]の転送がギリギリ間に合って良かったですわ」
+> CONTEXT: Map007/events/11/pages/1/11/Dialogue
+「Enthusiasm and reason, which was deprived by the demons
+by this, Everything is restored. In case \\N[1] I was
+glad that the transfer was just barely in time」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ただし私の目の届く所でなければ転送出来ずに、
+　淫魔に搾り尽くされてしまいますので、
+　注意…ですわよ！」
+> CONTEXT: Map007/events/11/pages/1/15/Dialogue
+「However, unless you can not transfer it unless it is a
+place where my eyes can reach, Because it will be squeezed
+by a horse female, Attention ... it is!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]なっ…坑道の外に出るはずだったのに…！\\C[1]」
+> CONTEXT: Map007/events/11/pages/2/7/Dialogue
+\\C[1]「\\C[0]Well ... It should have gone outside the tunnel ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「伝え忘れたことがあったので、
+　一時的に天使の力を行使させてもらいました」
+> CONTEXT: Map007/events/11/pages/2/10/Dialogue
+「Because I had forgotten to tell it, I had my angel
+exercise temporarily」#MTLed
+> END STRING
+
+> BEGIN STRING
+「時間がありませんの手近に説明いたしますが、
+　まず…連れ去られた\\N[6]ちゃんは無事ですわ」
+> CONTEXT: Map007/events/11/pages/2/17/Dialogue
+「I do not have time, but I will explain it closely,
+First ... was taken away \\N[6] My chan is safe.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも、今は…ですが、
+　一緒にいる淫女王が、
+　何もしないわけはありませんしね」
+> CONTEXT: Map007/events/11/pages/2/20/Dialogue
+「Although it is now ... but, The lady king, who is
+together, There is no reason not to do anything」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私の現界も時間切れは間近ですし、
+　現在淫女王に一番近い位置にいる適格者は、
+　\\N[1]ただ一人だけですわ」
+> CONTEXT: Map007/events/11/pages/2/26/Dialogue
+「My current time is too close to time, A qualified person
+who is currently closest to the virgin king,
+In case \\N[1] It's only one person.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「他の適格者を呼ぼうにも、
+　ここに来るには時間がかかり過ぎて…」
+> CONTEXT: Map007/events/11/pages/2/34/Dialogue
+「In order to call other qualified persons,
+It takes too much time to come here ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「天使の私が人間に頼み事では、
+　本末転倒かと思いますが、
+　今は\\N[1]に頼るしかありませんの」
+> CONTEXT: Map007/events/11/pages/2/39/Dialogue
+「In asking for human beings of angels, I think whether it
+is a headache, now \\N[1] I have no choice but to rely
+on」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そしてこれがもっとも重要なのですが、
+　今後はマイホームか冒険者ギルドのベッドから、
+　\\N[1]のＬｖアップを行うことが出来ますわ」
+> CONTEXT: Map007/events/11/pages/2/43/Dialogue
+「And this is the most important thing, In the future from
+my bed or adventurer guild bed, In case \\N[1] I can do
+Lv up of」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうか\\N[6]ちゃんを助け、
+　そして淫女王の実験を止めて…」
+> CONTEXT: Map007/events/11/pages/2/50/Dialogue
+「please ~ \\N[6] Helping Chan, And stop the experiment
+of King Hound ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]まずは、この出来事をギルドに報告。
+　そして\\N[6]の捜索。ナタリアの頼みを聞くかどうかは、
+　…その後の状況次第だな\\C[1]」
+> CONTEXT: Map007/events/11/pages/2/66/Dialogue
+\\C[1]「\\C[0]First of all, report this incident to the guild.
+And \\N[6] Search.Whether to listen to Natalia's
+request, ... depending on the situation afterwards\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+炭鉱調査依頼料　1000魔貨を手に入れた。
+> CONTEXT: Map007/events/11/pages/2/92/Dialogue
+I got a coin mine survey request fee 1000 curse.#MTLed
+> END STRING

@@ -1,0 +1,66 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自室
+> CONTEXT: Map047/display_name/
+Your room#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険や雑学に関する本が乱雑に並んでいる。
+> CONTEXT: Map047/events/5/pages/0/6/Dialogue
+> CONTEXT: Map047/events/6/pages/0/6/Dialogue
+Books on adventure and miscellaneous are lined up in
+disorder.#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔との戦闘に関する本を読みますか？
+> CONTEXT: Map047/events/5/pages/1/6/Dialogue
+Do you read books on battle with devils?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]と\\N[6]の名前を自由に変更することが出来る。
+変えますか？
+> CONTEXT: Map047/events/8/pages/0/6/Dialogue
+> CONTEXT: Map001/events/8/pages/0/6/Dialogue
+\\N[1] When \\N[6] You can freely change the name
+of. Can you change it?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]の名前を変える
+> CONTEXT: Map047/events/8/pages/0/9/Choice/0
+> CONTEXT: Map001/events/8/pages/0/9/Choice/0
+\\N[1] Change the name of#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[6]の名前を変える
+> CONTEXT: Map047/events/8/pages/0/9/Choice/1
+> CONTEXT: Map001/events/8/pages/0/9/Choice/1
+\\N[6] Change the name of#MTLed
+> END STRING
+
+> BEGIN STRING
+名前を変えない
+> CONTEXT: Map047/events/8/pages/0/9/Choice/2
+> CONTEXT: Map001/events/8/pages/0/9/Choice/2
+Do not change the name#MTLed
+> END STRING
+
+> BEGIN STRING
+傷の治りを早くする薬や、
+毒の治療薬などが乱雑に並んでいる。
+> CONTEXT: Map047/events/9/pages/1/6/Dialogue
+Medicine to speed up healing of wounds, The medications for
+poison etc. are lined up in disorder.#MTLed
+> END STRING
+
+> BEGIN STRING
+荒事に必要になる予備の武器や防具が、
+乱雑に押し込められている。
+> CONTEXT: Map047/events/15/pages/0/6/Dialogue
+Preliminary weapons and armor which are necessary for the
+troubles, It is confined to clutter.#MTLed
+> END STRING

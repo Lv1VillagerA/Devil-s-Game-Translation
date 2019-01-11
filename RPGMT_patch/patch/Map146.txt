@@ -1,0 +1,62 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+使用人部屋　１Ｆ
+> CONTEXT: Map146/display_name/
+Employee room 1F#MTLed
+> END STRING
+
+> BEGIN STRING
+館の使用人たちの支給服がしまわれている。
+> CONTEXT: Map146/events/7/pages/1/7/Dialogue
+> CONTEXT: Map146/events/8/pages/1/7/Dialogue
+Supplied clothes of the servants of the museum are stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+調理器具一式が綺麗にしまわれている。
+> CONTEXT: Map146/events/9/pages/0/7/Dialogue
+> CONTEXT: Map146/events/10/pages/0/7/Dialogue
+> CONTEXT: Map145/events/10/pages/0/7/Dialogue
+> CONTEXT: Map145/events/11/pages/0/7/Dialogue
+> CONTEXT: Map145/events/12/pages/0/7/Dialogue
+> CONTEXT: Map145/events/13/pages/0/7/Dialogue
+The set of cooking utensils are beautifully restored.#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドの嗜みなど、屋敷の管理に関する本が並んでいる。
+> CONTEXT: Map146/events/11/pages/0/7/Dialogue
+> CONTEXT: Map146/events/12/pages/0/7/Dialogue
+Books on management of the mansion, such as maid's taste,
+are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドの手管で男を堕とせ…という本が並んでいる。
+> CONTEXT: Map146/events/13/pages/0/7/Dialogue
+> CONTEXT: Map146/events/14/pages/0/7/Dialogue
+> CONTEXT: Map146/events/23/pages/0/7/Dialogue
+The book titled "Men's falling down with maid's hands ..."
+is lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+殆ど用途不明の薬品がしまわれている。
+> CONTEXT: Map146/events/15/pages/0/7/Dialogue
+> CONTEXT: Map146/events/16/pages/0/7/Dialogue
+Mostly unknown chemicals are stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+女物のブラジャーやパンティなどがしまわれている。
+> CONTEXT: Map146/events/19/pages/0/7/Dialogue
+> CONTEXT: Map146/events/20/pages/0/7/Dialogue
+Women's bra and panties are being torn down.#MTLed
+> END STRING
+
+> BEGIN STRING
+女物の支給服一式などがしまわれている。
+> CONTEXT: Map146/events/21/pages/0/7/Dialogue
+> CONTEXT: Map146/events/22/pages/0/7/Dialogue
+A set of women 's dedicated clothes etc are stored.#MTLed
+> END STRING

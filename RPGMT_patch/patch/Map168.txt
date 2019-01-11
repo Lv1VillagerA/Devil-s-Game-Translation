@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　６Ｆ
+> CONTEXT: Map168/display_name/
+Sealed tower 6F#MTLed
+> END STRING

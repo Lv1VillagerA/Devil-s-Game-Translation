@@ -1,0 +1,58 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+西の牢屋
+> CONTEXT: Map053/display_name/
+Western prison#MTLed
+> END STRING
+
+> BEGIN STRING
+「あひっ…淫魔には…屈しないいっ\\I[140]
+　そんなとこ…舐めにゃいでえぇ\\I[140]」
+> CONTEXT: Map053/events/7/pages/0/6/Dialogue
+「Uh ... Do not give in to fuckers ... I will not yield \\I[140]
+Such a point ... licking me yeah yeah \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふふふっ…必死に強がっちゃって…\\I[140]
+　ほらっ…天使様への祈りはどうしたのかしら\\I[140]\\C[10]」
+> CONTEXT: Map053/events/7/pages/0/9/Dialogue
+\\C[10]「\\C[0]Heh he ... desperately desperately struggling ... \\I[140]
+See, what happened to the prayer to the angel? \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「天使様…どっ…どうか邪悪な淫魔にいいぃ\\I[140]
+　てっ…鉄槌…あひいいっ\\I[140]」
+> CONTEXT: Map053/events/7/pages/0/12/Dialogue
+「Angel-sama ... Well ... please do not be an evil fortune
+\\I[140]. Tang ... Hammer ... Ahuiiitto \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]本当は舐められて嬉しいくせに…\\I[140]
+　ほらほらぁ…天使様に祈らないと、
+　もう敏感なココ…舐めてあげないわよぉ\\I[140]\\C[10]」
+> CONTEXT: Map053/events/7/pages/0/15/Dialogue
+\\C[10]「\\C[0]Actually I'm glad I was licked ... \\I[140]
+Hey baby ... I have to pray to the angel,
+I am already sensitive Coco ... I will not lick you \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「なっ…舐めてくだしゃいぃ…いっぱい…いっぱい…\\I[140]
+　天使様に…エッチな祈りを、
+　いっぱい捧げるましゅかりゃあぁ\\I[140]」
+> CONTEXT: Map053/events/7/pages/0/19/Dialogue
+「Lick ... Lick it ... a lot ... a lot ... \\I[140]
+To the angel ... ... sorry prayers, I will give it a lot \\I[140]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふふふっ、それで良いわ。
+　全ては淫女王様の思うがままに\\I[140]\\C[10]」
+> CONTEXT: Map053/events/7/pages/0/23/Dialogue
+\\C[10]「\\C[0]Hehuhuu, that's fine. All as it is thought of the
+hilarious king \\I[140]\\C[10]」#MTLed
+> END STRING

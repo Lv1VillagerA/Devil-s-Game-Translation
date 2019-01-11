@@ -1,0 +1,280 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+トウヤ
+> CONTEXT: Actors/1/name/
+Touya#MTLed
+> END STRING
+
+> BEGIN STRING
+それなりに腕のたつ、ベテランの冒険者。
+> CONTEXT: Actors/1/description/
+As it is, it's a veteran adventurer.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+装備値オール１
+> CONTEXT: Actors/3/name/
+Equipment value all 1#MTLed
+> END STRING
+
+> BEGIN STRING
+リーザ
+> CONTEXT: Actors/6/name/
+Riesa#MTLed
+> END STRING
+
+> BEGIN STRING
+まだまだ駆け出しの新米冒険者。
+> CONTEXT: Actors/6/description/
+A new-born adventurer who is still running.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+長編従魔２
+> CONTEXT: Actors/7/name/
+Long-story devil 2#MTLed
+> END STRING
+
+> BEGIN STRING
+★敵名前
+> CONTEXT: Actors/9/name/
+★ enemy name#MTLed
+> END STRING
+
+> BEGIN STRING
+基本的に文章に引用する様々な敵の名前とステータス処理用
+Ａ　Ｂのかわりに行動表示があるのでＡＢは必要ない
+> CONTEXT: Actors/9/description/
+\\}Basically for quoting sentences for various enemy names and status processing
+AB is not necessary because there is an action display instead of A B#MTLed
+> END STRING
+
+> BEGIN STRING
+長編　敵２
+> CONTEXT: Actors/10/name/
+Feathered enemy 2#MTLed
+> END STRING
+
+> BEGIN STRING
+自動回復％
+> CONTEXT: Actors/11/name/
+Auto recovery%#MTLed
+> END STRING
+
+> BEGIN STRING
+Ａ　行動
+> CONTEXT: Actors/12/name/
+A behavior#MTLed
+> END STRING
+
+> BEGIN STRING
+行動前　単体　待機　複数　待
+行動後　単体　攻撃　必殺　複数　攻　必　連携
+> CONTEXT: Actors/12/description/
+> CONTEXT: Actors/13/description/
+> CONTEXT: Actors/14/description/
+> CONTEXT: Actors/68/description/
+> CONTEXT: Actors/69/description/
+> CONTEXT: Actors/70/description/
+Standby multiple times before action. Attack single attack
+after actions Multiple attack required collaboration#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｂ　行動
+> CONTEXT: Actors/13/name/
+B Behavior#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｃ　行動
+> CONTEXT: Actors/14/name/
+C behavior#MTLed
+> END STRING
+
+> BEGIN STRING
+装備スキル１
+> CONTEXT: Actors/16/name/
+Equipment skill 1#MTLed
+> END STRING
+
+> BEGIN STRING
+装備スキル２
+> CONTEXT: Actors/17/name/
+Equipment skill 2#MTLed
+> END STRING
+
+> BEGIN STRING
+装備スキル３
+> CONTEXT: Actors/18/name/
+Equipment skill 3#MTLed
+> END STRING
+
+> BEGIN STRING
+装備スキル４
+> CONTEXT: Actors/19/name/
+Equipment skill 4#MTLed
+> END STRING
+
+> BEGIN STRING
+１つ目上級カード
+> CONTEXT: Actors/21/name/
+1st advanced card#MTLed
+> END STRING
+
+> BEGIN STRING
+２つ目上級カード
+> CONTEXT: Actors/22/name/
+Second Advanced Card#MTLed
+> END STRING
+
+> BEGIN STRING
+保留
+> CONTEXT: Actors/23/description/
+on hold
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+１つ目カード
+> CONTEXT: Actors/24/name/
+1st card#MTLed
+> END STRING
+
+> BEGIN STRING
+２つ目カード
+> CONTEXT: Actors/25/name/
+Second card#MTLed
+> END STRING
+
+> BEGIN STRING
+３つ目カード
+> CONTEXT: Actors/26/name/
+Third card#MTLed
+> END STRING
+
+> BEGIN STRING
+カード名
+> CONTEXT: Actors/27/name/
+> CONTEXT: Actors/28/name/
+> CONTEXT: Actors/29/name/
+Card name#MTLed
+> END STRING
+
+> BEGIN STRING
+スキル強化
+> CONTEXT: Actors/31/name/
+> CONTEXT: Actors/32/name/
+> CONTEXT: Actors/33/name/
+> CONTEXT: Actors/34/name/
+> CONTEXT: Actors/35/name/
+> CONTEXT: Actors/36/name/
+> CONTEXT: Actors/37/name/
+> CONTEXT: Actors/38/name/
+> CONTEXT: Actors/39/name/
+> CONTEXT: Actors/40/name/
+> CONTEXT: Actors/41/name/
+> CONTEXT: Actors/42/name/
+> CONTEXT: Actors/43/name/
+> CONTEXT: Actors/44/name/
+> CONTEXT: Actors/45/name/
+> CONTEXT: Actors/46/name/
+> CONTEXT: Actors/47/name/
+> CONTEXT: Actors/48/name/
+> CONTEXT: Actors/49/name/
+> CONTEXT: Actors/50/name/
+> CONTEXT: Actors/51/name/
+Strengthen skills#MTLed
+> END STRING
+
+> BEGIN STRING
+Lv不足
+> CONTEXT: Actors/54/name/
+Lv shortage#MTLed
+> END STRING
+
+> BEGIN STRING
+ギルドの魔貨以外
+> CONTEXT: Actors/55/name/
+Out of guild wagon#MTLed
+> END STRING
+
+> BEGIN STRING
+ギルドランク
+> CONTEXT: Actors/56/name/
+Guild rank#MTLed
+> END STRING
+
+> BEGIN STRING
+主人公　行動
+> CONTEXT: Actors/65/name/
+Hero behavior#MTLed
+> END STRING
+
+> BEGIN STRING
+エルフ　行動
+> CONTEXT: Actors/66/name/
+Elf behavior#MTLed
+> END STRING
+
+> BEGIN STRING
+左　名前
+> CONTEXT: Actors/68/name/
+Left name#MTLed
+> END STRING
+
+> BEGIN STRING
+中央　名前
+> CONTEXT: Actors/69/name/
+Central name#MTLed
+> END STRING
+
+> BEGIN STRING
+右　名前
+> CONTEXT: Actors/70/name/
+Right name#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘敵ステ付加用キャラ
+> CONTEXT: Actors/75/name/
+Battle enemy stealing addition character#MTLed
+> END STRING
+
+> BEGIN STRING
+敵１淫核Ｄ
+> CONTEXT: Actors/77/name/
+Enemy 1 Pussy D#MTLed
+> END STRING
+
+> BEGIN STRING
+敵２淫核Ｄ
+> CONTEXT: Actors/78/name/
+Enemy 2 Horny D: D#MTLed
+> END STRING
+
+> BEGIN STRING
+胸　警戒値
+> CONTEXT: Actors/81/name/
+Chest alert value#MTLed
+> END STRING
+
+> BEGIN STRING
+尻　警戒値
+> CONTEXT: Actors/82/name/
+Ass Alert Value#MTLed
+> END STRING
+
+> BEGIN STRING
+膣　警戒値
+> CONTEXT: Actors/83/name/
+Vaginal alert value#MTLed
+> END STRING
+
+> BEGIN STRING
+唇　警戒値
+> CONTEXT: Actors/84/name/
+Lip alert value#MTLed
+> END STRING

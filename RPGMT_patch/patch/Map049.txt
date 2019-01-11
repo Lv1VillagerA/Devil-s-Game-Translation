@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「それでは、…次の方どうぞですわ」
+> CONTEXT: Map049/events/1/pages/0/16/Dialogue
+「Well then ... ... Next person」#MTLed
+> END STRING

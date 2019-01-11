@@ -1,0 +1,286 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大聖堂　４Ｆ
+> CONTEXT: Map155/display_name/
+Cathedral 4F#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]やっぱり、
+　マリーダの言った通りだったよ\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/25/Dialogue
+\\C[10]「\\C[0]After all, It was just as Marida said\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]天使は世界中の人々の祈りによって、
+　始めて現界することが出来る\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/28/Dialogue
+\\C[10]「\\C[0]Angels are prayed by people's prayers all over the world,
+I can do it for the first time\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ならば、天使に祈りを捧げる人間たちを皆、
+　魔性の快楽で堕落させれば…\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/33/Dialogue
+\\C[10]「\\C[0]Then, all the humans who pray to angels,
+If you degenerate with magical pleasure ...\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]穢れ無き天使の魂は、
+　現界した瞬間に淫らな肉体を得る\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/36/Dialogue
+\\C[10]「\\C[0]The spirit of an unspoiled angel,
+Get a nasty flesh at the moment of the reality\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]当然精神は肉体に引き寄せられる。
+　あたかも人間の女が淫魔の与える快楽で、
+　淫らに堕ちていくように……だっけ？\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/39/Dialogue
+\\C[10]「\\C[0]Of course the spirit is drawn to the body.
+It is as if a human woman gives pleasures by a demon,
+As if it fells naughtily ... Is it alright?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]でもそのマリーダが倒されたのは、
+　ちょっと予想外だったね。
+　上級淫魔の復活って時間かかるんだよね～\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/45/Dialogue
+\\C[10]「\\C[0]But that Marida was knocked down,
+It was a bit unexpected. It takes time to resurrect senior
+demons ~\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]どちらにせよ、
+　人間たちの切り札はもうお終いだし、
+　ボクたち淫魔の勝利は確定だよ\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/49/Dialogue
+\\C[10]「\\C[0]anyway, The trump cards of humans are over,
+Our victory is definite\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]二百年前のようにはいかないんだから！
+　…ということで、後の処理はよろしくね。
+　堕ちた天使…ナタリアちゃん\\I[140]\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/55/Dialogue
+\\C[10]「\\C[0]It will not be like 200 years ago!
+... so please handle it later. Fallen angel ... Natalia
+chan \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]はい、淫女王様。
+　後のことは全て、堕天使ナタリアに、
+　お任せくださいですわ\\I[140]\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/64/Dialogue
+\\C[10]「\\C[0]Yes, King of Himself. After all, to fallen angel Natalia,
+Please leave it to me. \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]お久しぶり…というには、
+　それ程時間は過ぎていませんわね\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/83/Dialogue
+\\C[10]「\\C[0]Long time no see ... to say,
+It's not too long\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]私、淫女王様の考えに共感しましたの。
+　いいえ…真実の愛に目覚めたと言って良いですわね\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/88/Dialogue
+\\C[10]「\\C[0]I sympathized with the idea of ​​a hilarious king.
+No ... I can say that I woke up to the truth love\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]これから生まれ変わった私が、
+　真実の愛で\\N[1]の身も心も、
+　全てを包み込んであげますわよ\\I[140]\\C[10]」
+> CONTEXT: Map155/events/6/pages/0/93/Dialogue
+\\C[10]「\\C[0]I am reborn from now, With true love \\N[1] Body and
+mind, I'll give you everything \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こっ…この…私としたことが…何という失態を…！」
+> CONTEXT: Map155/events/6/pages/1/8/Dialogue
+「Here ... this ... what I did with ... What a blunder ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もうご存知かもしれませんが、
+　淫女王アニスは二百年程前にも、
+　この世界を支配しようとしましたのよ」
+> CONTEXT: Map155/events/6/pages/1/10/Dialogue
+「As you may already know, Ancient gangster king Ann, even
+two hundred years ago, I tried to dominate this world」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その時は人間とエルフ、
+　そして世界中の方々の純粋な祈りで、
+　私は完全な状態で現界することが出来ましたの」
+> CONTEXT: Map155/events/6/pages/1/14/Dialogue
+「At that time human beings and elves, And with the purest
+prayers of all over the world, I was able to do it in
+perfect condition」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そして全ての力を使い、
+　淫女王アニスを元の世界へと押し返し、
+　この世界そのものに結界を張りましたの」
+> CONTEXT: Map155/events/6/pages/1/18/Dialogue
+「And with all the power, Pushing the King of Anime to the
+original world, I got a barrier to this world itself」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]へぇ…そんなすごい天使だったんだぁ。
+　少し見直したよ\\C[29]」
+> CONTEXT: Map155/events/6/pages/1/25/Dialogue
+\\C[29]「\\C[0]Wow ... that was such an amazing angel.
+I reviewed a bit.\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「見直していただいた後で申し訳ないのですが、
+　もうその手段は使えなくなりましたの」
+> CONTEXT: Map155/events/6/pages/1/31/Dialogue
+「I am sorry after reviewing it, I can no longer use that
+means」#MTLed
+> END STRING
+
+> BEGIN STRING
+「先ほど\\N[1]に倒されてしまいましたので、
+　再び完全な状態で現界するには、
+　祈りの力を、もう一度溜めなおさなければいけませんの」
+> CONTEXT: Map155/events/6/pages/1/34/Dialogue
+「Earlier \\N[1] Because I was knocked down,
+To reintroduce it in perfect condition again,
+I have to accumulate the power of prayer again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それって…俺が悪い…のか？\\C[1]」
+> CONTEXT: Map155/events/6/pages/1/38/Dialogue
+\\C[1]「\\C[0]Is that ... I am bad ...?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いえ、むしろ\\N[1]のおかげで助かったと言えますわ。
+　堕天使としての私はもはや、
+　淫女王クラスと言っても、過言ではありませんでしたし」
+> CONTEXT: Map155/events/6/pages/1/43/Dialogue
+「No, rather \\N[1] I can say that it was saved thanks
+to. As a fallen angel I no longer, It is not an
+exaggeration to say that it is a virgin king class」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ですが、まだ希望は残されていますわ。
+　淫女王アニスさえ倒してしまえば、
+　他の淫魔もこの世界での実体化は不可能になりますの」
+> CONTEXT: Map155/events/6/pages/1/47/Dialogue
+「However, hope is still left. Once you defeat the virgin
+king Anise, Other instincts will become impossible in this
+world realization」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もう既に、世界中の適格者には連絡済みですわ。
+　この世界の危機のことも、アニスの向かった先のことも」
+> CONTEXT: Map155/events/6/pages/1/54/Dialogue
+「I already have contacted qualified people all over the
+world. As for the crisis of this world, the things before
+Anise」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]アニスの向かった先？
+　それはいったい何処なんだ？\\C[1]」
+> CONTEXT: Map155/events/6/pages/1/57/Dialogue
+\\C[1]「\\C[0]Is the destination where Anise headed?
+Where on earth is it?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「大聖堂から南の、封印の塔ですわ。
+　そこはかつて世界中の人々が集い、
+　淫魔と戦った拠点の一つでしたのよ」
+> CONTEXT: Map155/events/6/pages/1/60/Dialogue
+「It is a seal tower in the south from the cathedral.
+People from all over the world gathered there,
+It was one of the bases you fought against a fantasy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「アニスはそこで、
+　塔に蓄えられている膨大な魔力を全て淫気に変え、
+　世界中に撒き散らすつもりですわ」
+> CONTEXT: Map155/events/6/pages/1/64/Dialogue
+「Anise is there, Changing all the enormous magical power
+stored in the tower into lasciviousness,
+I'm going to scatter around the world」#MTLed
+> END STRING
+
+> BEGIN STRING
+「二百年前は世界中の人々を結界の中に避難させ、
+　その間にアニスを押し返すことで何とか防げましたが、
+　今の私の力では…もう」
+> CONTEXT: Map155/events/6/pages/1/71/Dialogue
+「Two hundred years ago, people around the world were
+evacuated into the barrier, In the meantime I managed to
+prevent it by pushing back the anise, With my power now ...
+already」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それじゃ\\N[1]、
+　他の適格者さんたちに任せっきりは悪いし、
+　私たちも向かったほうが良さそうだね\\C[29]」
+> CONTEXT: Map155/events/6/pages/1/75/Dialogue
+\\C[29]「\\C[0]Well then \\N[1] , It is bad to leave it to other
+qualified people, It seems better for us to go\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、何としてもアニスの計画を止めるぞ！\\C[1]」
+> CONTEXT: Map155/events/6/pages/1/79/Dialogue
+\\C[1]「\\C[0]Oh, I will stop plans for Anise anyhow!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「お願いいたしますわ。
+　こうなってはもう\\N[1]や\\N[6]ちゃんのような、
+　淫魔と戦える適格者だけが頼りですの」
+> CONTEXT: Map155/events/6/pages/1/81/Dialogue
+「Thank you. It is no longer like this \\N[1] Ya
+\\N[6] Like a chan, Only qualified people who can fight
+against bad guys are reliable」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ですがその前に、途中の魔法都市で、
+　一度準備を整えることをオススメしますわ」
+> CONTEXT: Map155/events/6/pages/1/88/Dialogue
+「But before that, in the magical city on the way,
+I recommend you to prepare once」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろ、世界の命運がかかった。いわば最終決戦ですので、
+　準備は万全にしておいて、損はありませんわ」
+> CONTEXT: Map155/events/6/pages/1/92/Dialogue
+「Anyway, the fate of the world took.It is, so to speak,
+the final battlefield, Prepare thoroughly, there is no loss
+」#MTLed
+> END STRING

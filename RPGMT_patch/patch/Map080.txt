@@ -1,0 +1,45 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+花の泉　西
+> CONTEXT: Map080/display_name/
+Flower fountain West#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]、\\N[6]ちゃん。
+　下級淫魔が相手でも、油断してはいけませんわよ」
+> CONTEXT: Map080/events/34/pages/0/7/Dialogue
+「\\N[1] , \\N[6] Chan. Even if you are a lower
+ranking female player, you must not take care of yourself」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]んっ…うん、
+　私にとっては初めての実戦だしね\\C[29]」
+> CONTEXT: Map080/events/34/pages/0/12/Dialogue
+\\C[29]「\\C[0]Huh ... yeah, It's my first real fight for me\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、危険だと思ったら無理に戦わず、
+　サポートに回ってくれれば良い。
+　頼りにしてるぞ。\\N[6]\\C[1]」
+> CONTEXT: Map080/events/34/pages/0/15/Dialogue
+\\C[1]「\\C[0]Oh, if you think it is dangerous,
+It only has to go to support. I'm counting on you.
+\\N[6]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]大丈夫だよ！　任せて！\\C[29]」
+> CONTEXT: Map080/events/34/pages/0/21/Dialogue
+\\C[29]「\\C[0]It's okay! Leave it to me!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは行きますわよ。
+　目指すは最奥の淫女王…もしくは、上級淫魔ですわ」
+> CONTEXT: Map080/events/34/pages/0/24/Dialogue
+「Well then it will be. Aiming is the innermost licking
+horse ... Or, it is an advanced umami」#MTLed
+> END STRING

@@ -1,0 +1,78 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「はぁ…やっぱり外の世界が気になるわ」
+> CONTEXT: Map134/events/4/pages/0/6/Dialogue
+「Haa ... after all I am concerned about the outside world」#MTLed
+> END STRING
+
+> BEGIN STRING
+「前にこの家に住んでたエルフの私物で、
+　人間の英雄とエルフの姫の物語を読んじゃえばね」
+> CONTEXT: Map134/events/4/pages/0/8/Dialogue
+「In the personal property of the elves who lived in this
+house before, If you read the story of a human hero and an
+elven princess」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あの…それ私の本…やっぱり、何でもない\\C[29]」
+> CONTEXT: Map134/events/4/pages/0/12/Dialogue
+\\C[29]「\\C[0]Um ... that's my book ... after all, nothing\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「村のエルフたちは、
+　年若いエルフがかかる一種の病気だって馬鹿にするけど、
+　そんな戯言じゃ私は止められないわよ」
+> CONTEXT: Map134/events/4/pages/0/14/Dialogue
+「The elves of the village, I make a fool of being a kind
+of illness that a young elven is a year,
+I can not stop by that kind of talk.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「絶対にいつか、外の世界に行ってやるんだから！」
+> CONTEXT: Map134/events/4/pages/0/18/Dialogue
+「Absolutely one day, I will go to the outside world!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自然素材で作られた色々な薬品がしまわれている。
+> CONTEXT: Map134/events/5/pages/1/6/Dialogue
+> CONTEXT: Map134/events/6/pages/1/6/Dialogue
+Various chemicals made of natural materials are gathered.#MTLed
+> END STRING
+
+> BEGIN STRING
+人間の文字とは違う文字で書かれた本が並んでいるが、
+中には見覚えのある有名な絵本も紛れている。
+> CONTEXT: Map134/events/7/pages/0/6/Dialogue
+> CONTEXT: Map134/events/8/pages/0/6/Dialogue
+Although books written with characters different from human
+characters are lined up, Some familiar familiar picture
+books familiar with it are also misunderstood.#MTLed
+> END STRING
+
+> BEGIN STRING
+自然素材のみの衣服が丁寧にたたまれている。
+> CONTEXT: Map134/events/9/pages/0/6/Dialogue
+> CONTEXT: Map134/events/10/pages/0/6/Dialogue
+> CONTEXT: Map133/events/10/pages/0/6/Dialogue
+> CONTEXT: Map133/events/11/pages/0/6/Dialogue
+> CONTEXT: Map132/events/13/pages/0/6/Dialogue
+> CONTEXT: Map132/events/14/pages/0/6/Dialogue
+Garments of only natural materials are gathered carefully.#MTLed
+> END STRING
+
+> BEGIN STRING
+木で作られた小道具が色々としまわれている。
+> CONTEXT: Map134/events/11/pages/0/6/Dialogue
+> CONTEXT: Map134/events/12/pages/0/6/Dialogue
+The props made of wood are stuffed in various ways.#MTLed
+> END STRING
+
+> BEGIN STRING
+果実酒などの飲み物がきちんとしまわれている。
+> CONTEXT: Map134/events/13/pages/0/6/Dialogue
+Drinks such as fruit liquor are stored properly.#MTLed
+> END STRING

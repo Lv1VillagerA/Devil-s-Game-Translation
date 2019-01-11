@@ -1,0 +1,224 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+一等船室
+> CONTEXT: Map105/display_name/
+> CONTEXT: Map009/display_name/
+First cabin#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ふぅ…とはいえ、
+　いくら一等客室だとしてもだ\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/6/Dialogue
+> CONTEXT: Map009/events/1/pages/0/6/Dialogue
+\\C[1]「\\C[0]Fuu ... but, Even though it is a first-class room\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]こう何日も海の上だと、
+　いい加減飽きてくるな\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/9/Dialogue
+> CONTEXT: Map009/events/1/pages/0/9/Dialogue
+\\C[1]「\\C[0]If these days are on the sea,
+Do not get bored.\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]船内の主要な施設は、
+　初日にあらかた堪能しちまったし、
+　どう暇をつぶしたもんか\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/12/Dialogue
+> CONTEXT: Map009/events/1/pages/0/12/Dialogue
+\\C[1]「\\C[0]Main shipboard facilities are:
+I was satisfied with the first day, How can I kill time?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はぁ…ともかく、
+　中間地点の島に着くまで数日の辛抱らしいし、
+　…今日はもう寝ちまおうかな\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/17/Dialogue
+> CONTEXT: Map009/events/1/pages/0/17/Dialogue
+\\C[1]「\\C[0]Haa ... Anyway, It seems a patience of a few days until I
+get to the island in the middle, ... Maybe I should sleep
+well today.\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+起きている
+> CONTEXT: Map105/events/1/pages/0/21/Choice/0
+stay up#MTLed
+> END STRING
+
+> BEGIN STRING
+寝てしまう
+> CONTEXT: Map105/events/1/pages/0/21/Choice/1
+To sleep#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]いや…そう言えば、
+　読みかけの小説が本棚あったような\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/25/Dialogue
+\\C[1]「\\C[0]No. Well, to say so, It seems like a novel to read was in
+a bookshelf\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、あった。
+　これこれ、この続きが気になってたんだよな\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/42/Dialogue
+\\C[1]「\\C[0]Oh, there was. This is what I was concerned about this
+continuation\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あれ…？
+　こんな所に麻袋なんてあったか？\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/58/Dialogue
+\\C[1]「\\C[0]that…? Have you ever had bags in such a place?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]確か俺が船室の外に出たときは、
+　本棚の隣には何もなかった…はず\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/61/Dialogue
+\\C[1]「\\C[0]Certainly when I got out of the cabin,
+There was nothing next to the bookshelf ...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うーん、何か無性に気になってきたな。
+　どれ…中身はっと\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/64/Dialogue
+\\C[1]「\\C[0]Well, I became anxious about anything.
+Which ... what's inside\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]淫気を消していたというのに、
+　良く見破ったな！\\C[10]」
+> CONTEXT: Map105/events/1/pages/0/81/Dialogue
+\\C[10]「\\C[0]Even though I was eradicating it,
+You found out well!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]いやそれ…ただの偶然で、
+　それよりも淫気を消したって？\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/85/Dialogue
+\\C[1]「\\C[0]No ... that's just a coincidence,
+You said you turned off your nausea better than that?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]私レベルのくノ一になれば、
+　上級淫魔でありながら、
+　自らの淫気を完全に消すことが出来るのだ！\\C[10]」
+> CONTEXT: Map105/events/1/pages/0/90/Dialogue
+\\C[10]「\\C[0]If I become Kuniichi of my level,
+Despite being an advanced savage, You can completely
+eliminate your illness!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]さて、正体がバレた以上は仕方ない\\C[10]」
+> CONTEXT: Map105/events/1/pages/0/96/Dialogue
+\\C[10]「\\C[0]Well, it is unavoidable that the identity is bald\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]を速やかに逝かせた後、
+　この船全ての人間たちも、
+　快楽の虜にさせてもらう！\\C[10]」
+> CONTEXT: Map105/events/1/pages/0/98/Dialogue
+\\C[10]「\\C[0]\\N[1] After having promptly passed away,
+All ships of this ship, too, Let me be a prisoner of
+pleasure!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]では。、淫魔くノ一蓮華！　いざ参る！\\C[10]」
+> CONTEXT: Map105/events/1/pages/0/104/Dialogue
+\\C[10]「\\C[0]Okay. , Lesbian Knoichi Renka! It will come!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃ、…おやすみっと」
+> CONTEXT: Map105/events/1/pages/0/136/Dialogue
+> CONTEXT: Map009/events/1/pages/0/39/Dialogue
+「Well then ... ... Good night」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁ…何だ…こっ…股間に違和感が…ふあぁ\\I[140]
+　…きっ…気持ち良いぃ\\I[140]\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/180/Dialogue
+> CONTEXT: Map009/events/1/pages/0/83/Dialogue
+\\C[1]「\\C[0]Oh ... what ... what ... it's uncomfortable in the crotch
+... Fa \\I[140]. ... not ... pleasant \\I[140]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]だが…眠いぃあっぁ…何も…考えられ…ないぃ\\I[140]
+　あぁ…出る…出ちまうぅ…ふあぁ\\I[140]\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/183/Dialogue
+> CONTEXT: Map009/events/1/pages/0/86/Dialogue
+\\C[1]「\\C[0]But ... sleepy ... nothing ... not thought ... \\I[140]
+Oh ... come out ... I will come out ... Fa \\I[140]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふむ…これで四度目の吸精だな。
+　しかし、まだただの夢だと思っているのか、
+　情けない惚け顔のまま漏らしたな\\C[10]」
+> CONTEXT: Map105/events/1/pages/0/196/Dialogue
+> CONTEXT: Map009/events/1/pages/0/99/Dialogue
+\\C[10]「\\C[0]Hmm ... this is the fourth insemination for this.
+However, I think that it is still just a dream,
+I got miserable fun and let it leave\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふむ…そして、呪縛にかかったか。
+　では引き続き、
+　息の根が止まるまで続けさせてもらおう\\C[10]」
+> CONTEXT: Map105/events/1/pages/0/201/Dialogue
+> CONTEXT: Map009/events/1/pages/0/104/Dialogue
+\\C[10]「\\C[0]Hmm ... And did you spellbound?
+Then, Let me continue until my heart stops\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁどうせ夢なら…もっと…\\I[140]
+　深く溺れるのも…悪くないなぁ…あへへぇ\\I[140]\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/206/Dialogue
+> CONTEXT: Map009/events/1/pages/0/109/Dialogue
+\\C[1]「\\C[0]Oh if it's a dream ... more ... \\I[140]
+I drown deeply ... not bad ... hehe \\I[140]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]って、こっ…これはいった…いぃ…だっ駄目だぁ\\I[140]
+　おっ…堕ちていくぅ\\I[140]\\C[1]」
+> CONTEXT: Map105/events/1/pages/0/209/Dialogue
+> CONTEXT: Map009/events/1/pages/0/112/Dialogue
+\\C[1]「\\C[0]Wow, this is ... I said ... I can not do it. \\I[140]
+Oh ... I guess it will fall \\I[140]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ふぅ…何とかなって良かった。
+　しかし、淫魔が蓮華だけとは限らないからな\\C[1]」
+> CONTEXT: Map105/events/1/pages/1/10/Dialogue
+\\C[1]「\\C[0]Fuu ... good to be somehow managed.
+However, it is not necessarily only a lotus bad luck\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]や船員の人たちにも、
+　気をつけるよう伝えてくるか\\C[1]」
+> CONTEXT: Map105/events/1/pages/1/16/Dialogue
+\\C[1]「\\C[0]\\N[6] And also to the seafarers,
+Do you tell them to be careful\\C[1]」#MTLed
+> END STRING

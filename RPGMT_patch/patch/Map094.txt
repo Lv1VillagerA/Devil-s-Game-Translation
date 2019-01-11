@@ -1,0 +1,122 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+枯れ山　登り口
+> CONTEXT: Map094/display_name/
+Withering mountain climb#MTLed
+> END STRING
+
+> BEGIN STRING
+山賊連中をこのままにしてはおけないな…。
+> CONTEXT: Map094/events/6/pages/0/6/Dialogue
+> CONTEXT: Map094/events/7/pages/0/6/Dialogue
+> CONTEXT: Map094/events/12/pages/0/6/Dialogue
+I can not leave the bandits like this ....#MTLed
+> END STRING
+
+> BEGIN STRING
+頑丈な扉には鍵がかかっている。
+> CONTEXT: Map094/events/11/pages/0/6/Dialogue
+> CONTEXT: Map094/events/13/pages/0/6/Dialogue
+There is a lock on the sturdy door.#MTLed
+> END STRING
+
+> BEGIN STRING
+扉の奥から男女の声が聞こえてくる…。
+> CONTEXT: Map094/events/11/pages/0/8/Dialogue
+> CONTEXT: Map094/events/13/pages/0/8/Dialogue
+Male and female voices are heard from the back of the door
+....#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっ…もう出ないぃ…！　あひっ…あひいいぃ！」
+> CONTEXT: Map094/events/11/pages/0/13/Dialogue
+「Alright ... no more ...! Uh ... Oh yeah yeah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あはははっ！　何言ってるのよ！
+　ほらっ…こうして舌で舐めればっと\\I[140]\\C[10]」
+> CONTEXT: Map094/events/11/pages/0/15/Dialogue
+\\C[10]「\\C[0]Hahaha! What are you talking about!
+Come here ... So I can lick it with my tongue \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ほらね…また固くなったわよ\\I[140]\\C[10]」
+> CONTEXT: Map094/events/11/pages/0/18/Dialogue
+\\C[10]「\\C[0]You see, it's hard again. \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「助けっ…誰か…！　たすっ…たしゅけてええぇ\\I[140]」
+> CONTEXT: Map094/events/11/pages/0/20/Dialogue
+「Help me ... someone ...! Teddy ... Oh yeah yeah yeah yeah
+\\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あはは！　まだまだ止めないわよ\\I[140]\\C[10]」
+> CONTEXT: Map094/events/11/pages/0/22/Dialogue
+\\C[10]「\\C[0]Haha! I can not stop still. \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あへへ…あへへぇ…もっとぉ\\I[140]」
+> CONTEXT: Map094/events/13/pages/0/13/Dialogue
+「Hey, hey ... more \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もうすっかり従順になっちゃって、
+　張り合いがないわね\\I[140]\\C[10]」
+> CONTEXT: Map094/events/13/pages/0/15/Dialogue
+\\C[10]「\\C[0]I am completely obedient, There is no competition \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「腰振り…すごいよおぉ…ふあああん\\I[140]」
+> CONTEXT: Map094/events/13/pages/0/18/Dialogue
+「Waist swing ... amazing ... o Faaaaa \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]捕らえた最初は、
+　淫魔なんかに絶対負けない！…って意気込んでたのに\\C[10]」
+> CONTEXT: Map094/events/13/pages/0/20/Dialogue
+\\C[10]「\\C[0]At first captured, Absolutely not be beaten to a horny
+man! ... I was motivated\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]今は自分からも腰を動かして、
+　子種を無駄撃ちする始末\\C[10]」
+> CONTEXT: Map094/events/13/pages/0/23/Dialogue
+\\C[10]「\\C[0]Now I move my hips from myself,
+Mutation to waste shit species\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ナカに…ナカに出させてえええぇん\\I[140]」
+> CONTEXT: Map094/events/13/pages/0/26/Dialogue
+「Naka ... let me have a naka ... yeah yeah \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]本当に男なんて皆一緒ね。
+　少しカラダを重ねれば、すぐ性欲を押さえられなくって、
+　全ては私の思うがまま何だから…ふふっ\\I[140]\\C[10]」
+> CONTEXT: Map094/events/13/pages/0/28/Dialogue
+\\C[10]「\\C[0]Everyone is truly a man together.
+If you overlap a little body, you can not suppress
+sexuality immediately, Everything is what I am thinking ...
+So ... \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+とても深い井戸のようで、底のほうは暗くて良く見えない。
+> CONTEXT: Map094/events/14/pages/0/7/Dialogue
+> CONTEXT: Map094/events/15/pages/0/7/Dialogue
+It looks like a very deep well, the bottom is dark and can
+not be seen well.#MTLed
+> END STRING

@@ -1,0 +1,33 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+倉庫
+> CONTEXT: Map123/display_name/
+> CONTEXT: Map124/display_name/
+Warehouse#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふんふん…こっちの荷も問題なしっと」
+> CONTEXT: Map123/events/6/pages/0/6/Dialogue
+「Hmmmm ... this load nor the problem」#MTLed
+> END STRING
+
+> BEGIN STRING
+「荷物の積み下ろしなんてさっさと終わらせて、
+　酒場で一服したいぜ！」
+> CONTEXT: Map123/events/6/pages/0/8/Dialogue
+「Let's finish loading and unloading baggage quickly,
+I want to take a break in the bar!」#MTLed
+> END STRING
+
+> BEGIN STRING
+新鮮な野菜が詰め込まれている。
+> CONTEXT: Map123/events/7/pages/0/6/Dialogue
+> CONTEXT: Map124/events/7/pages/0/6/Dialogue
+> CONTEXT: Map123/events/8/pages/0/6/Dialogue
+> CONTEXT: Map124/events/8/pages/0/6/Dialogue
+> CONTEXT: Map123/events/9/pages/0/6/Dialogue
+> CONTEXT: Map123/events/10/pages/0/6/Dialogue
+> CONTEXT: Map123/events/11/pages/0/6/Dialogue
+Fresh vegetables are packed.#MTLed
+> END STRING

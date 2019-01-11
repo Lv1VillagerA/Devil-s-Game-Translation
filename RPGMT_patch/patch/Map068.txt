@@ -1,0 +1,36 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ＳＰと魔貨の相場は戦闘を行うたびに、
+　刻々と変動します」
+> CONTEXT: Map068/events/6/pages/0/6/Dialogue
+> CONTEXT: Map068/events/6/pages/1/6/Dialogue
+「Every time SP fights a battle, It will fluctuate from
+hour to minute」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もしＳＰや魔貨の売り買いを行うのなら、
+　高いときに売り、安いときに買った方が良いですよ」
+> CONTEXT: Map068/events/6/pages/0/9/Dialogue
+> CONTEXT: Map068/events/6/pages/1/9/Dialogue
+「If you are planning to sell or buy SP or currency,
+It is better to sell it when it's expensive and buy it when
+it's cheap」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも、相場の変動は完全なランダムなので、
+　常に思ったような値が出るとは限らないのですが」
+> CONTEXT: Map068/events/6/pages/0/12/Dialogue
+> CONTEXT: Map068/events/6/pages/1/12/Dialogue
+「However, since fluctuations in market prices are
+completely random, There is no guarantee that the value you
+always expect will come out」#MTLed
+> END STRING
+
+> BEGIN STRING
+良く手入れされている、古いピアノが置いてある。
+> CONTEXT: Map068/events/9/pages/0/6/Dialogue
+> CONTEXT: Map068/events/10/pages/0/6/Dialogue
+There is an old piano, well maintained.#MTLed
+> END STRING

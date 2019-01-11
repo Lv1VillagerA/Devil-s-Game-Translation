@@ -1,0 +1,40 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]（\\C[0]どうやらかなりの量を搾り取られたようだが、無事らしいな。
+　しかし淫魔も一緒か。さてどうするか\\C[1]）
+> CONTEXT: Map436/events/6/pages/0/2/Dialogue
+\\C[1](\\C[0] Apparently it seems that a considerable amount
+has been squeezed out, but it seems to be safe.
+But is there also a bad guy?Well what do you do?\\C[1]
+)#MTLed
+> END STRING
+
+> BEGIN STRING
+戦いを挑む
+> CONTEXT: Map436/events/6/pages/0/5/Choice/0
+Challenge the battle#MTLed
+> END STRING
+
+> BEGIN STRING
+引き返す
+> CONTEXT: Map436/events/6/pages/0/5/Choice/1
+To turn back#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そろそろ弱ってきたかなーってところに、
+　お兄ちゃんが来てくれて助かったよ\\C[2]」
+> CONTEXT: Map436/events/6/pages/0/21/Dialogue
+\\C[2]「\\C[0]Whether it is getting weakening soon,
+My older brother came and I was saved.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ってことで、おじさんはもういらない。
+　どう考えてもお兄ちゃんのほうが、
+　食べごろだからね！\\C[2]」
+> CONTEXT: Map436/events/6/pages/0/24/Dialogue
+\\C[2]「\\C[0]Doing so, I do not need an old man anymore.
+Even if you think about your older brother,
+Because I'm eating it!\\C[2]」#MTLed
+> END STRING

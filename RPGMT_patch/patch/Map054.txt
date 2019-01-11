@@ -1,0 +1,151 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+東の牢屋
+> CONTEXT: Map054/display_name/
+> CONTEXT: Map003/display_name/
+East jail#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…淫魔様は…とても素晴らしいでしゅぅ…\\I[140]」
+> CONTEXT: Map054/events/1/pages/0/6/Dialogue
+> CONTEXT: Map003/events/1/pages/0/6/Dialogue
+「Ah ... Mr. Suzuma ... It is very wonderful ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっと…快楽で…世界を包み…\\I[140]
+　全ての…人間を…淫魔様の…家畜に…あへへぇ\\I[140]」
+> CONTEXT: Map054/events/1/pages/0/8/Dialogue
+> CONTEXT: Map003/events/1/pages/0/8/Dialogue
+「More ... pleasure ... wrap the world ... \\I[140]
+All ... human ... ... like a bastard ... to livestock ...
+hehe \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「次は…いつ…犯してくれ…あへぇ\\I[140]
+　もう…淫魔様…なしでは…射精…できにゃいでしゅうぅ\\I[140]」
+> CONTEXT: Map054/events/1/pages/0/11/Dialogue
+> CONTEXT: Map003/events/1/pages/0/11/Dialogue
+「Next ... when ... commit ... ah \\I[140]
+It is already ... ... no way ... without ... ...
+ejaculation ... you can not do it \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+鞭や首輪…おまけに人参など、
+用途不明なものが乱雑に収納されている。
+> CONTEXT: Map054/events/8/pages/0/6/Dialogue
+> CONTEXT: Map054/events/9/pages/1/6/Dialogue
+> CONTEXT: Map054/events/10/pages/0/6/Dialogue
+> CONTEXT: Map054/events/11/pages/0/6/Dialogue
+> CONTEXT: Map055/events/6/pages/0/6/Dialogue
+> CONTEXT: Map055/events/7/pages/0/6/Dialogue
+> CONTEXT: Map053/events/8/pages/1/6/Dialogue
+> CONTEXT: Map053/events/9/pages/1/6/Dialogue
+> CONTEXT: Map053/events/10/pages/0/6/Dialogue
+> CONTEXT: Map053/events/11/pages/0/6/Dialogue
+> CONTEXT: Map052/events/13/pages/1/6/Dialogue
+> CONTEXT: Map052/events/14/pages/0/6/Dialogue
+> CONTEXT: Map052/events/16/pages/0/6/Dialogue
+> CONTEXT: Map052/events/17/pages/0/6/Dialogue
+Whip and collar ... additionally ginseng etc.,
+Usage unknown is contained in cluttered.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ちゅっ…ちゅうぅ…れろ…クチュ…\\I[140]
+　…それで続きは？\\C[10]」
+> CONTEXT: Map054/events/12/pages/0/6/Dialogue
+\\C[10]「\\C[0]Tsu ... ... Chuu ... ... leave ... Cute ... \\I[140]
+... So how about the rest?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はっ…はいぃ…その大富豪の家には…あひっ\\I[140]
+　結界の要がぁ…あひいぃ…舌使い…すご…ふああぁん\\I[140]」
+> CONTEXT: Map054/events/12/pages/0/9/Dialogue
+「Ahh ... yeah ... in the house of the millionaire ... Oh \\I[140]
+The main point of the barrier is ... ... Hijiki ... using
+tongue ... awesome ... Faaa \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]んっ…それでお終い？　れろぉ…\\I[140]\\C[10]」
+> CONTEXT: Map054/events/12/pages/0/12/Dialogue
+\\C[10]「\\C[0]umph ... Is that it? Let it be ... \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あへへへぇ…\\I[140]　いっ…いえ、
+　はぁ…さらにぃ…頻繁に娼婦を…自宅にぃ…ひああぁん\\I[140]
+　いっ…淫魔様の侵入も…容易にぃ…ひうあぁ…\\I[140]」
+> CONTEXT: Map054/events/12/pages/0/14/Dialogue
+「Hello ... \\I[140] Well ... No, Haa ... even more ... frequent
+prostitute ... at home ... ___ ___ 0 \\I[140]
+Wait ... even the intrusion of the bastard ... easy ... ...
+huh Ah ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふふっ…良く出来ました　じゃぁご褒美よ…\\I[140]\\C[10]」
+> CONTEXT: Map054/events/12/pages/0/18/Dialogue
+\\C[10]「\\C[0]Huh ... I was able to do it well ... reward ... \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ありがとうございましゅうううぅ\\I[140]
+　もっと…もっと人間裏切りセックスのご褒美、
+　くだ…くだしゃあぁいぃ\\I[140]」
+> CONTEXT: Map054/events/12/pages/0/20/Dialogue
+「Thank you Mr. \\I[140]. More ... more human treachery reward of
+sex, Please ... please \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+鍵がかかっていて、開かない…。
+> CONTEXT: Map054/events/13/pages/0/6/Dialogue
+> CONTEXT: Map053/events/12/pages/0/6/Dialogue
+> CONTEXT: Map054/events/18/pages/0/6/Dialogue
+It is locked and it will not open ....#MTLed
+> END STRING
+
+> BEGIN STRING
+反応がない。どうやら気を失っているようだ…。
+> CONTEXT: Map054/events/15/pages/0/6/Dialogue
+> CONTEXT: Map053/events/15/pages/0/6/Dialogue
+There is no reaction.Apparently it seems I am out of my
+mind ....#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふむふむ、お兄ちゃんの子種、
+　また吸い取っちゃったよ\\C[10]」
+> CONTEXT: Map054/events/16/pages/0/74/Dialogue
+> CONTEXT: Map003/events/16/pages/0/74/Dialogue
+\\C[10]「\\C[0], Onii-chan's son, I smoke again\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]アタシのお尻に潰されてるお兄ちゃん。
+　意識が朦朧としてるのに、
+　とっても気持ち良さそうな顔だね\\C[10]」
+> CONTEXT: Map054/events/16/pages/0/78/Dialogue
+> CONTEXT: Map003/events/16/pages/0/78/Dialogue
+\\C[10]「\\C[0]My brother is crushed by my ass.
+Even though my consciousness is stupid, It looks very
+pleasant\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+どうやら、鍵はかかっていないようだ。
+> CONTEXT: Map054/events/17/pages/0/6/Dialogue
+Apparently, it does not seem to be locked.#MTLed
+> END STRING
+
+> BEGIN STRING
+「よし、…開いたぞ」
+> CONTEXT: Map054/events/17/pages/0/20/Dialogue
+「OK.」#MTLed
+> END STRING

@@ -1,0 +1,20 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　４Ｆ
+> CONTEXT: Map166/display_name/
+Tower of seal 4F#MTLed
+> END STRING
+
+> BEGIN STRING
+「私の魔力が…吸い取られて…いきましゅぅ…\\I[140]」
+> CONTEXT: Map166/events/21/pages/0/7/Dialogue
+「My magical power ... is sucked ... I will go ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「きっ…気持ち良いぃ…\\I[140]
+　魔方陣に触れていると…もう…快楽以外のことをはぁ\\I[140]」
+> CONTEXT: Map166/events/21/pages/0/9/Dialogue
+「Ki ... I feel comfortable ... \\I[140]. When you touch the
+magic square ... ... already ... other than pleasure \\I[140]」#MTLed
+> END STRING

@@ -1,0 +1,107 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+バーテンダー
+「それでは、ごゆっくりどうぞ」
+> CONTEXT: Map439/events/9/pages/0/7/Dialogue
+bartender. 「Well then, take a moment to relax.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう言えば、最近調子はどうだ？」
+> CONTEXT: Map439/events/9/pages/0/16/Dialogue
+「By the way, how are you doing recently?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「全然駄目だな。毎日豪遊してもハンターを続けられる分、
+　他の奴らより稼ぎはマシだが、
+　それでもこの辺りのレベルじゃな」
+> CONTEXT: Map439/events/9/pages/0/19/Dialogue
+「Not at all. Even if you go on a daily journey, you can
+continue hunting, I earn more money than other people,
+Still it is a level around here」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺も低レベルの淫魔退治だけじゃ不安に思ってな。
+　例の遺跡を探索したんだが」
+> CONTEXT: Map439/events/9/pages/0/24/Dialogue
+「I am also anxious only with low level exorcism.
+I explored the ruins of the example」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ほほう！　でっ…どうだった？」
+> CONTEXT: Map439/events/9/pages/0/28/Dialogue
+「I see! Teru ... how was it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「雑魚淫魔を狩りながら最奥に到達しても、
+　拾えるのはガラクタばかりだったぜ。
+　やっぱり噂に過ぎなかったぜ。完全に枯れてたからな」
+> CONTEXT: Map439/events/9/pages/0/31/Dialogue
+「Even if you reach the far end while hunting a small fish
+anymore, All I got was garbage. After all it was just a
+rumor. I was completely dead.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうか。昔は従魔が眠ってるって噂で大勢押しかけたが。
+　まぁそんなに気を落とすなって！
+　俺たちは、天下の淫魔ハンターだろ？」
+> CONTEXT: Map439/events/9/pages/0/36/Dialogue
+「Really. I used to rush a lot with rumors that the devil
+was asleep in the past. Well do not be discouraged so much!
+Are we a damn hunter in the world?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ハンターとしての適正があり、
+　ギリギリの成績でライセンスは取れたものの、
+　従魔技師の真似事ばかりやってる小僧とは違うんだぜ？」
+> CONTEXT: Map439/events/9/pages/0/41/Dialogue
+「There is a suit as a hunter, Although it was licensed by
+the grade score, It is different from a boy who is only
+doing submarine technician mockery?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そりゃそうだ！　そうじゃなきゃ、
+　こうして毎日、豪遊出来ねえしな！」
+> CONTEXT: Map439/events/9/pages/0/46/Dialogue
+「Of course! That's it. That way you can not play gigs
+everyday!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ほら、まだまだ魔貨はたんまりあるんだ。
+　今夜は浴びるほど飲んで騒ごうぜ！」
+> CONTEXT: Map439/events/9/pages/0/49/Dialogue
+「Here, there are still a lot of magical money.
+Take a drink so much that I will take a bath tonight!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]俺にハンターの才能がないってことは、
+　自分が一番わかってる\\C[1]）
+> CONTEXT: Map439/events/9/pages/0/57/Dialogue
+\\C[1](\\C[0] That I do not have the talent of Hunter,
+I know the best\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]明日、噂の枯れた遺跡に行ってみるか\\C[1]）
+> CONTEXT: Map439/events/9/pages/0/60/Dialogue
+\\C[1](\\C[0] I will go to the ruined ruins of the rumor tomorrow\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]この先もう一度ハンターを目指すか、
+　それとも従魔技師を続けるかを決めるためにも、
+　諦め…いや、割り切りは必要だ\\C[1]）
+> CONTEXT: Map439/events/9/pages/0/62/Dialogue
+\\C[1](\\C[0] Will you aim for a hunter again in the future?
+Or to decide whether to continue a subordinate technician,
+Give up ... No, I need a division.\\C[1] )#MTLed
+> END STRING

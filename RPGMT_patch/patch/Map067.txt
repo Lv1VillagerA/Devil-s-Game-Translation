@@ -1,0 +1,129 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+村長の家
+> CONTEXT: Map067/display_name/
+Village chief's house#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ…やはり薬草の量が少なかったようじゃな」
+> CONTEXT: Map067/events/4/pages/0/6/Dialogue
+> CONTEXT: Map067/events/4/pages/1/6/Dialogue
+「Hmm ... it seems that the amount of medicinal herbs was
+still small」#MTLed
+> END STRING
+
+> BEGIN STRING
+「次は、もっと量を増やして、
+　鳥の薬草蒸しを試してみるかのう。
+　おっと…しまったのう。今ので最後の薬草じゃったか」
+> CONTEXT: Map067/events/4/pages/0/8/Dialogue
+> CONTEXT: Map067/events/4/pages/1/8/Dialogue
+「Next, increase the amount more, I tried trying to steamed
+herbal herbs. Oops ... It was disappointing. Is it the last
+medicinal herbs now?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「んっ？　お主も一口どうじゃ？」
+> CONTEXT: Map067/events/4/pages/0/12/Dialogue
+「What? How about your boss?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これからは診療所の先生に、
+　安く薬を売ってもらうことも出来ないのう」
+> CONTEXT: Map067/events/4/pages/1/12/Dialogue
+「From now on to the clinic teacher, It is impossible to
+have medicine sold cheaply」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これは本格的に薬膳料理を研究し、
+　今後は薬に頼らない生活を送るべきじゃな！」
+> CONTEXT: Map067/events/4/pages/1/15/Dialogue
+「This is a full-fledged study of cheese dishes,
+You should live a life that does not rely on medicine in
+the future!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おやおや、\\N[1]じゃないかい。
+　あたしに何か用かい？」
+> CONTEXT: Map067/events/5/pages/0/6/Dialogue
+「Aw, \\N[1] Is not it? Is there something for me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう言えば最近腰を痛めたけど、
+　診療所の先生から受け取った薬を飲んだら、
+　ピタリと痛みが止まってねぇ」
+> CONTEXT: Map067/events/5/pages/0/9/Dialogue
+「That said I recently hurt my back, After taking medicine
+received from the clinic teacher, Pain and pain have
+stopped」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやぁ…本当に先生には感謝してもしきれないよ。
+　一部黒い噂があるらしいけど、きっと気のせいだね。
+　あの先生に限って…ねぇ？」
+> CONTEXT: Map067/events/5/pages/0/13/Dialogue
+「Wow ... really I can not thank the teacher.
+It seems there are some black rumors, but surely it is a
+matter of mind. Only that teacher ... hey?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうかい…まさかあの先生が…」
+> CONTEXT: Map067/events/5/pages/1/6/Dialogue
+「Well ... well ... that teacher ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「色々とお世話になったのにのう。
+　なんまんだぶ…なんまんだぶ」
+> CONTEXT: Map067/events/5/pages/1/8/Dialogue
+「I was indebted to various people. Nanmenbu ... Nanmenbu」#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な食材がギュウギュウに詰められている。
+> CONTEXT: Map067/events/6/pages/1/6/Dialogue
+Various ingredients are packed in gyoza.#MTLed
+> END STRING
+
+> BEGIN STRING
+山仕事用の道具がしまってある。
+> CONTEXT: Map067/events/7/pages/0/6/Dialogue
+> CONTEXT: Map067/events/8/pages/0/6/Dialogue
+The tool for the mountain work is closed.#MTLed
+> END STRING
+
+> BEGIN STRING
+飲み薬等が棚に置かれている。
+> CONTEXT: Map067/events/9/pages/0/6/Dialogue
+> CONTEXT: Map067/events/10/pages/0/6/Dialogue
+Drinking medicines etc are placed on the shelf.#MTLed
+> END STRING
+
+> BEGIN STRING
+村の周辺や、古い坑道の地図などがしまってある。
+> CONTEXT: Map067/events/11/pages/0/6/Dialogue
+> CONTEXT: Map067/events/12/pages/0/6/Dialogue
+There are maps around the village, old maps and the like.#MTLed
+> END STRING
+
+> BEGIN STRING
+調理器具が大切に保管されている。
+> CONTEXT: Map067/events/13/pages/0/6/Dialogue
+> CONTEXT: Map067/events/14/pages/0/6/Dialogue
+The cooking utensils are cherished.#MTLed
+> END STRING
+
+> BEGIN STRING
+薬膳料理に関する本が多く並んでいる。
+> CONTEXT: Map067/events/15/pages/0/6/Dialogue
+> CONTEXT: Map067/events/16/pages/0/6/Dialogue
+Many books on Yakushi dishes are lining up.#MTLed
+> END STRING

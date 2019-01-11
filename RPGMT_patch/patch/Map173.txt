@@ -1,0 +1,46 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+捕虜の調教小屋
+> CONTEXT: Map173/display_name/
+> CONTEXT: Map172/display_name/
+A prisoner's training shack#MTLed
+> END STRING
+
+> BEGIN STRING
+割れた皿やコップなどが散らかっている。
+> CONTEXT: Map173/events/5/pages/0/7/Dialogue
+> CONTEXT: Map173/events/6/pages/0/7/Dialogue
+> CONTEXT: Map172/events/5/pages/0/7/Dialogue
+> CONTEXT: Map172/events/6/pages/0/7/Dialogue
+> CONTEXT: Map095/events/5/pages/0/7/Dialogue
+> CONTEXT: Map095/events/6/pages/0/7/Dialogue
+Broken plates and cups are messed up.#MTLed
+> END STRING
+
+> BEGIN STRING
+用途不明の薬品やローションなどがしまわれている。
+> CONTEXT: Map173/events/7/pages/0/7/Dialogue
+> CONTEXT: Map173/events/8/pages/0/7/Dialogue
+> CONTEXT: Map095/events/8/pages/0/7/Dialogue
+> CONTEXT: Map095/events/9/pages/0/7/Dialogue
+Drugs and lotions of unknown purpose are stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+割れた洋酒の瓶がのぞいている。
+> CONTEXT: Map173/events/9/pages/0/7/Dialogue
+> CONTEXT: Map172/events/7/pages/0/7/Dialogue
+> CONTEXT: Map095/events/7/pages/0/7/Dialogue
+The broken wine bottle is peeling.#MTLed
+> END STRING
+
+> BEGIN STRING
+棚の中にはゴミや埃ばかりで他には何も入っていない。
+> CONTEXT: Map173/events/10/pages/0/7/Dialogue
+> CONTEXT: Map173/events/11/pages/0/7/Dialogue
+> CONTEXT: Map172/events/8/pages/0/7/Dialogue
+> CONTEXT: Map172/events/9/pages/0/7/Dialogue
+> CONTEXT: Map095/events/10/pages/0/7/Dialogue
+> CONTEXT: Map095/events/11/pages/0/7/Dialogue
+There is nothing other than dirt and dust in the shelf.#MTLed
+> END STRING

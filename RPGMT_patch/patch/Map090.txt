@@ -1,0 +1,224 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+花の泉　最奥
+> CONTEXT: Map090/display_name/
+Flower fountain innermost#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]！　この女が、問題の上級淫魔で間違いありませんわ！」
+> CONTEXT: Map090/events/5/pages/0/10/Dialogue
+「\\N[1] ! This woman is no doubt a senior demon of
+problem!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]まさか本当に来るとは、思わなかったな\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/18/Dialogue
+\\C[10]「\\C[0]I never thought that it really came true\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…お前は？\\C[1]」
+> CONTEXT: Map090/events/5/pages/0/21/Dialogue
+\\C[1]「\\C[0]…You are?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]…一応名乗ってやるか。ボクの名はレティ。
+　しかし人間とエルフだけかと思ったら、
+　天使まで連れてたなんてな\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/25/Dialogue
+\\C[10]「\\C[0]... Do you say your name for a moment? My name is Letty.
+But thinking only with humans and elves,
+I did not take him to an angel.\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ここで一体何をしているのよ！
+　町の人を誑かそうなんて、私たちが許さないよ！\\C[29]」
+> CONTEXT: Map090/events/5/pages/0/29/Dialogue
+\\C[29]「\\C[0]What the heck are you doing here!
+We can not forgive to let people in the town!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あははっ！
+　淫魔化の呪いの影響で直接戦えないくせに、
+　口だけは達者なエルフだな！\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/34/Dialogue
+\\C[10]「\\C[0]Haha! Without being able to fight directly by the
+influence of cursing of enmity, Only the mouth is a good
+elf!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]まぁその度胸にめんじて、
+　教えてやるよ\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/40/Dialogue
+\\C[10]「\\C[0]Well that's my fate, I'll tell you.\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]泉の水を淫気で汚染し、
+　それが関わるモノ全てを、淫らに変えること\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/43/Dialogue
+\\C[10]「\\C[0]I contaminated the fountain with perseverance,
+To change everything involved in it to fervently\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうすれば、
+　全ての生き物はボクたち淫魔と交わることもなく、
+　楽に同族に…そして精奴隷になってくれるからな\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/48/Dialogue
+\\C[10]「\\C[0]that way, Every living thing does not interfere with me
+as well, Easily to your family, ... and they will become
+precise slaves\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それが淫女王アニス様から、
+　ボクに与えられた命令だ\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/52/Dialogue
+\\C[10]「\\C[0]It is from anime female King Anis,
+It is an order given to me\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ああそうだ。それとお前たちのように、
+　計画を邪魔しに来る者たちの排除も、
+　命令されてたっけ！\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/57/Dialogue
+\\C[10]「\\C[0]Oh yeah. And like you and you,
+The elimination of those who come to disturb the plan,
+I was ordered!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「呪いの抑制が追いつかない以上、
+　\\N[6]ちゃんとは共闘させられませんわ！」
+> CONTEXT: Map090/events/5/pages/0/65/Dialogue
+「Since the curse control can not catch up,
+ \\N[6] I will not let you fight properly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「サポート的な役割は可能とはいえ、
+　\\N[1]とレティの一対一になってしまいますから、
+　気をつけて戦うのですわよ！」
+> CONTEXT: Map090/events/5/pages/0/68/Dialogue
+「While supportive roles are possible, \\N[1] Because
+Letty will become one to one, Take care and fight!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]お前たちを速攻でアへらせて、
+　ボクの操り人形にしてやるよ\\I[140]\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/79/Dialogue
+\\C[10]「\\C[0]Hurrying you up with haste,
+I will make it into my puppet \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ん…？　ナタリア、
+　姿を現して平気なのか？\\C[1]」
+> CONTEXT: Map090/events/5/pages/1/11/Dialogue
+\\C[1]「\\C[0]Hmm…? Natalia, Are you fair showing your appearance?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええ、\\N[1]がレティを倒し、
+　周囲の淫気が薄まったおかげで、
+　ようやく半実体化が可能になりましたの」
+> CONTEXT: Map090/events/5/pages/1/14/Dialogue
+「Yes, \\N[1] Kill the Letty, Thanks to the dilution of
+the lusts of the surroundings, Finally it became possible
+to semi-materialize」#MTLed
+> END STRING
+
+> BEGIN STRING
+「本当にありがとうですわ。
+　貴方たちの活躍により、
+　町の方々もいずれ、元に戻るでしょう」
+> CONTEXT: Map090/events/5/pages/1/18/Dialogue
+「I really appreciate it. Due to your success,
+Everyone in the town will return to original」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]まぁ…私はあまり役に立てなかったけどね\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/22/Dialogue
+\\C[29]「\\C[0]Well ... I did not serve much, but\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「コホンっ！　とっ…とにかく、
+　この大陸に残る上級淫魔は一体のみですわ」
+> CONTEXT: Map090/events/5/pages/1/27/Dialogue
+「Cohon! Take ... Anyway, There is only one senior demon
+that remains on this continent」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それで、そいつは何処にいるんだ？\\C[1]」
+> CONTEXT: Map090/events/5/pages/1/30/Dialogue
+\\C[1]「\\C[0]So where is he?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええと、貴方たち人間が、
+　枯れ山と呼んでいる場所のようですわよ」
+> CONTEXT: Map090/events/5/pages/1/35/Dialogue
+「Well, you guys, It seems to be the place calling the dead
+mountain」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ということは、宿場町の南だね。
+　枯れ山では最近女山賊たちが現れたって噂だから、
+　…ひょっとしたら\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/38/Dialogue
+\\C[29]「\\C[0]That is south of the town hall.
+It is a rumor that women's bandits have appeared recently
+in a dead mountain, ... possibly\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どのみち別大陸に行くためには、
+　枯れ山を越えた先で、
+　船に乗らなければいけないんだ\\C[1]」
+> CONTEXT: Map090/events/5/pages/1/42/Dialogue
+\\C[1]「\\C[0]In any case to go to another continent,
+Beyond the dead mountain, I have to get on a ship\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうやら、決まったようですわね」
+> CONTEXT: Map090/events/5/pages/1/49/Dialogue
+「Apparently, it seems to have been decided」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは私はこれで、
+　またしばらくは力を蓄えないといけませんし、
+　何かありましたら呼んでくださいませ」
+> CONTEXT: Map090/events/5/pages/1/51/Dialogue
+「Well then, I have to save power for a while,
+Please call me if there is something」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん、色々ありがとうね。
+　ナタリアさん\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/56/Dialogue
+\\C[29]「\\C[0]Yes, thanks a lot. Mr. Natalia\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]じゃぁ\\N[1]、
+　次は山賊退治だよ！　一緒に頑張ろうね！\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/59/Dialogue
+\\C[29]「\\C[0]Alrighty then \\N[1] , Next is a bandit raging! We
+will work hard together!\\C[29]」#MTLed
+> END STRING

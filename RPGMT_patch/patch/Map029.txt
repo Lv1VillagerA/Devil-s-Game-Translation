@@ -1,0 +1,21 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]今は何か土産になるようなものを探そう。
+　だが拾えるものは他の探索者が捨てた、
+　ゴミばかりかもしれないが…とにかく先に進むか\\C[1]」
+> CONTEXT: Map029/events/2/pages/0/7/Dialogue
+> CONTEXT: Map029/events/9/pages/0/7/Dialogue
+> CONTEXT: Map029/events/10/pages/0/7/Dialogue
+\\C[1]「\\C[0]Let's search for something to be souvenirs now.
+But what can be picked up by other explorers,
+It may be only garbage ... Anyway I want to go ahead\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]さて、せめて日ごろ世話になっている二人に、
+　何か土産になるようなものを、手に入れられると良いが…\\C[1]」
+> CONTEXT: Map029/events/15/pages/0/7/Dialogue
+\\C[1]「\\C[0]Well, at least for two people who are taking care of
+themselves, It would be nice if you could get something
+like a souvenir ...\\C[1]」#MTLed
+> END STRING

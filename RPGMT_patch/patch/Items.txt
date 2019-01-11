@@ -1,0 +1,332 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+転送石
+> CONTEXT: Items/50/name/
+Transfer stone#MTLed
+> END STRING
+
+> BEGIN STRING
+行ったことのある場所に一瞬で移動できる魔法の石
+【無制限】
+> CONTEXT: Items/50/description/
+Magical stone that can move instantly to places you've been
+to. 【Unlimited】#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者カード【共闘】
+> CONTEXT: Items/53/name/
+Adventurer card 【Co-fighting】#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者ギルドに所属している証
+使用することでエルフの戦闘への加入選択を行う【無制限】
+> CONTEXT: Items/53/description/
+> CONTEXT: Items/54/description/
+> CONTEXT: Items/55/description/
+Proof that belongs to the adventurer guild. Choose to
+subscribe to battle of elves by using [Unlimited]#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者カード【補助】
+> CONTEXT: Items/54/name/
+Adventurer card 【assistant】#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者カード【待機】
+> CONTEXT: Items/55/name/
+Adventurer card 【Wait】#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｈポーション
+> CONTEXT: Items/60/name/
+H potion#MTLed
+> END STRING
+
+> BEGIN STRING
+精力を４００回復し、状態異常も回復する薬
+> CONTEXT: Items/60/description/
+Medicine that restores energy to 400 and recovers condition
+abnormalities#MTLed
+> END STRING
+
+> BEGIN STRING
+ハイＨポーション
+> CONTEXT: Items/62/name/
+High H Potion#MTLed
+> END STRING
+
+> BEGIN STRING
+精力を全回復し、状態異常も回復する薬
+> CONTEXT: Items/62/description/
+> CONTEXT: Items/66/description/
+Medicine that recovers full energy and recovers condition
+abnormalities#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｍポーション
+> CONTEXT: Items/64/name/
+M potion#MTLed
+> END STRING
+
+> BEGIN STRING
+理性を２００回復し、状態異常も回復する薬
+> CONTEXT: Items/64/description/
+Medicine that recovers the reason to 200 and recovers from
+condition abnormalities#MTLed
+> END STRING
+
+> BEGIN STRING
+ハイＭポーション
+> CONTEXT: Items/66/name/
+High M potion#MTLed
+> END STRING
+
+> BEGIN STRING
+天使の涙
+> CONTEXT: Items/68/name/
+Tears of an angel#MTLed
+> END STRING
+
+> BEGIN STRING
+精力と理性を５０％、呪縛と淫魔化と状態異常を全回復する羽
+
+> CONTEXT: Items/68/description/
+Fifty percent of energies and reasons, feathers to fully
+restore spells and vampire and state anomalies. #MTLed
+> END STRING
+
+> BEGIN STRING
+天使の祝福
+> CONTEXT: Items/70/name/
+Angel's blessing#MTLed
+> END STRING
+
+> BEGIN STRING
+精力と理性、呪縛と淫魔化と状態異常全回復する翼
+
+> CONTEXT: Items/70/description/
+Enthusiasm and reason, spelling and obscurity and state
+abnormality Full recovery wings. #MTLed
+> END STRING
+
+> BEGIN STRING
+興奮剤
+> CONTEXT: Items/72/name/
+Stimulant#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃と行動は上昇するが、防御と抵抗は０になる薬
+> CONTEXT: Items/72/description/
+Attacks and actions rise, but defense and resistance become
+zero drugs#MTLed
+> END STRING
+
+> BEGIN STRING
+３００までの快感を遮断するバリアを張る石。
+状態異常も無効
+> CONTEXT: Items/74/description/
+Stone to block the pleasures up to 300 stone. Invalid state
+error#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｌバリア
+> CONTEXT: Items/76/name/
+L barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+６００までの快感を遮断するバリアを張る石。
+状態異常も無効
+> CONTEXT: Items/76/description/
+A stone stretching barrier to block pleasure up to 600. 
+Invalid state error#MTLed
+> END STRING
+
+> BEGIN STRING
+薬草
+> CONTEXT: Items/87/name/
+Herbs#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｈポーションなど、精力を回復する道具の素材です。
+> CONTEXT: Items/87/description/
+H potion etc. material, it is a material for recovering
+energy.#MTLed
+> END STRING
+
+> BEGIN STRING
+星くずのハーブ
+> CONTEXT: Items/89/name/
+Stardust herbs#MTLed
+> END STRING
+
+> BEGIN STRING
+回復系全般で必要な素材です。
+> CONTEXT: Items/89/description/
+It is a necessary material in the recovery system in
+general.#MTLed
+> END STRING
+
+> BEGIN STRING
+月の雫
+> CONTEXT: Items/91/name/
+Depth of the moon#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｍポーションなど、理性を回復する道具の素材です。
+> CONTEXT: Items/91/description/
+M potion etc., material of a tool to restore reason.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+魔晶石
+> CONTEXT: Items/93/name/
+Magic stone#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｓバリアなど、特殊な効果をもつ道具の素材です。
+> CONTEXT: Items/93/description/
+S barrier and other materials with special effects.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+淫核Ｄ
+> CONTEXT: Items/101/name/
+Lucifera D#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔を倒した後に残る謎の結晶
+バリア系や天使系など強力な効果をもつ道具の素材です
+> CONTEXT: Items/101/description/
+> CONTEXT: Items/103/description/
+> CONTEXT: Items/105/description/
+> CONTEXT: Items/107/description/
+> CONTEXT: Items/109/description/
+\\}Crystal of the mystery remaining after defeating the bastard
+It is a material of a tool with a powerful effect such as#MTLed
+> END STRING
+
+> BEGIN STRING
+淫核Ｃ
+> CONTEXT: Items/103/name/
+Horny C#MTLed
+> END STRING
+
+> BEGIN STRING
+淫核Ｂ
+> CONTEXT: Items/105/name/
+Nasti B#MTLed
+> END STRING
+
+> BEGIN STRING
+淫核Ａ
+> CONTEXT: Items/107/name/
+Natural nucleus A#MTLed
+> END STRING
+
+> BEGIN STRING
+淫核Ｓ
+> CONTEXT: Items/109/name/
+Nasty nucleus S#MTLed
+> END STRING
+
+> BEGIN STRING
+バリアクズ
+> CONTEXT: Items/115/name/
+Barakudzu#MTLed
+> END STRING
+
+> BEGIN STRING
+ＳバリアとＬバリアが力を失った後の石
+何の役にもたたない
+> CONTEXT: Items/115/description/
+Stone after S barrier and L barrier lost power. There is no
+help for anything#MTLed
+> END STRING
+
+> BEGIN STRING
+白くベトつく何か
+> CONTEXT: Items/120/name/
+Something white sticky#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法の小瓶に詰められた白くベトつく液体。
+蓋をあけると微かにイカの香りがするような…。
+> CONTEXT: Items/120/description/
+A white, sticky liquid filled in a magic vial. It smells
+squid slightly when opening the lid ....#MTLed
+> END STRING
+
+> BEGIN STRING
+縄梯子
+> CONTEXT: Items/122/name/
+Rope ladder#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょっとやそっとでは切れそうにない、丈夫な縄梯子。
+> CONTEXT: Items/122/description/
+A durable rope ladder not likely to cut in a bit or softly.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+古びた鍵
+> CONTEXT: Items/124/name/
+Old Keys#MTLed
+> END STRING
+
+> BEGIN STRING
+古いながらも魔力が込められた鍵
+> CONTEXT: Items/124/description/
+A key with old magical powers
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+汚れた指輪
+> CONTEXT: Items/126/name/
+Dirty ring#MTLed
+> END STRING
+
+> BEGIN STRING
+汚水により全てが汚れきっている謎の指輪
+> CONTEXT: Items/126/description/
+Mysterious ring where everything is soiled by sewage
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+館の鍵Ａ
+> CONTEXT: Items/128/name/
+The key of the library A#MTLed
+> END STRING
+
+> BEGIN STRING
+特殊な魔力が込められ、飾り付けられた美しい鍵
+> CONTEXT: Items/128/description/
+> CONTEXT: Items/130/description/
+A special magical power is put in and a beautiful key
+decorated#MTLed
+> END STRING
+
+> BEGIN STRING
+館の鍵Ｂ
+> CONTEXT: Items/130/name/
+House key B#MTLed
+> END STRING

@@ -1,0 +1,28 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+B2 隔離室
+> CONTEXT: Map071/display_name/
+B2 isolation room#MTLed
+> END STRING
+
+> BEGIN STRING
+やはり生物でなければ、
+人工的に淫魔化させることは出来ないのだろうか。
+> CONTEXT: Map071/events/7/pages/0/16/Dialogue
+> CONTEXT: Map071/events/7/pages/1/16/Dialogue
+After all, unless it is an organism, Is it impossible to
+artificially make it fake?#MTLed
+> END STRING
+
+> BEGIN STRING
+幸せそうな顔でよだれを垂らしながら事切れている…。
+> CONTEXT: Map071/events/8/pages/0/7/Dialogue
+It is running out while drooling with a happy face ....#MTLed
+> END STRING
+
+> BEGIN STRING
+名札を見る限り、どうやらここの院長のようだ。
+> CONTEXT: Map071/events/8/pages/0/9/Dialogue
+As far as seeing the name tag, apparently it seems to be
+the director of this place.#MTLed
+> END STRING

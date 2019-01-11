@@ -1,0 +1,207 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[29]「\\C[0]そんな…！　私の故郷が…！\\C[29]」
+> CONTEXT: Map130/events/23/pages/0/17/Dialogue
+\\C[29]「\\C[0]Something like that ...! My hometown is ...!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ぐぬぬ…流石に年かのう。結界の維持は堪えるわい！
+　しかし、ここを突破されるわけには…！」
+> CONTEXT: Map130/events/23/pages/0/29/Dialogue
+「Goku ... It is years ago. You can endure the barrier!
+But it can not be over here ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]どうした？
+　ここを破られれば、もう後がないぞ？
+　エルフの誇りとはこの程度か？\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/33/Dialogue
+\\C[10]「\\C[0]What happened? If you break here, there will not be any
+more later? Is this the extent of elven pride?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「マリーダ…何故じゃ…何故お主のような優秀な魔法使いが！
+　エルフの村を…故郷を滅ぼそうとする！」
+> CONTEXT: Map130/events/23/pages/0/38/Dialogue
+「Marida ... why ... why is there an excellent mage like
+your lord! A village of elves ... trying to destroy my
+hometown!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それは貴様も知って……んっ？\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/42/Dialogue
+\\C[10]「\\C[0]You know that ... ... Huh?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]人間とエルフの冒険者か。
+　ふむ…なるほど…お前たちがそうか\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/47/Dialogue
+\\C[10]「\\C[0]An adventurer of humans and elves?
+Hmm ... I see ... you guys\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうだな。少し昔話をしてやろう。
+　そこのエルフ…\\N[6]も、
+　あながち無関係ではないことだしな\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/63/Dialogue
+\\C[10]「\\C[0]That's right. Let's make a little old story.
+There Elf ... \\N[6] Also, You should not be
+irrelevant.\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あれは、二百年程昔になるか。
+　その頃のアタシは、
+　村の中では並ぶ者のいない魔法使いだった\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/74/Dialogue
+\\C[10]「\\C[0]Is that about two hundred years old?
+At that time, In the village it was a sorceress without a
+lineup\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それじゃ、森の入口の奴隷商人たちはやっぱり…！\\C[29]」
+> CONTEXT: Map130/events/23/pages/1/6/Dialogue
+\\C[29]「\\C[0]Well then, the slave merchants at the entrance of the
+forest are still ...!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうだ。アタシが吸い殺した。
+　たとえ別人だとしても奴隷商人には違いない。
+　それに、\\N[6]にも縁のある人間たちだろう？\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/10/Dialogue
+\\C[10]「\\C[0]That's it. I died suddenly.
+Even if it is a different person, it must be a slave
+merchant. in addition, \\N[6] People who are also
+related?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]どうして！　私の過去を…そんなに詳しく…！\\C[29]」
+> CONTEXT: Map130/events/23/pages/1/14/Dialogue
+\\C[29]「\\C[0]why! My past ... so much more ...!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]淫女王様の障害となり得る唯一の存在、
+　それが\\N[1]と\\N[6]だからな\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/16/Dialogue
+\\C[10]「\\C[0]The only existence that can be a hindrance to the King of
+Himself, that is \\N[1] When \\N[6] Because of that\\C[10]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]さて\\N[1]、
+　貴様が相手なら、結界を破るまでの、
+　良い退屈しのぎになりそうだ\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/20/Dialogue
+\\C[10]「\\C[0]Now \\N[1] , If you are an opponent, until you break
+the barrier, It is likely to be a good boredom\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]せいぜい楽しませてもらうぞ！\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/24/Dialogue
+\\C[10]「\\C[0]You will have pleasure at most!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[6]…本当に良く帰ってきてくれたのう」
+> CONTEXT: Map130/events/23/pages/2/14/Dialogue
+「\\N[6] ... I was really well came back」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]…おじいちゃん\\C[29]」
+> CONTEXT: Map130/events/23/pages/2/16/Dialogue
+\\C[29]「\\C[0]…Grandpa\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それにそこの方も、
+　エルフの村を助けてくださり…ありがとうございますじゃ。
+　これからも、\\N[6]と仲良くしてあげてくだされ」
+> CONTEXT: Map130/events/23/pages/2/18/Dialogue
+「Also, Thank you for helping the elven village ... Thank
+you. From now on, \\N[6] Please make friends.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あっ…あぁ、もちろんだ\\C[1]」
+> CONTEXT: Map130/events/23/pages/2/22/Dialogue
+\\C[1]「\\C[0]Ah ... oh, of course\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは二人とも、
+　わしらは今回の後処理があるので、
+　これで失礼させてもらうよ」
+> CONTEXT: Map130/events/23/pages/2/24/Dialogue
+「Well then, Since we have post-processing this time,
+I will be rude with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+「結界も張り直さねばならぬしのう。
+　もちろん、お主たちは問題なく通れるように取り計らうが、
+　今はこの状況じゃ、あまり歓迎してやれず、すまぬのう」
+> CONTEXT: Map130/events/23/pages/2/28/Dialogue
+「I also have to fix the barrier. Of course, we will make
+an effort to ensure that you can pass without problems,
+Now in this situation, I can not welcome you very much, I
+am sorry」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは、何もない村じゃが、
+　ゆっくりしていくと良い」
+> CONTEXT: Map130/events/23/pages/2/32/Dialogue
+「Then, there is nothing in the village, It is good to go
+slowly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そう言えば、
+　今回はナタリアがやけに静かだったな\\C[1]」
+> CONTEXT: Map130/events/23/pages/2/51/Dialogue
+\\C[1]「\\C[0]... By way of saying, Natalia was quietly quiet this time
+this time\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ひょっとしたら、
+　今までのような精神体ではなくて、
+　もう現界したのかもしれないね\\C[29]」
+> CONTEXT: Map130/events/23/pages/2/56/Dialogue
+\\C[29]「\\C[0]Perhaps, It is not a spiritual body like you have ever
+been, It may have already been in the world\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ふむ、しかしマリーダの言葉が気になるな。
+　何故唯一の障害が俺たち二人なんだ？
+　現界したナタリアのほうが、ずっと厄介なはずだが\\C[1]」
+> CONTEXT: Map130/events/23/pages/2/60/Dialogue
+\\C[1]「\\C[0]Hmm, but I do not mind the words of Marida.
+Why are we the only obstacles for us? Although the Natalia
+which has come into existence should be much more
+troublesome\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]う～ん…とにかく、
+　私にかけられてる加護は消えてないようだし、
+　一度大聖堂に様子を見に行ってみようよ\\C[29]」
+> CONTEXT: Map130/events/23/pages/2/66/Dialogue
+\\C[29]「\\C[0]Well ... anyway, It seems that the protection to me has
+not disappeared, Let's go to the cathedral to see how it is
+once\\C[29]」#MTLed
+> END STRING

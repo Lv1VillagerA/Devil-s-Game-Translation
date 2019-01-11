@@ -1,0 +1,32 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+領主の館　２Ｆ
+> CONTEXT: Map149/display_name/
+> CONTEXT: Map114/display_name/
+Lords of the lord 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は館の鍵を使い、鉄格子を開けた。
+> CONTEXT: Map149/events/32/pages/0/9/Dialogue
+> CONTEXT: Map149/events/33/pages/0/9/Dialogue
+\\N[1] He used the keys of the museum and opened the
+grill.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうやら持っている鍵では開けられないようだ。
+> CONTEXT: Map149/events/32/pages/0/16/Dialogue
+Apparently it seems I can not open it with the key I have.#MTLed
+> END STRING
+
+> BEGIN STRING
+鍵のかかった鉄格子だ。
+防御魔法が何重にもかけられており、
+他の手段では開かないようだ。
+> CONTEXT: Map149/events/32/pages/0/20/Dialogue
+> CONTEXT: Map149/events/33/pages/0/15/Dialogue
+It is a keyed iron grid. Defensive magic has been applied
+over and over, It seems that it will not open by other
+means.#MTLed
+> END STRING

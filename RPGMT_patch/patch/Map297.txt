@@ -1,0 +1,17 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「元はベテランハンターだったのに、
+　引退してからは毎日飲んだくれて」
+> CONTEXT: Map297/events/6/pages/0/12/Dialogue
+「Originally it was a veteran hunter,
+After retirement you drink every day」#MTLed
+> END STRING
+
+> BEGIN STRING
+「新人の指導とか、色々やることがあるでしょうに。
+　今度ビシっと言ってあげないとね」
+> CONTEXT: Map297/events/6/pages/0/15/Dialogue
+「There will be various things to do, such as
+guiding newcomers. I have to say I'm bisy next
+time」#MTLed
+> END STRING

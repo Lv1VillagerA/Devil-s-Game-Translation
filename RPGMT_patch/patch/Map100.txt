@@ -1,0 +1,257 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「こんな寂れた漁村に良く来たね。
+　この村も昔は、とても活気があったんだけどね」
+> CONTEXT: Map100/events/1/pages/0/30/Dialogue
+「You often came to such a fishing village.
+In the past, this village was also very lively」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう言えばいつも船着場にいる、
+　船乗りの兄さんが元気がなくなったのも、
+　丁度隣の区画が放棄された頃だったな」
+> CONTEXT: Map100/events/1/pages/0/33/Dialogue
+「If you say so, you are always at the dock,
+Even the sailor's older brother was lost,
+It was about time that the neighboring section was just
+abandoned」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何でも結婚したばかりの奥さんを亡くしたとか。
+　世の中上手くいかないもんだね」
+> CONTEXT: Map100/events/1/pages/0/37/Dialogue
+「Everything lost his wife who just got married.
+It's not going well in the world」#MTLed
+> END STRING
+
+> BEGIN STRING
+「お二人さんが、
+　指輪を見つけてくれたんだろう？」
+> CONTEXT: Map100/events/1/pages/0/42/Dialogue
+「The second person, Did you find the ring?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この間酒を飲みに来たときに、
+　嬉しそうに話してくれたんだよ」
+> CONTEXT: Map100/events/1/pages/0/45/Dialogue
+「During this time, when I came to drink sake,
+They talked happily.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私からも礼を言わせてもらうよ。
+　…本当にありがとう」
+> CONTEXT: Map100/events/1/pages/0/48/Dialogue
+「I will thank you too. …Thank you very much」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最近淫魔の被害が、目に見えて増えてきている」
+> CONTEXT: Map100/events/11/pages/0/7/Dialogue
+> CONTEXT: Map100/events/11/pages/2/7/Dialogue
+「The damage of suffering has been increasingly visible
+recently」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今のところは、
+　海上で襲われるという状況は起こっていないが、
+　対策をしておいて損はない」
+> CONTEXT: Map100/events/11/pages/0/9/Dialogue
+> CONTEXT: Map100/events/11/pages/2/9/Dialogue
+「For now, Although the situation of being attacked at sea
+has not happened, There is no loss after taking
+countermeasures」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やはり結界を…それと、
+　万一に備えて淫魔と戦える人員を…ふむ」
+> CONTEXT: Map100/events/11/pages/0/13/Dialogue
+> CONTEXT: Map100/events/11/pages/2/13/Dialogue
+「Again the barrier ... ... and, To prepare for any chance
+to fight the bastard ... Hm」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私は世界中を修行がてら回っているが、
+　この辺りは自然の力が強いな」
+> CONTEXT: Map100/events/12/pages/0/7/Dialogue
+「I am training around the world, Natural power is strong
+here around here」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ…水…それに土の力も感じるぞ。
+　それに微かにだが、泥の力もな」
+> CONTEXT: Map100/events/12/pages/0/10/Dialogue
+「Hmm ... water ... and the power of the earth will be felt.
+Besides, it is mud power」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まだまだ実力不足だが、
+　いつの日か立派な魔法使いとして、
+　故郷に戻るのが私の夢だ」
+> CONTEXT: Map100/events/12/pages/0/13/Dialogue
+「Although it is still inadequate, One day as a wonderful
+wizard, Returning to my hometown is my dream」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そのために各地の魔力が宿ったカードを、
+　収集しているのだからな」
+> CONTEXT: Map100/events/12/pages/0/17/Dialogue
+「For that reason, cards where magical power of various
+places lived, We are collecting it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今日も今日とて積み下ろしっとな。
+　仕事の後の酒はうまいぜ！」
+> CONTEXT: Map100/events/13/pages/0/7/Dialogue
+> CONTEXT: Map100/events/13/pages/2/7/Dialogue
+「Today as well, we are loading and unloading.
+After drinking sake is good!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろ殆ど寄れないからな。
+　限界まで荷物を詰んで、それから出港だ」
+> CONTEXT: Map100/events/14/pages/0/7/Dialogue
+> CONTEXT: Map100/events/14/pages/2/7/Dialogue
+「I can hardly beat anything. I packed my bags up to the
+limit and then departed.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ風の向くまま気の向くままだ。
+　焦っても仕方ないさ」
+> CONTEXT: Map100/events/14/pages/0/10/Dialogue
+> CONTEXT: Map100/events/14/pages/2/10/Dialogue
+「Well the mind keeps turning as the wind goes.
+It can not be helped even if it is impatient」#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な安酒が棚に収められている。
+> CONTEXT: Map100/events/15/pages/0/7/Dialogue
+> CONTEXT: Map100/events/16/pages/0/7/Dialogue
+Various sake brewed on a shelf.#MTLed
+> END STRING
+
+> BEGIN STRING
+漁村での暮らし方や、海の魔物に関する本がしまわれている。
+> CONTEXT: Map100/events/17/pages/0/7/Dialogue
+> CONTEXT: Map100/events/18/pages/0/7/Dialogue
+The way of living in the fishing village and the book on
+the demons of the sea are stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+綺麗な花が鉢に植えられている。
+> CONTEXT: Map100/events/19/pages/0/7/Dialogue
+Pretty flowers are planted in pots.#MTLed
+> END STRING
+
+> BEGIN STRING
+良く手入れされている植物が置いてある。
+> CONTEXT: Map100/events/20/pages/0/7/Dialogue
+There are well-maintained plants.#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむふむ、なるほど。
+　冒険者ギルドは支部ごとに繋がっており、
+　依頼を達成した回数により、より良い仕事を斡旋すると」
+> CONTEXT: Map100/events/21/pages/0/38/Dialogue
+「Hmm, I see. The adventurer guild is connected to each
+branch, Depending on the number of times you have fulfilled
+the request,」#MTLed
+> END STRING
+
+> BEGIN STRING
+「具体的な依頼の内容は変わらなくても、
+　より多くの魔貨が得られるようになる。
+　それが冒険者カードが新しくなってからの制度…っと」
+> CONTEXT: Map100/events/21/pages/0/42/Dialogue
+「Even though the content of the specific request does not
+change, More demons will be available. It's a system since
+the adventurer card is new ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そして、大体五回から十回ほど、
+　淫魔に勝利すれば…依頼は更新されるっと」
+> CONTEXT: Map100/events/21/pages/0/46/Dialogue
+「And roughly five to ten times, If you win the loser ...
+the request will be updated」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ああ、ちなみにアンタが今まで達成した依頼は、
+　全部で\\V[1085]回で、ランクは\\N[9]らしいぜ」
+> CONTEXT: Map100/events/21/pages/0/49/Dialogue
+「Oh, by the way, the request that you have achieved so far,
+In all \\V[1085] In times, the rank is \\N[9] It seems like」#MTLed
+> END STRING
+
+> BEGIN STRING
+「アンタすげえじゃねえか！
+　これ以上の高ランクはねえぜ！」
+> CONTEXT: Map100/events/21/pages/0/53/Dialogue
+「I guess you are suffering! Higher rank higher than this!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「へぇ…貴方たちは二人で旅をしているのね。
+　だったら、あの技が使えるかもしれないわ」
+> CONTEXT: Map100/events/22/pages/0/7/Dialogue
+「Well ... you are traveling by themselves.
+Then, you may be able to use that technique」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何って…連携よ。れ・ん・け・い。
+　まぁ確かに選択後は遅いし、攻撃部位は自動で決まるし、
+　理性は二倍消費するし、復帰ラインは最低位置だけどね」
+> CONTEXT: Map100/events/22/pages/0/10/Dialogue
+「What is ... cooperation. Refreshment. Well certainly it
+is late after selection, the attack site is determined
+automatically, The reason is doubled and the return line is
+the lowest position though」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでも、与える快感は二倍になるのよ？
+　特技効果もプラスすれば、さらにね。
+　止めの一撃は、これ以上のモノはないわ」
+> CONTEXT: Map100/events/22/pages/0/14/Dialogue
+「Still, the pleasant feeling will be doubled?
+If you also add special skill effects, even more.
+There is no more thing than this for a blow of stop」#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方たちも淫魔と戦うなら、
+　時には弱点以外の部位警戒値をわざと上げるとかして、
+　連携で止め！…とか工夫して戦わないと、この先は危険よ」
+> CONTEXT: Map100/events/22/pages/0/18/Dialogue
+「If you also fight against a fantasy, Sometimes we raise
+the site warning value other than weakness on purpose,
+Stop linking! ... or if you do not fight by ingenuity, the
+future is dangerous」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ…私にとっては死のう生きようが関係ないことだけど。
+　そうね…先輩冒険者からの、
+　せめてもの助言ってやつかしら？」
+> CONTEXT: Map100/events/22/pages/0/22/Dialogue
+「Well ... For me it does not matter whether I live dead or
+not. Well ... from a senior adventurer, Could you advise at
+least that?」#MTLed
+> END STRING

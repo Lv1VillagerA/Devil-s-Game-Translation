@@ -1,0 +1,74 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「もうすぐ彼女の誕生日…だけど、
+　渡したいプレゼントは決まってるのに、
+　どうしても手に入らないんだ」
+> CONTEXT: Map084/events/4/pages/0/6/Dialogue
+「Her birthday is coming soon ... But, I have decided which
+gift I want to pass, I can not get it anyway」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この日のためにコツコツと積み立ててきたのに、
+　モノがなければどうしようもないよ」
+> CONTEXT: Map084/events/4/pages/0/10/Dialogue
+「Although I have piled up for the sake of this day,
+There is nothing I can do if there is no thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふふっ…あの人は一体、
+　私に何をくれるのかしら？」
+> CONTEXT: Map084/events/5/pages/0/6/Dialogue
+「Huhu ... He is a god, What will you give me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とても楽しみで今から待ちきれないわ。
+　その日の夜は干からびるまで、
+　いっぱいサービスしてあげなきゃね…\\I[140]」
+> CONTEXT: Map084/events/5/pages/0/9/Dialogue
+「I am very excited and can not wait from now.
+Until the dry evening that night, I have to give a lot of
+service ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な医薬品が綺麗に並んでいる。
+> CONTEXT: Map084/events/6/pages/1/7/Dialogue
+> CONTEXT: Map084/events/7/pages/1/7/Dialogue
+Various medicines are lined up beautifully.#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な種類の本が、雑多に並べられている。
+> CONTEXT: Map084/events/8/pages/0/7/Dialogue
+> CONTEXT: Map084/events/9/pages/0/7/Dialogue
+Various kinds of books are arranged in miscellaneous.#MTLed
+> END STRING
+
+> BEGIN STRING
+男物と女物の衣服が半分ずつにわけられている。
+> CONTEXT: Map084/events/10/pages/0/7/Dialogue
+> CONTEXT: Map084/events/11/pages/0/7/Dialogue
+The clothes of men and women are divided into halves.#MTLed
+> END STRING
+
+> BEGIN STRING
+新鮮な食材がぎっしり入っている。
+> CONTEXT: Map084/events/12/pages/0/7/Dialogue
+There is a cock of fresh ingredients.#MTLed
+> END STRING
+
+> BEGIN STRING
+食器類が綺麗に整頓されている。
+> CONTEXT: Map084/events/13/pages/0/7/Dialogue
+> CONTEXT: Map084/events/14/pages/0/7/Dialogue
+The dishes are neatly arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な調味料が収納されている。
+> CONTEXT: Map084/events/15/pages/0/7/Dialogue
+Various seasonings are stored.#MTLed
+> END STRING

@@ -1,0 +1,289 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+通常攻撃
+> CONTEXT: System/elements/1/
+Regular attack#MTLed
+> CONTEXT: States/100/name/
+Regular attack#MTLed
+> END STRING
+
+> BEGIN STRING
+最大精力
+> CONTEXT: System/terms/params/0/
+Maximum effort#MTLed
+> CONTEXT: States/58/name/
+Maximum effort#MTLed
+> END STRING
+
+> BEGIN STRING
+最大理性
+> CONTEXT: System/terms/params/1/
+Maximum reason#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃力
+> CONTEXT: System/terms/params/2/
+> CONTEXT: States/86/name/
+ATK#lvl1
+> END STRING
+
+> BEGIN STRING
+防御力
+> CONTEXT: System/terms/params/3/
+> CONTEXT: States/65/name/
+DEF#lvl1
+> END STRING
+
+> BEGIN STRING
+道具回数
+> CONTEXT: System/terms/params/4/
+Number of tools#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗力
+> CONTEXT: System/terms/params/5/
+Resistance#MTLed
+> CONTEXT: States/72/name/
+Resistance#MTLed
+> END STRING
+
+> BEGIN STRING
+行動力
+> CONTEXT: System/terms/params/6/
+Ability to take action#MTLed
+> END STRING
+
+> BEGIN STRING
+運
+> CONTEXT: System/terms/params/7/
+> CONTEXT: States/54/name/
+> CONTEXT: Map299/events/5/pages/0/128/Choice/3
+LUK#lvl1
+> END STRING
+
+> BEGIN STRING
+服
+> CONTEXT: System/terms/etypes/0/
+> CONTEXT: System/terms/commands/12/
+clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+メインスロット
+> CONTEXT: System/terms/etypes/1/
+Main Slot#MTLed
+> END STRING
+
+> BEGIN STRING
+サブスロット
+> CONTEXT: System/terms/etypes/2/
+Subslot#MTLed
+> END STRING
+
+> BEGIN STRING
+札
+> CONTEXT: System/terms/etypes/3/
+A bill#MTLed
+> END STRING
+
+> BEGIN STRING
+枷
+> CONTEXT: System/terms/etypes/4/
+Shackles#MTLed
+> END STRING
+
+> BEGIN STRING
+戦う
+> CONTEXT: System/terms/commands/0/
+Fight#lvl1
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: System/terms/commands/1/
+Escape#lvl1
+> END STRING
+
+> BEGIN STRING
+攻撃
+> CONTEXT: System/terms/commands/2/
+> CONTEXT: Classes/9/name/
+> CONTEXT: Actors/62/name/
+Attack#lvl1
+> END STRING
+
+> BEGIN STRING
+耐える
+> CONTEXT: System/terms/commands/3/
+Bear#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテム
+> CONTEXT: System/terms/commands/4/
+Item#lvl1
+> END STRING
+
+> BEGIN STRING
+特技
+> CONTEXT: System/terms/commands/5/
+> CONTEXT: System/skill_types/2/
+> CONTEXT: Map299/events/5/pages/0/48/Choice/2
+Special#lvl1
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/terms/commands/6/
+Equipment#lvl1
+> END STRING
+
+> BEGIN STRING
+ステータス
+> CONTEXT: System/terms/commands/7/
+Status#lvl1
+> END STRING
+
+> BEGIN STRING
+並び替え
+> CONTEXT: System/terms/commands/8/
+Formation#lvl1
+> END STRING
+
+> BEGIN STRING
+セーブ
+> CONTEXT: System/terms/commands/9/
+Save#lvl1
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+> CONTEXT: System/terms/commands/10/
+Game End#lvl1
+> END STRING
+
+> BEGIN STRING
+装飾品
+> CONTEXT: System/terms/commands/13/
+Accessory#lvl1
+> END STRING
+
+> BEGIN STRING
+素材
+> CONTEXT: System/terms/commands/14/
+Material#MTLed
+> END STRING
+
+> BEGIN STRING
+装備変更
+> CONTEXT: System/terms/commands/15/
+Change#lvl1
+> END STRING
+
+> BEGIN STRING
+ニューゲーム
+> CONTEXT: System/terms/commands/18/
+New Game#lvl1
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+> CONTEXT: System/terms/commands/19/
+Continue#lvl1
+> END STRING
+
+> BEGIN STRING
+シャットダウン
+> CONTEXT: System/terms/commands/20/
+Shutdown#lvl1
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+> CONTEXT: System/terms/commands/21/
+To Title#lvl1
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: System/terms/commands/22/
+Cancel#lvl1
+> END STRING
+
+> BEGIN STRING
+レベル
+> CONTEXT: System/terms/basic/0/
+Level#lvl1
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: System/terms/basic/1/
+LV#lvl1
+> END STRING
+
+> BEGIN STRING
+精力
+> CONTEXT: System/terms/basic/2/
+Energetic#MTLed
+> CONTEXT: Map299/events/5/pages/0/48/Choice/0
+Energetic#MTLed
+> END STRING
+
+> BEGIN STRING
+精
+> CONTEXT: System/terms/basic/3/
+Fine#MTLed
+> END STRING
+
+> BEGIN STRING
+理性
+> CONTEXT: System/terms/basic/4/
+reason#MTLed
+> END STRING
+
+> BEGIN STRING
+理
+> CONTEXT: System/terms/basic/5/
+Reason#MTLed
+> END STRING
+
+> BEGIN STRING
+ＴＰ
+> CONTEXT: System/terms/basic/6/
+TP#lvl1
+> END STRING
+
+> BEGIN STRING
+TP
+> CONTEXT: System/terms/basic/7/
+TP#lvl1
+> END STRING
+
+> BEGIN STRING
+主人公専用
+> CONTEXT: System/weapon_types/1/
+> CONTEXT: System/armor_types/1/
+Only for the main character#MTLed
+> END STRING
+
+> BEGIN STRING
+エルフ専用
+> CONTEXT: System/weapon_types/2/
+> CONTEXT: System/armor_types/2/
+Elf only#MTLed
+> END STRING
+
+> BEGIN STRING
+スキル【共通】
+> CONTEXT: System/armor_types/3/
+Skills [common]#MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨
+> CONTEXT: System/currency_unit/
+魔貨#NoTL
+> END STRING

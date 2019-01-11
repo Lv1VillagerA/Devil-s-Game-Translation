@@ -1,0 +1,32 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　７Ｆ
+> CONTEXT: Map169/display_name/
+Seal Tower 7F#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これなら大丈夫そうかな。
+　えーと…ここをこうして、…あぁすればっと\\C[29]」
+> CONTEXT: Map169/events/15/pages/0/12/Dialogue
+\\C[29]「\\C[0]I wonder if this is all right.
+Uh ... like this ... here ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これで、何とかなったと思うよ。
+　エレベーターさえ動けば、
+　ここよりも上の階に行けるだろうしね\\C[29]」
+> CONTEXT: Map169/events/15/pages/0/20/Dialogue
+\\C[29]「\\C[0]With this I think that it managed.
+If the elevator moves, I will be able to go upstairs here\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これで、何とかなったと思うよ。
+　エレベーターが動けば、
+　ここよりも上の階に行けるだろうしね\\C[29]」
+> CONTEXT: Map169/events/15/pages/1/9/Dialogue
+\\C[29]「\\C[0]With this I think that it managed.
+If the elevator moves, I will be able to go upstairs here\\C[29]」#MTLed
+> END STRING

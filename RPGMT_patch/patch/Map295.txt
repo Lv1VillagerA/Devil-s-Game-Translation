@@ -1,0 +1,695 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+親方
+「ここは酒場件、宿屋だな。
+　今は使う機会はないかもしれんが、別の町では必要になるぜ」
+> CONTEXT: Map295/events/5/pages/0/6/Dialogue
+master. 「This place is a tavern, inn. Now I do not have
+the opportunity to use it, but in another town I will need
+it」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ハンターライセンスを持っている限り、
+　宿泊は無料だが、永久にってわけじゃねえ」
+> CONTEXT: Map295/events/5/pages/0/10/Dialogue
+master. 「As long as you have a Hunter license,
+Accommodation is free, but it is not permanent」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ハンターとして長期間活動しねえと、
+　無料じゃなくなっちまうが、\\N[1]なら大丈夫だろう」
+> CONTEXT: Map295/events/5/pages/0/14/Dialogue
+master. 「As long as I do not act like a hunter for a long
+time, It's not free, but, \\N[1] I guess it'll be okay.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「戦いで消耗した精力と気力を、全回復出来るぜ。
+　こまめに休んで、次の戦いに備えるのが生き残るコツだ」
+> CONTEXT: Map295/events/5/pages/0/18/Dialogue
+master. 「You can fully recover the energy and energy you
+exhausted in battle. It is a trick to survive abridging
+frequently and preparing for the next fight」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「あとは宿屋と酒場は一緒になっている場合が多い。
+　情報の収集も行うことが出来るぜ」
+> CONTEXT: Map295/events/5/pages/0/22/Dialogue
+master. 「In many cases the inn and the bar are together.
+You can also collect information」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「それじゃ、終わったらまた話しかけてくれ」
+> CONTEXT: Map295/events/5/pages/0/26/Dialogue
+master. 「Well then, when you are done talk to me again」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今ある依頼はこんなとこだ」
+> CONTEXT: Map295/events/7/pages/0/11/Dialogue
+「There is a request now like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+廃屋の淫魔
+> CONTEXT: Map295/events/7/pages/0/13/Choice/0
+Abolition of abandoned houses#MTLed
+> END STRING
+
+> BEGIN STRING
+町人の捜索
+> CONTEXT: Map295/events/7/pages/0/13/Choice/1
+Search for townspeople#MTLed
+> END STRING
+
+> BEGIN STRING
+入江の猫
+> CONTEXT: Map295/events/7/pages/0/13/Choice/2
+Irie's cat#MTLed
+> END STRING
+
+> BEGIN STRING
+「東にある町はずれの廃屋に、
+　最近流れの淫魔が住み着いたらしい」
+> CONTEXT: Map295/events/7/pages/0/15/Dialogue
+「To the abandoned shop out of the town in the east,
+It seems recently that a flower bastard settled down」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まだ被害報告は出てないが、
+　取り返しがつかなくなる前に、
+　説得出来なかった場合、討伐して欲しいそうだ」
+> CONTEXT: Map295/events/7/pages/0/18/Dialogue
+「We have not reported any damage yet, Before irrevocable,
+If it can not be persuaded, it seems to want to be subdued」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ、既にこの依頼は達成済みのようだな」
+> CONTEXT: Map295/events/7/pages/0/24/Dialogue
+> CONTEXT: Map295/events/7/pages/0/39/Dialogue
+> CONTEXT: Map295/events/7/pages/0/53/Dialogue
+「Hmm, it seems that this request has already been achieved」#MTLed
+> END STRING
+
+> BEGIN STRING
+「南西の釣り場に行った男が、
+　まだ戻っていないらしい」
+> CONTEXT: Map295/events/7/pages/0/32/Dialogue
+「A man who went to a fishing spot in the southwest,
+It seems that it has not returned yet」#MTLed
+> END STRING
+
+> BEGIN STRING
+「途中で淫魔に囚われた可能性があるため、
+　捜索隊はハンターが望ましいな」
+> CONTEXT: Map295/events/7/pages/0/35/Dialogue
+「Because there is a possibility that it was caught by a
+female horse on the way, A hunter is desirable for a search
+party」#MTLed
+> END STRING
+
+> BEGIN STRING
+「南東の入江の洞窟に現れた淫魔の討伐だな。
+　どうやら猫の姿に近いらしい」
+> CONTEXT: Map295/events/7/pages/0/45/Dialogue
+「It is the suppression of the bastard that appeared in the
+cave of the southeastern cove. Apparently it seems to be
+close to the figure of a cat」#MTLed
+> END STRING
+
+> BEGIN STRING
+「新人ハンターでも余裕で勝てそうらしいが、
+　何らかの罠を仕掛けて待ち構えているため、
+　討伐には十分な注意が必要だな」
+> CONTEXT: Map295/events/7/pages/0/48/Dialogue
+「Although it seems that even a rookie hunter will be able
+to win by affordance, Because I am waiting for some trap,
+You need to be careful enough to combat」#MTLed
+> END STRING
+
+> BEGIN STRING
+「またどうぞ」
+> CONTEXT: Map295/events/7/pages/0/59/Dialogue
+> CONTEXT: Map203/events/19/pages/0/166/Dialogue
+> CONTEXT: Map201/events/18/pages/0/166/Dialogue
+> CONTEXT: Map199/events/41/pages/0/166/Dialogue
+> CONTEXT: Map141/events/41/pages/0/166/Dialogue
+> CONTEXT: Map115/events/18/pages/0/166/Dialogue
+> CONTEXT: Map096/events/19/pages/0/166/Dialogue
+> CONTEXT: Map001/events/10/pages/0/166/Dialogue
+> CONTEXT: Map044/events/9/pages/0/166/Dialogue
+「Please also」#MTLed
+> END STRING
+
+> BEGIN STRING
+「二人は命の恩人だぜ。
+　こうして酒が飲めるのも、二人のおかげってやつだ」
+> CONTEXT: Map295/events/8/pages/0/13/Dialogue
+「They are the beneficiaries of life. I can not drink
+alcohol like this because of the two of you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「本当に感謝してるぜ！
+　もう天国逝きはごめんだからな。
+　今はこうして英気を養ってるってわけよ」
+> CONTEXT: Map295/events/8/pages/0/16/Dialogue
+「I really appreciate it! I am already sorry for the death
+of heaven. That's why I am cultivating spirit now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「完全に回復したら、
+　一から鍛え直すつもりなんだぜ！
+　負けたままってのは、悔しいからな！」
+> CONTEXT: Map295/events/8/pages/0/20/Dialogue
+「Once fully recovered, I am planning to train from scratch!
+To be defeated is regrettable!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]なるほど、こちらのほうは、
+　まだ見込みがありそうですね\\C[3]」
+> CONTEXT: Map295/events/8/pages/0/30/Dialogue
+\\C[3]「\\C[0]Indeed, this one, It seems likely to be still\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]せいぜい頑張ってくださいね。
+　ええ、…無駄な努力にならなければ良いですね\\C[3]」
+> CONTEXT: Map295/events/8/pages/0/41/Dialogue
+\\C[3]「\\C[0]Please do your best at best.
+Yeah ... ... I do not have to make a wasteful effort\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]さて…どうしたものかな\\C[1]）
+> CONTEXT: Map295/events/9/pages/0/8/Dialogue
+\\C[1](\\C[0] Well ... what's wrong?\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]どうやら無事、お酒を飲めるまで、
+　回復されたようですね\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/16/Dialogue
+\\C[3]「\\C[0]Apparently, until you can drink alcohol safely,
+You seem to have recovered\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]何かもらえるものが、
+　あるでしょう？\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/20/Dialogue
+\\C[3]「\\C[0]Something to get something,
+Is not there?\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わっ…わかった。アンタたち二人は命の恩人だ。
+　ちゃんと謝礼は払う」
+> CONTEXT: Map295/events/9/pages/0/23/Dialogue
+> CONTEXT: Map295/events/9/pages/0/70/Dialogue
+「Wow ... I understand. Two of you are benefactors of life.
+I will pay the reward properly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]これだけですか？\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/29/Dialogue
+\\C[3]「\\C[0]Is this alone?\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いや、しかし二人揃って、
+　もう今日の飲み代しか残って…」
+> CONTEXT: Map295/events/9/pages/0/32/Dialogue
+> CONTEXT: Map295/events/9/pages/0/79/Dialogue
+「No, but two people together, Only today's drinking age
+remains ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]違います。
+　今まで旦那様に行った非礼に対する、
+　詫びがあるでしょう？\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/35/Dialogue
+\\C[3]「\\C[0]wrong. To the husband who went to husband until now,
+There must be an apology?\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そっ…それは、いや…わかった。
+　今までのことは謝る。この通りだ！
+　どうか許して！　許してください！」
+> CONTEXT: Map295/events/9/pages/0/40/Dialogue
+> CONTEXT: Map295/events/9/pages/0/87/Dialogue
+「I see ... No, no ... I understand. I apologize so far.
+You are right! Please forgive me! please forgive me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]まぁ…多少不満は残りますが、許しましょう。
+　ただし、今後私と旦那様には近づかないことです\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/44/Dialogue
+\\C[3]「\\C[0]Well ... somewhat discontent will remain, but let's
+forgive. However, do not approach my husband with me in the
+future\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やっ…約束する！
+　ありがとう！　いえ、本当にありがとうございました！」
+> CONTEXT: Map295/events/9/pages/0/48/Dialogue
+> CONTEXT: Map295/events/9/pages/0/96/Dialogue
+「Do it ... I promise! Thank you! No, thank you very much!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]それでは行きましょう。旦那様。
+　このような下劣な人間と話すのは、
+　時間の無駄ですので\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/51/Dialogue
+\\C[3]「\\C[0]Let's go then. Mr. Husband.
+To talk with such vile people, Because it's a waste of time\\C[3]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]なるほど、ゴキブリの回復力というのは、
+　大したものですね\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/63/Dialogue
+\\C[3]「\\C[0]Indeed, the resilience of cockroaches,
+It's a big deal\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]さて、私とマスターに、
+　何か支払うものがあるでしょう？\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/67/Dialogue
+\\C[3]「\\C[0]Well, to me and the master,
+Do you have something to pay?\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]これで終わりですか？\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/76/Dialogue
+\\C[3]「\\C[0]Is this the end?\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]違います。
+　貴方たち二人が今まで旦那様に行ってきた、
+　侮辱、暴言、誹謗中傷、その他にも色々ありますよね？\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/82/Dialogue
+\\C[3]「\\C[0]wrong. You two of us have been going to your husband,
+Insults, insults, libelous slander, etc. There are many
+others as well?\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]そうですね。許さな…いえ、許しましょう。
+　慈悲深いマスターに感謝しなさい。
+　ただし、今後私たちには近づかないことです\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/91/Dialogue
+\\C[3]「\\C[0]I agree. Forgive ... No, let me forgive.
+Thank the Merciful Master. However, it is not approaching
+us in the future\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]それでは行きましょう。マスター。
+　このようなゴミクズの相手をするのは、
+　時間の無駄ですので\\C[3]」
+> CONTEXT: Map295/events/9/pages/0/99/Dialogue
+\\C[3]「\\C[0]Let's go then. Master. It is because of this kind of
+rubbucks, Because it's a waste of time\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こっ…これは、旦那さんそれに奥さんも、
+　ごっご機嫌麗しゅう」
+> CONTEXT: Map295/events/9/pages/1/13/Dialogue
+「This one ... This is my husband, and my wife,
+Cranky face」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はい、俺たちは休憩中でして、
+　もう少ししたらバリバリ稼いでくる予定です。
+　ほっ…ホントですぜ？」
+> CONTEXT: Map295/events/9/pages/1/16/Dialogue
+「Yes, we are on a break, I plan to earn a lot of money if
+I do it a little more. Ho ... it really is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええと、三日後ぐらい？
+　いや…一週間…ええと一ヶ月後ぐらいから、
+　本気を出そうかなと」
+> CONTEXT: Map295/events/9/pages/1/20/Dialogue
+「Well, about three days later? No ... one week ... from
+around one month after yeah, I wonder if I should seriously
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]これではハンターとしての出世は、
+　永遠に望めそうにありませんね\\C[3]」
+> CONTEXT: Map295/events/9/pages/1/30/Dialogue
+\\C[3]「\\C[0]This is a success as a hunter,
+I will not be able to hope forever\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]やはりクズは何処まで行ってもクズですね。
+　マスターより、何もかもが劣り過ぎています\\C[3]」
+> CONTEXT: Map295/events/9/pages/1/41/Dialogue
+\\C[3]「\\C[0]As expected, scum is nothing to do, is not it?
+Everything is too inferior than the master\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それと旦那に渡した★のついた防具は、少々特殊でして、
+　装備するとと快楽に逆らえなくなるのですよ」
+> CONTEXT: Map295/events/9/pages/1/48/Dialogue
+「And the armor with ★ that I gave to my husband was a bit
+special, When you equip it you will not be able to resist
+pleasure」#MTLed
+> END STRING
+
+> BEGIN STRING
+「戦闘中に屈服すると、淫魔のなすがままになって。
+　交渉は命乞いに変わって、
+　どれを選択しても失敗ばかりでして」
+> CONTEXT: Map295/events/9/pages/1/51/Dialogue
+「When yielding in battle, it is the mercy of the devil.
+The negotiations turned to life expectancy,
+Even if you choose anything, it was just a mistake」#MTLed
+> END STRING
+
+> BEGIN STRING
+「従魔の愛撫は呪縛で即敗北するんですぜ。
+　でも旦那ならきっと有効に使えると、
+　信じていますぜ」
+> CONTEXT: Map295/events/9/pages/1/55/Dialogue
+「The caress of a devil is defeated immediately with a
+spell. But if you are a husband and you can use it
+effectively, I believe it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いいかぁ？　人間のステータスはなぁ？」
+> CONTEXT: Map295/events/10/pages/0/12/Dialogue
+「Is it okay? What is the status of human beings?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「特技と解放はそれぞれの与える快感を、
+　防御は受けるダメージ、抵抗は状態異常にかかる確率」
+> CONTEXT: Map295/events/10/pages/0/14/Dialogue
+「Special skill and liberation give pleasures given by each,
+Defense receives damage, probability of resistance to state
+abnormality」#MTLed
+> END STRING
+
+> BEGIN STRING
+「行動は選択前のライン速度を、運は交渉成功率に、
+　影響を与えてるんだぞぉ？　…ひっくっ！」
+> CONTEXT: Map295/events/10/pages/0/17/Dialogue
+「Behavior is the line speed before selection, luck is to
+negotiation success rate, You're influencing me? ...
+Puffing!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「従魔の抵抗は防御と同じ扱いで、
+　毎ターンの侵食ダメージを減らしてくれるから、
+　覚えておいて損はないぞぉ」
+> CONTEXT: Map295/events/10/pages/0/20/Dialogue
+「Submarine resistance is treated the same as defense,
+Because it reduces erosion damage every turn,
+Remember that there is no loss」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁそれ以外にも行動と運が逃走成功率に影響してるが、
+　ハンターでない俺にとっては、どうでも良いことだぁ」
+> CONTEXT: Map295/events/10/pages/0/24/Dialogue
+「Well, besides that, behavior and luck influence the
+flight success rate, For me who is not a hunter, it does
+not matter anything」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私は商人ですが、
+　淫魔とだけは交渉する自信がありませんよ」
+> CONTEXT: Map295/events/11/pages/0/12/Dialogue
+「I am a merchant, I do not have confidence to negotiate
+with a bad guy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろ淫魔は気分屋ですからね。
+　前に会ったときは右だと言っていたのが、
+　今回は左と言う程度ならまだ良いのですが」
+> CONTEXT: Map295/events/11/pages/0/15/Dialogue
+「Anyway the lusty is a mood. It was said that it was right
+when I met him before, It is still good if it says to the
+left this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+「突然怒り出したり、機嫌を損ねて帰ってしまうこともね。
+　いやはや女心というのは不可思議なものですね」
+> CONTEXT: Map295/events/11/pages/0/19/Dialogue
+「Sometimes I suddenly get angry or lose heart and return
+home. No, it is mysterious to say that a woman's heart」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし、会話に失敗しても親密になれるのですから、
+　長い目で見れば失敗も成功のうちと、
+　言えなくもないですね」
+> CONTEXT: Map295/events/11/pages/0/22/Dialogue
+「However, even if we fail in conversation, we can be
+intimate, In the long run, failure is also successful,
+I can not say it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何で淫魔が従魔ではなく、
+　人間ばかり狙うか、貴方にわかるかしら？」
+> CONTEXT: Map295/events/15/pages/0/12/Dialogue
+「Why is not a devil a devil, Do you know whether you only
+target humans?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「流石は従魔の主ね。
+　強大な分扱いにくいところもあるけど、
+　可愛がってあげてちょうだいね」
+> CONTEXT: Map295/events/15/pages/0/17/Dialogue
+「You are the owner of the devil. There are places where it
+is difficult to handle powerfully, Please give me cute.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「人間のほうが直接的な快楽に弱いからよ。
+　それも、圧倒的にね」
+> CONTEXT: Map295/events/15/pages/0/23/Dialogue
+「Because humans are more vulnerable to direct pleasure.
+That too, overwhelmingly.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「従魔の契約者といっても、
+　この差は覆ることはないわ。絶対にね」
+> CONTEXT: Map295/events/15/pages/0/26/Dialogue
+「Even if you are a subscriber of a devil,
+This difference will not be overcome. Absolutely.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ従魔は淫魔の力を宿している分、
+　たとえ防御力が０だとしても、
+　受ける快感は人間よりも、遥かに少ないのよね」
+> CONTEXT: Map295/events/15/pages/0/29/Dialogue
+「Well, because the devil harbors the power of the devil,
+Even though defense power is 0, The pleasant feeling
+received is far less than human」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ただし直接の快感は受けないけど、
+　毎ターンの侵食で淫魔化する場合もあるから、
+　残り精力には注意が必要よ」
+> CONTEXT: Map295/events/15/pages/0/33/Dialogue
+「However, I do not receive direct pleasure,
+Because there are times when it becomes obscurity by the
+erosion every turn, You need attention for remaining effort
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ結局難敵の従魔よりも、与し易い主から先に、
+　呪縛にかけて契約を上書きしてしまえば、
+　従魔も無力化出来て一石二鳥ってことよね」
+> CONTEXT: Map295/events/15/pages/0/37/Dialogue
+「Well after all, rather than the subordinate of a
+difficult enemy, If you overwrite the contract over spells,
+You can also disable the devil so that it is one stone two
+birds right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こんにちはハンターさん、
+　泊まっていきますか？」
+> CONTEXT: Map295/events/16/pages/0/7/Dialogue
+「Hello Hunter, Are you going to stay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ゆっくり休んでいってちょうだいね」
+> CONTEXT: Map295/events/16/pages/0/12/Dialogue
+「Please rest at ease.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうかい？
+　あまり無理をしちゃ駄目だよ？」
+> CONTEXT: Map295/events/16/pages/0/31/Dialogue
+「Is it so? Do not push yourself too much?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「遺跡や平野で手に入る宝箱は、
+　宿泊施設で休むたびに復活する」
+> CONTEXT: Map295/events/17/pages/0/7/Dialogue
+「Treasure boxes available in ruins and plains,
+Every time I take a rest at the accommodation I will
+resurrect」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これは基本だけど、
+　意外と忘れがちなのだよ」
+> CONTEXT: Map295/events/17/pages/0/10/Dialogue
+「This is the basic, It tends to forget unexpectedly」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺は幸運にも従魔を所持しているが、
+　強化について考え中といったところだ」
+> CONTEXT: Map295/events/18/pages/0/7/Dialogue
+「I have luckily carry a devil, I am thinking about
+strengthening」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ステータス強化については、
+　最大値を上げるごとに魔貨が必要な以外は、
+　基本方針は教会と変わらないが」
+> CONTEXT: Map295/events/18/pages/0/10/Dialogue
+「Regarding the status enhancement, Except for every need
+to increase currency by increasing the maximum value,
+The basic policy is the same as the church」#MTLed
+> END STRING
+
+> BEGIN STRING
+「カード変化については、
+　淫魔と交渉しカードを入手するのが必須なうえに」
+> CONTEXT: Map295/events/18/pages/0/14/Dialogue
+「Regarding card change, It is essential to negotiate with
+a loser and obtain a card」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一度変化させるとコアには戻せず、売値も安くなるからな。
+　高ランクのものは入手が難しい分、
+　コアのまま温存するか、変化させるか…悩みどころだ」
+> CONTEXT: Map295/events/18/pages/0/17/Dialogue
+「Once changed, it will not be able to return to the core
+and the selling price will be cheaper. Those with a high
+rank are difficult to obtain, Whether to preserve the core
+or to change it ... It is a worry」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやはや酷い目に…いや、気持ち良い目にあったよ」
+> CONTEXT: Map295/events/19/pages/0/7/Dialogue
+「No, it was a terrible eyes ... No, it was a pleasant eye」#MTLed
+> END STRING
+
+> BEGIN STRING
+「幸いだったのは私の精の質は余りよろしくないので、
+　淫魔も吸い取るのに消極的だったことだね」
+> CONTEXT: Map295/events/19/pages/0/9/Dialogue
+「I am fortunate because the quality of my preciousness is
+not very good, It was that he was reluctant to suck up the
+bastard」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おかげで君が来るまで、何とか生き長らえることが出来たよ。
+　報酬の1000魔貨は私のせめてもの気持ちだ。
+　いやぁ、重ね重ね本当にありがとう！」
+> CONTEXT: Map295/events/19/pages/0/12/Dialogue
+「Thanks to you I managed to live long until you came.
+The 1000 curiosity of reward is my first thought.
+Well, thank you very much!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「外では、自分の位置を知ることが重要ですよ」
+> CONTEXT: Map295/events/21/pages/0/12/Dialogue
+「Outside, it is important to know your own position」#MTLed
+> END STRING
+
+> BEGIN STRING
+「看板を調べることで、周囲の地図を把握すことが出来ます。
+　そうそう、トレーダーキャンプでは、
+　各方面の地図を買えるらしいですよ」
+> CONTEXT: Map295/events/21/pages/0/14/Dialogue
+「By examining the signboard, you can grasp the surrounding
+map. , Trader camp, It seems that you can buy a map of each
+direction」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふぅ…この辺りの淫魔は弱いと言っても、
+　もう少しで負けてしまうところだったよ」
+> CONTEXT: Map295/events/22/pages/0/7/Dialogue
+「Fuu ... Although I say that this neighborhood devil is
+weak, It was about to be lost a little more」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もしあの時、淫魔の攻撃に【反撃】が発動していなければ、
+　負けていたのは私のほうだろうな」
+> CONTEXT: Map295/events/22/pages/0/10/Dialogue
+「If, at that time, [counterattack] has not been invoked to
+attack the bastard, I guess that I was losing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかしスキルの反撃を過信するのは禁物だ。
+　行動準備が発生しないのは強力だが、
+　通常よりも与える快感もＨｉｔ数も、減少するのだからな」
+> CONTEXT: Map295/events/22/pages/0/13/Dialogue
+「However, it is not prohibited to overlook the
+counterattack of skills. It is powerful that action
+preparation does not occur, The pleasant feeling and Hit
+number given than usual are decreasing」#MTLed
+> END STRING

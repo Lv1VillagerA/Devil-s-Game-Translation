@@ -1,0 +1,21 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+南の…こちらのフロアにあるものは、淫魔の絵本。
+精力と理性の全回復、\\N[1]と\\N[6]のレベルアップ、
+コンフィグ、背景の変更、ＢＧＭの変更。
+> CONTEXT: Map011/events/7/pages/0/12/Dialogue
+In the south ... What is on the floor here is a poor
+picture book. Total restoration of energetic and reason,
+\\N[1] When \\N[6] Level up, Configuration, change
+background, change BGM.#MTLed
+> END STRING
+
+> BEGIN STRING
+北のフロアにあるものは、
+罠による敗北回想、魔貨とＳＰの補充、名前の変更、
+お札売りの商人、教会のシスター、二周目の開始となります。
+> CONTEXT: Map011/events/7/pages/0/16/Dialogue
+Those on the north floor, Recollection of defeat by trap,
+replenishment of witch and SP, rename, Merchant of selling
+bills, church sisters, will be the start of the second lap.#MTLed
+> END STRING

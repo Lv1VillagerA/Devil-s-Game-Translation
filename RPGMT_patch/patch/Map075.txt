@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]こうして…役立たずになっちゃうんだよ～\\I[140]\\C[10]」
+> CONTEXT: Map075/events/4/pages/0/6/Dialogue
+\\C[10]「\\C[0]So ... it will not be useful ~ \\I[140]\\C[10]」#MTLed
+> END STRING

@@ -1,0 +1,280 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+親方
+「まずは教会だ。ここではハンターの潜在能力を、
+　目覚めさせることが出来る」
+> CONTEXT: Map299/events/4/pages/0/7/Dialogue
+master. 「First of all it is a church. Here, the potential
+of Hunter, I can awaken」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ただし、潜在能力は個人差があるから、
+　無限に強くなれるわけじゃねえがな」
+> CONTEXT: Map299/events/4/pages/0/11/Dialogue
+master. 「However, there are individual differences in
+latency, You can not be strong indefinitely.」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「あとは\\N[1]のレベルが高くなるほど、
+　一度に引き出せる最大値が上がっていくぜ」
+> CONTEXT: Map299/events/4/pages/0/15/Dialogue
+master. 「later \\N[1] The higher the level,
+The maximum value that can be drawn at a time goes up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「まぁ論より証拠だ。
+　一度試してみるといいぜ」
+> CONTEXT: Map299/events/4/pages/0/19/Dialogue
+master. 「It is more evident than theory.
+Try it once.」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「そうそう、預かりっぱなしだったこいつを返しておくぜ。
+　これから必要になるだろうしな」
+> CONTEXT: Map299/events/4/pages/0/23/Dialogue
+master. 「Oh yeah, I will return this guy who kept my
+keeping. I guess it will be necessary from now on」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ん？　次の施設に行くのか？」
+> CONTEXT: Map299/events/4/pages/1/6/Dialogue
+> CONTEXT: Map295/events/5/pages/1/6/Dialogue
+master. 「Hmm? Are you going to the next facility?」#MTLed
+> END STRING
+
+> BEGIN STRING
+はい
+> CONTEXT: Map299/events/4/pages/1/9/Choice/0
+> CONTEXT: Map299/events/5/pages/0/242/Choice/0
+> CONTEXT: Map295/events/5/pages/1/9/Choice/0
+> CONTEXT: Map295/events/15/pages/0/15/Choice/0
+> CONTEXT: Map295/events/16/pages/0/10/Choice/0
+Yes#MTLed
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map299/events/4/pages/1/9/Choice/1
+> CONTEXT: Map299/events/5/pages/0/242/Choice/1
+> CONTEXT: Map295/events/5/pages/1/9/Choice/1
+> CONTEXT: Map295/events/15/pages/0/15/Choice/1
+> CONTEXT: Map295/events/16/pages/0/10/Choice/1
+> CONTEXT: Map079/events/29/pages/0/14/Choice/2
+No#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「了解だ。次に行くぜ」
+> CONTEXT: Map299/events/4/pages/1/11/Dialogue
+> CONTEXT: Map295/events/5/pages/1/11/Dialogue
+master. 「OK. I will go on to the next one.」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「最初は色々試してみるといいぜ」
+> CONTEXT: Map299/events/4/pages/1/22/Dialogue
+> CONTEXT: Map295/events/5/pages/1/22/Dialogue
+master. 「Try a variety of things at first」#MTLed
+> END STRING
+
+> BEGIN STRING
+「我が教会に何の御用でしょうか？」
+> CONTEXT: Map299/events/5/pages/0/7/Dialogue
+「What will I have for my church?」#MTLed
+> END STRING
+
+> BEGIN STRING
+現在Lv\\V[1] 最大Lv\\V[780] 振り分けSP \\V[760]/\\V[779]
+精力 \\C[1]+\\V[761] \\C[0]気力 \\C[1]+\\V[762] \\C[0]特技 \\C[1]+\\V[763] \\C[0]防御 \\C[1]+\\V[764]
+\\C[0]解放 \\C[1]+\\V[765] \\C[0]抵抗 \\C[1]+\\V[766] \\C[0]行動 \\C[1]+\\V[767] \\C[0]運 \\C[1]+\\V[768]
+> CONTEXT: Map299/events/5/pages/0/35/Dialogue
+> CONTEXT: Map299/events/5/pages/0/53/Dialogue
+> CONTEXT: Map299/events/5/pages/0/71/Dialogue
+> CONTEXT: Map299/events/5/pages/0/88/Dialogue
+> CONTEXT: Map299/events/5/pages/0/105/Dialogue
+> CONTEXT: Map299/events/5/pages/0/132/Dialogue
+> CONTEXT: Map299/events/5/pages/0/152/Dialogue
+> CONTEXT: Map299/events/5/pages/0/172/Dialogue
+> CONTEXT: Map299/events/5/pages/0/192/Dialogue
+Currently Lv \\V[1] Maximum Lv \\V[780] Sorting SP \\V[760] / \\V[779]
+Energetic\\C[1] + \\V[761] \\C[0] Willpower\\C[1] + \\V[762] \\C[0] Skill\\C[1] + \\V[763] \\C[0] Defense\\C[1] +
+\\V[764]. \\C[0]Release\\C[1] + \\V[765] \\C[0] Resistance\\C[1] + \\V[766] \\C[0] Behavior\\C[1] + \\V[767] \\C[0] luck\\C[1]
++ \\V[768]#MTLed
+> END STRING
+
+> BEGIN STRING
+潜在能力を振り分ける
+> CONTEXT: Map299/events/5/pages/0/39/Choice/0
+Distribution of potential potential#MTLed
+> END STRING
+
+> BEGIN STRING
+レベルを初期化する
+> CONTEXT: Map299/events/5/pages/0/39/Choice/1
+Initialize level#MTLed
+> END STRING
+
+> BEGIN STRING
+振り分けを初期化する
+> CONTEXT: Map299/events/5/pages/0/39/Choice/2
+Initialize the sorting#MTLed
+> END STRING
+
+> BEGIN STRING
+現在Lv\\V[1] 最大Lv\\V[780] 振り分けSP \\V[760]/\\V[779]　Escで別選択に移動
+精力 \\C[1]+\\V[761] \\C[0]気力 \\C[1]+\\V[762] \\C[0]特技 \\C[1]+\\V[763] \\C[0]防御 \\C[1]+\\V[764]
+\\C[0]解放 \\C[1]+\\V[765] \\C[0]抵抗 \\C[1]+\\V[766] \\C[0]行動 \\C[1]+\\V[767] \\C[0]運 \\C[1]+\\V[768]
+> CONTEXT: Map299/events/5/pages/0/44/Dialogue
+> CONTEXT: Map299/events/5/pages/0/124/Dialogue
+> CONTEXT: Map299/events/5/pages/0/210/Dialogue
+Currently Lv \\V[1] Maximum Lv \\V[780] Sorting SP \\V[760] / \\V[779] Move
+to another selection with Esc. Energetic\\C[1] + \\V[761] \\C[0] Willpower\\C[1] +
+\\V[762] \\C[0] Skill\\C[1] + \\V[763] \\C[0] Defense\\C[1] + \\V[764]
+\\C[0]Release\\C[1] + \\V[765] \\C[0] Resistance\\C[1] + \\V[766] \\C[0] Behavior\\C[1] + \\V[767] \\C[0] luck\\C[1] + \\V[768]#MTLed
+> END STRING
+
+> BEGIN STRING
+気力
+> CONTEXT: Map299/events/5/pages/0/48/Choice/1
+Willpower#MTLed
+> END STRING
+
+> BEGIN STRING
+解放
+> CONTEXT: Map299/events/5/pages/0/128/Choice/0
+release#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗
+> CONTEXT: Map299/events/5/pages/0/128/Choice/1
+resistance#MTLed
+> END STRING
+
+> BEGIN STRING
+行動
+> CONTEXT: Map299/events/5/pages/0/128/Choice/2
+Behavior#MTLed
+> CONTEXT: Classes/10/name/
+> CONTEXT: Actors/63/name/
+Behavior#MTLed
+> END STRING
+
+> BEGIN STRING
+振り分けを終了する
+> CONTEXT: Map299/events/5/pages/0/214/Choice/0
+Finish sorting#MTLed
+> END STRING
+
+> BEGIN STRING
+「既に貴方はLv1ですね。
+　今後さらなる経験を積むことを、願っています」
+> CONTEXT: Map299/events/5/pages/0/234/Dialogue
+「You are already Lv1. I hope to have more experience in
+the future」#MTLed
+> END STRING
+
+> BEGIN STRING
+「またLv1から鍛える覚悟は、出来ていますか？」
+> CONTEXT: Map299/events/5/pages/0/240/Dialogue
+「Are you ready to train from Lv 1 yet?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これで、…貴方はLv1になりました。
+　今後さらなる経験を積むことを、願っています」
+> CONTEXT: Map299/events/5/pages/0/258/Dialogue
+「With this, you have become Lv 1. I hope to have more
+experience in the future」#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方に、天使様のご加護があらんことを…」
+> CONTEXT: Map299/events/5/pages/0/296/Dialogue
+「I wish you the protection of the angel ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔ハンターの方が、
+　教会を利用される目的は二つあります」
+> CONTEXT: Map299/events/7/pages/0/7/Dialogue
+> CONTEXT: Map299/events/7/pages/1/7/Dialogue
+「The fetish hunter is better, There are two purposes to
+use church」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一つは最大レベルに応じた、
+　潜在能力の目覚め」
+> CONTEXT: Map299/events/7/pages/0/10/Dialogue
+> CONTEXT: Map299/events/7/pages/1/10/Dialogue
+「One corresponds to the maximum level, Awakening potential」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そしてもう一つが、
+　自分を一から鍛え直すことです」
+> CONTEXT: Map299/events/7/pages/0/13/Dialogue
+> CONTEXT: Map299/events/7/pages/1/13/Dialogue
+「And the other, It is to train myself from scratch」#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方も教会に用があるのですか？
+　実は僕もなんですよ」
+> CONTEXT: Map299/events/8/pages/0/7/Dialogue
+> CONTEXT: Map299/events/8/pages/1/7/Dialogue
+「Do you also have use in church? Actually, I am also myself
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「前よりも少しは強くなりましたので、
+　潜在能力を目覚めさせてもらおうかと」
+> CONTEXT: Map299/events/8/pages/0/10/Dialogue
+> CONTEXT: Map299/events/8/pages/1/10/Dialogue
+「Because it became stronger a little more than before,
+Let's awaken the potential ability」#MTLed
+> END STRING
+
+> BEGIN STRING
+「教会の利用は始めてですか？
+　もしそうなら、
+　レベルのリセットは控えたほうが良いですよ」
+> CONTEXT: Map299/events/9/pages/0/7/Dialogue
+> CONTEXT: Map299/events/9/pages/1/7/Dialogue
+「Are you starting to use the church? If so,
+You should refrain from resetting the level」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ポイントを振り分けるたびにレベルを初期化していては、
+　なかなか強くなれませんので、
+　たまにはじっくり育てるのも必要ですよ」
+> CONTEXT: Map299/events/9/pages/0/11/Dialogue
+「If you initialize the level each time you distribute
+points, Because I can not get strong, Sometimes it is
+necessary to grow carefully」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ポイントを振り分けるたびにレベルを初期化していては、
+　なかなか強くなれませんし、
+　たまには冒険するのも良いですよ」
+> CONTEXT: Map299/events/9/pages/1/11/Dialogue
+「If you initialize the level each time you distribute
+points, I can not get strong, It is good to adventure once
+in a while」#MTLed
+> END STRING

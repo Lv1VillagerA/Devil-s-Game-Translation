@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+下水道　下層
+> CONTEXT: Map103/display_name/
+Underwater sewer#MTLed
+> END STRING

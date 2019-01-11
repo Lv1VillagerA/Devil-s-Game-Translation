@@ -1,0 +1,2115 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+白紙のカード
+> CONTEXT: Armors/1/name/
+Blank card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+唇+1 唇責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/1/description/
+> CONTEXT: Armors/111/description/
+Precise 0 0 0 0 0 0 0 0 Luck 0. The Hit number of one lip
+lip torture is incremented by 1#MTLed
+> END STRING
+
+> BEGIN STRING
+白紙のカード+1
+> CONTEXT: Armors/2/name/
+Blank card 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+2 防+2 道+2 抵+2 行+2 運+2
+唇+1 唇責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/2/description/
+> CONTEXT: Armors/112/description/
+Precise 0 Stop 2 Stop 2 Street 2 Line 2 Luck 2. The Hit
+number of one lip lip torture is incremented by 1#MTLed
+> END STRING
+
+> BEGIN STRING
+白紙のカード+2
+> CONTEXT: Armors/3/name/
+Blank card 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+4 防+4 道+4 抵+4 行+4 運+4
+唇+2 唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/3/description/
+> CONTEXT: Armors/113/description/
+Precise 0 0 Stage 4 Street 4 Street 4 Line 4 Luck 4. Hit
+number of 2 lips torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+白紙のカード+3
+> CONTEXT: Armors/4/name/
+Blank card 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+6 防+6 道+6 抵+6 行+6 運+6
+唇+2 唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/4/description/
+> CONTEXT: Armors/114/description/
+Precise 0 Precise 6 Prevent 6 Road 6 Row 6 Luck 6. Hit
+number of 2 lips torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+白紙のカード+4
+> CONTEXT: Armors/5/name/
+Blank card 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+8 防+8 道+8 抵+8 行+8 運+8
+唇+3 唇責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/5/description/
+> CONTEXT: Armors/115/description/
+Precise 0 Official 8 Prevent 8 Road 8 Lines 8 Luck 8. The
+number of Hit of lips 3 lip alert is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+白紙のカード+5
+> CONTEXT: Armors/6/name/
+Blank card 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+10 道+10 抵+10 行+10 運+10
+唇+3 唇責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/6/description/
+> CONTEXT: Armors/116/description/
+Precise 0 0 10 Prevent 10 Road 10 Roll 10 Luck 10. The
+number of Hit of lips 3 lip alert is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+装備スキル重複する
+> CONTEXT: Armors/8/name/
+Equipment skills duplicate#MTLed
+> END STRING
+
+> BEGIN STRING
+上昇ステは低いが、スキル効果はＬｖ２
+装備スキルは重複する
+> CONTEXT: Armors/8/description/
+> CONTEXT: Armors/209/description/
+The ascent stage is low, but the skill effect is Lv 2. 
+Equipment skills overlap#MTLed
+> END STRING
+
+> BEGIN STRING
+希望のカード
+> CONTEXT: Armors/11/name/
+Desired card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+10 行+0 運+0
+胸+1 胸責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/11/description/
+> CONTEXT: Armors/121/description/
+Precise 0 0 0 0 0 0 10 lines 0 Luck 0. Hit number of chest
+1 chest torture is incremented by 1#MTLed
+> END STRING
+
+> BEGIN STRING
+希望のカード+1
+> CONTEXT: Armors/12/name/
+Desired card 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+20 行+0 運+0
+胸+1 胸責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/12/description/
+> CONTEXT: Armors/122/description/
+Precise 0 0 0 0 0 0 20 lines 0 Luck 0. Hit number of chest
+1 chest torture is incremented by 1#MTLed
+> END STRING
+
+> BEGIN STRING
+希望のカード+2
+> CONTEXT: Armors/13/name/
+Desired card 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+30 行+0 運+0
+胸+2 胸責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/13/description/
+> CONTEXT: Armors/123/description/
+Precise 0 0 0 0 0 0 30 lines 0 Luck 0. Hit number of chest
+2 chest torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+希望のカード+3
+> CONTEXT: Armors/14/name/
+Desired card 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+40 行+0 運+0
+胸+2 胸責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/14/description/
+> CONTEXT: Armors/124/description/
+Precise 0 0 Stop 0 Road 0 Resist 40 Line 0 Luck 0. Hit
+number of chest 2 chest torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+希望のカード+4
+> CONTEXT: Armors/15/name/
+Desired card 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+50 行+0 運+0
+胸+3 胸責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/15/description/
+> CONTEXT: Armors/125/description/
+Precise 0 0 0 0 0 0 50 lines 0 Luck 0. Hit number of chest
+3 chest torture is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+希望のカード+5
+> CONTEXT: Armors/16/name/
+Desired card 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+60 行+0 運+0
+胸+3 胸責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/16/description/
+> CONTEXT: Armors/126/description/
+Precise 0 0 0 0 0 0 60 lines 0 Luck 0. Hit number of chest
+3 chest torture is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+気迫のカード
+> CONTEXT: Armors/21/name/
+Spirit card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+0 行+0 運+0
+膣+1 膣責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/21/description/
+> CONTEXT: Armors/131/description/
+Precise 0 0 Off 10 Road 0 Resistance 0 Line 0 Luck 0. Hit
+number of vagina 1 vaginal torture is incremented by 1#MTLed
+> END STRING
+
+> BEGIN STRING
+気迫のカード+1
+> CONTEXT: Armors/22/name/
+Spirit card 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+20 道+0 抵+0 行+0 運+0
+膣+1 膣責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/22/description/
+> CONTEXT: Armors/132/description/
+Precise 0 0 Stop 20 Street 0 Line 0 Luck 0. Hit number of
+vagina 1 vaginal torture is incremented by 1#MTLed
+> END STRING
+
+> BEGIN STRING
+気迫のカード+2
+> CONTEXT: Armors/23/name/
+Spirit card 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+0 行+0 運+0
+膣+2 膣責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/23/description/
+> CONTEXT: Armors/133/description/
+Precise 0 0 Off 10 Road 0 Resistance 0 Line 0 Luck 0. Hit
+number of vagina 2 vaginal torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+気迫のカード+3
+> CONTEXT: Armors/24/name/
+Spirit card 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+40 道+0 抵+0 行+0 運+0
+膣+2 膣責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/24/description/
+> CONTEXT: Armors/134/description/
+Precise 0 0 Off 40 Road 0 0 Line 0 Luck 0. Hit number of
+vagina 2 vaginal torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+気迫のカード+4
+> CONTEXT: Armors/25/name/
+Spirit card 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+50 道+0 抵+0 行+0 運+0
+膣+3 膣責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/25/description/
+> CONTEXT: Armors/135/description/
+Precise 0 0 Off 50 Road 0 0 Line 0 Luck 0. Hit number of
+vaginal three vaginal torture is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+気迫のカード+5
+> CONTEXT: Armors/26/name/
+Spirit card 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+60 道+0 抵+0 行+0 運+0
+膣+3 膣責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/26/description/
+> CONTEXT: Armors/136/description/
+Precise 0 0 Off 60 Road 0 0 Line 0 Luck 0. Hit number of
+vaginal three vaginal torture is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+奇跡のカード
+> CONTEXT: Armors/31/name/
+Miracle card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+10
+尻+1 尻責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/31/description/
+> CONTEXT: Armors/141/description/
+Precise 0 0 0 0 0 0 0 0 Luck 10. The number of Hit in the
+buttocks of the buttocks is +1#MTLed
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+1
+> CONTEXT: Armors/32/name/
+Miracle card 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+20
+尻+1 尻責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/32/description/
+> CONTEXT: Armors/142/description/
+Precise 0 0 0 0 0 0 0 0 Luck 20. The number of Hit in the
+buttocks of the buttocks is +1#MTLed
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+2
+> CONTEXT: Armors/33/name/
+Miracle card 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+30
+尻+2 尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/33/description/
+> CONTEXT: Armors/143/description/
+Precise 0 0 0 0 0 0 0 0 Luck 30. Hit number of buttocks 2
+butt attacks is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+3
+> CONTEXT: Armors/34/name/
+Miracle card 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+40
+尻+2 尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/34/description/
+> CONTEXT: Armors/144/description/
+Precise 0 0 0 0 0 0 0 line 0 luck. Hit number of buttocks 2
+butt attacks is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+4
+> CONTEXT: Armors/35/name/
+Miracle card 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+50
+尻+3 尻責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/35/description/
+> CONTEXT: Armors/145/description/
+Precise 0 0 0 0 0 0 0 0 Luck. Hit number of 3 butt attacks
+is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+5
+> CONTEXT: Armors/36/name/
+Miracle card 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+60
+尻+3 尻責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/36/description/
+> CONTEXT: Armors/146/description/
+Precise 0 0 0 0 0 0 0 0 Luck. Hit number of 3 butt attacks
+is +3#MTLed
+> END STRING
+
+> BEGIN STRING
+直感のカード
+> CONTEXT: Armors/41/name/
+Intuition card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+10 運+0
+Hit+10% 与える快感がＨｉｔ数の１０％上昇する
+> CONTEXT: Armors/41/description/
+> CONTEXT: Armors/151/description/
+Precision + 0 + 0 + + 0 + 0 + 0 + 10 + + 0. Hit + 10%
+pleasure increases by 10% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+直感のカード+1
+> CONTEXT: Armors/42/name/
+Intuition card + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+20 運+0
+Hit+10% 与える快感がＨｉｔ数の１０％上昇する
+> CONTEXT: Armors/42/description/
+> CONTEXT: Armors/152/description/
+Precision + 0 + 0 + + + 0 + + 0 + 0 +20 + + 0. Hit + 10%
+pleasure increases by 10% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+直感のカード+2
+> CONTEXT: Armors/43/name/
+Intuition card + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+30 運+0
+Hit+20% 与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/43/description/
+> CONTEXT: Armors/153/description/
+Fine +0 +0 attack + 0 + 0 + 0 + 0 lines + 30 luck + 0. Hit
++ 20% pleasure increases by 20% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+直感のカード+3
+> CONTEXT: Armors/44/name/
+Intuition card + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+40 運+0
+Hit+20% 与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/44/description/
+> CONTEXT: Armors/154/description/
+Precision + 0 + 0 + + + 0 + 0 + 0 + 40 + + 0. Hit + 20%
+pleasure increases by 20% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+直感のカード+4
+> CONTEXT: Armors/45/name/
+Intuition card + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+50 運+0
+Hit+30% 与える快感がＨｉｔ数の３０％上昇する
+> CONTEXT: Armors/45/description/
+> CONTEXT: Armors/155/description/
+Precision + 0 + 0 + + + 0 + + 0 + 0 + + 50 + 0. Hit + 30%
+pleasure increases by 30% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+直感のカード+5
+> CONTEXT: Armors/46/name/
+Intuition card + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+60 運+0
+Hit+30% 与える快感がＨｉｔ数の３０％上昇する
+> CONTEXT: Armors/46/description/
+> CONTEXT: Armors/156/description/
+Precision + 0 + 0 + + 0 + 0 + 0 + 60 + + 0. Hit + 30%
+pleasure increases by 30% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+慈愛のカード
+> CONTEXT: Armors/51/name/
+Compassion card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+10 抵+0 行+0 運+0
+引き継ぎ+20% Ｈｉｔ数を次の戦闘に２０％引き継ぐ
+> CONTEXT: Armors/51/description/
+> CONTEXT: Armors/161/description/
+Precision + 0 + 0 + + + 0 + +10 + 0 + 0 + + 0. Take over +
+20% Hit to 20% to next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+1
+> CONTEXT: Armors/52/name/
+Compassion card + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+20 抵+0 行+0 運+0
+引き継ぎ+20% Ｈｉｔ数を次の戦闘に２０％引き継ぐ
+> CONTEXT: Armors/52/description/
+> CONTEXT: Armors/162/description/
+Precision + 0 + 0 + + + 0 + +20 + 0 + 0 + + 0. Take over +
+20% Hit to 20% to next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+2
+> CONTEXT: Armors/53/name/
+Compassion card + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+30 抵+0 行+0 運+0
+引き継ぎ+40% Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/53/description/
+> CONTEXT: Armors/163/description/
+Precision + 0 + 0 + + + 0 + + 30 + 0 + 0 + + 0. Take over +
+40% Hit number to take over 40% to the next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+3
+> CONTEXT: Armors/54/name/
+Compassion card + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+40 抵+0 行+0 運+0
+引き継ぎ+40% Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/54/description/
+> CONTEXT: Armors/164/description/
+Precision + 0 + 0 + + + 0 + + 40 + 0 + 0 + + 0. Take over +
+40% Hit number to take over 40% to the next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+4
+> CONTEXT: Armors/55/name/
+Compassion card + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+50 抵+0 行+0 運+0
+引き継ぎ+60% Ｈｉｔ数を次の戦闘に６０％引き継ぐ
+> CONTEXT: Armors/55/description/
+> CONTEXT: Armors/165/description/
+Precision + 0 + 0 + + 0 + + 50 + 0 + 0 + + 0. Take over +
+60% Hit take over 60% to next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+5
+> CONTEXT: Armors/56/name/
+Compassion card + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+60 抵+0 行+0 運+0
+引き継ぎ+60% Ｈｉｔ数を次の戦闘に６０％引き継ぐ
+> CONTEXT: Armors/56/description/
+> CONTEXT: Armors/166/description/
+Precision + 0 + 0 + + + 0 + +60 + 0 + 0 + + 0. Take over +
+60% Hit take over 60% to next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+闘志のカード
+> CONTEXT: Armors/61/name/
+Cards of fighting spirit#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+0 道+0 抵+0 行+0 運+0
+牽制+10% １０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/61/description/
+> CONTEXT: Armors/171/description/
+\\}Fine +0 +0 attack +10 + 0 + 0 + 0 line + 0 luck + 0. Restrict dramatically
+when you cancel with + 10% 10% discipline#MTLed
+> END STRING
+
+> BEGIN STRING
+闘志のカード+1
+> CONTEXT: Armors/62/name/
+Fighting card + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+牽制+10% １０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/62/description/
+> CONTEXT: Armors/172/description/
+\\}Fine +0 +0 attack + 20 + 0 + 0 + 0 line + 0 luck + 0. Restrict dramatically
+when you cancel with + 10% 10% discipline#MTLed
+> END STRING
+
+> BEGIN STRING
+闘志のカード+2
+> CONTEXT: Armors/63/name/
+Fighting card + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+30 防+0 道+0 抵+0 行+0 運+0
+牽制+20% ２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/63/description/
+> CONTEXT: Armors/173/description/
+Precise +0 +0 attack + 30 + 0 + 0 + 0 line + 0 luck + 0. 
+Restrict dramatically when canceled at check + 20% 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+闘志のカード+3
+> CONTEXT: Armors/64/name/
+Fighting card + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+牽制+20% ２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/64/description/
+> CONTEXT: Armors/174/description/
+Fine +0 +0 attack + 20 + 0 + 0 + 0 line + 0 luck + 0. 
+Restrict dramatically when canceled at check + 20% 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+闘志のカード+4
+> CONTEXT: Armors/65/name/
+Fighting card + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+50 防+0 道+0 抵+0 行+0 運+0
+牽制+30% ３０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/65/description/
+> CONTEXT: Armors/175/description/
+Precision + 0 +0 attack + 50 + 0 + 0 + 0 line + 0 luck + 0..
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+闘志のカード+5
+> CONTEXT: Armors/66/name/
+Fighting card + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+60 防+0 道+0 抵+0 行+0 運+0
+牽制+30% ３０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/66/description/
+> CONTEXT: Armors/176/description/
+Fine +0 +0 attack +60 + 0 + 0 + 0 line + 0 luck + 0. 
+Restrict dramatically when canceled at 30% 30% discipline#MTLed
+> END STRING
+
+> BEGIN STRING
+勇気のカード
+> CONTEXT: Armors/71/name/
+Courage card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+25 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-10% 性技使用時の消費理性が－１０％される
+> CONTEXT: Armors/71/description/
+> CONTEXT: Armors/181/description/
+Precision +0 +25 attack + 0 + 0 + 0 + 0 lines + 0 luck + 0..
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+勇気のカード+1
+> CONTEXT: Armors/72/name/
+Courage card + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+40 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-10% 性技使用時の消費理性が－１０％される
+> CONTEXT: Armors/72/description/
+> CONTEXT: Armors/182/description/
+Precision + 0 + 40 + 0 + + 0 + 0 + 0 + 0 Luck + 0. Reason -
+10% Consumption reason when using sex techniques is -10%#MTLed
+> END STRING
+
+> BEGIN STRING
+勇気のカード+2
+> CONTEXT: Armors/73/name/
+Courage card + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+55 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-20% 性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/73/description/
+> CONTEXT: Armors/183/description/
+Fine +0 +5 attack + 0 + 0 + 0 + 0 line + 0 luck + 0. Reason
+- 20% Consumption reason when using sex technique is -20%#MTLed
+> END STRING
+
+> BEGIN STRING
+勇気のカード+3
+> CONTEXT: Armors/74/name/
+Courage card + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+70 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-20% 性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/74/description/
+> CONTEXT: Armors/184/description/
+Precise +0 + 70 + 0 + + 0 + 0 + 0 + 0 Luck + 0. Reason -
+20% Consumption reason when using sex technique is -20%#MTLed
+> END STRING
+
+> BEGIN STRING
+勇気のカード+4
+> CONTEXT: Armors/75/name/
+Courage card + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+85 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-30% 性技使用時の消費理性が－３０％される
+> CONTEXT: Armors/75/description/
+> CONTEXT: Armors/185/description/
+\\}Precision +0 +8 attack + 0 + 0 + 0 + 0 lines + 0 luck + 0
+Consumption reasoning when using reason - 30% sex technique is -30%#MTLed
+> END STRING
+
+> BEGIN STRING
+勇気のカード+5
+> CONTEXT: Armors/76/name/
+Courage card + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+100 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-30% 性技使用時の消費理性が－３０％される
+> CONTEXT: Armors/76/description/
+> CONTEXT: Armors/186/description/
+\\}Precision +0 + 100 + 0 + + 0 + 0 + 0 + 0 Luck + 0. Consumption reasoning
+when using reason - 30% sex technique is -30%#MTLed
+> END STRING
+
+> BEGIN STRING
+不屈のカード
+> CONTEXT: Armors/81/name/
+The indomitable card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+50 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-20% エナジードレインを２０％軽減する
+> CONTEXT: Armors/81/description/
+> CONTEXT: Armors/191/description/
+Precision +50 +0 attack + 0 + 0 + 0 + 0 line + 0 luck + 0. 
+Absorption - 20% Reduce energy drain by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+不屈のカード+1
+> CONTEXT: Armors/82/name/
+The indomitable card + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+80 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-20% エナジードレインを２０％軽減する
+> CONTEXT: Armors/82/description/
+> CONTEXT: Armors/192/description/
+Precision +80 +0 attack + 0 + 0 + 0 + 0 lines + 0 luck + 0..
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+不屈のカード+2
+> CONTEXT: Armors/83/name/
+The indomitable card + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+110 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-40% エナジードレインを４０％軽減する
+> CONTEXT: Armors/83/description/
+> CONTEXT: Armors/193/description/
+Fine +110 +0 attack + 0 + 0 + 0 + 0 line + 0 luck + 0. 
+Absorbance - 40% Reduce energy drain by 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+不屈のカード+3
+> CONTEXT: Armors/84/name/
+The indomitable card + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+140 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-40% エナジードレインを４０％軽減する
+> CONTEXT: Armors/84/description/
+> CONTEXT: Armors/194/description/
+Fine + 140 +0 attack + 0 + 0 + 0 + 0 lines + 0 luck + 0. 
+Absorbance - 40% Reduce energy drain by 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+不屈のカード+4
+> CONTEXT: Armors/85/name/
+The indomitable card + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+170 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-60% エナジードレインを６０％軽減する
+> CONTEXT: Armors/85/description/
+> CONTEXT: Armors/195/description/
++170 +0 attack + 0 + 0 + 0 + 0 lines + 0 luck + 0. 
+Absorption - 60% Reduce energy drain by 60%#MTLed
+> END STRING
+
+> BEGIN STRING
+不屈のカード+5
+> CONTEXT: Armors/86/name/
+The indomitable card + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-60% エナジードレインを６０％軽減する
+> CONTEXT: Armors/86/description/
+> CONTEXT: Armors/196/description/
+Fine +200 +0 attack + 0 + 0 + 0 + 0 line + 0 luck + 0. 
+Absorption - 60% Reduce energy drain by 60%#MTLed
+> END STRING
+
+> BEGIN STRING
+覚醒のカード
+> CONTEXT: Armors/96/name/
+Awakening Card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+150 理+75 攻+15 防+15 道+15 抵+15 行+15 運+15
+全部位、牽制、威圧、連携、理性、吸収下位スキル修得
+> CONTEXT: Armors/96/description/
+> CONTEXT: Armors/206/description/
+\\}+150 +75 attack + 15 + 15 + 15 + 15 lines + 15 luck +15. All parts,
+checking, intimidation, collaboration, reason, acquiring#MTLed
+> END STRING
+
+> BEGIN STRING
+白の書
+> CONTEXT: Armors/111/name/
+A white book#MTLed
+> END STRING
+
+> BEGIN STRING
+白の書+1
+> CONTEXT: Armors/112/name/
+White Book + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+白の書+2
+> CONTEXT: Armors/113/name/
+White Book + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+白の書+3
+> CONTEXT: Armors/114/name/
+White Book + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+白の書+4
+> CONTEXT: Armors/115/name/
+White Book + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+白の書+5
+> CONTEXT: Armors/116/name/
+White Book + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗の書
+> CONTEXT: Armors/121/name/
+Book of resistance#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗の書+1
+> CONTEXT: Armors/122/name/
+Book of resistance + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗の書+2
+> CONTEXT: Armors/123/name/
+Book of resistance + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗の書+3
+> CONTEXT: Armors/124/name/
+Book of resistance + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗の書+4
+> CONTEXT: Armors/125/name/
+Book of resistance + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗の書+5
+> CONTEXT: Armors/126/name/
+Book of resistance + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+防御の書
+> CONTEXT: Armors/131/name/
+Protective Book#MTLed
+> END STRING
+
+> BEGIN STRING
+防御の書+1
+> CONTEXT: Armors/132/name/
+Protection Book + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+防御の書+2
+> CONTEXT: Armors/133/name/
+Defense Book + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+防御の書+3
+> CONTEXT: Armors/134/name/
+Defense Book + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+防御の書+4
+> CONTEXT: Armors/135/name/
+Protection Book + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+防御の書+5
+> CONTEXT: Armors/136/name/
+Protection Book + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+運の書
+> CONTEXT: Armors/141/name/
+Book of luck#MTLed
+> END STRING
+
+> BEGIN STRING
+運の書+1
+> CONTEXT: Armors/142/name/
+Book of Luck + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+運の書+2
+> CONTEXT: Armors/143/name/
+Book of Luck + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+運の書+3
+> CONTEXT: Armors/144/name/
+Book of Luck + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+運の書+4
+> CONTEXT: Armors/145/name/
+Book of Luck + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+運の書+5
+> CONTEXT: Armors/146/name/
+Book of Luck + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+行動の書
+> CONTEXT: Armors/151/name/
+Action book#MTLed
+> END STRING
+
+> BEGIN STRING
+行動の書+1
+> CONTEXT: Armors/152/name/
+Action book + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+行動の書+2
+> CONTEXT: Armors/153/name/
+Action book + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+行動の書+3
+> CONTEXT: Armors/154/name/
+Action book + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+行動の書+4
+> CONTEXT: Armors/155/name/
+Action book + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+行動の書+5
+> CONTEXT: Armors/156/name/
+Action book + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+道具の書
+> CONTEXT: Armors/161/name/
+Book of tools#MTLed
+> END STRING
+
+> BEGIN STRING
+道具の書+1
+> CONTEXT: Armors/162/name/
+Book of tools + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+道具の書+2
+> CONTEXT: Armors/163/name/
+Book of tools + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+道具の書+3
+> CONTEXT: Armors/164/name/
+Book of tools + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+道具の書+4
+> CONTEXT: Armors/165/name/
+Book of tools + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+道具の書+5
+> CONTEXT: Armors/166/name/
+Book of tools + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃の書
+> CONTEXT: Armors/171/name/
+Statement of attack#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃の書+1
+> CONTEXT: Armors/172/name/
+Statement of attack + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃の書+2
+> CONTEXT: Armors/173/name/
+Book of attack + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃の書+3
+> CONTEXT: Armors/174/name/
+Statement of attack + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃の書+4
+> CONTEXT: Armors/175/name/
+Statement of attack + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃の書+5
+> CONTEXT: Armors/176/name/
+Statement of attack + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+理性の書
+> CONTEXT: Armors/181/name/
+Book of Reason#MTLed
+> END STRING
+
+> BEGIN STRING
+理性の書+1
+> CONTEXT: Armors/182/name/
+Book of Reason + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+理性の書+2
+> CONTEXT: Armors/183/name/
+Book of Reason + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+理性の書+3
+> CONTEXT: Armors/184/name/
+Book of Reason + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+理性の書+4
+> CONTEXT: Armors/185/name/
+Book of Reason + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+理性の書+5
+> CONTEXT: Armors/186/name/
+Book of Reason + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精力の書
+> CONTEXT: Armors/191/name/
+Book of energetic#MTLed
+> END STRING
+
+> BEGIN STRING
+精力の書+1
+> CONTEXT: Armors/192/name/
+Book of energetic + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精力の書+2
+> CONTEXT: Armors/193/name/
+Book of energy + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精力の書+3
+> CONTEXT: Armors/194/name/
+Book of Energy + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精力の書+4
+> CONTEXT: Armors/195/name/
+Book of energy +4#MTLed
+> END STRING
+
+> BEGIN STRING
+精力の書+5
+> CONTEXT: Armors/196/name/
+Book of Energy + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔の書
+> CONTEXT: Armors/206/name/
+Book of Demonicism#MTLed
+> END STRING
+
+> BEGIN STRING
+★下級装飾品
+> CONTEXT: Armors/209/name/
+★ Lower-level ornaments#MTLed
+> END STRING
+
+> BEGIN STRING
+癒のカード
+> CONTEXT: Armors/211/name/
+Healing card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+10 抵+0 行+0 運+0
+休息+20%　戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Armors/211/description/
+> CONTEXT: Armors/227/description/
+Precision + 0 + 0 + + + 0 + +10 + 0 + 0 + + 0. Rest + 20%
+Energy and reason will recover by 20% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+銀のカード
+> CONTEXT: Armors/212/name/
+Silver card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+5
+性感+20%　２０％でクリティカルヒットになる
+> CONTEXT: Armors/212/description/
+Precision + 0 + 0 + + + 0 + 0 + 0 + 0 + + 5. Sexual
+sensation + 20% 20% to become a critical hit#MTLed
+> END STRING
+
+> BEGIN STRING
+木のカード
+> CONTEXT: Armors/213/name/
+Wooden card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+0 攻+0 防+5 道+0 抵+0 行+0 運+0
+忍耐+20%　精力が０以下になったとき２０％で耐える
+> CONTEXT: Armors/213/description/
+Fine + 20 + 0 + 0 + + 5 + 0 + 0 + 0 Luck + 0. Patience +
+20% Endurance with 20% when energetic becomes below 0#MTLed
+> END STRING
+
+> BEGIN STRING
+水のカード
+> CONTEXT: Armors/214/name/
+Water card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+5 抵+5 行+0 運+0
+平常心+20%　２０％でキャンセルを無効化する
+> CONTEXT: Armors/214/description/
+Fine +0 +0 attack + 0 + 0 + 5 + 5 rows + 0 luck + 0. 
+Disable cancellation with normal heart + 20% 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+土のカード
+> CONTEXT: Armors/215/name/
+Earth card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+15 防+0 道+0 抵+0 行+0 運+0
+警戒+20%　戦闘開始時に２０％で先手を取る
+> CONTEXT: Armors/215/description/
+Fine +0 +0 attack +15 + 0 + 0 + 0 line + 0 luck + 0. Alert
++ 20% Battle takes 20% at battle start#MTLed
+> END STRING
+
+> BEGIN STRING
+金のカード
+> CONTEXT: Armors/216/name/
+Gold card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+5 運+5
+探索+20% ダンジョンでの拾得品が２０％で１増加する
+> CONTEXT: Armors/216/description/
+Precise + 0 + 0 + + 0 + + 0 + 0 + 5 + 5. Discovery + 20%
+Dungeon pickup items increase by 1 at 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+泥のカード
+> CONTEXT: Armors/217/name/
+Mud card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+0 攻+0 防+0 道+5 抵+5 行+0 運+0
+尻+2　尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/217/description/
+Fine + 20 + 0 + 0 + + 0 + 5 + 5 + 0 Luck + 0. Hit number of
+butt + 2 butt attacks is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+闇のカード
+> CONTEXT: Armors/218/name/
+Dark card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+10 攻+0 防+5 道+0 抵+0 行+5 運+0
+胸+2　胸責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/218/description/
+> CONTEXT: Armors/233/description/
+Precise +0 +10 +0 + + 5 + 0 + 0 + 5 Luck + 0. Hit number of
+chest + 2 chest torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+海のカード
+> CONTEXT: Armors/219/name/
+Sea card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+0 防+5 道+5 抵+0 行+0 運+0
+理性-20%　性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/219/description/
+Fine + 20 + 10 + 0 + + 5 + + 5 + 0 + 0 Luck + 0. Reason -
+20% Consumption reason when using sex technique is -20%#MTLed
+> END STRING
+
+> BEGIN STRING
+氷のカード
+> CONTEXT: Armors/220/name/
+Ice card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+5 道+0 抵+5 行+0 運+5
+引き継ぎ+40%　Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/220/description/
+Precision + 0 + 0 + + 5 + + 0 + 5 + 0 + + 5. Take over +
+40% Hit number to take over 40% to the next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+風のカード
+> CONTEXT: Armors/221/name/
+Wind card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+20 運+0
+追撃+20%　２０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Armors/221/description/
+Precision + 0 + 0 + + + 0 + + 0 + 0 +20 + + 0. Pursuit +
+20% 20% and Hit number is incremented by 1 on attack#MTLed
+> END STRING
+
+> BEGIN STRING
+火のカード
+> CONTEXT: Armors/222/name/
+Fire card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+膣+2　膣責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/222/description/
+Fine +0 +0 attack + 20 + 0 + 0 + 0 line + 0 luck + 0. Hit
+number of vagina + 2 vaginal torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+光のカード
+> CONTEXT: Armors/223/name/
+Light card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+5 防+10 道+0 抵+5 行+0 運+0
+唇+2　唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/223/description/
+Fine +0 +0 attack + 5 + 10 + 0 + + 5 lines + 0 luck + 0. 
+Hit number of lips + two lips torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+邪のカード
+> CONTEXT: Armors/224/name/
+The wicked card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+5 道+0 抵+0 行+5 運+0
+威圧+20%　２０％で非弱点でもキャンセル効果を発動
+> CONTEXT: Armors/224/description/
+\\}Precision +0 +0 +10 + + 5 + 0 + 0 + 5 + + 0. Intimidating + 20% 20%
+invoked a cancellation effect even at non-weak points#MTLed
+> END STRING
+
+> BEGIN STRING
+忍のカード
+> CONTEXT: Armors/225/name/
+Shinobu card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+20 運+0
+Hit+20%　与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/225/description/
+Precision + 0 + 0 + + + 0 + + 0 + 0 +20 + + 0. Hit + 20%
+pleasure increases by 20% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+魔のカード
+> CONTEXT: Armors/226/name/
+Devil card#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+0 道+0 抵+0 行+10 運+0
+牽制+20%　２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/226/description/
+Fine +0 +0 attack +10 + 0 + 0 + 0 line + 10 luck + 0. 
+Restrict dramatically when canceled by check + 20% 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+応急処置
+> CONTEXT: Armors/227/name/
+First aid#MTLed
+> END STRING
+
+> BEGIN STRING
+家庭の医学
+> CONTEXT: Armors/228/name/
+Home medicine#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+10 行+0 運+0
+理性-20%　性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/228/description/
+Precise 0 0 0 0 0 0 10 lines 0 Luck 0. Reason - 20%
+Consumption reason when using sex technique is -20%#MTLed
+> END STRING
+
+> BEGIN STRING
+薬草学
+> CONTEXT: Armors/229/name/
+Herbology#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+10 攻+0 防+0 道+5 抵+0 行+0 運+0
+幸運+20%　戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Armors/229/description/
+Precision +0 +10 +0 + + 0 + +5 + 0 + 0 Luck + 0. Forty +
+20% SP after battle end will rise by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+森の役割
+> CONTEXT: Armors/230/name/
+The role of the forest#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+5 道+0 抵+5 行+0 運+0
+平常心+20%　２０％でキャンセルを無効化する
+> CONTEXT: Armors/230/description/
+Precision + 0 + 0 + + + 5 + + 0 + 5 + 0 + + 0. Disable
+cancellation with normal heart + 20% 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+山歩きの基本
+> CONTEXT: Armors/231/name/
+Basics of mountain walking#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+0 攻+0 防+0 道+0 抵+0 行+10 運+0
+警戒+20%　戦闘開始時に２０％で先手を取る
+> CONTEXT: Armors/231/description/
+Fine + 20 + 0 + 0 + + 0 + 0 + 0 + 10 + + 0. Alert + 20%
+Battle takes 20% at battle start#MTLed
+> END STRING
+
+> BEGIN STRING
+山岳の草花
+> CONTEXT: Armors/232/name/
+Mountain flowers#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+5 防+0 道+10 抵+0 行+0 運+0
+探索+20% ダンジョンでの拾得品が２０％で１増加する
+> CONTEXT: Armors/232/description/
+Precision +0 +0 attack + 5 + 0 + 10 + 0 line + 0 luck + 0. 
+Discovery + 20% Dungeon pickup items increase by 1 at 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+闇の囁き
+> CONTEXT: Armors/233/name/
+Whisper of the dark#MTLed
+> END STRING
+
+> BEGIN STRING
+下水道の冒険
+> CONTEXT: Armors/234/name/
+Sewer adventure#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+0 攻+0 防+0 道+0 抵+0 行+5 運+0
+尻+2　尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/234/description/
+Fine + 40 + 0 + 0 + + 0 + 0 + 0 + 5 Luck + 0. Hit number of
+butt + 2 butt attacks is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+深海の不思議
+> CONTEXT: Armors/235/name/
+Mysteries of the deep sea#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+10 行+0 運+0
+引き継ぎ+40%　Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/235/description/
+\\}Precision + 0 + 0 + + + 10 + + + + + + + + + + + + + + + + +
+Take over + 40% Hit number to take over 40% to the next battle#MTLed
+> END STRING
+
+> BEGIN STRING
+海賊の宝
+> CONTEXT: Armors/236/name/
+Pirate's treasure#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+15 防+5 道+0 抵+0 行+0 運+0
+威圧+20%　２０％で非弱点でもキャンセル効果を発動
+> CONTEXT: Armors/236/description/
+\\}Precision +0 +0 + 15 + + 5 + 0 + 0 + 0 Luck + 0. Intimidating + 20% 20%
+invoked a cancellation effect even at non-weak points#MTLed
+> END STRING
+
+> BEGIN STRING
+森人の生活
+> CONTEXT: Armors/237/name/
+Mori people's life#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+10 行+0 運+0
+追撃+20%　２０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Armors/237/description/
+\\}Precision + 0 + 0 + + + 10 + + + + + + + + + + + + + + + + +
+Pursuit + 20% 20% and Hit number is incremented by 1 on attack#MTLed
+> END STRING
+
+> BEGIN STRING
+褐色の狩人
+> CONTEXT: Armors/238/name/
+Brown hunter#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+性感+20%　２０％でクリティカルヒットになる
+> CONTEXT: Armors/238/description/
+Fine +0 +0 attack + 20 + 0 + 0 + 0 line + 0 luck + 0. 
+Sexual sensation + 20% 20% to become a critical hit#MTLed
+> END STRING
+
+> BEGIN STRING
+堕落の罠
+> CONTEXT: Armors/239/name/
+Fallen of falls#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+0 道+0 抵+0 行+0 運+5
+牽制+20%　２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/239/description/
+Fine +0 +0 attack +10 + 0 + 0 + 0 lines + 0 luck + 5. 
+Restrict dramatically when canceled by check + 20% 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+天使の教え
+> CONTEXT: Armors/240/name/
+The teaching of angels#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+10 行+0 運+0
+唇+2　唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/240/description/
+Precision + 0 + 0 + + + 10 + + + + + + + + + + + + + + + +
++. Hit number of lips + two lips torture is +2#MTLed
+> END STRING
+
+> BEGIN STRING
+遺失文書
+> CONTEXT: Armors/241/name/
+Lost document#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+0 攻+0 防+0 道+10 抵+0 行+0 運+0
+吸収-40%　エナジードレインを４０％軽減する
+> CONTEXT: Armors/241/description/
+Fine + 40 + 0 + 0 + + 0 + + 10 + 0 + 0 Luck + 0. Absorbance
+- 40% Reduce energy drain by 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+魔導大全
+> CONTEXT: Armors/242/name/
+Magical guardian#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+20 攻+5 防+5 道+0 抵+0 行+0 運+0
+Hit+20%　与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/242/description/
+Fine +0 +20 attack + 5 + 5 + 0 + 0 line + 0 luck + 0. Hit +
+20% pleasure increases by 20% of Hit number#MTLed
+> END STRING
+
+> BEGIN STRING
+装備スキル修得の札
+> CONTEXT: Armors/249/name/
+Equipment skill acquisition tag#MTLed
+> END STRING
+
+> BEGIN STRING
+全装備スキルを修得状態にします
+
+> CONTEXT: Armors/249/description/
+> CONTEXT: Armors/276/description/
+Learn all equipment skills. 
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+全能力封じの札 -50
+> CONTEXT: Armors/251/name/
+Tag with full capacity seal-50#MTLed
+> END STRING
+
+> BEGIN STRING
+精力と理性以外の全能力が50低下しまが、基本収得ＳＰ３０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/251/description/
+\\}Although all abilities other than energetic and reason are
+reduced by 50, basic earnings SP 30 increase. 【It will not be reflected#MTLed
+> END STRING
+
+> BEGIN STRING
+全能力封じの札 -100
+> CONTEXT: Armors/252/name/
+Tag with full capacity seal -100#MTLed
+> END STRING
+
+> BEGIN STRING
+精力と理性以外の全能力が100低下しまが、基本収得ＳＰ５０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/252/description/
+\\}Although all abilities other than energetics and reasons
+decrease by 100, the basic income SP 50 increase. 【It will not be#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃封じの札 -50
+> CONTEXT: Armors/254/name/
+Attack sealed tag - 50#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/254/description/
+\\}The attack power will be reduced by 50, but the basic income SP 3 increase
+【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃封じの札 -100
+> CONTEXT: Armors/255/name/
+Attack seal tag -100#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃力が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/255/description/
+> CONTEXT: Armors/267/description/
+Attack strength will drop by 100, but base earning SP6
+increase. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+防御封じの札 -50
+> CONTEXT: Armors/257/name/
+Defense sealed tag - 50#MTLed
+> END STRING
+
+> BEGIN STRING
+防御力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/257/description/
+Defense power will be reduced by 50, but basic earnings SP3
+increase. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+防御封じの札 -100
+> CONTEXT: Armors/258/name/
+Defense sealed tag -100#MTLed
+> END STRING
+
+> BEGIN STRING
+防御力が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/258/description/
+\\}Although defensive power will be reduced by 100, basic income SP6 increase
+【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+道具封じの札 -50
+> CONTEXT: Armors/260/name/
+Tool sealed tag - 50#MTLed
+> END STRING
+
+> BEGIN STRING
+道具が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/260/description/
+The tool decreases by 50, but the basic income SP 3
+increase. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+道具封じの札 -100
+> CONTEXT: Armors/261/name/
+Tool sealed tag - 100#MTLed
+> END STRING
+
+> BEGIN STRING
+道具が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/261/description/
+The tool decreases by 100, but the basic income SP 6
+increase. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗封じの札 -50
+> CONTEXT: Armors/263/name/
+Resistance sealed tag - 50#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/263/description/
+Resistance will be reduced by 50, but base earning SP 3
+increase. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗封じの札 -100
+> CONTEXT: Armors/264/name/
+Resistance sealed tag - 100#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗力が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/264/description/
+Resistance will drop by 100, but base earning SP6 increase..
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+行動封じの札 -50
+> CONTEXT: Armors/266/name/
+Action sealed tag - 50#MTLed
+> END STRING
+
+> BEGIN STRING
+行動力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/266/description/
+\\}Although the behavioral power drops by 50, the basic income SP 3 increase
+【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+行動封じの札 -100
+> CONTEXT: Armors/267/name/
+Behavior sealed tag -100#MTLed
+> END STRING
+
+> BEGIN STRING
+運封じの札 -50
+> CONTEXT: Armors/269/name/
+Tag of sealed-50#MTLed
+> END STRING
+
+> BEGIN STRING
+運が50低下しますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/269/description/
+Luck will be reduced by 50, but basic earnings SP 10
+increase. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+運封じの札 -100
+> CONTEXT: Armors/270/name/
+Luck of Luck -100#MTLed
+> END STRING
+
+> BEGIN STRING
+運が100低下しますが、基本収得ＳＰ２０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/270/description/
+Luck will decrease by 100, but basic earnings SP 20
+increase. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+【未使用】スキル封じの札 Lv1
+> CONTEXT: Armors/272/name/
+[Unused] Skill sealed tag Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+Lv1のスキルを全て封印しますが、基本収得ＳＰ１０増加
+【装備したままスキル修得を行わないこと(未修得のため)】
+> CONTEXT: Armors/272/description/
+\\}We will seal all the skills of Lv1, but increase basic earnings SP10
+【Do not do skill acquisition while equipping (for unaught)】#MTLed
+> END STRING
+
+> BEGIN STRING
+【未使用】スキル封じの札 Lv2
+> CONTEXT: Armors/273/name/
+[Unused] Skill sealed tag Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+Lv2のスキルを全て封印しますが、基本収得ＳＰ２０増加
+【装備したままスキル修得を行わないこと(未修得のため)】
+> CONTEXT: Armors/273/description/
+\\}All the skills of Lv 2 are sealed, but the basic income SP 20 increase
+【Do not do skill acquisition while equipping (for unaught)】#MTLed
+> END STRING
+
+> BEGIN STRING
+【未使用】スキル封じの札 Lv3
+> CONTEXT: Armors/274/name/
+[Unused] Skill sealed tag Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+全スキルを封印しますが、基本収得ＳＰ３０増加
+【装備したままスキル修得を行わないこと(未修得のため)】
+> CONTEXT: Armors/274/description/
+We will seal all skills but increase basic earnings SP 30. 
+【Do not do skill acquisition while equipping (for unaught)】#MTLed
+> END STRING
+
+> BEGIN STRING
+予備　装備スキル修得の札
+> CONTEXT: Armors/276/name/
+Preliminary equipment skill acquisition tag#MTLed
+> END STRING
+
+> BEGIN STRING
+奴隷の首輪
+> CONTEXT: Armors/300/name/
+Slave collar#MTLed
+> END STRING
+
+> BEGIN STRING
+自動で屈服になりますが、基本収得ＳＰ５０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/300/description/
+It automatically yields you, but increases basic earnings
+SP50. 【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+奴隷の口枷
+> CONTEXT: Armors/302/name/
+Slave's mouth lock#MTLed
+> END STRING
+
+> BEGIN STRING
+自動でイきそうになりますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/302/description/
+\\}It seems to be automatic automatically, but increases basic earnings SP10
+【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+奴隷の手枷
+> CONTEXT: Armors/304/name/
+Slave's hand grenade#MTLed
+> END STRING
+
+> BEGIN STRING
+自動で骨抜きになりますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/304/description/
+\\}It will become boneless automatically, but increase basic earnings SP10
+【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+奴隷の足枷
+> CONTEXT: Armors/306/name/
+Slave fetters#MTLed
+> END STRING
+
+> BEGIN STRING
+自動で魅了になりますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/306/description/
+\\}It will be fascinated automatically, but increase basic earnings SP10
+【It will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/321/description/
+Basic earnings SP10 increase. 【It will not be reflected in
+level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+適格者
+> CONTEXT: Armors/323/name/
+Qualified person#MTLed
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ２０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/323/description/
+> CONTEXT: Armors/325/description/
+Basic earnings SP20 increase. 【It will not be reflected in
+level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+半淫魔
+> CONTEXT: Armors/325/name/
+Half Lucky Man#MTLed
+> END STRING
+
+> BEGIN STRING
+凄腕冒険者
+> CONTEXT: Armors/341/name/
+Awesome adventurer#MTLed
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ１００増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/341/description/
+Basic earnings SP 100 increase. 【It will not be reflected
+in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔狩人
+> CONTEXT: Armors/343/name/
+Demonic hunter#MTLed
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ２００増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/343/description/
+Basic earnings SP 200 increase. 【It will not be reflected
+in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+大盗賊
+> CONTEXT: Armors/345/name/
+Great bandits#MTLed
+> END STRING
+
+> BEGIN STRING
+ダンジョンでの拾得品が常に１増加する
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/345/description/
+Acquisition items in dungeon are always increased by 1. 【It
+will not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+胸マスター
+> CONTEXT: Armors/351/name/
+Chest master#MTLed
+> END STRING
+
+> BEGIN STRING
+胸責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/351/description/
+Consumption reason of chest torture is halved. 【It will not
+be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+尻マスター
+> CONTEXT: Armors/353/name/
+Ass Master#MTLed
+> END STRING
+
+> BEGIN STRING
+尻責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/353/description/
+Consumption reason of hip attack is halved. 【It will not be
+reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+膣マスター
+> CONTEXT: Armors/355/name/
+Vaginal master#MTLed
+> END STRING
+
+> BEGIN STRING
+膣責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/355/description/
+Consumption reason of vaginal torture is halved. 【It will
+not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+唇マスター
+> CONTEXT: Armors/357/name/
+Lip master#MTLed
+> END STRING
+
+> BEGIN STRING
+唇責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/357/description/
+Consumption reason of lips blame is halved. 【It will not be
+reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+防御マスター
+> CONTEXT: Armors/359/name/
+Defense master#MTLed
+> END STRING
+
+> BEGIN STRING
+防御選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/359/description/
+The line speed after defense selection doubles. 【It will
+not be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+道具マスター
+> CONTEXT: Armors/361/name/
+Tool master#MTLed
+> END STRING
+
+> BEGIN STRING
+道具選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/361/description/
+Line speed after tool selection doubles. 【It will not be
+reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+逃走マスター
+> CONTEXT: Armors/363/name/
+Escape master#MTLed
+> END STRING
+
+> BEGIN STRING
+逃走選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/363/description/
+Doubles the line speed after escape selection. 【It will not
+be reflected in level up processing】#MTLed
+> END STRING
+
+> BEGIN STRING
+連携マスター
+> CONTEXT: Armors/365/name/
+Cooperation Master#MTLed
+> END STRING
+
+> BEGIN STRING
+連携、脱衣選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/365/description/
+Line speed after cooperation, undressing selection doubles..
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+屈服マスター
+> CONTEXT: Armors/367/name/
+Submission Master#MTLed
+> END STRING
+
+> BEGIN STRING
+屈服選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/367/description/
+Doubles the line speed after flexion selection. 【It will
+not be reflected in level up processing】#MTLed
+> END STRING

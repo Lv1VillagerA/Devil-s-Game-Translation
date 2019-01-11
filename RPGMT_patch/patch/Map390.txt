@@ -1,0 +1,511 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+天界の門
+> CONTEXT: Map390/display_name/
+Heaven's Gate#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうやら、貴方で最後のようですわね。
+　今から私が言う質問に、正直に答えるのですわ」
+> CONTEXT: Map390/events/1/pages/0/22/Dialogue
+「Apparently, you seem to be the last. I will honestly
+answer the question I will say from now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは、最初の質問。
+　貴方の名前を教えて欲しいのですわ」
+> CONTEXT: Map390/events/1/pages/0/25/Dialogue
+「So then, the first question. I would like you to tell me
+your name」#MTLed
+> END STRING
+
+> BEGIN STRING
+「なるほど、貴方の名前は\\N[1]ですのね？」
+> CONTEXT: Map390/events/1/pages/0/33/Dialogue
+「Indeed, your name is \\N[1] Is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+そう
+> CONTEXT: Map390/events/1/pages/0/35/Choice/0
+so#MTLed
+> END STRING
+
+> BEGIN STRING
+違う
+> CONTEXT: Map390/events/1/pages/0/35/Choice/1
+Wrong#MTLed
+> END STRING
+
+> BEGIN STRING
+「正直に答えてくれて、ありがとうですわ。
+　それでは、次の質問に入りますわよ」
+> CONTEXT: Map390/events/1/pages/0/38/Dialogue
+「Thank you for answering honestly. Well then, I will enter
+the next question」#MTLed
+> END STRING
+
+> BEGIN STRING
+「えっ？　ああもう、また書き直しですわ！
+　それでは、本当の名前は何ですの？」
+> CONTEXT: Map390/events/1/pages/0/44/Dialogue
+「eh? Oh, I have to rewrite it again! So what is the real
+name?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]は、それなりに名の知れた、
+　ベテラン冒険者ですわ」
+> CONTEXT: Map390/events/1/pages/0/85/Dialogue
+「\\N[1] He was familiar as it was, It's a veteran
+adventurer.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ある日町の近くで、野盗の集団に襲われましたわ。
+　多勢に無勢、まともに戦っても勝てそうにありませんの。
+　そんな状況で\\N[1]はどうやって切り抜けますの？」
+> CONTEXT: Map390/events/1/pages/0/88/Dialogue
+「One day near the town was attacked by a group of factions.
+It is not likely to win, even if it fights straight ahead.
+In such a situation \\N[1] How can you get through?」#MTLed
+> END STRING
+
+> BEGIN STRING
+助けを呼び、守りに徹する
+> CONTEXT: Map390/events/1/pages/0/92/Choice/0
+Call for help and be committed to defense#MTLed
+> END STRING
+
+> BEGIN STRING
+様々な道具を使い撹乱して戦う
+> CONTEXT: Map390/events/1/pages/0/92/Choice/1
+Fight with distractions using various tools#MTLed
+> END STRING
+
+> BEGIN STRING
+旅の仲間と協力し戦う
+> CONTEXT: Map390/events/1/pages/0/92/Choice/2
+Cooperate with fellow travelers and fight#MTLed
+> END STRING
+
+> BEGIN STRING
+とても敵わないので逃げる
+> CONTEXT: Map390/events/1/pages/0/92/Choice/3
+Run away as it is not very enemy#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに町から近いですし、
+　援軍が駆けつけないほうが、おかしいですわ。
+　時には守りに徹するのは、賢い戦い方ですわね」
+> CONTEXT: Map390/events/1/pages/0/94/Dialogue
+「It is certainly close from the town, It seems funny that
+reinforcements will not run. Sometimes it's wise to fight
+to defend against wishes」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに冒険者は危険と隣り合わせですわ。
+　それ用の道具は持っていて当然ですわね」
+> CONTEXT: Map390/events/1/pages/0/101/Dialogue
+「Certainly the adventurer is next to danger.
+It is natural that I have a tool for that」#MTLed
+> END STRING
+
+> BEGIN STRING
+「煙幕で撹乱するか、体力が減っても回復薬で補えば、
+　たとえ数では不利だとしても、十分に勝利出来ますわね」
+> CONTEXT: Map390/events/1/pages/0/104/Dialogue
+「Even if you are disturbed by a smoke screen or your
+physical strength decreases, if you compensate with
+recovery medicine, Even if it's disadvantageous in number,
+you can win enough」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに一人旅だとは言っていませんし、
+　仲間がいれば連携次第で、数の不利を克服出来ますわ」
+> CONTEXT: Map390/events/1/pages/0/110/Dialogue
+「I do not say that it is certainly a solo travel,
+Depending on the cooperation, you can overcome the
+disadvantages of the number if you have friends」#MTLed
+> END STRING
+
+> BEGIN STRING
+「賢い冒険者でしたら、時には逃げることも必要ですわね。
+　命あっての物種ですわ」
+> CONTEXT: Map390/events/1/pages/0/116/Dialogue
+「If you are a wise adventurer, you also need to escape
+from time to time. It's a living thing.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは、次の質問ですわ」
+> CONTEXT: Map390/events/1/pages/0/122/Dialogue
+> CONTEXT: Map390/events/1/pages/0/153/Dialogue
+> CONTEXT: Map390/events/1/pages/0/184/Dialogue
+「So then, the next question」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]は成り行きで美しい娼婦と、
+　カラダを交わらせることになりましたの。
+　最初の一手はどのようにしますの？」
+> CONTEXT: Map390/events/1/pages/0/128/Dialogue
+「\\N[1] It is a beautiful prostitute, I decided to
+cross the body. How do you do the first one?」#MTLed
+> END STRING
+
+> BEGIN STRING
+胸をじっくり揉む
+> CONTEXT: Map390/events/1/pages/0/132/Choice/0
+I massage my chest carefully#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を優しく撫でる
+> CONTEXT: Map390/events/1/pages/0/132/Choice/1
+Gently pat my ass#MTLed
+> END STRING
+
+> BEGIN STRING
+膣にゆっくり挿入
+> CONTEXT: Map390/events/1/pages/0/132/Choice/2
+Insert slowly into the vagina#MTLed
+> END STRING
+
+> BEGIN STRING
+唇を素早く奪う
+> CONTEXT: Map390/events/1/pages/0/132/Choice/3
+Rip sweep quickly#MTLed
+> END STRING
+
+> BEGIN STRING
+「なるほど…\\N[1]が女性のカラダで何処を見ているか、
+　少しわかったような気がしますわ」
+> CONTEXT: Map390/events/1/pages/0/150/Dialogue
+「I see… \\N[1] Where are you looking at a woman's body,
+I feel I got it a little.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「では、今日は差し迫った依頼もなく、
+　久しぶりの一日休みですわ。
+　\\N[1]はどのように過ごしますの？」
+> CONTEXT: Map390/events/1/pages/0/159/Dialogue
+「So today, there is no immediate request,
+It is a holiday for the first time in a long time.
+In case \\N[1] How do you spend it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+何処かに遊びに行く
+> CONTEXT: Map390/events/1/pages/0/163/Choice/0
+Go somewhere to play#MTLed
+> END STRING
+
+> BEGIN STRING
+本を読んでゆっくりする
+> CONTEXT: Map390/events/1/pages/0/163/Choice/1
+Read books and slowly#MTLed
+> END STRING
+
+> BEGIN STRING
+「なるほど…\\N[1]は積極的に、
+　カラダを動かすのが好きなようですわね」
+> CONTEXT: Map390/events/1/pages/0/165/Dialogue
+「I see… \\N[1] Actively, You seem to like to move the
+body」#MTLed
+> END STRING
+
+> BEGIN STRING
+「なるほど…一日休みということで、
+　あえて行動は起こさず、
+　日頃の疲れを取ることも必要ですわよね」
+> CONTEXT: Map390/events/1/pages/0/174/Dialogue
+「I see ... As a day off, Do not dare to take action,
+It is also necessary to take a daily fatigue」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]が自分でこれは！という、
+　長所はありますか？」
+> CONTEXT: Map390/events/1/pages/0/189/Dialogue
+「\\N[1] There is this for myself! That, Are there
+advantages?」#MTLed
+> END STRING
+
+> BEGIN STRING
+どんな時でも冷静
+> CONTEXT: Map390/events/1/pages/0/192/Choice/0
+Cool at any time#MTLed
+> END STRING
+
+> BEGIN STRING
+とても忍耐強い
+> CONTEXT: Map390/events/1/pages/0/192/Choice/1
+Very patient#MTLed
+> END STRING
+
+> BEGIN STRING
+かなり疲れにくい
+> CONTEXT: Map390/events/1/pages/0/192/Choice/2
+Pretty hard to get tired#MTLed
+> END STRING
+
+> BEGIN STRING
+思いつかない
+> CONTEXT: Map390/events/1/pages/0/192/Choice/3
+can not think of#MTLed
+> END STRING
+
+> BEGIN STRING
+「なるほど…それでは、最後の質問ですわ」
+> CONTEXT: Map390/events/1/pages/0/194/Dialogue
+> CONTEXT: Map390/events/1/pages/0/199/Dialogue
+> CONTEXT: Map390/events/1/pages/0/204/Dialogue
+「I see, then, that's the last question」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええと、必ず何かありますので、
+　どうか気を落とさないでくださいね。
+　そっ…それでは、最後の質問ですわ」
+> CONTEXT: Map390/events/1/pages/0/210/Dialogue
+「Well, certainly there is something, Please do not be
+discouraged. Ok ... then, it is the last question」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もし\\N[1]が一人の冒険者として、
+　私…いえ、天使に祈る機会がありましたら、
+　どんなことを願いますの？」
+> CONTEXT: Map390/events/1/pages/0/221/Dialogue
+「if \\N[1] As an adventurer, I ... ... No, if I have
+an opportunity to pray for an angel, What do you wish for?」#MTLed
+> END STRING
+
+> BEGIN STRING
+強敵への勝利
+> CONTEXT: Map390/events/1/pages/0/225/Choice/0
+Victory against the enemy#MTLed
+> END STRING
+
+> BEGIN STRING
+仲間の身の安全
+> CONTEXT: Map390/events/1/pages/0/225/Choice/1
+Fellow's safety#MTLed
+> END STRING
+
+> BEGIN STRING
+とにかく生きのびる
+> CONTEXT: Map390/events/1/pages/0/225/Choice/2
+It survives anyway#MTLed
+> END STRING
+
+> BEGIN STRING
+より多くの利益
+> CONTEXT: Map390/events/1/pages/0/225/Choice/3
+More profit#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに、強力な魔物への勝利なくして、
+　冒険者は語れませんわね」
+> CONTEXT: Map390/events/1/pages/0/227/Dialogue
+「Indeed, without victory over powerful demons,
+The adventurer can not tell」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに、パーティーを組んでいるのなら、
+　仲間と自分…常に両方に気を配るべきですわね」
+> CONTEXT: Map390/events/1/pages/0/233/Dialogue
+「Certainly, if you are party, You and yourself ... You
+should always take care of both」#MTLed
+> END STRING
+
+> BEGIN STRING
+「危険な依頼を受けて、
+　万一失敗するのは仕方ないといえ、
+　命まで失っては再挑戦すら出来ませんからね」
+> CONTEXT: Map390/events/1/pages/0/239/Dialogue
+「In response to a dangerous request, In the unlikely event
+of failure, I can not even try again if I lose my life」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一度の依頼でより多くの利益を得たいのは、
+　冒険者として当たり前のことですわね」
+> CONTEXT: Map390/events/1/pages/0/246/Dialogue
+「I want to earn more profits with a single request,
+It is natural as an adventurer, is not it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「以上で、質問は終わりですわ。
+　\\N[1]のこと…少しわかったような気がしますわね」
+> CONTEXT: Map390/events/1/pages/0/252/Dialogue
+「That's it, the question is over. In case \\N[1] I
+mean ... I feel I got it a little」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちなみに今の答えで、間違いはありませんわよね？」
+> CONTEXT: Map390/events/1/pages/0/255/Dialogue
+「By the way, with the answer now, there is no mistake,
+right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+間違いない
+> CONTEXT: Map390/events/1/pages/0/257/Choice/0
+no doubt#MTLed
+> END STRING
+
+> BEGIN STRING
+間違えた
+> CONTEXT: Map390/events/1/pages/0/257/Choice/1
+mistook#MTLed
+> END STRING
+
+> BEGIN STRING
+「ほっ…それは良かったですわ」
+> CONTEXT: Map390/events/1/pages/0/260/Dialogue
+「Ho ... it was good」#MTLed
+> END STRING
+
+> BEGIN STRING
+「えっ？　ああもう、また記入し直しですわ！
+　そっ…それでは、もう一度質問を繰り返しますわよ」
+> CONTEXT: Map390/events/1/pages/0/266/Dialogue
+「eh? Oh, I'm writing it again! Ok then ... I will repeat
+the question again」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふぅ…ようやく質問が全て終わりましたわ」
+> CONTEXT: Map390/events/1/pages/1/2/Dialogue
+「Fuu ... Finally all the questions are over」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それで\\N[1]は、どうして私がこのような質問をしたのか、
+　気になりますわよね？」
+> CONTEXT: Map390/events/1/pages/1/4/Dialogue
+「So then \\N[1] I wonder why I asked such a question,
+You are interested, are not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+気になる
+> CONTEXT: Map390/events/1/pages/1/7/Choice/0
+concern#MTLed
+> END STRING
+
+> BEGIN STRING
+気にならない
+> CONTEXT: Map390/events/1/pages/1/7/Choice/1
+I do not mind#MTLed
+> END STRING
+
+> BEGIN STRING
+「そっ…そうですの？　それはともかくとして…！」
+> CONTEXT: Map390/events/1/pages/1/12/Dialogue
+「Is that so ... right? In any case ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もうすぐ人間界に、
+　二百年前と同じように大きな災厄が訪れますわ。
+　それで私は、力ある人間たちに警告を伝えてきましたの」
+> CONTEXT: Map390/events/1/pages/1/18/Dialogue
+「To the human world soon, As with 200 years ago, a big
+disaster strikes. So I gave a warning to the mighty men」#MTLed
+> END STRING
+
+> BEGIN STRING
+「災厄の名は【\\C[10]淫女王アニス\\C[0]】」
+> CONTEXT: Map390/events/1/pages/1/22/Dialogue
+「The name of disaster is 【\\C[10] Anime horse king\\C[0] 】」#MTLed
+> END STRING
+
+> BEGIN STRING
+「彼女の率いる淫魔という種族は、
+　人間の命を性行為によって吸い取り、
+　あらゆる攻撃を無効化する、厄介な存在ですわ」
+> CONTEXT: Map390/events/1/pages/1/25/Dialogue
+「The tribe of lasciviousness led by her,
+Suffocation of human life by sex, It is a nuisance to
+disable all attacks」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔を倒すには、
+　性的絶頂以外の手段は存在しませんわ」
+> CONTEXT: Map390/events/1/pages/1/29/Dialogue
+「To defeat the bastard, There is no means other than
+sexual cum」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかしもし淫魔との戦いに敗れたのが男なら、
+　呪縛により身動きを封じられたまま、
+　最悪吸い殺されてしまい」
+> CONTEXT: Map390/events/1/pages/1/32/Dialogue
+「But if it is a man who is defeated by the battle with the
+bastard, With movement kept sealed by spells,
+It was sucked and sucked at the worst.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「女なら新たな淫魔に変えられてしまうのですわ。
+　しかし双方とも処置が早ければ、
+　元に戻すことは十分に可能ですわ」
+> CONTEXT: Map390/events/1/pages/1/38/Dialogue
+「A woman will be transformed into a new ugliness.
+However, if both treatments are early, It's possible enough
+to undo it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]の役目は出来るだけ淫魔の活動を牽制し、
+　時間を稼ぐことですわ。そうすればもう一度私が…」
+> CONTEXT: Map390/events/1/pages/1/44/Dialogue
+「\\N[1] The role of checking the activities of 魔 魔 as
+much as possible, It is to earn time. That way I will ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ん…どうやらここまでのようですわね。
+　時間がありませんので、…これを」
+> CONTEXT: Map390/events/1/pages/1/49/Dialogue
+「I see ... it seems to be here. I do not have time, so ...
+this」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔との戦いに有効な、
+　アイテムの詰め合わせですわ。
+　もっとも…あまり数は用意出来ませんでしたが」
+> CONTEXT: Map390/events/1/pages/1/57/Dialogue
+「Effective for battle against losers, It is an assortment
+of items. Although ... I could not prepare too many」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでは\\N[1]、淫魔の誘惑には、
+　くれぐれも気をつけるのですわよ」
+> CONTEXT: Map390/events/1/pages/1/63/Dialogue
+「Thank you. \\N[1] , To the temptation of the bastard,
+You must be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私はいつでも、迷える子羊たちを見守っていますわ」
+> CONTEXT: Map390/events/1/pages/1/66/Dialogue
+「I always watch lost lambs at any time」#MTLed
+> END STRING

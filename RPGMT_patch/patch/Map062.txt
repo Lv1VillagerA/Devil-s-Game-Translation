@@ -1,0 +1,79 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+1F 受付
+> CONTEXT: Map062/display_name/
+1F reception#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]これは…淫魔の気配か！\\C[1]」
+> CONTEXT: Map062/events/13/pages/0/7/Dialogue
+\\C[1]「\\C[0]This ... Is there a sign of bad luck!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]しかし、ここには魔物退けの結界が張ってあったはず。
+　まさか、破られたのか？\\C[1]」
+> CONTEXT: Map062/events/13/pages/0/9/Dialogue
+\\C[1]「\\C[0]However, there must have been a barrier to evil demons
+here. No way, was it broken?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…考えている暇はない！
+　一刻も早く\\N[6]を探さないと！\\C[1]」
+> CONTEXT: Map062/events/13/pages/0/12/Dialogue
+\\C[1]「\\C[0]... There is no time to think!
+As soon as possible \\N[6] I have to find out!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+医療に関する専門書が並んでいる。
+> CONTEXT: Map062/events/16/pages/0/7/Dialogue
+> CONTEXT: Map062/events/17/pages/0/7/Dialogue
+Specialized medical treatments are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+検診を行った患者のリストだ。
+比較的新しいページに、何故か\\N[6]の名前が記載されている。
+> CONTEXT: Map062/events/18/pages/0/7/Dialogue
+It is a list of patients who conducted a medical
+examination. On a relatively new page, why? \\N[6] The
+name of that is described.#MTLed
+> END STRING
+
+> BEGIN STRING
+紅茶のカップやお皿などが、綺麗に並べられている。
+> CONTEXT: Map062/events/23/pages/0/7/Dialogue
+> CONTEXT: Map062/events/24/pages/0/7/Dialogue
+A cup of tea and a dish are beautifully arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+箸やスプーン、フォークなどの食器類が数多く入っている。
+> CONTEXT: Map062/events/25/pages/0/7/Dialogue
+There are many tableware such as chopsticks, spoons, forks.#MTLed
+> END STRING
+
+> BEGIN STRING
+過去の患者のカルテなどが、
+きちんと整理されてしまわれている。
+> CONTEXT: Map062/events/26/pages/0/7/Dialogue
+> CONTEXT: Map062/events/27/pages/0/7/Dialogue
+Patients in the past, It has been properly sorted out.#MTLed
+> END STRING
+
+> BEGIN STRING
+予備のナース服などが、ハンガーにかけられている。
+> CONTEXT: Map062/events/28/pages/1/7/Dialogue
+> CONTEXT: Map062/events/29/pages/1/7/Dialogue
+Extra nurse clothes etc are hung on the hanger.#MTLed
+> END STRING
+
+> BEGIN STRING
+鎮痛剤や飲み薬などがしまわれている。
+> CONTEXT: Map062/events/30/pages/0/7/Dialogue
+> CONTEXT: Map062/events/31/pages/0/7/Dialogue
+Painkillers and drinking medicines are stolen.#MTLed
+> END STRING

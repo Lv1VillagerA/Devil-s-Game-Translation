@@ -1,0 +1,310 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自警団詰め所
+> CONTEXT: Map120/display_name/
+Vigilante group closing place#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ…やはり槍や剣では淫魔に通用しない。
+　これからは、性技の時代かもしれんな」
+> CONTEXT: Map120/events/4/pages/0/6/Dialogue
+「Hmm ... I can not pass it as a spear or sword.
+From now on, it may be the era of gender」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら結界の中で安全だといっても、
+　行商人たちの護衛も引き受けねばならん」
+> CONTEXT: Map120/events/4/pages/0/9/Dialogue
+「No matter how hard it is safe in the barrier,
+We must also undertake the escorts of the peddlers」#MTLed
+> END STRING
+
+> BEGIN STRING
+「我々自警団はここ最近の淫魔の被害で、
+　人手だけでなく必要な物資の確保もままならない状況だ」
+> CONTEXT: Map120/events/4/pages/0/12/Dialogue
+「The vigilante group is the damage of the bad luck here
+recently, It is a situation that not only manpower but also
+necessary supplies can be secured」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうだ？　君たちも自警団に入ってくれないか？
+　もし持っているなら、
+　必要な物資を売ってくれるだけでも良い」
+> CONTEXT: Map120/events/4/pages/0/15/Dialogue
+「How is it? Will you also join the vigilante?
+If you have it, Even just to sell the necessary supplies」#MTLed
+> END STRING
+
+> BEGIN STRING
+「このところずっと、あっちもこっちも淫魔…淫魔ってね。
+　もう寝る暇もないぐらい大忙しだよ」
+> CONTEXT: Map120/events/5/pages/0/6/Dialogue
+> CONTEXT: Map120/events/5/pages/1/6/Dialogue
+「For a long time, there are lucky mums ... this is a demon.
+I'm already busy with no time to go to bed」#MTLed
+> END STRING
+
+> BEGIN STRING
+「数年前とは比べ物にならないぐらいの被害報告で、
+　殆どの団員が宿舎に帰れない状況さ」
+> CONTEXT: Map120/events/5/pages/0/9/Dialogue
+> CONTEXT: Map120/events/5/pages/1/9/Dialogue
+「With damage reports that can not compare with several
+years ago, The situation that most members can not return
+to the dormitory」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうそう、被害報告で思い出したけど、
+　今一番新しいのが東の大森林で、
+　明らかに格上の淫魔を目撃したって話だよ」
+> CONTEXT: Map120/events/5/pages/0/12/Dialogue
+> CONTEXT: Map120/events/5/pages/1/12/Dialogue
+「Although I remembered with the damage report,
+The newest thing is the big forest in the east,
+It's obviously witnessing a supernatural devil」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]その話、
+　もう少し詳しく聞かせてもらえないか？\\C[1]」
+> CONTEXT: Map120/events/5/pages/0/17/Dialogue
+\\C[1]「\\C[0]That story, Can you tell me more in detail?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あっ…あぁ、別に機密でもないし、
+　構わないよ」
+> CONTEXT: Map120/events/5/pages/0/21/Dialogue
+「Ah ... Oh, it's not confidential, That's ok」#MTLed
+> END STRING
+
+> BEGIN STRING
+「襲われたのは大森林の入り口付近で、
+　キャンプを張っていた、ある奴隷商人の集団だ」
+> CONTEXT: Map120/events/5/pages/0/24/Dialogue
+「It was attacked near the entrance of the large forest,
+It is a group of slave merchants who have kept camping」#MTLed
+> END STRING
+
+> BEGIN STRING
+「襲ってきたの白ではなく褐色の肌をした、
+　エルフの淫魔らしい」
+> CONTEXT: Map120/events/5/pages/0/27/Dialogue
+「I attacked but did not brown but brown skin,
+It seems to be an elf's bastard」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それで、その情報を話してくれた人は？\\C[29]」
+> CONTEXT: Map120/events/5/pages/0/31/Dialogue
+\\C[29]「\\C[0]So, who talked about that information?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…そいつなら死んだよ。
+　何でも襲われてからここまで逃げて来る間、
+　呪いのせいでずっと精を漏らし続けていたらしい」
+> CONTEXT: Map120/events/5/pages/0/33/Dialogue
+「Ah ... That guy is dead. While everything was attacked,
+while escaping to here, It seems that the curse has
+continued to leak learning forever」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わざわざ奴隷商人の中で仮面の男を一人だけ逃し、
+　情報を話し終わったら、即枯れ果てるような呪いなんて。
+　…念のいったことだよ」
+> CONTEXT: Map120/events/5/pages/0/37/Dialogue
+「expressly Missing only a man of a mask in a slave
+merchant, When you finish talking about information, you
+curse like a dead end. ... It was just in case」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どうやら、行くしかない…か。
+　だが、故郷には帰り辛いんだろう？
+　\\N[6]まで、無理に付き合う必要はないぞ？\\C[1]」
+> CONTEXT: Map120/events/5/pages/0/42/Dialogue
+\\C[1]「\\C[0]Apparently, I have no choice but to go ...?
+But, is not it hard to return home? In case \\N[6]
+There is no need to forcibly accompany you?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ううん！　私も行くよ！
+　何より\\N[1]だけじゃ、
+　エルフの結界は越えられないしね！\\C[29]」
+> CONTEXT: Map120/events/5/pages/0/46/Dialogue
+\\C[29]「\\C[0]No! I will also go! More than anything \\N[1] Just
+then, Elf's barrier can not be exceeded!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もし大森林に向かうとしたら、準備は万全にすることだ。
+　命あっての物種と言うしね」
+> CONTEXT: Map120/events/5/pages/1/16/Dialogue
+「If you are going to a large forest, prepare thoroughly.
+I say it's a living thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろん自警団も動かざるをえないが、
+　何しろ人手も物資もカツカツでね。
+　部隊をまとめるだけでも、数日がかりだよ」
+> CONTEXT: Map120/events/5/pages/1/19/Dialogue
+「Of course, the vigilante group can not help moving,
+Both manpower and goods are in short supply.
+Even just putting up troops, it takes a few days」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうか…そんなことが、…本当にご苦労だったね。
+　本当は僕たち自警団が動かなきゃ、
+　駄目だったんだけど」
+> CONTEXT: Map120/events/5/pages/2/6/Dialogue
+「That's right ... such a thing ... It was really hard work.
+In truth, our vigilante group must work.
+I was wrong.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あっ…そうだ。これは隊長から、
+　もし君たち褐色の淫魔を倒すことが出来たら、
+　渡してやってくれと、頼まれてたんだ」
+> CONTEXT: Map120/events/5/pages/2/10/Dialogue
+「Oh ... that's right. This is from the captain,
+If you could beat the brown obsidian, I was being asked to
+give it to you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ええっ！　こんなに！\\C[29]」
+> CONTEXT: Map120/events/5/pages/2/31/Dialogue
+\\C[29]「\\C[0]What! So much!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あははっ、報酬に関しては君たちが気にすることはないよ」
+> CONTEXT: Map120/events/5/pages/2/33/Dialogue
+「Haha, you do not care about reward」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こっちは魔貨はあっても、
+　淫魔を相手に命がけで戦おうとする団員は、
+　本当に少ないんだ」
+> CONTEXT: Map120/events/5/pages/2/35/Dialogue
+「Even though there is witchcraft, Members who are trying
+to fight by losing their opponents against ulcer,
+It's really small.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どれだけ報酬を増やしても…ね。
+　だから気にせず受け取ってよ。
+　それじゃ、今回の件は本当にありがとうね」
+> CONTEXT: Map120/events/5/pages/2/39/Dialogue
+「Regardless of how much compensation you have ....
+So do not worry about it. Well then, thanks a lot for this
+issue」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今回の件、本当に感謝してるよ。
+　無理だと思うけどもし気が向いたら、
+　二人とも自警団に入ってくれると嬉しいな」
+> CONTEXT: Map120/events/5/pages/3/6/Dialogue
+「I really appreciate the matter this time.
+I think it is impossible, but if I feel like it,
+Both are happy when they enter the vigilante」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃ、気をつけて旅を続けるんだよ」
+> CONTEXT: Map120/events/5/pages/3/10/Dialogue
+「Well then, be careful and continue your journey」#MTLed
+> END STRING
+
+> BEGIN STRING
+「自警団の活動目的は、
+　主に町の治安維持が殆どなんだけど」
+> CONTEXT: Map120/events/6/pages/0/6/Dialogue
+「The purpose of the vigilant group '. Mainly to maintain
+the security of the town mostly」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最近は結界のすぐ近くまで、
+　淫魔が現れるからね」
+> CONTEXT: Map120/events/6/pages/0/9/Dialogue
+「Recently it is close to the barrier, Because a bad man
+appears」#MTLed
+> END STRING
+
+> BEGIN STRING
+「下手をすると旅人や商人が、
+　町に入れない状況になるから、
+　いやぁまぁ…連日てんてこ舞いだよ」
+> CONTEXT: Map120/events/6/pages/0/12/Dialogue
+「If you do something wrong, travelers and merchants,
+Because it will be a situation you can not enter the town,
+Well ... well, every day」#MTLed
+> END STRING
+
+> BEGIN STRING
+ＨポーションやＭポーションの空瓶が並んでいる。
+> CONTEXT: Map120/events/9/pages/0/6/Dialogue
+> CONTEXT: Map120/events/10/pages/0/6/Dialogue
+There are empty bottles of H potion and M potion.#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔との戦いについての本が多数並んでいる。
+> CONTEXT: Map120/events/11/pages/0/6/Dialogue
+> CONTEXT: Map120/events/12/pages/0/6/Dialogue
+Many books on the battle against losers are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+食器類が乱雑に積み重ねられている。
+> CONTEXT: Map120/events/13/pages/0/6/Dialogue
+> CONTEXT: Map120/events/14/pages/0/6/Dialogue
+Dishes are stacked randomly.#MTLed
+> END STRING
+
+> BEGIN STRING
+塩コショウなどの調味料がしまわれている。
+> CONTEXT: Map120/events/15/pages/0/6/Dialogue
+Seasonings such as salt and pepper are stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+しなびかけた野菜が数多く入っている。
+> CONTEXT: Map120/events/16/pages/0/6/Dialogue
+Many vegetables shriveled are included.#MTLed
+> END STRING
+
+> BEGIN STRING
+立派な全身鎧が埃をかぶっている。
+> CONTEXT: Map120/events/17/pages/0/6/Dialogue
+> CONTEXT: Map120/events/18/pages/0/6/Dialogue
+A wonderful whole body armor is wearing dust.#MTLed
+> END STRING
+
+> BEGIN STRING
+数多くの槍が埃をかぶっている。
+> CONTEXT: Map120/events/19/pages/0/6/Dialogue
+> CONTEXT: Map120/events/20/pages/0/6/Dialogue
+Numerous spears are wearing dust.#MTLed
+> END STRING
+
+> BEGIN STRING
+支給品の弓が埃をかぶっている。
+> CONTEXT: Map120/events/21/pages/0/6/Dialogue
+The bow of the supply is wearing dust.#MTLed
+> END STRING

@@ -1,0 +1,85 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+船室
+> CONTEXT: Map174/display_name/
+cabin#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はぁ…やっぱりあの場所に近づいてるから、
+　こんな気持ちになっちゃうんだろうなぁ\\C[29]」
+> CONTEXT: Map174/events/1/pages/0/13/Dialogue
+\\C[29]「\\C[0]Huh ... after all I am approaching that place,
+I wonder if it makes me feel like this\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+過去を思い出す
+> CONTEXT: Map174/events/1/pages/0/16/Choice/0
+Recollect the past#MTLed
+> END STRING
+
+> BEGIN STRING
+過去イベントスキップ
+> CONTEXT: Map174/events/1/pages/0/16/Choice/1
+Past Event Skip#MTLed
+> END STRING
+
+> BEGIN STRING
+当時村でもっとも年若かった私は、
+いつも他のエルフたちに苛められてばかりだった。
+> CONTEXT: Map174/events/1/pages/0/26/Dialogue
+I was the youngest in the village at that time,
+It was always been tormented by other elves.#MTLed
+> END STRING
+
+> BEGIN STRING
+今思えば誕生日祝いに両親が買い与えてくれた一冊の本、
+人間の英雄とエルフの姫の物語が原因だったのだろう。
+> CONTEXT: Map174/events/1/pages/0/29/Dialogue
+A book that my parents bought for my birthday celebration
+now thinking, The story of the human hero and Elven
+Princess probably was the cause.#MTLed
+> END STRING
+
+> BEGIN STRING
+人間嫌いで有名な村のエルフたちにとっては、
+それが好ましく映らなかったのかもしれない。
+> CONTEXT: Map174/events/1/pages/0/33/Dialogue
+For elves who are famous for human dislikes,
+It may not have been reflected favorably.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから父と母が流行病で亡くなり、
+苛めを止める存在が消えた以上、
+私がエルフの村を飛び出すのは、もはや当然だった。
+> CONTEXT: Map174/events/1/pages/0/36/Dialogue
+So my father and mother died of epidemics,
+As the existence stopping bashing disappeared,
+It was no doubt that I jumped out of the elven village.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]でも今は、\\N[1]が一緒にいてくれる。
+　もうあの時とは違うんだから！\\C[29]」
+> CONTEXT: Map174/events/1/pages/1/12/Dialogue
+\\C[29]「\\C[0]But now, \\N[1] It is with us.
+It is different from that time!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]、いるか？
+　そろそろ次の大陸に着くらしいから、
+　船を降りる準備をしてくれってさ\\C[1]」
+> CONTEXT: Map174/events/1/pages/1/16/Dialogue
+\\C[1]「\\C[0]\\N[6] Is it? It seems that it will arrive at the
+next continent soon, Prepare to get off the boat\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はいはーい！
+　今準備するから、ちょっと待っててねー！\\C[29]」
+> CONTEXT: Map174/events/1/pages/1/21/Dialogue
+\\C[29]「\\C[0]Yes! I will prepare it now, wait a moment!\\C[29]」#MTLed
+> END STRING

@@ -1,0 +1,1435 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+白衣
+> CONTEXT: Weapons/1/name/
+White coat#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+10 攻+0 防+5 道+15 抵+5 行+5 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/1/description/
+Fine +0 +10 +0 + + 5 + + 15 + 5 + 5 + + 0. 20% to prevent
+it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+清潔な寝間着
+> CONTEXT: Weapons/2/name/
+Clean nightdress#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+10 攻+5 防+5 道+0 抵+0 行+5 運+5
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/2/description/
+Fine + 40 + 10 + 5 + + 5 + 0 + 0 + 5 Luck + 5. 20% to
+prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+地味な服
+> CONTEXT: Weapons/3/name/
+Plain clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+60 理+10 攻+10 防+10 道+0 抵+10 行+10 運+10
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/3/description/
+Precision +60 +10 attack + 10 + 10 + + 0 + 10 + 10 + 10. 
+Prevent charm by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+麻の服
+> CONTEXT: Weapons/4/name/
+Hemp clothing#MTLed
+> END STRING
+
+> BEGIN STRING
+精+0 理+40 攻+10 防+15 道+5 抵+10 行+10 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/4/description/
+Fine +0 +40 attack +10 + 15 +5 +10 lines + 10 luck + 0. 20%
+to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+奴隷の服
+> CONTEXT: Weapons/5/name/
+Slave clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+50 理+20 攻+0 防+30 道+15 抵+25 行+10 運+5
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/5/description/
+Precision +50 +20 attack + 0 + 30 + + 15 + 25 lines + 10
+luck + 5. 20% to prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+山賊の服
+> CONTEXT: Weapons/6/name/
+Bandit clothing#MTLed
+> END STRING
+
+> BEGIN STRING
+精+100 理+20 攻+35 防+15 道+5 抵+5 行+15 運+0
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/6/description/
+Precision +100 +20 attack +35 + 15 +5 +5 lines + 15 luck +0
+. Prevent charm by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+水夫の服
+> CONTEXT: Weapons/7/name/
+Sailor's clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+60 理+25 攻+10 防+30 道+10 抵+30 行+20 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/7/description/
+Precision +60 +25 attack + 10 + 30 + 10 + 30 lines + 20
+luck + 0. 20% to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+海賊の服
+> CONTEXT: Weapons/8/name/
+Pirate clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+120 理+0 攻+40 防+10 道+10 抵+0 行+30 運+10
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/8/description/
+Fine +120 +0 attack + 40 + 10 + 10 + 0 line + 30 luck +10. 
+20% to prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+執事の服
+> CONTEXT: Weapons/9/name/
+Butler's clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+80 理+30 攻+15 防+35 道+50 抵+35 行+15 運+0
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/9/description/
+Precision +80 + 30 + 15 + +35 + + + + + + + + + + + + + + +
++ + + + + + + + + + + + + + + + + + +. Prevent charm by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+警備員の服
+> CONTEXT: Weapons/10/name/
+Security guard clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+60 理+40 攻+40 防+10 道+30 抵+20 行+20 運+20
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/10/description/
+Precision +60 + 40 + 40 + + 10 + + 30 + 20 + 20 + 20. 40%
+to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+弓兵の服
+> CONTEXT: Weapons/11/name/
+Army clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+100 理+40 攻+30 防+20 道+60 抵+50 行+40 運+20
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/11/description/
+Precision +100 +40 attack + 30 + 20 + 60 + 50 lines + 40
+luck +20. 40% to prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+熊の着ぐるみ
+> CONTEXT: Weapons/12/name/
+Bear's costume#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+40 攻+60 防+60 道+20 抵+10 行+20 運+30
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/12/description/
+Fine +200 +40 attack +60 + 60 + 20 + 10 lines + 20 luck +30
+. Attract attractiveness by 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+司祭の衣
+> CONTEXT: Weapons/13/name/
+Priest's clothing#MTLed
+> END STRING
+
+> BEGIN STRING
+精+215 理+50 攻+20 防+50 道+50 抵+25 行+50 運+30
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/13/description/
+Fine + 215 +50 attack + 20 + + 50 + 50 + 25 lines + 50 luck
++30. 40% to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+聖者の衣
+> CONTEXT: Weapons/14/name/
+Saint clothing#MTLed
+> END STRING
+
+> BEGIN STRING
+精+180 理+110 攻+50 防+50 道+50 抵+50 行+25 運+20
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/14/description/
+Fine + 180 + 110 +50 + + 50 + 50 + 50 + 25 + +20. 40% to
+prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+忍の黒装束
+> CONTEXT: Weapons/15/name/
+Shinobi 's Black Chest#MTLed
+> END STRING
+
+> BEGIN STRING
+精+270 理+100 攻+65 防+25 道+60 抵+55 行+65 運+35
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/15/description/
+Precision +270 +100 attack +65 +25 road +60 resistance +55
+rows +65 luck +35. Attract attractiveness by 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+執事長の服
+> CONTEXT: Weapons/16/name/
+Clothing of the dean#MTLed
+> END STRING
+
+> BEGIN STRING
+精+130 理+135 攻+55 防+60 道+60 抵+60 行+60 運+35
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/16/description/
+Fine +130 +135 attack + 55 + 60 + 60 + 60 lines + 60 luck
++35. 40% to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+ナース服
+> CONTEXT: Weapons/17/name/
+Nurse clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+0 防+5 道+15 抵+5 行+0 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/17/description/
+Fine + 20 + 10 + 0 + + 5 + 15 + 5 + 0 Luck + 0. 20% to
+prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+ネグリジェ
+> CONTEXT: Weapons/18/name/
+Negligee#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+5 防+0 道+0 抵+0 行+5 運+15
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/18/description/
+Fine + 20 +10 attack + 5 + 0 + 0 + 0 line + 5 luck +15. 20%
+to prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+葉っぱの水着
+> CONTEXT: Weapons/19/name/
+Leaf swimwear#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+0 攻+20 防+0 道+10 抵+0 行+20 運+10
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/19/description/
+Fine + 40 +0 attack + 20 + 0 + 10 + 0 line + 20 luck +10. 
+Prevent charm by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+蔦の服
+> CONTEXT: Weapons/20/name/
+Ivy clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+40 攻+0 防+10 道+10 抵+0 行+5 運+15
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/20/description/
+Fine + 40 + 40 + 0 + +10 + 10 + 0 + 5 + +15. 20% to prevent
+it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+囚人の服
+> CONTEXT: Weapons/21/name/
+Prisoner's clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+15 攻+10 防+10 道+35 抵+10 行+15 運+10
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/21/description/
+Fine + 40 + 15 + 10 + 10 + +35 + 10 + 15 Luck +10. 20% to
+prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+破れた布きれ
+> CONTEXT: Weapons/22/name/
+Torn cloth finish#MTLed
+> END STRING
+
+> BEGIN STRING
+精+90 理+20 攻+15 防+5 道+25 抵+5 行+15 運+10
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/22/description/
+Fine +90 +20 attacks + 15 + + 5 +5 +5 lines + 15 luck +10. 
+Prevent charm by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+スライムの粘液
+> CONTEXT: Weapons/23/name/
+Slime's mucus#MTLed
+> END STRING
+
+> BEGIN STRING
+精+60 理+25 攻+40 防+10 道+20 抵+10 行+20 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/23/description/
+Precision +60 +25 attack + 40 + +10 + 20 + 10 lines + 20
+luck + 0. 20% to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+セーラー服
+> CONTEXT: Weapons/24/name/
+Sailor suit#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+40 攻+0 防+30 道+10 抵+30 行+10 運+15
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/24/description/
+Fine + 20 + 40 + 0 + 30 + 10 + 30 lines + 10 luck +15. 20%
+to prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+令嬢の服
+> CONTEXT: Weapons/25/name/
+Daughter's clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+100 理+20 攻+15 防+35 道+35 抵+35 行+30 運+0
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/25/description/
+Precision +100 +20 attack + 15 +35 road +35 +35 lines + 30
+luck + 0. Prevent charm by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドの服
+> CONTEXT: Weapons/26/name/
+Maid clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+160 理+0 攻+0 防+30 道+30 抵+0 行+50 運+20
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/26/description/
+\\}Fine + 160 +0 attack + + + 30 + + 30 + 0 + + + + + + + + +
++ + + + + + + + + + + + + + + + + + + + + + + +. 40% to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｄエルフの服
+> CONTEXT: Weapons/27/name/
+D elf clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+40 攻+60 防+10 道+50 抵+10 行+60 運+30
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/27/description/
+Fine +200 +40 attack +60 + +10 + + 50 + 10 lines + 60 luck
++30. 40% to prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+ハイエルフの服
+> CONTEXT: Weapons/28/name/
+High-elf clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+50 理+100 攻+10 防+60 道+60 抵+30 行+30 運+15
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/28/description/
+Precision +50 + 100 attack +10 + 60 + 60 + + 30 lines + 30
+luck +15. Attract attractiveness by 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+修道士の衣
+> CONTEXT: Weapons/29/name/
+Cloth of a monk#MTLed
+> END STRING
+
+> BEGIN STRING
+精+100 理+100 攻+20 防+60 道+35 抵+55 行+35 運+30
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/29/description/
+Precision +100 + 100 attack + 20 + 60 + + 35 +55 lines +35
+luck +30. 40% to prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+天使の衣
+> CONTEXT: Weapons/30/name/
+Angel's clothing#MTLed
+> END STRING
+
+> BEGIN STRING
+精+115 理+110 攻+0 防+45 道+60 抵+55 行+60 運+30
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/30/description/
+Precision +115 +110 + 0 + +45 + 60 + +55 + 60 + + 30. 40%
+to prevent boneless boning#MTLed
+> END STRING
+
+> BEGIN STRING
+くノ一の装束
+> CONTEXT: Weapons/31/name/
+Kunoichi's Costume#MTLed
+> END STRING
+
+> BEGIN STRING
+精+270 理+100 攻+65 防+60 道+60 抵+60 行+65 運+0
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/31/description/
+Fine +270 +100 attack +65 + 60 + 60 + 60 lines +65 luck + 0
+. Attract attractiveness by 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド長の服
+> CONTEXT: Weapons/32/name/
+Maid's length clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+100 理+95 攻+60 防+60 道+60 抵+60 行+60 運+35
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/32/description/
+Fine + 100 + +50 + 60 + 60 + 60 + 60 + 60 + + 35. 40% to
+prevent it seems to hurt#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着
+> CONTEXT: Weapons/41/name/
+Arriving in training#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+5 防+5 道+5 抵+5 行+5 運+5
+幸運+10% 戦闘終了後の拾得魔貨が１０％上昇する
+> CONTEXT: Weapons/41/description/
+\\}Fine + 20 + 10 + 5 + 5 + 5 + 5 + 5 Luck + 5. Fortune + 10% The found
+winning curse after the end of battle rises by 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+1
+> CONTEXT: Weapons/42/name/
+Dress wearing +1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+20 攻+10 防+10 道+10 抵+10 行+10 運+10
+幸運+10% 戦闘終了後のＳＰが１０％上昇する
+> CONTEXT: Weapons/42/description/
+Fine + 40 + 20 + 10 + 10 + 10 + 10 + 10 Luck +10. Good luck
++ 10% SP after battle end will rise by 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+2
+> CONTEXT: Weapons/43/name/
+Dress wearing + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+80 理+30 攻+15 防+15 道+15 抵+15 行+15 運+15
+幸運+10% 戦闘終了後のＳＰが１０％上昇する
+> CONTEXT: Weapons/43/description/
+Precision +80 + 30 + 15 + + 15 + 15 + 15 + 15 + 15. Good
+luck + 10% SP after battle end will rise by 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+3
+> CONTEXT: Weapons/44/name/
+Dress wearing +3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+120 理+45 攻+20 防+20 道+20 抵+20 行+20 運+15
+幸運+20% 戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Weapons/44/description/
+Fine +120 +45 attack + 20 + 20 + 20 + 20 lines + 20 luck
++15. Forty + 20% SP after battle end will rise by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+4
+> CONTEXT: Weapons/45/name/
+Dress wearing + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+30 防+30 道+30 抵+30 行+30 運+20
+幸運+20% 戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Weapons/45/description/
+Fine + 160 + 60 + 30 + 30 + 30 + 30 + 30 + + 20. Forty +
+20% SP after battle end will rise by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+5
+> CONTEXT: Weapons/46/name/
+Dress wearing + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+40 防+40 道+40 抵+40 行+40 運+25
+幸運+20% 戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Weapons/46/description/
+Fine +200 +80 attack + 40 + 40 + 40 + 40 lines + 40 luck
++25. Forty + 20% SP after battle end will rise by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+6
+> CONTEXT: Weapons/47/name/
+Dress wearing +6#MTLed
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+50 防+50 道+50 抵+50 行+50 運+30
+幸運+30% 戦闘終了後のＳＰが３０％上昇する
+> CONTEXT: Weapons/47/description/
+Fine +240 + 100 attack + 50 + 50 + 50 + 50 lines + 50 luck
++30. Good luck + 30% SP after battle end will rise 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+7
+> CONTEXT: Weapons/48/name/
+Dress wearing +7#MTLed
+> END STRING
+
+> BEGIN STRING
+精+280 理+120 攻+60 防+60 道+60 抵+60 行+60 運+35
+幸運+30% 戦闘終了後のＳＰが３０％上昇する
+> CONTEXT: Weapons/48/description/
+Fine + 280 + 120 + 60 + 60 + 60 + 60 + 60 + +35. Good luck
++ 30% SP after battle end will rise 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+修行着+8
+> CONTEXT: Weapons/49/name/
+Arrive at training + 8#MTLed
+> END STRING
+
+> BEGIN STRING
+精+320 理+140 攻+70 防+70 道+70 抵+70 行+70 運+40
+幸運+30% 戦闘終了後のＳＰが３０％上昇する
+> CONTEXT: Weapons/49/description/
+Fine +320 + 140 attack + 70 + 70 + 70 + 70 lines + 70 luck
++ 40. Good luck + 30% SP after battle end will rise 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服
+> CONTEXT: Weapons/51/name/
+Traveler's clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+56 理+28 攻+8 防+8 道+8 抵+8 行+8 運+8
+休息+10% 戦闘終了後に精力と理性が１０％回復する
+> CONTEXT: Weapons/51/description/
+> CONTEXT: Weapons/131/description/
+Fine + 56 + 28 + 8 + + 8 + +8 + 8 + 8 + + 8. Rest + 10%
+Energy and reason will recover by 10% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服+1
+> CONTEXT: Weapons/52/name/
+Traveler's clothing + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+140 理+60 攻+10 防+10 道+10 抵+10 行+10 運+10
+休息+10% 戦闘終了後に精力と理性が１０％回復する
+> CONTEXT: Weapons/52/description/
+> CONTEXT: Weapons/132/description/
+\\}Fine + 140 + 60 + 10 + 10 + 10 + 10 + 10 Luck +10. Rest + 10% Energy and
+reason will recover by 10% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服+2
+> CONTEXT: Weapons/53/name/
+Traveler clothes + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+180 理+75 攻+15 防+15 道+15 抵+15 行+15 運+10
+休息+10% 戦闘終了後に精力と理性が１０％回復する
+> CONTEXT: Weapons/53/description/
+> CONTEXT: Weapons/133/description/
+\\}Precision + 180 +75 attack + 15 + 15 + 15 + 15 lines + 15 luck +10
+Rest + 10% Energy and reason will recover by 10% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服+3
+> CONTEXT: Weapons/54/name/
+Traveler's clothing + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+220 理+90 攻+25 防+25 道+25 抵+25 行+25 運+15
+休息+20% 戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Weapons/54/description/
+> CONTEXT: Weapons/134/description/
+\\}Precision +220 +90 attack +25 +25 road +25 resistance +25 line +25 luck +15
+Rest + 20% Energy and reason will recover by 20% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服+4
+> CONTEXT: Weapons/55/name/
+Traveler's clothing + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+300 理+130 攻+30 防+30 道+30 抵+30 行+30 運+25
+休息+20% 戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Weapons/55/description/
+> CONTEXT: Weapons/135/description/
+\\}Fine +300 +130 attack + 30 + 30 + 30 + 30 lines + 30 luck +25
+Rest + 20% Energy and reason will recover by 20% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服+5
+> CONTEXT: Weapons/56/name/
+Traveler's clothes + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+340 理+150 攻+40 防+40 道+40 抵+40 行+40 運+30
+休息+20% 戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Weapons/56/description/
+> CONTEXT: Weapons/136/description/
+\\}Precision +340 +150 attack + 40 + 40 + 40 + 40 lines + 40 luck +30
+Rest + 20% Energy and reason will recover by 20% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服+6
+> CONTEXT: Weapons/57/name/
+Traveler's clothing + 6#MTLed
+> END STRING
+
+> BEGIN STRING
+精+440 理+200 攻+45 防+45 道+45 抵+45 行+45 運+30
+休息+30% 戦闘終了後に精力と理性が３０％回復する
+> CONTEXT: Weapons/57/description/
+> CONTEXT: Weapons/137/description/
+\\}Precision +440 +200 +45 prevention +45 road +45 resistance +45 line +45 luck +30
+Rest + 30% Energy and reason will recover by 30% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人の服+7
+> CONTEXT: Weapons/58/name/
+Traveler's clothes + 7#MTLed
+> END STRING
+
+> BEGIN STRING
+精+480 理+220 攻+55 防+55 道+55 抵+55 行+55 運+35
+休息+30% 戦闘終了後に精力と理性が３０％回復する
+> CONTEXT: Weapons/58/description/
+> CONTEXT: Weapons/138/description/
+\\}Fine +480 + 220 attack + 55 + 55 +55 +55 lines + 55 luck +35
+Rest + 30% Energy and reason will recover by 30% after battle is over#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者の服
+> CONTEXT: Weapons/61/name/
+Adventurer's Garb#lvl1
+> END STRING
+
+> BEGIN STRING
+精+60 理+20 攻+10 防+10 道+10 抵+10 行+35 運+35
+警戒+10% 戦闘開始時に１０％で先手を取る
+> CONTEXT: Weapons/61/description/
+> CONTEXT: Weapons/141/description/
+Precision +60 +20 attack + 10 + 10 + 10 + 10 + 35 luck +35..
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者の服+1
+> CONTEXT: Weapons/62/name/
+Adventurer clothes +1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+80 理+25 攻+15 防+15 道+15 抵+15 行+40 運+35
+警戒+10% 戦闘開始時に１０％で先手を取る
+> CONTEXT: Weapons/62/description/
+> CONTEXT: Weapons/142/description/
+Fine + 80 + 25 + 15 + + 15 + + 15 + + 40 + + 35. Watch +
+10% take battle at 10% at start of battle#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者の服+2
+> CONTEXT: Weapons/63/name/
+Adventurer clothes + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+120 理+40 攻+20 防+20 道+20 抵+20 行+60 運+50
+警戒+10% 戦闘開始時に１０％で先手を取る
+> CONTEXT: Weapons/63/description/
+> CONTEXT: Weapons/143/description/
+Fine +120 +40 attack +20 + +20 way +20 +20 lines + 60 luck
++50. Watch + 10% take battle at 10% at start of battle#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者の服+3
+> CONTEXT: Weapons/64/name/
+Adventurer clothes + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+140 理+60 攻+30 防+30 道+30 抵+30 行+70 運+60
+警戒+20% 戦闘開始時に２０％で先手を取る
+> CONTEXT: Weapons/64/description/
+> CONTEXT: Weapons/144/description/
+Fine + 140 + 60 + 30 + 30 + 30 + 30 + 70 + + 60. Alert +
+20% Battle takes 20% at battle start#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者の服+4
+> CONTEXT: Weapons/65/name/
+Adventurer clothes + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+180 理+60 攻+35 防+35 道+35 抵+35 行+100 運+85
+警戒+20% 戦闘開始時に２０％で先手を取る
+> CONTEXT: Weapons/65/description/
+> CONTEXT: Weapons/145/description/
+Precision + 180 + 60 + 35 + +35 + +35 + 35 + 100 + + 85. 
+Alert + 20% Battle takes 20% at battle start#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者の服+5
+> CONTEXT: Weapons/66/name/
+Adventurer clothes + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+45 防+45 道+45 抵+45 行+110 運+85
+警戒+30% 戦闘開始時に３０％で先手を取る
+> CONTEXT: Weapons/66/description/
+> CONTEXT: Weapons/146/description/
+Fine +200 +80 attack +45 +45 road +45 resistance +45 line
++110 luck +85. Alert + 30% Begins at 30% at start of battle#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者の服+6
+> CONTEXT: Weapons/67/name/
+Adventurer clothes + 6#MTLed
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+50 防+50 道+50 抵+50 行+120 運+110
+警戒+30% 戦闘開始時に３０％で先手を取る
+> CONTEXT: Weapons/67/description/
+> CONTEXT: Weapons/147/description/
+Fine +240 + 100 attack + 50 + 50 + 50 + 50 lines + 120 luck
++ 110. Alert + 30% Begins at 30% at start of battle#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士の服
+> CONTEXT: Weapons/71/name/
+Warrior clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+100 理+35 攻+35 防+35 道+15 抵+15 行+15 運+10
+忍耐+10% 精力が０以下になったとき１０％で耐える
+> CONTEXT: Weapons/71/description/
+> CONTEXT: Weapons/151/description/
+\\}Precision +100 +35 attack +35 + +35 + 15 + 15 lines + 15 luck +10
+Patience + 10% Endurance with 10% when vigor becomes 0 or less#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士の服+1
+> CONTEXT: Weapons/72/name/
+Warrior clothes +1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+120 理+50 攻+49 防+49 道+24 抵+24 行+24 運+15
+忍耐+10% 精力が０以下になったとき１０％で耐える
+> CONTEXT: Weapons/72/description/
+> CONTEXT: Weapons/152/description/
+\\}Precision +120 +50 attack +49 +49 road +24 resistance +24 rows +24 luck +15
+Patience + 10% Endurance with 10% when vigor becomes 0 or less#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士の服+2
+> CONTEXT: Weapons/73/name/
+Warrior clothes + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+68 防+68 道+30 抵+30 行+30 運+19
+忍耐+20% 精力が０以下になったとき２０％で耐える
+> CONTEXT: Weapons/73/description/
+> CONTEXT: Weapons/153/description/
+\\}Precision + 160 + 60 + 68 + +68 + + 30 + 30 + 30 + + + 19
+Patience + 20% Endurance with 20% when energetic becomes below 0#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士の服+3
+> CONTEXT: Weapons/74/name/
+Warrior clothes + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+180 理+70 攻+85 防+85 道+40 抵+40 行+40 運+20
+忍耐+20% 精力が０以下になったとき２０％で耐える
+> CONTEXT: Weapons/74/description/
+> CONTEXT: Weapons/154/description/
+\\}Precision + 180 +70 attacks + 85 + + 85 + + 40 + 40 + 40 + + 20
+Patience + 20% Endurance with 20% when energetic becomes below 0#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士の服+4
+> CONTEXT: Weapons/75/name/
+Warrior clothes + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+220 理+90 攻+103 防+103 道+45 抵+45 行+45 運+24
+忍耐+30% 精力が０以下になったとき３０％で耐える
+> CONTEXT: Weapons/75/description/
+> CONTEXT: Weapons/155/description/
+\\}Fine +220 +90 attack + 103 + +103 + 45 + +45 lines +45 luck +24
+Patience + 30% Endurance at 30% when energetic becomes below 0#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士の服+5
+> CONTEXT: Weapons/76/name/
+Warrior clothes + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+125 防+125 道+50 抵+50 行+50 運+30
+忍耐+30% 精力が０以下になったとき３０％で耐える
+> CONTEXT: Weapons/76/description/
+> CONTEXT: Weapons/156/description/
+\\}Fine +240 + 100 attacks + 125 + + 125 + 50 + 50 lines + 50 luck +30
+Patience + 30% Endurance at 30% when energetic becomes below 0#MTLed
+> END STRING
+
+> BEGIN STRING
+貴族の服
+> CONTEXT: Weapons/81/name/
+Noble clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+120 理+40 攻+25 防+25 道+50 抵+50 行+25 運+15
+探索+10% ダンジョンでの拾得品が１０％の確立で１増加する
+> CONTEXT: Weapons/81/description/
+> CONTEXT: Weapons/161/description/
+\\}Precision +120 +40 attack +25 +25 road +50 resistance +50 line +25 luck +15
+Discovery + found items in 10% dungeon will increase by 1 with 10% establishment#MTLed
+> END STRING
+
+> BEGIN STRING
+貴族の服+1
+> CONTEXT: Weapons/82/name/
+Aristocratic clothing + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+30 防+30 道+63 抵+63 行+30 運+19
+探索+10% ダンジョンでの拾得品が１０％の確立で１増加する
+> CONTEXT: Weapons/82/description/
+> CONTEXT: Weapons/162/description/
+\\}Precision + 160 + 60 + 30 + 30 + 63 + 63 lines + 30 luck +19
+Discovery + found items in 10% dungeon will increase by 1 with 10% establishment#MTLed
+> END STRING
+
+> BEGIN STRING
+貴族の服+2
+> CONTEXT: Weapons/83/name/
+Aristocratic clothing + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+180 理+80 攻+40 防+40 道+70 抵+70 行+40 運+25
+探索+20% ダンジョンでの拾得品が２０％の確立で１増加する
+> CONTEXT: Weapons/83/description/
+> CONTEXT: Weapons/163/description/
+\\}Precision + 180 + 80 attack + 40 + 40 + 70 + 70 + 40 + + 25
+Discovery + 20% pickup items at dungeon will increase by 1 with 20% establishment#MTLed
+> END STRING
+
+> BEGIN STRING
+貴族の服+3
+> CONTEXT: Weapons/84/name/
+Aristocratic clothing + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+220 理+80 攻+45 防+45 道+100 抵+100 行+45 運+25
+探索+20% ダンジョンでの拾得品が２０％の確立で１増加する
+> CONTEXT: Weapons/84/description/
+> CONTEXT: Weapons/164/description/
+\\}Fine +220 +80 attacks +45 prevention +45 way + 100 levels +100 lines +45 luck +25
+Discovery + 20% pickup items at dungeon will increase by 1 with 20% establishment#MTLed
+> END STRING
+
+> BEGIN STRING
+貴族の服+4
+> CONTEXT: Weapons/85/name/
+Aristocratic clothing + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+54 防+54 道+119 抵+119 行+54 運+30
+探索+30% ダンジョンでの拾得品が３０％の確立で１増加する
+> CONTEXT: Weapons/85/description/
+> CONTEXT: Weapons/165/description/
+\\}Fine +240 + 100 attacks + 54 + + 54 + +119 +119 + 55 + + 30
+Discovery + 30% pickup items at dungeon will increase by 1 at 30% establishment#MTLed
+> END STRING
+
+> BEGIN STRING
+勇者の服
+> CONTEXT: Weapons/91/name/
+Brave's clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+320 理+60 攻+30 防+30 道+30 抵+30 行+30 運+55
+追撃+10% １０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/91/description/
+> CONTEXT: Weapons/171/description/
+\\}Fine +320 +60 attack +30 + 30 + 30 + 30 lines + 30 luck +55
+Pursuit + 10% 10% and Hit number is incremented by 1 on attack#MTLed
+> END STRING
+
+> BEGIN STRING
+勇者の服+1
+> CONTEXT: Weapons/92/name/
+Brave clothes + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+400 理+70 攻+37 防+37 道+37 抵+37 行+37 運+70
+追撃+10% １０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/92/description/
+> CONTEXT: Weapons/172/description/
+\\}Fine +400 +70 attacks +37 prevention +37 way +37 resistance +37 lines +37 luck +70
+Pursuit + 10% 10% and Hit number is incremented by 1 on attack#MTLed
+> END STRING
+
+> BEGIN STRING
+勇者の服+2
+> CONTEXT: Weapons/93/name/
+Brave clothes + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+460 理+80 攻+45 防+45 道+45 抵+45 行+50 運+80
+追撃+20% ２０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/93/description/
+> CONTEXT: Weapons/173/description/
+\\}Fine +460 +80 attack +45 +45 road +45 resistance +45 line + 50 luck +80
+Pursuit + 20% 20% and Hit number is incremented by 1 on attack#MTLed
+> END STRING
+
+> BEGIN STRING
+勇者の服+3
+> CONTEXT: Weapons/94/name/
+Brave clothes + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+560 理+100 攻+50 防+50 道+50 抵+50 行+50 運+100
+追撃+30% ３０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/94/description/
+> CONTEXT: Weapons/174/description/
+\\}Precision +560 + 100 attack + 50 + 50 + 50 + 50 lines + 50 luck +100
+Pursuit + 30% 30% and Hit number is incremented by 1 on attack#MTLed
+> END STRING
+
+> BEGIN STRING
+光の衣
+> CONTEXT: Weapons/101/name/
+Clothes of light#MTLed
+> END STRING
+
+> BEGIN STRING
+精+180 理+160 攻+40 防+40 道+40 抵+80 行+40 運+25
+平常心+10% １０％でキャンセルを無効化する
+> CONTEXT: Weapons/101/description/
+> CONTEXT: Weapons/181/description/
+Fine + 180 +160 + 40 + + 40 + + 40 + 80 + 40 + + 25. 
+Disable cancellation with normal heart + 10% 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+光の衣+1
+> CONTEXT: Weapons/102/name/
+Light clothing + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+200 攻+45 防+45 道+45 抵+100 行+45 運+25
+平常心+20% ２０％でキャンセルを無効化する
+> CONTEXT: Weapons/102/description/
+> CONTEXT: Weapons/182/description/
+\\}Precision +200 +200 attack +45 prevention +45 way +45
+resistance + 100 line +45 luck +25. Disable cancellation with normal heart + 20% 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+光の衣+2
+> CONTEXT: Weapons/103/name/
+Light clothing + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+240 理+220 攻+55 防+55 道+55 抵+110 行+55 運+30
+平常心+30% ３０％でキャンセルを無効化する
+> CONTEXT: Weapons/103/description/
+> CONTEXT: Weapons/183/description/
+Precision +240 + 220 attack + 55 + 55 +55 +110 lines +55
+luck +30. Disable cancellation with normal heart + 30% 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+狩人の服
+> CONTEXT: Weapons/111/name/
+Hunter's clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+110 防+45 道+45 抵+45 行+110 運+20
+性感+10% １０％でクリティカルヒットになる
+> CONTEXT: Weapons/111/description/
+> CONTEXT: Weapons/191/description/
+\\}Precision +200 +80 attack + 110 prevention +45 way +45
+resistance +45 line +110 luck +20. Sexual sensation + 10% 10% makes it a critical hit#MTLed
+> END STRING
+
+> BEGIN STRING
+狩人の服+1
+> CONTEXT: Weapons/112/name/
+Hunter's clothing + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+120 防+55 道+55 抵+55 行+120 運+25
+性感+30% ３０％でクリティカルヒットになる
+> CONTEXT: Weapons/112/description/
+> CONTEXT: Weapons/192/description/
+Fine +240 + 100 attacks + 120 + +55 +55 +55 lines + 120
+luck +25. Sexual sensation + 30% 30% to be a critical hit#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ
+> CONTEXT: Weapons/121/name/
+Old robe#MTLed
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+5 防+5 道+5 抵+5 行+5 運+5
+幸運+10% 戦闘終了後の収得ＳＰが１０％上昇する
+> CONTEXT: Weapons/121/description/
+Fine + 20 + 10 + 5 + 5 + 5 + 5 + 5 Luck + 5. Good luck +
+10% Acquisition SP after battle end will rise by 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+1
+> CONTEXT: Weapons/122/name/
+Old robe + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+精+40 理+20 攻+10 防+10 道+10 抵+10 行+10 運+10
+幸運+10% 戦闘終了後の収得ＳＰが１０％上昇する
+> CONTEXT: Weapons/122/description/
+Fine + 40 + 20 + 10 + 10 + 10 + 10 + 10 Luck +10. Good luck
++ 10% Acquisition SP after battle end will rise by 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+2
+> CONTEXT: Weapons/123/name/
+Old robe + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+精+80 理+30 攻+15 防+15 道+15 抵+15 行+15 運+15
+幸運+10% 戦闘終了後の収得ＳＰが１０％上昇する
+> CONTEXT: Weapons/123/description/
+Precision +80 + 30 + 15 + + 15 + 15 + 15 + 15 + 15. Good
+luck + 10% Acquisition SP after battle end will rise by 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+3
+> CONTEXT: Weapons/124/name/
+Old robe + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+精+120 理+45 攻+20 防+20 道+20 抵+20 行+20 運+15
+幸運+20% 戦闘終了後の収得ＳＰが２０％上昇する
+> CONTEXT: Weapons/124/description/
+\\}Fine +120 +45 attack + 20 + 20 + 20 + 20 lines + 20 luck +15
+Forty + 20% Acquired SP after battle end will rise by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+4
+> CONTEXT: Weapons/125/name/
+Old robe + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+30 防+30 道+30 抵+30 行+30 運+20
+幸運+20% 戦闘終了後の収得ＳＰが２０％上昇する
+> CONTEXT: Weapons/125/description/
+Fine + 160 + 60 + 30 + 30 + 30 + 30 + 30 + + 20. Forty +
+20% Acquired SP after battle end will rise by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+5
+> CONTEXT: Weapons/126/name/
+Old robe + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+40 防+40 道+40 抵+40 行+40 運+25
+幸運+20% 戦闘終了後の収得ＳＰが２０％上昇する
+> CONTEXT: Weapons/126/description/
+\\}Fine +200 +80 attack + 40 + 40 + 40 + 40 lines + 40 luck +25
+Forty + 20% Acquired SP after battle end will rise by 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+6
+> CONTEXT: Weapons/127/name/
+Old robe + 6#MTLed
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+50 防+50 道+50 抵+50 行+50 運+30
+幸運+30% 戦闘終了後の収得ＳＰが３０％上昇する
+> CONTEXT: Weapons/127/description/
+\\}Fine +240 + 100 attack + 50 + 50 + 50 + 50 lines + 50 luck +30
+Good luck + 30% Acquisition SP after battle end rises by 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+7
+> CONTEXT: Weapons/128/name/
+Old robe + 7#MTLed
+> END STRING
+
+> BEGIN STRING
+精+280 理+120 攻+60 防+60 道+60 抵+60 行+60 運+35
+幸運+30% 戦闘終了後の収得ＳＰが３０％上昇する
+> CONTEXT: Weapons/128/description/
+Fine + 280 + 120 + 60 + 60 + 60 + 60 + 60 + +35. Good luck
++ 30% Acquisition SP after battle end rises by 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+古びたローブ+8
+> CONTEXT: Weapons/129/name/
+Old robe + 8#MTLed
+> END STRING
+
+> BEGIN STRING
+精+320 理+140 攻+70 防+70 道+70 抵+70 行+70 運+40
+幸運+30% 戦闘終了後の収得ＳＰが３０％上昇する
+> CONTEXT: Weapons/129/description/
+\\}Fine +320 + 140 attack + 70 + 70 + 70 + 70 lines + 70 luck + 40
+Good luck + 30% Acquisition SP after battle end rises by 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ
+> CONTEXT: Weapons/131/name/
+The traveler's robe#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+1
+> CONTEXT: Weapons/132/name/
+Traveler's robe + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+2
+> CONTEXT: Weapons/133/name/
+Traveler's robe + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+3
+> CONTEXT: Weapons/134/name/
+Traveler's robe + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+4
+> CONTEXT: Weapons/135/name/
+Traveler's robe + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+5
+> CONTEXT: Weapons/136/name/
+Traveler's robe + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+6
+> CONTEXT: Weapons/137/name/
+Traveler's robe + 6#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+7
+> CONTEXT: Weapons/138/name/
+Traveler's robe + 7#MTLed
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ
+> CONTEXT: Weapons/141/name/
+Assassin's robe#MTLed
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+1
+> CONTEXT: Weapons/142/name/
+Assassin's robe + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+2
+> CONTEXT: Weapons/143/name/
+Assassin's robe + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+3
+> CONTEXT: Weapons/144/name/
+Assassin's robe + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+4
+> CONTEXT: Weapons/145/name/
+Assassin's robe + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+5
+> CONTEXT: Weapons/146/name/
+Assassin's robe + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+6
+> CONTEXT: Weapons/147/name/
+Assassin's robe + 6#MTLed
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ
+> CONTEXT: Weapons/151/name/
+Magician robe#MTLed
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+1
+> CONTEXT: Weapons/152/name/
+Magicians robe + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+2
+> CONTEXT: Weapons/153/name/
+Magician's robe + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+3
+> CONTEXT: Weapons/154/name/
+Magicians robe + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+4
+> CONTEXT: Weapons/155/name/
+Magicians robe + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+5
+> CONTEXT: Weapons/156/name/
+Magician's robe + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス
+> CONTEXT: Weapons/161/name/
+Ball dress#MTLed
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+1
+> CONTEXT: Weapons/162/name/
+Ball dress + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+2
+> CONTEXT: Weapons/163/name/
+Ball dress + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+3
+> CONTEXT: Weapons/164/name/
+Ball dress + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+4
+> CONTEXT: Weapons/165/name/
+Ball dress + 4#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女のローブ
+> CONTEXT: Weapons/171/name/
+Witch's robe#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女のローブ+1
+> CONTEXT: Weapons/172/name/
+Witch's robe + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女のローブ+2
+> CONTEXT: Weapons/173/name/
+Witch's robe + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女のローブ+3
+> CONTEXT: Weapons/174/name/
+Witch's robe + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+賢者のローブ
+> CONTEXT: Weapons/181/name/
+Sage's robe#MTLed
+> END STRING
+
+> BEGIN STRING
+賢者のローブ+1
+> CONTEXT: Weapons/182/name/
+Magi's robe + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+賢者のローブ+2
+> CONTEXT: Weapons/183/name/
+Magi's robe + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+淫女王のローブ
+> CONTEXT: Weapons/191/name/
+Rob of the Lady King#MTLed
+> END STRING
+
+> BEGIN STRING
+淫女王のローブ+1
+> CONTEXT: Weapons/192/name/
+Rob of King of Lady + 1#MTLed
+> END STRING

@@ -1,0 +1,156 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+娼館
+> CONTEXT: Map098/display_name/
+Hall#MTLed
+> END STRING
+
+> BEGIN STRING
+「アタシも元は娼婦として、
+　男に貢いでもらってたんだけどね」
+> CONTEXT: Map098/events/4/pages/0/7/Dialogue
+「As for the original as a prostitute, I was being drawn by
+a man」#MTLed
+> END STRING
+
+> BEGIN STRING
+「炭鉱が封鎖されてからは、
+　殆ど見向きもされなくなったのよ」
+> CONTEXT: Map098/events/4/pages/0/10/Dialogue
+「Since the coal mines were blocked, You almost stopped
+looking at me」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おかげで今はしがない受付嬢…だけど…そうね。
+　たまに船乗りの人に貢いでもらうのがせいぜいだわ」
+> CONTEXT: Map098/events/4/pages/0/13/Dialogue
+「Thanks to that, I have no choice but to accept ... But
+that's right. Sometimes it is at best to be a contributor
+to a sailor」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やっぱり魔法の発達は良し悪しよね。
+　おかげでこの娼館は潰れはしないものの、
+　年々お客さんは減る一方よ」
+> CONTEXT: Map098/events/5/pages/0/7/Dialogue
+「After all the development of magic is good or bad.
+Thanks to this, although this hall is not collapsed,
+The number of customers decreases year by year」#MTLed
+> END STRING
+
+> BEGIN STRING
+「せめて、当時娼館一番人気のあの娘がいれば、
+　違ったかもしれないけど」
+> CONTEXT: Map098/events/5/pages/0/11/Dialogue
+「At least, if there is that girl most popular at the time,
+It may be different.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも、もう十年以上前に店に来た船乗りの男に、
+　熱烈なアプローチを受けて、
+　その日のうちに身請けされちゃったのよね」
+> CONTEXT: Map098/events/5/pages/0/14/Dialogue
+「But to a sailor who came to the store more than ten years
+ago, Following an enthusiastic approach,
+I was asked for it on the same day」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…私も、一度で良いから、
+　燃えるような恋がしてみたいわ」
+> CONTEXT: Map098/events/5/pages/0/19/Dialogue
+「Oh ... I am good at once, I want to try burning love」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おっ…お客さんですか！
+　まさに、すっ…数ヶ月ぶりのお客さんですか！」
+> CONTEXT: Map098/events/6/pages/0/8/Dialogue
+「Whoa, are you a customer? Exactly, Sum ... is the first
+guest in a few months!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今娼婦が出払っておりまして、
+　もうしばらくすれば帰って来ますので、
+　それまでどうかお待ちを…」
+> CONTEXT: Map098/events/6/pages/0/11/Dialogue
+「Now a prostitute has been dispatched, Since I will be
+back in awhile, Please wait until then ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうですね…もう一時間…いや、
+　一日…一ヶ月…一年…そのぐらい待っていただけば、
+　たっ…多分」
+> CONTEXT: Map098/events/6/pages/0/15/Dialogue
+「Well ... one more hour ... No, One day ... One month ...
+One year ... If you wait for that much, Well ... maybe」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっ申し訳ございません。
+　炭鉱が開かれていた頃には、
+　娼婦も引く手あまたでしたが…今はご覧の有様で」
+> CONTEXT: Map098/events/6/pages/0/21/Dialogue
+「I'm sorry. By the time the coal mine was open,
+A prostitute also attracted a draw ... but now it is the
+viewing experience」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今まで働いてくれていた娼婦たちも、
+　他店に売りに出さなければ…とてもとても」
+> CONTEXT: Map098/events/6/pages/0/25/Dialogue
+「The prostitutes who had worked until now,
+I have to put it for sale to another shop ... very very」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうですか？　そこのエルフのお嬢さんなら、
+　娼婦としてたちまち人気になれますよ？」
+> CONTEXT: Map098/events/6/pages/0/29/Dialogue
+「how is it?If there is a elder lady there,
+You can quickly become popular as a prostitute?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「エルフの純白の肌と美しい容姿！
+　未発達なカラダは…まぁその手の方に！
+　ナンバーワン娼婦として我が店の経営も軌道に…！」
+> CONTEXT: Map098/events/6/pages/0/32/Dialogue
+「Pure white skin and beautiful appearance of elves!
+The underdeveloped body is ... well ... for those hands!
+Management of our shop as a number one prostitute in orbit
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]むぅ～…！　お断りするよ！\\C[29]」
+> CONTEXT: Map098/events/6/pages/0/36/Dialogue
+\\C[29]「\\C[0]Muu ~ ...!I will refuse!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ、そうですか。それは残念です。
+　やはり…最近流行りの山賊プレイで、一山当てるしか！」
+> CONTEXT: Map098/events/6/pages/0/38/Dialogue
+「Is that so?It is a pity. Again ... Recently, it's a
+fashionable bandit play, only to hit a mountain!」#MTLed
+> END STRING
+
+> BEGIN STRING
+扉には鍵がかかっている。
+> CONTEXT: Map098/events/7/pages/0/7/Dialogue
+> CONTEXT: Map098/events/8/pages/0/7/Dialogue
+There is a lock on the door.#MTLed
+> END STRING
+
+> BEGIN STRING
+観葉植物がきちんと手入れされている。
+> CONTEXT: Map098/events/9/pages/1/7/Dialogue
+The foliage plants are properly maintained.#MTLed
+> END STRING

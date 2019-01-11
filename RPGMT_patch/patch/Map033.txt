@@ -1,0 +1,16 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+廃坑　奥
+> CONTEXT: Map033/display_name/
+Inside the abandonment#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]前よりいっそう、
+　甘ったるい空気がたちこめているな。
+　これは気を引き締めないとマズイか\\C[1]」
+> CONTEXT: Map033/events/4/pages/0/7/Dialogue
+\\C[1]「\\C[0]More than before,
+You have sweet air. Does this mean that you are
+not tightening your mind\\C[1]」#MTLed
+> END STRING

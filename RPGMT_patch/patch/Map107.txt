@@ -1,0 +1,61 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふぅ…これは年のせいかねぇ。
+　このところ、朝の寒さがやけに堪えるよ」
+> CONTEXT: Map107/events/4/pages/0/6/Dialogue
+「Fuu ... This is not the year it is. The coldness of the
+morning has been going to be bad for a while」#MTLed
+> END STRING
+
+> BEGIN STRING
+「かと言って、家の中にずっといるわけにもいかないし、
+　困ったものだね」
+> CONTEXT: Map107/events/4/pages/0/9/Dialogue
+「However, it can not stay in the house all the time,
+You are in trouble」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うーん…この本も、
+　そしてあの本も…もう読んじゃったしなぁ」
+> CONTEXT: Map107/events/5/pages/0/6/Dialogue
+「Well ... this book, too, And that book ... I already read
+it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何処かに僕がまだ読んでなくて、
+　怖い本はないのかなー？」
+> CONTEXT: Map107/events/5/pages/0/9/Dialogue
+「Somewhere I have not read yet, Is not there a scary book?」#MTLed
+> END STRING
+
+> BEGIN STRING
+怪談や伝記など、オドロオドロしい本が並んでいる。
+> CONTEXT: Map107/events/6/pages/0/6/Dialogue
+Books such as ghost stories and biographies are on sale.#MTLed
+> END STRING
+
+> BEGIN STRING
+良くわからない道具などが雑多にしまわれている。
+> CONTEXT: Map107/events/7/pages/1/6/Dialogue
+Tools that I do not know well are miscellaneous.#MTLed
+> END STRING
+
+> BEGIN STRING
+防寒性の高い服がしまわれている。
+> CONTEXT: Map107/events/8/pages/0/6/Dialogue
+> CONTEXT: Map107/events/9/pages/0/6/Dialogue
+> CONTEXT: Map109/events/8/pages/0/6/Dialogue
+> CONTEXT: Map109/events/9/pages/0/6/Dialogue
+Clothes with high cold weather are being torn down.#MTLed
+> END STRING
+
+> BEGIN STRING
+料理器具などが綺麗に並べられている。
+> CONTEXT: Map107/events/12/pages/0/6/Dialogue
+> CONTEXT: Map107/events/13/pages/0/6/Dialogue
+> CONTEXT: Map109/events/11/pages/0/6/Dialogue
+> CONTEXT: Map109/events/12/pages/0/6/Dialogue
+Cooking equipment etc are beautifully lined up.#MTLed
+> END STRING

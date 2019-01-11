@@ -1,0 +1,112 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「あーぁ…オイラもカード欲しいなぁ」
+> CONTEXT: Map205/events/22/pages/0/6/Dialogue
+> CONTEXT: Map061/events/22/pages/0/6/Dialogue
+「Oh ... I want a card also for Eira」#MTLed
+> END STRING
+
+> BEGIN STRING
+「外から遊びに来る友達、皆持ってるんだぜ？
+　オイラも欲しいよ」
+> CONTEXT: Map205/events/22/pages/0/8/Dialogue
+> CONTEXT: Map061/events/22/pages/0/8/Dialogue
+「Friends coming to play from the outside, everyone has it?
+I also want Eira」#MTLed
+> END STRING
+
+> BEGIN STRING
+「人気ないのでも良いから、
+　誰か譲ってくれないかなぁ」
+> CONTEXT: Map205/events/22/pages/0/11/Dialogue
+> CONTEXT: Map061/events/22/pages/0/11/Dialogue
+「Because it is good even if it is not popular,
+I wonder if someone will hand it over」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うーん…妻のメイド姿はそそるが、
+　いい加減マンネリ気味なんだよな」
+> CONTEXT: Map205/events/23/pages/0/6/Dialogue
+> CONTEXT: Map205/events/23/pages/1/6/Dialogue
+> CONTEXT: Map061/events/23/pages/0/6/Dialogue
+> CONTEXT: Map061/events/23/pages/1/6/Dialogue
+「Well ... my wife's maid figure is piercing,
+I'm afraid I'm feeling downright mannered」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そういえば…この間検診を受けに行った時に、
+　診療所で見たナースは可愛かったなぁ」
+> CONTEXT: Map205/events/23/pages/0/9/Dialogue
+> CONTEXT: Map205/events/23/pages/1/9/Dialogue
+> CONTEXT: Map061/events/23/pages/0/9/Dialogue
+> CONTEXT: Map061/events/23/pages/1/9/Dialogue
+「Speaking of which ... When I went to receive a medical
+examination during this time, The nurse I saw in the clinic
+was cute」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ…妻と大人のお医者さんごっこ……アリだな！」
+> CONTEXT: Map205/events/23/pages/0/12/Dialogue
+> CONTEXT: Map061/events/23/pages/0/12/Dialogue
+「Hmm ... my dad and wife and adult doctor ... ... Ali!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「っていかんいかん！
+　今は畑仕事に精を出さなければ！」
+> CONTEXT: Map205/events/23/pages/0/14/Dialogue
+> CONTEXT: Map205/events/23/pages/1/15/Dialogue
+> CONTEXT: Map061/events/23/pages/0/14/Dialogue
+> CONTEXT: Map061/events/23/pages/1/15/Dialogue
+「I do not care! Now I have to pay attention to farm work!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ…妻と大人のお医者さんごっこ。
+　さらにオプションとして淫魔化プレイ……アリだな！」
+> CONTEXT: Map205/events/23/pages/1/12/Dialogue
+> CONTEXT: Map061/events/23/pages/1/12/Dialogue
+「Hmm ... I play a wife and adult doctor.
+As an option, it is an enemy play ... ... Ali!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おっと\\N[1]じゃないか。
+　山奥の村にようこそ…って、今さら言うことでもないか」
+> CONTEXT: Map205/events/24/pages/0/6/Dialogue
+> CONTEXT: Map061/events/24/pages/0/6/Dialogue
+「Oops \\N[1] is not it. Welcome to the village in the
+mountains ... Is not it what you say now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最近新しい魔物…淫魔が現れたとか、
+　そういう噂もあるけど、
+　この村はいつも通り平和そのものだよ」
+> CONTEXT: Map205/events/24/pages/0/9/Dialogue
+> CONTEXT: Map061/events/24/pages/0/9/Dialogue
+「Recently new demons ... Demons have appeared,
+There are also such rumors, As usual this village is peace
+itself」#MTLed
+> END STRING
+
+> BEGIN STRING
+「冒険者ギルドで依頼を受けるなり、
+　教会でお祈りをするなり、
+　\\N[1]の自由に行動すると良いよ」
+> CONTEXT: Map205/events/24/pages/0/13/Dialogue
+> CONTEXT: Map061/events/24/pages/0/13/Dialogue
+「When you receive a request in the adventurer guild,
+As we pray at the church, In case \\N[1] It is good to
+act freely」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかしこうも暇だと……あくびが…ふあぁ～」
+> CONTEXT: Map205/events/24/pages/0/17/Dialogue
+> CONTEXT: Map061/events/24/pages/0/17/Dialogue
+「But if this is too bad ... ... Yawn ... Fufa ~」#MTLed
+> END STRING

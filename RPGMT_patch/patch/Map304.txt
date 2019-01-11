@@ -1,0 +1,564 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「淫魔娼婦館にようこそ！
+　ちなみにEscで前選択に戻ったり終了するよ」
+> CONTEXT: Map304/events/3/pages/0/13/Dialogue
+> CONTEXT: Map304/events/3/pages/0/155/Dialogue
+「Welcome to the whirlpool! By the way Esc go back to the
+previous selection and exit」#MTLed
+> END STRING
+
+> BEGIN STRING
+脱衣の切り替え
+> CONTEXT: Map304/events/3/pages/0/16/Choice/0
+> CONTEXT: Map304/events/14/pages/0/16/Choice/0
+Switching to undressing#MTLed
+> END STRING
+
+> BEGIN STRING
+表情の切り替え
+> CONTEXT: Map304/events/3/pages/0/16/Choice/1
+> CONTEXT: Map304/events/14/pages/0/16/Choice/1
+Facial expression switching#MTLed
+> END STRING
+
+> BEGIN STRING
+フロアの切り替え
+> CONTEXT: Map304/events/3/pages/0/16/Choice/2
+Switch floor#MTLed
+> END STRING
+
+> BEGIN STRING
+指名回数の初期化
+> CONTEXT: Map304/events/3/pages/0/16/Choice/3
+Initialization of nominations#MTLed
+> END STRING
+
+> BEGIN STRING
+「着たままプレイするか。それとも脱いでプレイするかだね。
+　今は、脱衣コースが選択されてるね
+> CONTEXT: Map304/events/3/pages/0/19/Dialogue
+「Do you play while wearing it? Or is it to take off and
+play? Now, the undressing course is selected#MTLed
+> END STRING
+
+> BEGIN STRING
+着衣コースを選択する
+> CONTEXT: Map304/events/3/pages/0/22/Choice/0
+> CONTEXT: Map304/events/3/pages/0/43/Choice/0
+Select clothes course#MTLed
+> END STRING
+
+> BEGIN STRING
+脱衣コースを選択する
+> CONTEXT: Map304/events/3/pages/0/22/Choice/1
+> CONTEXT: Map304/events/3/pages/0/43/Choice/1
+Select dressing course#MTLed
+> END STRING
+
+> BEGIN STRING
+変えない
+> CONTEXT: Map304/events/3/pages/0/22/Choice/2
+> CONTEXT: Map304/events/3/pages/0/43/Choice/2
+Do not change#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃ、着衣コースにするね」
+> CONTEXT: Map304/events/3/pages/0/25/Dialogue
+> CONTEXT: Map304/events/3/pages/0/46/Dialogue
+「Well then, I will make it a dressed clothes course」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃ、脱衣コースにするね」
+> CONTEXT: Map304/events/3/pages/0/30/Dialogue
+> CONTEXT: Map304/events/3/pages/0/51/Dialogue
+「Well then, I will make it a undressing course」#MTLed
+> END STRING
+
+> BEGIN STRING
+「了解。変更しないんだね」
+> CONTEXT: Map304/events/3/pages/0/34/Dialogue
+> CONTEXT: Map304/events/3/pages/0/55/Dialogue
+「Roger that. Do not change it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「着たままプレイするか。それとも脱いでプレイするかだね。
+　今は、着衣コースが選択されてるね
+> CONTEXT: Map304/events/3/pages/0/40/Dialogue
+「Do you play while wearing it? Or is it to take off and
+play? Now, clothing course is selected#MTLed
+> END STRING
+
+> BEGIN STRING
+「プレイ中の表情を変更するよ。
+　三種類があるけどあくまでも呼称で、
+　実際には違って見えるかもだから、好みのを選択してね」
+> CONTEXT: Map304/events/3/pages/0/66/Dialogue
+「I will change the expression while playing.
+There are three kinds, but it is a designation to the last,
+Actually it may seem different, so please choose the one
+you like」#MTLed
+> END STRING
+
+> BEGIN STRING
+普通
+> CONTEXT: Map304/events/3/pages/0/70/Choice/0
+> CONTEXT: Map304/events/14/pages/0/54/Choice/0
+usually#MTLed
+> END STRING
+
+> BEGIN STRING
+喜び
+> CONTEXT: Map304/events/3/pages/0/70/Choice/1
+> CONTEXT: Map304/events/14/pages/0/54/Choice/1
+joy#MTLed
+> END STRING
+
+> BEGIN STRING
+妖艶
+> CONTEXT: Map304/events/3/pages/0/70/Choice/2
+> CONTEXT: Map304/events/14/pages/0/54/Choice/2
+Magical#MTLed
+> END STRING
+
+> BEGIN STRING
+これにする
+> CONTEXT: Map304/events/3/pages/0/70/Choice/3
+To do this#MTLed
+> END STRING
+
+> BEGIN STRING
+「了解だよ。指名する淫魔さんに伝えておくね」
+> CONTEXT: Map304/events/3/pages/0/84/Dialogue
+> CONTEXT: Map304/events/3/pages/0/200/Dialogue
+「I understand. I will tell him I will nominate you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「プレイ中の室内の飾り付けを変更するよ。
+　四種類の中から、好きなのを選んでね」
+> CONTEXT: Map304/events/3/pages/0/97/Dialogue
+> CONTEXT: Map304/events/3/pages/0/102/Dialogue
+「I will change the indoor decorations while playing.
+Please choose whichever you like from among the four types」#MTLed
+> END STRING
+
+> BEGIN STRING
+装飾を変更する
+> CONTEXT: Map304/events/3/pages/0/100/Choice/0
+Change the decoration#MTLed
+> END STRING
+
+> BEGIN STRING
+この装飾にする
+> CONTEXT: Map304/events/3/pages/0/100/Choice/1
+Make this decorative#MTLed
+> END STRING
+
+> BEGIN STRING
+室内
+> CONTEXT: Map304/events/3/pages/0/105/Choice/0
+Indoor#MTLed
+> END STRING
+
+> BEGIN STRING
+遺跡
+> CONTEXT: Map304/events/3/pages/0/105/Choice/1
+Remains#MTLed
+> END STRING
+
+> BEGIN STRING
+森
+> CONTEXT: Map304/events/3/pages/0/105/Choice/2
+Woods#MTLed
+> END STRING
+
+> BEGIN STRING
+装飾なし
+> CONTEXT: Map304/events/3/pages/0/105/Choice/3
+No decorations#MTLed
+> END STRING
+
+> BEGIN STRING
+「了解だよ。室内の装飾を変更しておくね」
+> CONTEXT: Map304/events/3/pages/0/124/Dialogue
+「I understand. I will change the interior decoration.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今まで指名した子を皆、淫界に返しちゃうけど良いかな？
+　ちなみに新しい淫魔娼婦さんは、即補充されるから心配はないよ。
+　いわゆる振り出しに戻るってやつだね」
+> CONTEXT: Map304/events/3/pages/0/134/Dialogue
+> CONTEXT: Map304/events/3/pages/1/13/Dialogue
+「I will return all the children nominated so far to the
+abuse but is it good? By the way, new prostitute prostitute
+is supplemented immediately, so do not worry.
+It's a guy who returns to the so-called launch」#MTLed
+> END STRING
+
+> BEGIN STRING
+指名回数を初期化する
+> CONTEXT: Map304/events/3/pages/0/138/Choice/0
+> CONTEXT: Map304/events/3/pages/1/17/Choice/0
+Initialize nomination number#MTLed
+> END STRING
+
+> BEGIN STRING
+やめておく
+> CONTEXT: Map304/events/3/pages/0/138/Choice/1
+> CONTEXT: Map304/events/3/pages/1/17/Choice/1
+To give up#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃ、退職金はこれこれ…こんな感じで、
+　今までの働きに応じた手当がこれだけで…っと。
+　ふむふむ、補充要員はこんなところかな」
+> CONTEXT: Map304/events/3/pages/0/141/Dialogue
+> CONTEXT: Map304/events/3/pages/1/20/Dialogue
+「Well then, retirement is this ... this kind of feeling,
+Only this is the allowance according to the work we have
+done so far .... , Replacement personnel is like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+「了解だよ。そのままにしておくね」
+> CONTEXT: Map304/events/3/pages/0/147/Dialogue
+> CONTEXT: Map304/events/3/pages/1/26/Dialogue
+「I understand. I will leave it as it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+ＢＧＭの変更
+> CONTEXT: Map304/events/3/pages/0/158/Choice/0
+Change of BGM#MTLed
+> END STRING
+
+> BEGIN STRING
+この施設の説明
+> CONTEXT: Map304/events/3/pages/0/158/Choice/1
+Description of this facility#MTLed
+> END STRING
+
+> BEGIN STRING
+用はない
+> CONTEXT: Map304/events/3/pages/0/158/Choice/2
+> CONTEXT: Map304/events/14/pages/0/16/Choice/2
+> CONTEXT: Map299/events/5/pages/0/39/Choice/3
+> CONTEXT: Map295/events/7/pages/0/13/Choice/3
+> CONTEXT: Map203/events/19/pages/0/14/Choice/2
+> CONTEXT: Map201/events/18/pages/0/14/Choice/2
+> CONTEXT: Map199/events/41/pages/0/14/Choice/2
+> CONTEXT: Map140/events/1/pages/0/21/Choice/3
+> CONTEXT: Map135/events/4/pages/0/9/Choice/2
+> CONTEXT: Map141/events/41/pages/0/14/Choice/2
+> CONTEXT: Map131/events/1/pages/0/21/Choice/3
+> CONTEXT: Map117/events/1/pages/0/21/Choice/3
+> CONTEXT: Map126/events/2/pages/0/12/Choice/3
+> CONTEXT: Map115/events/18/pages/0/14/Choice/2
+> CONTEXT: Map108/events/1/pages/0/21/Choice/3
+> CONTEXT: Map100/events/1/pages/0/21/Choice/3
+> CONTEXT: Map096/events/19/pages/0/14/Choice/2
+> CONTEXT: Map081/events/1/pages/0/21/Choice/3
+> CONTEXT: Map069/events/1/pages/0/21/Choice/3
+> CONTEXT: Map060/events/2/pages/0/12/Choice/3
+> CONTEXT: Map044/events/1/pages/0/21/Choice/3
+> CONTEXT: Map007/events/11/pages/0/12/Choice/3
+> CONTEXT: Commonevents/36/14/Choice/2
+> CONTEXT: Map001/events/10/pages/0/14/Choice/2
+> CONTEXT: Map044/events/9/pages/0/14/Choice/2
+There is no use#MTLed
+> END STRING
+
+> BEGIN STRING
+「室内のＢＧＭを変更出来るよ。
+　三曲と無音の中から選択してね」
+> CONTEXT: Map304/events/3/pages/0/162/Dialogue
+> CONTEXT: Map304/events/3/pages/0/195/Dialogue
+「You can change the indoor background music.
+Choose from three songs and silence」#MTLed
+> END STRING
+
+> BEGIN STRING
+精奴隷
+> CONTEXT: Map304/events/3/pages/0/165/Choice/0
+Slave slave#MTLed
+> END STRING
+
+> BEGIN STRING
+愛奴隷
+> CONTEXT: Map304/events/3/pages/0/165/Choice/1
+Love slave#MTLed
+> END STRING
+
+> BEGIN STRING
+吸精
+> CONTEXT: Map304/events/3/pages/0/165/Choice/2
+Insemination#MTLed
+> END STRING
+
+> BEGIN STRING
+無音
+> CONTEXT: Map304/events/3/pages/0/165/Choice/3
+Silence#MTLed
+> END STRING
+
+> BEGIN STRING
+決定
+> CONTEXT: Map304/events/3/pages/0/198/Choice/0
+> CONTEXT: Map304/events/17/pages/0/26/Choice/3
+Decision#MTLed
+> END STRING
+
+> BEGIN STRING
+別のＢＧＭにする
+> CONTEXT: Map304/events/3/pages/0/198/Choice/1
+> CONTEXT: Map304/events/15/pages/0/267/Choice/0
+Make it another BGM#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここは淫魔娼婦館だよ。
+　人間に対して友好的な淫魔のみを集めて、
+　精を払ってもらう代わりに、気持ち良くしてあげてるの」
+> CONTEXT: Map304/events/3/pages/0/211/Dialogue
+「This is a daughter whorehouse. Collect only those who are
+friendly to humans, Instead of getting paid, I am doing it
+pleasantly」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろん吸い過ぎないように、厳重に言い聞かせてるよ。
+　一般人には本当にちょびっとだけで、
+　ハンターさんにはかなり強めの快感をプレゼントだよ」
+> CONTEXT: Map304/events/3/pages/0/215/Dialogue
+「Of course I'm telling you so hard not to absorb too much.
+To the general public is really just a bit,
+It's a pretty strong gift for Hunter」#MTLed
+> END STRING
+
+> BEGIN STRING
+「元々は他の町で営業したんだけど、
+　ハンター協会にも色々協力したりして、
+　ようやく認められてこの度、ここに二号店を出したんだよ」
+> CONTEXT: Map304/events/3/pages/0/219/Dialogue
+「Originally it opened in other towns, I also cooperated
+with the Hunter Association in various ways,
+I finally got accepted and this time I left the second shop
+here」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁそんな感じでよろしくね。
+　あと同じ淫魔さんに指名するのは、
+　二回までで止めといたほうが良いよ」
+> CONTEXT: Map304/events/3/pages/0/223/Dialogue
+「Well that's what you feel. After that I appoint the same
+__ 魔 -. It's better to stop at twice」#MTLed
+> END STRING
+
+> BEGIN STRING
+「吸い殺す気は全然ないけど、
+　皆が皆、ハンターさんを自分の旦那さんにする気、
+　満々だからだよ」
+> CONTEXT: Map304/events/3/pages/0/227/Dialogue
+「I do not feel like killing him at all, Everyone, everyone
+feels like to make Hunter his own husband,
+Because it is full.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでも良いなら楽しんでいってよね。
+　吸い殺される心配は皆無だし、
+　色々オプションとか変更出来るからね」
+> CONTEXT: Map304/events/3/pages/0/231/Dialogue
+「If it is still good please enjoy it. There is no worry of
+being sucked and killed, You can change various options and
+so on」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃ、また来てよね！」
+> CONTEXT: Map304/events/3/pages/0/242/Dialogue
+「Well then, come back again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ、…今日もまた来てしまった」
+> CONTEXT: Map304/events/11/pages/0/12/Dialogue
+「Oh ... ... I came again today.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「三度目の指名は危険だとわかっていても、
+　私はもう引き返せない」
+> CONTEXT: Map304/events/11/pages/0/14/Dialogue
+「Even though I know that the third nomination is dangerous,
+I can not turn back anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今日はどんな表情や装飾で、
+　堕としてもらおうかなぁ」
+> CONTEXT: Map304/events/11/pages/0/17/Dialogue
+「With what kind of expression and decoration today,
+I wonder if I let it fall down」#MTLed
+> END STRING
+
+> BEGIN STRING
+「指名出来る淫魔は、一度でも絶頂させる。
+　もしくは交渉によりカードを入手することで、
+　増えていくようですよ」
+> CONTEXT: Map304/events/12/pages/0/12/Dialogue
+「Cast a nymph that can be nominated even once.
+Or by obtaining the card through negotiation,
+It seems to be increasing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺も最初はお前のようなハンターだったんだが、
+　淫魔娼婦にハマってしまってな」
+> CONTEXT: Map304/events/13/pages/0/12/Dialogue
+「I was the first hunter like yours, I am addicted to a
+whore prostitute」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もう淫魔と戦うよりも、
+　心地良く射精させられたい。
+　それしか考えられなくされちまったよ」
+> CONTEXT: Map304/events/13/pages/0/15/Dialogue
+「Rather than fighting an evil spirit anymore,
+I want to be ejaculated comfortably. It only came to be
+impossible」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…早く夜にならねえかなぁ。
+　待ってる間も期待しちまって、全然静まらねえ」
+> CONTEXT: Map304/events/13/pages/0/19/Dialogue
+「Ah ... I wonder if it will be at night soon.
+I was expecting while I was waiting, it was not quiet at
+all」#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北後の脱衣と表情を変更します。
+【戦闘部屋に行くと初期化されます】
+> CONTEXT: Map304/events/14/pages/0/13/Dialogue
+I will change undressing and expression after defeat.
+[Initialized when you go to battle room]#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北後の脱衣を変更します。
+【戦闘部屋に行くと初期化されます】
+> CONTEXT: Map304/events/14/pages/0/18/Dialogue
+I will change undressing after defeat. [Initialized when
+you go to battle room]#MTLed
+> END STRING
+
+> BEGIN STRING
+着衣
+> CONTEXT: Map304/events/14/pages/0/21/Choice/0
+Clothing#MTLed
+> END STRING
+
+> BEGIN STRING
+変更しない
+> CONTEXT: Map304/events/14/pages/0/21/Choice/2
+> CONTEXT: Commonevents/36/22/Choice/3
+> CONTEXT: Commonevents/36/46/Choice/3
+> CONTEXT: Commonevents/36/69/Choice/3
+Not going to change#MTLed
+> END STRING
+
+> BEGIN STRING
+現在は着衣です。
+> CONTEXT: Map304/events/14/pages/0/25/Dialogue
+> CONTEXT: Map304/events/14/pages/0/36/Dialogue
+It is clothes now.#MTLed
+> END STRING
+
+> BEGIN STRING
+現在は脱衣です。
+> CONTEXT: Map304/events/14/pages/0/31/Dialogue
+> CONTEXT: Map304/events/14/pages/0/40/Dialogue
+It is undressing now.#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北後の表情を変更します。
+【戦闘部屋に行くと初期化されます】
+> CONTEXT: Map304/events/14/pages/0/51/Dialogue
+I will change the expression after defeat.
+[Initialized when you go to battle room]#MTLed
+> END STRING
+
+> BEGIN STRING
+決定する
+> CONTEXT: Map304/events/14/pages/0/54/Choice/3
+decide#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北ＢＧＭを設定してください。
+０、または５８以上は無音になります。
+> CONTEXT: Map304/events/15/pages/0/8/Dialogue
+Please set defeat BGM. 0, or 58 or more will be silent.#MTLed
+> END STRING
+
+> BEGIN STRING
+このＢＧＭにする
+> CONTEXT: Map304/events/15/pages/0/267/Choice/1
+Make this BGM#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北背景を設定してください。
+０、または２３以上は背景なしになります。
+> CONTEXT: Map304/events/16/pages/0/10/Dialogue
+> CONTEXT: Map304/events/16/pages/0/19/Dialogue
+Please set the defeat background. 0 or 23 or more will be
+without background.#MTLed
+> END STRING
+
+> BEGIN STRING
+別の背景にする
+> CONTEXT: Map304/events/16/pages/0/22/Choice/0
+To make another background#MTLed
+> END STRING
+
+> BEGIN STRING
+この背景にする
+> CONTEXT: Map304/events/16/pages/0/22/Choice/1
+To make this the background#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北後の画面の色を設定してください。
+> CONTEXT: Map304/events/17/pages/0/24/Dialogue
+Please set the color of the screen after defeat.#MTLed
+> END STRING
+
+> BEGIN STRING
+通常
+> CONTEXT: Map304/events/17/pages/0/26/Choice/0
+Normal#MTLed
+> END STRING
+
+> BEGIN STRING
+夜
+> CONTEXT: Map304/events/17/pages/0/26/Choice/1
+Night#MTLed
+> END STRING
+
+> BEGIN STRING
+桃色
+> CONTEXT: Map304/events/17/pages/0/26/Choice/2
+Pink#MTLed
+> END STRING

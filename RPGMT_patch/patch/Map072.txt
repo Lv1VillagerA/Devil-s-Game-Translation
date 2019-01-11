@@ -1,0 +1,36 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+鍵のかかった扉だ。
+防御魔法が何重にもかけられており、
+そう簡単には壊せないようだ。
+> CONTEXT: Map072/events/4/pages/0/9/Dialogue
+It's a locked door. Defensive magic has been applied over
+and over, It seems that it can not be broken so easily.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は古びた鍵を使い、扉を開けた。
+> CONTEXT: Map072/events/4/pages/1/10/Dialogue
+\\N[1] He used the old key and opened the door.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]アニス！　\\N[6]を返してもらうぞ！\\C[1]」
+> CONTEXT: Map072/events/5/pages/0/28/Dialogue
+\\C[1]「\\C[0]anise!In case \\N[6] I will get it back!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あっ…ようやく来たんだ。
+　待ちくたびれたよ～\\C[10]」
+> CONTEXT: Map072/events/5/pages/0/32/Dialogue
+\\C[10]「\\C[0]Ah ... I finally came. I was tired from waiting ~\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ちょっと待ってね。
+　こっちも、もうすぐ終わりそうだから…っと\\I[140]\\C[10]」
+> CONTEXT: Map072/events/5/pages/0/35/Dialogue
+\\C[10]「\\C[0]Wait a moment. Here too, it looks like it will close soon
+... \\I[140]\\C[10]」#MTLed
+> END STRING

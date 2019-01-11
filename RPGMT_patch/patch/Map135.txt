@@ -1,0 +1,348 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+長老の家
+> CONTEXT: Map135/display_name/
+Elder's house#MTLed
+> END STRING
+
+> BEGIN STRING
+「わしに何か、聞きたいことでもあるのかのう？」
+> CONTEXT: Map135/events/4/pages/0/7/Dialogue
+「Is there something I would like to ask?」#MTLed
+> END STRING
+
+> BEGIN STRING
+天使のことを聞く
+> CONTEXT: Map135/events/4/pages/0/9/Choice/0
+Listen to the angel#MTLed
+> END STRING
+
+> BEGIN STRING
+マリーダのことを聞く
+> CONTEXT: Map135/events/4/pages/0/9/Choice/1
+Listen to Marida#MTLed
+> END STRING
+
+> BEGIN STRING
+「少々長くなるがのう。
+　あれは百年…いや、二百年以上昔の話じゃったかな」
+> CONTEXT: Map135/events/4/pages/0/11/Dialogue
+「It will be a little long. That one hundred years ... No,
+I guess it's been more than 200 years ago」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ある日突然外の世界からやって来た存在、
+　淫魔が現れてのう」
+> CONTEXT: Map135/events/4/pages/0/14/Dialogue
+「One day suddenly came from the outside world,
+A lucky man emerged.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「強力な淫魔相手に、
+　人間とエルフ、その他の種族で連合軍を結成し、
+　必死に戦ったのじゃ」
+> CONTEXT: Map135/events/4/pages/0/17/Dialogue
+「As a powerful loser, We formed allied troops with humans
+and elves, and other races, You fought desperately.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし、知っての通り淫魔相手には、
+　あらゆる攻撃は効かぬ。
+　わしら連合軍は次第に追い詰められていったのじゃ」
+> CONTEXT: Map135/events/4/pages/0/21/Dialogue
+「However, as you know, Every attack will not work.
+Was the Allied Forces gradually chased?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わしらはこのどうにもならない状況に絶望し、
+　ただ一心に救いを求め、天使様に祈りを捧げたのじゃ。
+　この世界に生きとし生けるもの、全てがのう」
+> CONTEXT: Map135/events/4/pages/0/25/Dialogue
+「We are desperate for this unavoidable situation,
+Just ask for salvation, and pray to the angel.
+All things living in this world are living」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そしてある日…わしらの必死の祈りが天に通じたのか、
+　まばゆい光を放ち世界中の淫魔たちを浄化しながら、
+　天使ナタリア様が現界されたのじゃ」
+> CONTEXT: Map135/events/4/pages/0/29/Dialogue
+「And one day ... Was our desperate prayers through to
+heaven, While purifying the dazzling lights and purifying
+the worldly fantasies, Angel Lady Natalia has come to the
+scene」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ナタリア様はわしらに淫魔との戦い方を教え、
+　これから淫女王に一対一の戦いを挑むため、
+　結界を張り数日の間絶対に外に出ないようにとな」
+> CONTEXT: Map135/events/4/pages/0/33/Dialogue
+「Lady Natalia taught us how to fight against a fantasy,
+In order to challenge the one-on-one fight against the
+horny king from now on, Stay bounded and never leave
+outside for several days」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それを伝え終わるやいなや、
+　ナタリア様はわしらの前から、
+　こつぜんと姿を消したのじゃ」
+> CONTEXT: Map135/events/4/pages/0/37/Dialogue
+「As soon as I finish telling it, Lady Natalia is in front
+of the shadow, You disappeared in disappointment」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そしてわしらは言いつけ通りに、
+　世界中の人々を一つの大きな町に集め、
+　大掛かりな結界を張ったのじゃ」
+> CONTEXT: Map135/events/4/pages/0/41/Dialogue
+「And as I said, We gather people from all over the world
+in one big city, You made a big boundary」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わしらの避難が完了した直後、
+　結界の外に桃色の淫気が広がり、
+　数日の間は決して消えることはなかったのじゃ」
+> CONTEXT: Map135/events/4/pages/0/45/Dialogue
+「Immediately after our evacuation was completed,
+Pink lusts spread outside of the barrier,
+You never disappeared for a few days」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その後は世界中に広がっておった淫気も、
+　いつの間にか消え、淫女王もナタリア様も、
+　姿も見えずに声も聞こえなくなったというわけじゃ」
+> CONTEXT: Map135/events/4/pages/0/49/Dialogue
+「After that the lusts spread all over the world,
+Before it disappeared, both the virgin king and Lady
+Natalia, You can not see her and you can not hear her voice
+either.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わしが天使ナタリア様について知っていることは、
+　これで全てじゃ。
+　ちなみに人々が集った場所というのが、今の魔法都市じゃ」
+> CONTEXT: Map135/events/4/pages/0/53/Dialogue
+「What I know about the angel Lady Natalia,
+That's it for everything. Incidentally, the place where
+people gathered is the current magic city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうそう、再び現れた淫女王に呼応するかのように、
+　天使ナタリア様のお声を聞いたという者が、
+　このエルフの村でも何人か出ておる」
+> CONTEXT: Map135/events/4/pages/0/57/Dialogue
+「, As if to respond to the revealed Kingdom of Nymphs,
+Those who heard the voice of angel Lady Natalia,
+There are also several people in this elven village」#MTLed
+> END STRING
+
+> BEGIN STRING
+「世界の生きとし生けるものたちの力を、
+　天使様の旗のもとに再び結集し、
+　淫女王と戦う日も近いかもしれぬな」
+> CONTEXT: Map135/events/4/pages/0/61/Dialogue
+「The power of living living things of the world,
+We gathered again under the angel 's flag,
+It may be close to the day when you fight against the King
+of Nymphs」#MTLed
+> END STRING
+
+> BEGIN STRING
+「マリーダか…結果的にじゃが、
+　あの娘には本当に、
+　申し訳ないことをしてしまったのう」
+> CONTEXT: Map135/events/4/pages/0/67/Dialogue
+「Marida? ... As a result, potatoes, To that girl, really,
+I was sorry I did something」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わしらはエルフの村に結界を張った後、
+　急いでマリーダを助けようとしたのじゃがのう」
+> CONTEXT: Map135/events/4/pages/0/71/Dialogue
+「After we set the barrier to the elven village,
+I tried to help Marida in a hurry.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかしその頃は淫魔との戦いが終わったばかり、
+　わしらエルフはかつてない程、
+　数が減っておってのう」
+> CONTEXT: Map135/events/4/pages/0/74/Dialogue
+「But at that time the battle with the bastard had just
+ended, Our primary elves are more than ever,
+The number is decreasing.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そしてマリーダの捕らわれている場所は、
+　かつては連合軍の本拠地でもあり、
+　今は人間たち最大の都…魔法都市じゃ」
+> CONTEXT: Map135/events/4/pages/0/78/Dialogue
+「And where Marida is caught, It was once the home of the
+Allied forces, It is now the largest city of humans ... It
+is a magical city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかも戦いが終結したばかりのため、
+　まだ人間たちの軍隊が丸々残っておったのじゃ」
+> CONTEXT: Map135/events/4/pages/0/82/Dialogue
+「Moreover, as the fight just ended, Human armies still
+remained all round」#MTLed
+> END STRING
+
+> BEGIN STRING
+「元々淫魔という共通の敵がおったからこそ、
+　人間とエルフは異なる種族同士、
+　協力関係を結んでいられたのじゃ」
+> CONTEXT: Map135/events/4/pages/0/85/Dialogue
+「Originally a common enemy called a hatred was born,
+Humans and elves are different races, Have you joined
+forces of cooperation?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もしわしらがマリーダ救出のため、
+　部隊を差し向けたら、
+　最悪人間とエルフの戦争が始まるかもしれぬ」
+> CONTEXT: Map135/events/4/pages/0/89/Dialogue
+「Because of the rescue of Marida, As I sent troops,
+The worst of human beings and elves may start war」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とにかくわしらは警戒厳重な魔法都市に、
+　目立たぬように、そして刺激せぬよう少数で侵入、
+　及び交渉を行い、必死でマリーダの行方を探った」
+> CONTEXT: Map135/events/4/pages/0/93/Dialogue
+「Anyway we are in a magical city that is precautionary,
+In order not to be inconspicuous, invasion with a small
+number so as not to stimulate, And negotiated, desperately
+searching for Marida's whereabouts」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ようやく行方を突き止めたときには、
+　既に遠方の王族に売られた後じゃった」
+> CONTEXT: Map135/events/4/pages/0/97/Dialogue
+「When finally locating the place to go, It has already
+been sold to distant royalty」#MTLed
+> END STRING
+
+> BEGIN STRING
+「わしらはその後もありとあらゆる手を尽くし、
+　行方を探したが、時間がたち過ぎたせいか痕跡は途絶え、
+　結局見つけることは出来なんだ…残念なことにのう」
+> CONTEXT: Map135/events/4/pages/0/100/Dialogue
+「We did everything we can after that, I searched for a
+place but the trace ceased due to time being too long,
+After all it can not be found ... Unfortunately」#MTLed
+> END STRING
+
+> BEGIN STRING
+「マリーダのことを知らぬ若いエルフは、
+　こちらがどれだけ言い聞かせようと、
+　閉ざされた村の外、人間の住む世界に興味を持ってしまう」
+> CONTEXT: Map135/events/4/pages/0/104/Dialogue
+「A young elf who does not know about Marida,
+Whether it tells how this is, Outside of the closed
+village, I get interested in the world where human beings
+live」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう…マリーダのことを知らぬ\\N[6]に、
+　村の者が人間への敵意をぶつけたせいもあるじゃろう。
+　…本当にすまぬことをした」
+> CONTEXT: Map135/events/4/pages/0/108/Dialogue
+「Yes ... I do not know about Marida \\N[6] To
+It may be because someone in the village has hit an enmity
+against humans. ... I was doing something wrong」#MTLed
+> END STRING
+
+> BEGIN STRING
+「じゃが今回のことで、
+　人間の中にも\\N[1]のような優しい心を持った者もおると、
+　村のエルフたちも良くわかったじゃろうて」
+> CONTEXT: Map135/events/4/pages/0/112/Dialogue
+「Potato This time, In humans \\N[1] Some also had a
+gentle heart like, You know well the elves of the village
+well」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[1]たち二人には、感謝してもしきれぬわ。
+　本当にありがたい限りじゃ」
+> CONTEXT: Map135/events/4/pages/0/116/Dialogue
+「\\N[1] I can not thank them for their help.
+As long as I really appreciate it」#MTLed
+> END STRING
+
+> BEGIN STRING
+エルフ独自の自然物で作られた様々な小道具がしまわれている。
+> CONTEXT: Map135/events/5/pages/1/6/Dialogue
+> CONTEXT: Map135/events/6/pages/1/6/Dialogue
+Various props made of elven unique nature are put down.#MTLed
+> END STRING
+
+> BEGIN STRING
+「ずっと昔は人間とエルフは、
+　共に手を取り合っていたというのに、
+　どうしてここまでこじれてしまったのか」
+> CONTEXT: Map135/events/7/pages/0/6/Dialogue
+> CONTEXT: Map135/events/7/pages/1/6/Dialogue
+「Long ago, humans and elves, Although I was holding hands
+together, Why did it get frustrated up to here」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし、こうして今再び淫魔が現れたということは、
+　もはや仲違いをしている場合ではあるまい」
+> CONTEXT: Map135/events/7/pages/0/10/Dialogue
+> CONTEXT: Map135/events/7/pages/1/10/Dialogue
+「However, as a result of this, It is not the case that you
+are no longer making misunderstandings」#MTLed
+> END STRING
+
+> BEGIN STRING
+人間の文字とは違う文字で書かれた本が並んでいる。
+> CONTEXT: Map135/events/8/pages/0/6/Dialogue
+> CONTEXT: Map135/events/9/pages/0/6/Dialogue
+> CONTEXT: Map133/events/8/pages/0/6/Dialogue
+> CONTEXT: Map133/events/9/pages/0/6/Dialogue
+> CONTEXT: Map133/events/12/pages/0/6/Dialogue
+> CONTEXT: Map132/events/8/pages/0/6/Dialogue
+> CONTEXT: Map132/events/9/pages/0/6/Dialogue
+> CONTEXT: Map131/events/15/pages/0/6/Dialogue
+> CONTEXT: Map131/events/16/pages/0/6/Dialogue
+Books written in characters different from human characters
+are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+見たことのない薬品が棚に並んでいる。
+> CONTEXT: Map135/events/12/pages/0/6/Dialogue
+> CONTEXT: Map135/events/13/pages/0/6/Dialogue
+Chemicals that I have not seen are on the shelf.#MTLed
+> END STRING
+
+> BEGIN STRING
+良く手入れされている観葉植物が陽の光を浴びている。
+> CONTEXT: Map135/events/14/pages/0/6/Dialogue
+> CONTEXT: Map135/events/15/pages/0/6/Dialogue
+The well-maintained ornamental plants are bathed in
+sunlight.#MTLed
+> END STRING

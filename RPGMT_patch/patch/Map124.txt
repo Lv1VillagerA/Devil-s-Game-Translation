@@ -1,0 +1,44 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ええと…荷物の確認をっと」
+> CONTEXT: Map124/events/6/pages/0/6/Dialogue
+「Uh ... well, let's check the luggage」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ああっ！　また伝票にズレが出ちまった！
+　いけねえなぁ…昨日の酒が抜けやしねえ」
+> CONTEXT: Map124/events/6/pages/0/8/Dialogue
+「Ahh!Moreover, the gap has come out in the slip!
+I never thought ... yesterday's sake will fall out」#MTLed
+> END STRING
+
+> BEGIN STRING
+医薬品などが詰め込まれている。
+> CONTEXT: Map124/events/9/pages/0/6/Dialogue
+> CONTEXT: Map124/events/10/pages/0/6/Dialogue
+> CONTEXT: Map123/events/12/pages/0/6/Dialogue
+> CONTEXT: Map123/events/13/pages/0/6/Dialogue
+Medicines and so on are packed.#MTLed
+> END STRING
+
+> BEGIN STRING
+木箱の中には、まだ何も入っていない。
+> CONTEXT: Map124/events/11/pages/0/6/Dialogue
+> CONTEXT: Map124/events/12/pages/0/6/Dialogue
+> CONTEXT: Map123/events/14/pages/0/6/Dialogue
+> CONTEXT: Map124/events/13/pages/0/6/Dialogue
+> CONTEXT: Map123/events/15/pages/0/6/Dialogue
+> CONTEXT: Map123/events/16/pages/0/6/Dialogue
+> CONTEXT: Map123/events/17/pages/0/6/Dialogue
+There is nothing in the wooden box yet.#MTLed
+> END STRING
+
+> BEGIN STRING
+丈夫な布製品が丁寧に縛られている。
+> CONTEXT: Map124/events/14/pages/0/6/Dialogue
+> CONTEXT: Map124/events/15/pages/0/6/Dialogue
+> CONTEXT: Map124/events/16/pages/0/6/Dialogue
+> CONTEXT: Map124/events/17/pages/0/6/Dialogue
+Durable fabric products are tied carefully.#MTLed
+> END STRING

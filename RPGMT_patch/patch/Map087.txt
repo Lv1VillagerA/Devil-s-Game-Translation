@@ -1,0 +1,112 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「最近水を飲むたびに、
+　カラダが火照ってしょうがないのよね」
+> CONTEXT: Map087/events/5/pages/0/6/Dialogue
+> CONTEXT: Map087/events/5/pages/1/6/Dialogue
+「Every time I drink water recently, The body can not be
+helped as it is hot」#MTLed
+> END STRING
+
+> BEGIN STRING
+「町の皆も口には出さないけど、
+　アタシと同じような気持ちになったって言うし、
+　一体どうしちゃったのかしら？」
+> CONTEXT: Map087/events/5/pages/0/9/Dialogue
+> CONTEXT: Map087/events/5/pages/1/9/Dialogue
+「Everyone in the town does not put it out,
+He said that he felt the same way as me,
+What has it all been like?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「えっ？　宿場町の水の源流は何処か？
+　確か…【花の泉】からだけど」
+> CONTEXT: Map087/events/5/pages/0/13/Dialogue
+> CONTEXT: Map087/events/5/pages/1/13/Dialogue
+「eh? Where is the source of water in the lodging town?
+Surely ... [Fountain of flowers] though it is from」#MTLed
+> END STRING
+
+> BEGIN STRING
+「東に一年中花が咲き乱れる、綺麗な森が広がってるの。
+　少し前までは、
+　町の外からの観光客が大勢訪れてたんだけどね」
+> CONTEXT: Map087/events/5/pages/0/16/Dialogue
+> CONTEXT: Map087/events/5/pages/1/16/Dialogue
+「Flowers bloom all year round in the east, beautiful
+forests are spreading. Until a while ago,
+A lot of tourists from outside the town were visiting」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも今は、そこにも淫魔が出没するようになったから、
+　観光客はもちろん、
+　町の人間も誰も近寄らなくなってるわ」
+> CONTEXT: Map087/events/5/pages/0/20/Dialogue
+> CONTEXT: Map087/events/5/pages/1/20/Dialogue
+「But now that the 魔 魔 has emerged there too,
+Tourists, of course, No human beings in town getting close
+to anyone」#MTLed
+> END STRING
+
+> BEGIN STRING
+「カラダの火照りはなくなったけど、
+　この所ベッドの上の彼氏が不満気なのよね」
+> CONTEXT: Map087/events/5/pages/2/6/Dialogue
+「Although the body's burning ceased, My boyfriend above
+this bed is dissatisfied」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうやら私に責められるのが、
+　癖になっちゃったみたいよ」
+> CONTEXT: Map087/events/5/pages/2/9/Dialogue
+「Apparently I can blame you, It seems I got into a habit」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私もＳっ気が開花しちゃうし、
+　悪いことばかりじゃなかったってことね」
+> CONTEXT: Map087/events/5/pages/2/12/Dialogue
+「I will also be blessed with S, It was not only bad things」#MTLed
+> END STRING
+
+> BEGIN STRING
+普段の生活で使用する、色々な作業着がしまわれている。
+> CONTEXT: Map087/events/6/pages/1/7/Dialogue
+> CONTEXT: Map087/events/7/pages/1/7/Dialogue
+Various work clothes to use in everyday life are gone.#MTLed
+> END STRING
+
+> BEGIN STRING
+木こりの技能書や、おいしい料理本などが並んでいる。
+> CONTEXT: Map087/events/8/pages/0/7/Dialogue
+> CONTEXT: Map087/events/9/pages/0/7/Dialogue
+A lumber skillbook and a delicious cookbook are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+良く手入れされている観葉植物だ。
+> CONTEXT: Map087/events/10/pages/0/7/Dialogue
+It is a well-kept plants.#MTLed
+> END STRING
+
+> BEGIN STRING
+比較的新しい洋酒が収納されている。
+> CONTEXT: Map087/events/11/pages/0/7/Dialogue
+Relatively new wine is stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+調味料やその他一式が揃っている。
+> CONTEXT: Map087/events/12/pages/0/7/Dialogue
+Seasonings and other sets are complete.#MTLed
+> END STRING
+
+> BEGIN STRING
+食器類が綺麗に収納されている。
+> CONTEXT: Map087/events/13/pages/0/7/Dialogue
+> CONTEXT: Map087/events/14/pages/0/7/Dialogue
+The dishes are stored beautifully.#MTLed
+> END STRING

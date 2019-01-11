@@ -1,0 +1,1010 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦闘不能【この場合呪縛】
+> CONTEXT: States/1/name/
+Fighting impossible [In this case a spell]#MTLed
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+> CONTEXT: States/1/message1/
+ has fallen!#lvl1
+> END STRING
+
+> BEGIN STRING
+を倒した！
+> CONTEXT: States/1/message2/
+ is slain!#lvl1
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+> CONTEXT: States/1/message4/
+ revives!#lvl1
+> END STRING
+
+> BEGIN STRING
+毒
+> CONTEXT: States/2/name/
+Poison#lvl1
+> END STRING
+
+> BEGIN STRING
+は毒に冒された！
+> CONTEXT: States/2/message1/
+> CONTEXT: States/2/message2/
+ is poisoned!#lvl1
+> END STRING
+
+> BEGIN STRING
+の毒が消えた！
+> CONTEXT: States/2/message4/
+ is freed of poison!#lvl1
+> END STRING
+
+> BEGIN STRING
+暗闇
+> CONTEXT: States/3/name/
+Blind#lvl1
+> END STRING
+
+> BEGIN STRING
+は暗闇に閉ざされた！
+> CONTEXT: States/3/message1/
+ becomes blind!#lvl1
+> END STRING
+
+> BEGIN STRING
+を暗闇に閉ざした！
+> CONTEXT: States/3/message2/
+ is blinded!#lvl1
+> END STRING
+
+> BEGIN STRING
+の暗闇が消えた！
+> CONTEXT: States/3/message4/
+ is no longer blinded!#lvl1
+> END STRING
+
+> BEGIN STRING
+沈黙
+> CONTEXT: States/4/name/
+Silence#lvl1
+> END STRING
+
+> BEGIN STRING
+は魔法を封じ込まれた！
+> CONTEXT: States/4/message1/
+ cannot cast Magic!#lvl1
+> END STRING
+
+> BEGIN STRING
+の魔法を封じ込めた！
+> CONTEXT: States/4/message2/
+Contained the magic of!#MTLed
+> END STRING
+
+> BEGIN STRING
+の魔法封じが解けた！
+> CONTEXT: States/4/message4/
+'s Magic is no longer sealed!#lvl1
+> END STRING
+
+> BEGIN STRING
+混乱
+> CONTEXT: States/5/name/
+Confusion#lvl1
+> END STRING
+
+> BEGIN STRING
+は混乱してしまった！
+> CONTEXT: States/5/message1/
+ becomes confused!#lvl1
+> END STRING
+
+> BEGIN STRING
+を混乱させた！
+> CONTEXT: States/5/message2/
+ is confused!#lvl1
+> END STRING
+
+> BEGIN STRING
+は我に返った！
+> CONTEXT: States/5/message4/
+ is no longer confused!#lvl1
+> END STRING
+
+> BEGIN STRING
+睡眠
+> CONTEXT: States/6/name/
+Sleep#lvl1
+> END STRING
+
+> BEGIN STRING
+は眠ってしまった！
+> CONTEXT: States/6/message1/
+ falls asleep!#lvl1
+> END STRING
+
+> BEGIN STRING
+を眠らせた！
+> CONTEXT: States/6/message2/
+Sleeping!#MTLed
+> END STRING
+
+> BEGIN STRING
+は眠っている……
+> CONTEXT: States/6/message3/
+ is sleeping......#lvl1
+> END STRING
+
+> BEGIN STRING
+は目を覚ました！
+> CONTEXT: States/6/message4/
+ wakes up!#lvl1
+> END STRING
+
+> BEGIN STRING
+麻痺
+> CONTEXT: States/7/name/
+Paralysis#lvl1
+> END STRING
+
+> BEGIN STRING
+はしびれて動けなくなった！
+> CONTEXT: States/7/message1/
+ becomes paralyzed!#lvl1
+> END STRING
+
+> BEGIN STRING
+を麻痺させた！
+> CONTEXT: States/7/message2/
+ is paralyzed!#lvl1
+> END STRING
+
+> BEGIN STRING
+は体がしびれて動けない！
+> CONTEXT: States/7/message3/
+ is unable to move!#lvl1
+> END STRING
+
+> BEGIN STRING
+の麻痺が解けた！
+> CONTEXT: States/7/message4/
+ is no longer paralyzed!#lvl1
+> END STRING
+
+> BEGIN STRING
+スタン
+> CONTEXT: States/8/name/
+Stun#lvl1
+> END STRING
+
+> BEGIN STRING
+はバランスを崩した！
+> CONTEXT: States/8/message1/
+> CONTEXT: States/8/message2/
+ loses balance!#lvl1
+> END STRING
+
+> BEGIN STRING
+はバランスを崩している……
+> CONTEXT: States/8/message3/
+ hasn't regained balance......#lvl1
+> END STRING
+
+> BEGIN STRING
+は体勢を立て直した！
+> CONTEXT: States/8/message4/
+ regains balance!#lvl1
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: States/9/name/
+Defense#MTLed
+> CONTEXT: Map299/events/5/pages/0/48/Choice/3
+defense#MTLed
+> END STRING
+
+> BEGIN STRING
+不死身【保存】
+> CONTEXT: States/10/name/
+Invulnerability 【preservation】#MTLed
+> END STRING
+
+> BEGIN STRING
+かばう
+> CONTEXT: States/11/name/
+Cover#lvl1
+> END STRING
+
+> BEGIN STRING
+挑発
+> CONTEXT: States/12/name/
+Provoke#lvl1
+> END STRING
+
+> BEGIN STRING
+隠れる
+> CONTEXT: States/13/name/
+Vanish#lvl1
+> END STRING
+
+> BEGIN STRING
+HP再生
+> CONTEXT: States/14/name/
+HP Regen#lvl1
+> END STRING
+
+> BEGIN STRING
+MP再生
+> CONTEXT: States/15/name/
+MP Regen#lvl1
+> END STRING
+
+> BEGIN STRING
+TP再生
+> CONTEXT: States/16/name/
+TP Regen#lvl1
+> END STRING
+
+> BEGIN STRING
+鉄壁
+> CONTEXT: States/17/name/
+Ironbody#lvl1
+> END STRING
+
+> BEGIN STRING
+反撃
+> CONTEXT: States/18/name/
+Counterattack#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法回避
+> CONTEXT: States/19/name/
+Magic Evade#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法反射
+> CONTEXT: States/20/name/
+Magic Reflect#lvl1
+> END STRING
+
+> BEGIN STRING
+炎の力
+> CONTEXT: States/21/name/
+Fire Force#lvl1
+> END STRING
+
+> BEGIN STRING
+は炎の力を身にまとった。
+> CONTEXT: States/21/message1/
+> CONTEXT: States/21/message2/
+ acquires the power of fire!#lvl1
+> END STRING
+
+> BEGIN STRING
+氷の力
+> CONTEXT: States/22/name/
+Ice Force#lvl1
+> END STRING
+
+> BEGIN STRING
+は氷の力を身にまとった。
+> CONTEXT: States/22/message1/
+> CONTEXT: States/22/message2/
+ acquires the power of ice!#lvl1
+> END STRING
+
+> BEGIN STRING
+雷の力
+> CONTEXT: States/23/name/
+Thunder Force#lvl1
+> END STRING
+
+> BEGIN STRING
+は雷の力を身にまとった。
+> CONTEXT: States/23/message1/
+> CONTEXT: States/23/message2/
+ acquires the power of thunder!#lvl1
+> END STRING
+
+> BEGIN STRING
+★異常防止
+> CONTEXT: States/24/name/
+★ Anomaly prevention#MTLed
+> END STRING
+
+> BEGIN STRING
+消費MP減
+> CONTEXT: States/25/name/
+MP Cost Down#lvl1
+> END STRING
+
+> BEGIN STRING
+通常攻撃したよ
+> CONTEXT: States/27/name/
+I usually attacked it#MTLed
+> END STRING
+
+> BEGIN STRING
+仲魔召喚中
+> CONTEXT: States/28/name/
+Summoned during summer#MTLed
+> END STRING
+
+> BEGIN STRING
+イきそう
+> CONTEXT: States/30/name/
+> CONTEXT: States/130/name/
+Looks good#MTLed
+> END STRING
+
+> BEGIN STRING
+はイきそうになった！
+> CONTEXT: States/30/message1/
+It seems to be good!#MTLed
+> END STRING
+
+> BEGIN STRING
+のイきそうが治った！
+> CONTEXT: States/30/message4/
+He hesitated to be healed!#MTLed
+> END STRING
+
+> BEGIN STRING
+骨抜き
+> CONTEXT: States/31/name/
+> CONTEXT: States/131/name/
+Boning#MTLed
+> END STRING
+
+> BEGIN STRING
+は骨抜きになった！
+> CONTEXT: States/31/message1/
+I got wicked!#MTLed
+> END STRING
+
+> BEGIN STRING
+の骨抜きは治った！
+> CONTEXT: States/31/message4/
+The oozing has gone!#MTLed
+> END STRING
+
+> BEGIN STRING
+恍惚
+> CONTEXT: States/32/name/
+Ecstasy#MTLed
+> END STRING
+
+> BEGIN STRING
+は恍惚になった！
+> CONTEXT: States/32/message1/
+I got ecstatic!#MTLed
+> END STRING
+
+> BEGIN STRING
+の恍惚は治った！
+> CONTEXT: States/32/message4/
+The ecstasy of the child has healed!#MTLed
+> END STRING
+
+> BEGIN STRING
+堕落
+> CONTEXT: States/33/name/
+Corruption#MTLed
+> END STRING
+
+> BEGIN STRING
+は堕落した！
+> CONTEXT: States/33/message1/
+It was corrupt!#MTLed
+> END STRING
+
+> BEGIN STRING
+の堕落は治った！
+> CONTEXT: States/33/message4/
+The corruption of healed!#MTLed
+> END STRING
+
+> BEGIN STRING
+脱力
+> CONTEXT: States/34/name/
+Weakness#MTLed
+> END STRING
+
+> BEGIN STRING
+は脱力してしまった！
+> CONTEXT: States/34/message1/
+He got weak!#MTLed
+> END STRING
+
+> BEGIN STRING
+の脱力は治った！
+> CONTEXT: States/34/message4/
+Weakness of healing has recovered!#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了
+> CONTEXT: States/35/name/
+> CONTEXT: States/132/name/
+Fascination#MTLed
+> END STRING
+
+> BEGIN STRING
+は魅了されてしまった！
+> CONTEXT: States/35/message1/
+I was fascinated!#MTLed
+> END STRING
+
+> BEGIN STRING
+の魅了は治った！
+> CONTEXT: States/35/message4/
+Attraction of healing was healed!#MTLed
+> END STRING
+
+> BEGIN STRING
+押さえ
+> CONTEXT: States/36/name/
+Hold down#MTLed
+> END STRING
+
+> BEGIN STRING
+は押さえ込まれてしまった！
+> CONTEXT: States/36/message1/
+Has been depressed!#MTLed
+> END STRING
+
+> BEGIN STRING
+は押さえ込みから脱出した！
+> CONTEXT: States/36/message4/
+He escaped from pushing!#MTLed
+> END STRING
+
+> BEGIN STRING
+集中
+> CONTEXT: States/38/name/
+Concentration#MTLed
+> END STRING
+
+> BEGIN STRING
+忍耐
+> CONTEXT: States/39/name/
+Patience#MTLed
+> END STRING
+
+> BEGIN STRING
+神速
+> CONTEXT: States/40/name/
+God speed#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘初期　不死身
+> CONTEXT: States/45/name/
+Early battle immortality#MTLed
+> END STRING
+
+> BEGIN STRING
+主人公のターンだよ
+> CONTEXT: States/47/name/
+It's a hero's turn#MTLed
+> END STRING
+
+> BEGIN STRING
+敵のターンだよ
+> CONTEXT: States/48/name/
+It's an enemy's turn#MTLed
+> END STRING
+
+> BEGIN STRING
+■リミット状態変化■
+> CONTEXT: States/50/name/
+■ Limit state change ■#MTLed
+> END STRING
+
+> BEGIN STRING
+受ける快感軽減
+> CONTEXT: States/51/name/
+Pleasure alleviation received#MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨二倍
+> CONTEXT: States/52/name/
+Double the curse#MTLed
+> END STRING
+
+> BEGIN STRING
+能力低下無効
+> CONTEXT: States/53/name/
+Disabled ability disabled#MTLed
+> END STRING
+
+> BEGIN STRING
+リレイズ
+> CONTEXT: States/55/name/
+Relais#MTLed
+> END STRING
+
+> BEGIN STRING
+俊敏性
+> CONTEXT: States/56/name/
+Agility#MTLed
+> END STRING
+
+> BEGIN STRING
+獣の本能
+> CONTEXT: States/57/name/
+Beast instinct#MTLed
+> END STRING
+
+> BEGIN STRING
+敵必殺技使用不可
+> CONTEXT: States/59/name/
+Enemy Special Moves can not be used#MTLed
+> END STRING
+
+> BEGIN STRING
+敵恍惚
+> CONTEXT: States/60/name/
+Enemy ecstasy#MTLed
+> END STRING
+
+> BEGIN STRING
+は恍惚としている…。
+> CONTEXT: States/60/message2/
+> CONTEXT: States/60/message3/
+I am ecstatic ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+は正気に戻った！
+> CONTEXT: States/60/message4/
+He returned to sanity!#MTLed
+> END STRING
+
+> BEGIN STRING
+精神力
+> CONTEXT: States/61/name/
+Mental strength#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテム出現二倍
+> CONTEXT: States/62/name/
+Item appeared twice#MTLed
+> END STRING
+
+> BEGIN STRING
+精力自動回復
+> CONTEXT: States/63/name/
+> CONTEXT: States/109/name/
+Automatic energetic recovery#MTLed
+> END STRING
+
+> BEGIN STRING
+精力回復量
+> CONTEXT: States/64/name/
+Energy recovery amount#MTLed
+> END STRING
+
+> BEGIN STRING
+胸
+> CONTEXT: States/66/name/
+Breast#MTLed
+> END STRING
+
+> BEGIN STRING
+気力自動回復
+> CONTEXT: States/67/name/
+> CONTEXT: States/110/name/
+Automatic power recovery#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃完全防御
+> CONTEXT: States/68/name/
+Full attack defense#MTLed
+> END STRING
+
+> BEGIN STRING
+敵攻撃力低下
+> CONTEXT: States/70/name/
+Declining enemy attack power#MTLed
+> END STRING
+
+> BEGIN STRING
+の状態は回復した！
+> CONTEXT: States/70/message4/
+The state recovered!#MTLed
+> END STRING
+
+> BEGIN STRING
+会心１００％
+> CONTEXT: States/71/name/
+Conference 100%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力半減消費気力０
+> CONTEXT: States/73/name/
+Half-power consumption expenditure 0#MTLed
+> END STRING
+
+> BEGIN STRING
+全能力上昇
+> CONTEXT: States/74/name/
+Full capacity rise#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテム効果二倍
+> CONTEXT: States/75/name/
+Item effect double#MTLed
+> END STRING
+
+> BEGIN STRING
+状態異常無効
+> CONTEXT: States/76/name/
+Invalid state error#MTLed
+> END STRING
+
+> BEGIN STRING
+キス
+> CONTEXT: States/77/name/
+Kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+異常、能力５０％
+> CONTEXT: States/78/name/
+Abnormalities, ability 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃、防御、俊敏上昇
+> CONTEXT: States/79/name/
+Attack, Defense, Agility Increase#MTLed
+> END STRING
+
+> BEGIN STRING
+経験値二倍
+> CONTEXT: States/80/name/
+Experience double#MTLed
+> END STRING
+
+> BEGIN STRING
+ＨＩＴ数
+> CONTEXT: States/81/name/
+Number of HITs#MTLed
+> END STRING
+
+> BEGIN STRING
+タッチ
+> CONTEXT: States/82/name/
+Touch#MTLed
+> END STRING
+
+> BEGIN STRING
+反撃１００％
+> CONTEXT: States/83/name/
+Counterattack 100%#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップ
+> CONTEXT: States/84/name/
+> CONTEXT: States/90/name/
+Hip#MTLed
+> END STRING
+
+> BEGIN STRING
+精力、気力徐々に回復
+> CONTEXT: States/85/name/
+Energy, energy gradually recover#MTLed
+> END STRING
+
+> BEGIN STRING
+行動１００％上昇
+> CONTEXT: States/87/name/
+Action 100% rise#MTLed
+> END STRING
+
+> BEGIN STRING
+５０％で攻撃回避
+> CONTEXT: States/88/name/
+50% Avoid Avoidance#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘終了後　全快
+> CONTEXT: States/89/name/
+Completely after fighting is over#MTLed
+> END STRING
+
+> BEGIN STRING
+精神、抵抗、運上昇
+> CONTEXT: States/91/name/
+Spirit, resistance, luck#MTLed
+> END STRING
+
+> BEGIN STRING
+挿入
+> CONTEXT: States/92/name/
+Insert#MTLed
+> END STRING
+
+> BEGIN STRING
+不死身
+> CONTEXT: States/93/name/
+Immortal#lvl1
+> END STRING
+
+> BEGIN STRING
+行動２５％上昇
+> CONTEXT: States/94/name/
+Action 25% rise#MTLed
+> END STRING
+
+> BEGIN STRING
+呪縛
+> CONTEXT: States/98/name/
+Spell#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃低下
+> CONTEXT: States/102/name/
+Attack reduction#MTLed
+> END STRING
+
+> BEGIN STRING
+防御低下
+> CONTEXT: States/103/name/
+Declining defense#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法低下
+> CONTEXT: States/104/name/
+Magic decline#MTLed
+> END STRING
+
+> BEGIN STRING
+抵抗低下
+> CONTEXT: States/105/name/
+Resistance decrease#MTLed
+> END STRING
+
+> BEGIN STRING
+行動低下
+> CONTEXT: States/106/name/
+Behavior decline#MTLed
+> END STRING
+
+> BEGIN STRING
+運低下
+> CONTEXT: States/107/name/
+Luck#MTLed
+> END STRING
+
+> BEGIN STRING
+状態異常防止
+> CONTEXT: States/111/name/
+State abnormal prevention#MTLed
+> END STRING
+
+> BEGIN STRING
+不意打ち判定
+> CONTEXT: States/114/name/
+Surprise judgment#MTLed
+> END STRING
+
+> BEGIN STRING
+衰弱　射精１
+> CONTEXT: States/116/name/
+Decline ejaculation 1#MTLed
+> END STRING
+
+> BEGIN STRING
+衰弱　射精２
+> CONTEXT: States/117/name/
+Decline ejaculation 2#MTLed
+> END STRING
+
+> BEGIN STRING
+衰弱　射精３
+> CONTEXT: States/118/name/
+Decline ejaculation 3#MTLed
+> END STRING
+
+> BEGIN STRING
+理性崩壊
+> CONTEXT: States/129/name/
+Reason collapse#MTLed
+> END STRING
+
+> BEGIN STRING
+294の0以下代入　呪縛
+> CONTEXT: States/133/name/
+294 0 or less substitution spell#MTLed
+> END STRING
+
+> BEGIN STRING
+314の0以下代入　淫魔化
+> CONTEXT: States/134/name/
+Substitution of 314 into 0 or less Successfulization#MTLed
+> END STRING
+
+> BEGIN STRING
+バリア中古になった
+> CONTEXT: States/137/name/
+Barrier became used#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃行動↑防御抵抗↓
+> CONTEXT: States/138/name/
+Attack Behavior ↑ Defense Resistance ↓#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｓバリア戦闘外使用
+> CONTEXT: States/139/name/
+S barrier out of combat use#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｌバリア戦闘外使用
+> CONTEXT: States/140/name/
+L barrier use outside combat use#MTLed
+> END STRING
+
+> BEGIN STRING
+AUTOコマンド中
+> CONTEXT: States/142/name/
+In AUTO command#MTLed
+> END STRING
+
+> BEGIN STRING
+◆ボス専用特殊
+> CONTEXT: States/150/name/
+◆ Special for Boss#MTLed
+> END STRING
+
+> BEGIN STRING
+胸カウンター　主に付加
+> CONTEXT: States/151/name/
+Add to the chest counter principal#MTLed
+> END STRING
+
+> BEGIN STRING
+尻カウンター　主に付加
+> CONTEXT: States/152/name/
+Add to the main hip counter#MTLed
+> END STRING
+
+> BEGIN STRING
+挿入カウンター　主に付加
+> CONTEXT: States/153/name/
+Insertion counter mainly added#MTLed
+> END STRING
+
+> BEGIN STRING
+キスカウンター　主に付加
+> CONTEXT: States/154/name/
+Add to the main kiss counter#MTLed
+> END STRING
+
+> BEGIN STRING
+性感看破　エルフ
+> CONTEXT: States/156/name/
+Sexual elimination elf#MTLed
+> END STRING
+
+> BEGIN STRING
+蔦の拘束　ドリアード
+> CONTEXT: States/157/name/
+Iv restraint driad#MTLed
+> END STRING
+
+> BEGIN STRING
+野生の本能　猫又
+> CONTEXT: States/158/name/
+Wild instinct cats#MTLed
+> END STRING
+
+> BEGIN STRING
+受け流しの型　上忍
+> CONTEXT: States/159/name/
+Type of Passion Shogo#MTLed
+> END STRING
+
+> BEGIN STRING
+忍の丸薬　上忍
+> CONTEXT: States/160/name/
+Shinobu Pills Shinobi#MTLed
+> END STRING
+
+> BEGIN STRING
+氷の吐息　雪女
+> CONTEXT: States/161/name/
+Ice breath Snow woman#MTLed
+> END STRING
+
+> BEGIN STRING
+精気吸収　雪女
+> CONTEXT: States/162/name/
+Madness absorption snow woman#MTLed
+> END STRING
+
+> BEGIN STRING
+闇の狩人　Ｄエルフ
+> CONTEXT: States/163/name/
+Dark Elven Hunter D#MTLed
+> END STRING
+
+> BEGIN STRING
+堕落の喜び　Ｄエルフ
+> CONTEXT: States/164/name/
+The pleasure of corruption D Elf#MTLed
+> END STRING
+
+> BEGIN STRING
+精気吸収　サキュバス
+> CONTEXT: States/165/name/
+Supremacy absorbing succubus#MTLed
+> END STRING
+
+> BEGIN STRING
+淫気解放　サキュバス
+> CONTEXT: States/166/name/
+Lusty losing succubus#MTLed
+> END STRING
+
+> BEGIN STRING
+◆通常敵特殊
+> CONTEXT: States/171/name/
+◆ normal enemy special#MTLed
+> END STRING
+
+> BEGIN STRING
+力押しＡ　山賊
+> CONTEXT: States/172/name/
+Stamped A bandits#MTLed
+> END STRING
+
+> BEGIN STRING
+力押しＢ　山賊
+> CONTEXT: States/173/name/
+Stamped B Bandit#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊の軽業Ａ　盗賊
+> CONTEXT: States/174/name/
+Burglar light business A thief#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊の軽業Ｂ　盗賊
+> CONTEXT: States/175/name/
+Thieves' Lightning B Thieves#MTLed
+> END STRING
+
+> BEGIN STRING
+忍の丸薬Ａ　下忍
+> CONTEXT: States/176/name/
+Shinobi Pill A Shogunism#MTLed
+> END STRING
+
+> BEGIN STRING
+忍の丸薬Ｂ　下忍
+> CONTEXT: States/177/name/
+Shinobu Pills B Shibao#MTLed
+> END STRING

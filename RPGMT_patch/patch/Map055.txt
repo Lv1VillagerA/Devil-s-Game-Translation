@@ -1,0 +1,177 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+淫女王の部屋
+> CONTEXT: Map055/display_name/
+> CONTEXT: Map008/display_name/
+King of the Kingdom of the Kingdom#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]これは……置き手紙か？\\C[1]」
+> CONTEXT: Map055/events/5/pages/0/9/Dialogue
+\\C[1]「\\C[0]Is this ... ... a postcard?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[6]ちゃんと遊ぶのも飽きたし、
+　これからちょっとした実験に、
+　付き合ってもらうことにしたよ\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/21/Dialogue
+\\C[10]「\\C[0]\\N[6] I am tired of playing properly,
+For a little experiment, I decided to go out with you\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]場所はこの近くに、
+　魔法使いが住んでる建物があるから、
+　そこで……ね\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/25/Dialogue
+\\C[10]「\\C[0]The location is near here,
+Because there is a building where the wizard lives,
+There ...\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]は\\N[6]ちゃんを助けに来ても良いし、
+　ボクの実験を止めに来ても良いよ～\\I[140]\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/29/Dialogue
+\\C[10]「\\C[0]\\N[1] Is \\N[6] You may come to help her,
+You may come to stop my experiment ~ \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]まぁ遊んでくれたほうが、
+　ボクも嬉しいかな？　じゃぁね～\\I[140]\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/32/Dialogue
+\\C[10]「\\C[0]Well, if you play, Are you happy as well? See you. \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+手紙はそこで終わっている…。
+> CONTEXT: Map055/events/5/pages/0/36/Dialogue
+The letter ends there ....#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]確か…村の近くに腕の良い医者がいたな。
+　そいつは優秀な魔法使いでもあるらしいし、
+　\\N[6]がいるのはそこで間違いないか\\C[1]」
+> CONTEXT: Map055/events/5/pages/0/48/Dialogue
+\\C[1]「\\C[0]Sure ... there was a good doctor near the village.
+He seems to be also an excellent wizard,
+In case \\N[6] Is there any mistake there?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]くそっ…何でこう厄介事が…とにかく、
+　これ以上この場にとどまっても仕方ない。
+　…転送石を使ってさっさと脱出しよう\\C[1]」
+> CONTEXT: Map055/events/5/pages/0/52/Dialogue
+\\C[1]「\\C[0]Damn ... Why is this troublesome thing ... anyway,
+There is no point in staying any more in this place.
+... Let's escape quickly with a transferring stone\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+淫女王としての威厳を出すには、
+人間界への侵攻マニュアルなどの本が並んでいる。
+> CONTEXT: Map055/events/8/pages/0/6/Dialogue
+> CONTEXT: Map055/events/9/pages/0/6/Dialogue
+In order to bring dignity as a virgin king,
+Books such as invasion manual to the human world are lining
+up.#MTLed
+> END STRING
+
+> BEGIN STRING
+立派なピアノが置いてあるが、
+長い間触られた形跡が見あたらない…。
+> CONTEXT: Map055/events/10/pages/0/6/Dialogue
+There is a fine piano, I have not found evidence of
+touching for a long time ....#MTLed
+> END STRING
+
+> BEGIN STRING
+まだほんのりと温かく、乱れた布団から、
+甘い香りがひっきりなしに漂ってくる…。
+> CONTEXT: Map055/events/11/pages/0/6/Dialogue
+It is still a little warm, from a disturbed futon,
+A sweet scent drifts all along ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+立派な赤い椅子だ。
+見たことのない木材で作られている。
+> CONTEXT: Map055/events/12/pages/0/6/Dialogue
+It's a fine red chair. It is made of wood that I have not
+seen.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]しっ…しまった…！
+　こんな…罠に…！\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/18/Dialogue
+> CONTEXT: Map054/events/16/pages/0/17/Dialogue
+> CONTEXT: Map008/events/16/pages/0/18/Dialogue
+> CONTEXT: Map003/events/16/pages/0/17/Dialogue
+\\C[1]「\\C[0]Shit ... I got it ...! In such a trap ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]意識が…もう…！\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/30/Dialogue
+> CONTEXT: Map054/events/16/pages/0/29/Dialogue
+> CONTEXT: Map008/events/16/pages/0/30/Dialogue
+> CONTEXT: Map003/events/16/pages/0/29/Dialogue
+\\C[1]「\\C[0]Consciousness ... already ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁ…これは…きっ…気持ち良いぃ\\I[140]
+　あっ…でっ…出るぅ\\I[140]\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/62/Dialogue
+> CONTEXT: Map054/events/16/pages/0/61/Dialogue
+> CONTEXT: Map008/events/16/pages/0/62/Dialogue
+> CONTEXT: Map003/events/16/pages/0/61/Dialogue
+\\C[1]「\\C[0]Ah ... This is ... ... well ... pleasant \\I[140]
+Oh ... and I will ... come out \\I[140]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]きゃはは、お兄さんの子種、
+　また吸い取っちゃったよ\\C[10]」
+> CONTEXT: Map055/events/16/pages/0/75/Dialogue
+> CONTEXT: Map008/events/16/pages/0/75/Dialogue
+\\C[10]「\\C[0]Kaha, your older brother, I smoke again\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]インプの尻擦りはどうかな？
+　意識が朦朧としてるのに、
+　とっても気持ち良さそうな顔だね\\C[10]」
+> CONTEXT: Map055/events/16/pages/0/79/Dialogue
+> CONTEXT: Map008/events/16/pages/0/79/Dialogue
+\\C[10]「\\C[0]How about imp impression? Even though my consciousness is
+stupid, It looks very pleasant\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁあへへぇ…もっと…\\I[140]
+　柔らかいぃ…もっと…もっとぉ…あへへぇ\\I[140]\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/84/Dialogue
+> CONTEXT: Map054/events/16/pages/0/83/Dialogue
+> CONTEXT: Map008/events/16/pages/0/84/Dialogue
+> CONTEXT: Map003/events/16/pages/0/83/Dialogue
+\\C[1]「\\C[0]Oh yeah ... more ... \\I[140]
+Soft ... more ... more ... more \\I[140]\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]んっ…あぁ…って…俺は…ふあぁ\\I[140]
+　どっ…どうして…あひぃっ\\I[140]\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/87/Dialogue
+> CONTEXT: Map054/events/16/pages/0/86/Dialogue
+> CONTEXT: Map008/events/16/pages/0/87/Dialogue
+> CONTEXT: Map003/events/16/pages/0/86/Dialogue
+\\C[1]「\\C[0]umph ... Ah ... I mean ... Fa \\I[140]
+Wow ... why ... ... あ ひ っ \\I[140]\\C[1]」#MTLed
+> END STRING

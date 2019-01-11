@@ -1,0 +1,58 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ここ数日、夫が家に帰って来ないの」
+> CONTEXT: Map119/events/4/pages/0/6/Dialogue
+「My husband does not come back home this past few days」#MTLed
+> END STRING
+
+> BEGIN STRING
+「自警団のお仕事で忙しいのはわかるけど、
+　私もいい加減夜の欲求不満でって……あら嫌だ！」
+> CONTEXT: Map119/events/4/pages/0/8/Dialogue
+「I know I'm busy with vigilantes' work, I too do not want
+a night frustration ... ... I hate it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「お客さんにこんなこと、
+　どうぞ…ゆっくりしていってね」
+> CONTEXT: Map119/events/4/pages/0/11/Dialogue
+「Such a thing to the customer, Please ... Please go slow.」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔力の込められた色々な道具がしまわれている。
+> CONTEXT: Map119/events/5/pages/1/6/Dialogue
+> CONTEXT: Map119/events/6/pages/1/6/Dialogue
+> CONTEXT: Map120/events/7/pages/1/6/Dialogue
+> CONTEXT: Map120/events/8/pages/1/6/Dialogue
+Various tools with magical powers are stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+干し肉や野菜が丁寧にしまわれている。
+> CONTEXT: Map119/events/7/pages/0/6/Dialogue
+Dried meat and vegetables are carefully stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+観葉植物が陽の光を浴びている。
+> CONTEXT: Map119/events/8/pages/0/6/Dialogue
+> CONTEXT: Map089/events/7/pages/0/7/Dialogue
+> CONTEXT: Map089/events/8/pages/0/7/Dialogue
+The ornamental plants are bathed in sunlight.#MTLed
+> END STRING
+
+> BEGIN STRING
+男物と女物の衣服が折りたたまれている。
+> CONTEXT: Map119/events/9/pages/0/6/Dialogue
+> CONTEXT: Map119/events/10/pages/0/6/Dialogue
+The clothes of men and women are folded.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょっとした小物が色々と詰め込まれている。
+> CONTEXT: Map119/events/11/pages/0/6/Dialogue
+> CONTEXT: Map119/events/12/pages/0/6/Dialogue
+Small accessories are packed in various ways.#MTLed
+> END STRING

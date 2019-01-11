@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大森林　南
+> CONTEXT: Map129/display_name/
+Great Forest South#MTLed
+> END STRING

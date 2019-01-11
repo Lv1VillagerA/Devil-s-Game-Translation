@@ -1,0 +1,86 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]もちろん見捨てられたなどと、最初は信じなかった。
+　だが…一ヶ月…一年…そして十年以上の時が流れても、
+　いっこうに助けは来なかった\\C[10]」
+> CONTEXT: Map181/events/3/pages/0/1/Dialogue
+\\C[10]「\\C[0]Of course I did not believe it was abandoned at first.
+But ... one month ... one year ... and more than ten years
+time passed, Help did not come at all\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そして今犯している王が死んだとしても、
+　また別の王に犯され、弄ばれ、傷めつけられ…。
+　いっそ狂ってしまえれば、どれだけ楽だったことか\\C[10]」
+> CONTEXT: Map181/events/3/pages/0/5/Dialogue
+\\C[10]「\\C[0]And even if the king who is committed now dies,
+Another king was fucked, played, being hurt ....
+How hard it was if you got mad more crazy\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]しかしアタシを捕らえた奴隷商人たち、
+　そしてアタシを見捨てた村のエルフたちに復讐するまで、
+　絶対に狂うわけにはいかないと、心に決めたのだ\\C[10]」
+> CONTEXT: Map181/events/3/pages/0/9/Dialogue
+\\C[10]「\\C[0]But the slave merchants who caught me,
+And until I revenge on the village elves who forsaken me,
+I decided in my mind that I can not absolutely go crazy\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そんな地獄のような日々が百年以上も続き、
+　流石のアタシも心とカラダに限界が訪れようとしたとき、
+　突然淫女王様が目の前に現れた\\C[10]」
+> CONTEXT: Map181/events/3/pages/0/18/Dialogue
+\\C[10]「\\C[0]Such days like hell continued for over a hundred years,
+When limits come to my heart and body, Suddenly the King of
+a Hilarious Demon appeared right in front of me\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あの方は、
+　アタシを犯していた男たちを一瞬で吸い殺し、
+　城中の女を従順な淫魔に変えた\\C[10]」
+> CONTEXT: Map181/events/3/pages/1/3/Dialogue
+\\C[10]「\\C[0]That person, In the moment suck and kill the men who
+committed my attention, I changed a woman in the castle to
+a submissive obscura\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]マリーダちゃんの、魔法の才能は素晴らしいね。
+　ボクと協力して、人間たちを淫魔の力で支配しない？
+　ついでに復讐も遂げられるよ…と\\C[10]」
+> CONTEXT: Map181/events/3/pages/1/7/Dialogue
+\\C[10]「\\C[0]Marida 's magical talent is wonderful.
+Why not cooperate with me and rule men with the power of 魔
+魔? And you can also get revenge ...\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]当然アタシは二つ返事で、
+　淫女王様の申し出を引き受けたよ\\C[10]」
+> CONTEXT: Map181/events/3/pages/1/11/Dialogue
+\\C[10]「\\C[0]Naturally my attitude is two-fold,
+I accepted the offer of the King of Hims\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]アタシを見捨てたエルフの村の住人。
+　それに、罠に嵌めた奴隷商人たちに復讐するためにな！\\C[10]」
+> CONTEXT: Map181/events/3/pages/1/23/Dialogue
+\\C[10]「\\C[0]Inhabitants of an elven village who abandoned me.
+And to revenge on the slave merchants that were put in
+traps!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もっとも、
+　人間の方は百年も生きられるものではないが、
+　そんなことはもう、アタシには関係ない\\C[10]」
+> CONTEXT: Map181/events/3/pages/1/29/Dialogue
+\\C[10]「\\C[0]However, Human beings can not live a hundred years,
+That's not related to me anymore\\C[10]」#MTLed
+> END STRING

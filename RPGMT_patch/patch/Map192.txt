@@ -1,0 +1,161 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+壁にレバーが付いている。
+下ろしますか？
+> CONTEXT: Map192/events/1/pages/0/7/Dialogue
+> CONTEXT: Map071/events/1/pages/0/7/Dialogue
+> CONTEXT: Map002/events/3/pages/0/7/Dialogue
+There is a lever on the wall. Do you want to lower it?#MTLed
+> END STRING
+
+> BEGIN STRING
+近くで扉が開く音が聞こえた…。
+> CONTEXT: Map192/events/1/pages/0/31/Dialogue
+> CONTEXT: Map071/events/1/pages/0/31/Dialogue
+I heard the door opens nearby ....#MTLed
+> END STRING
+
+> BEGIN STRING
+レバーはこれ以上動かない。
+> CONTEXT: Map192/events/1/pages/1/7/Dialogue
+> CONTEXT: Map071/events/1/pages/1/7/Dialogue
+> CONTEXT: Map002/events/3/pages/1/7/Dialogue
+The lever will not move any further.#MTLed
+> END STRING
+
+> BEGIN STRING
+人工淫魔研究日誌と書かれた手記が落ちている。
+読みますか？
+> CONTEXT: Map192/events/7/pages/0/7/Dialogue
+> CONTEXT: Map192/events/7/pages/1/7/Dialogue
+> CONTEXT: Map071/events/7/pages/0/7/Dialogue
+> CONTEXT: Map071/events/7/pages/1/7/Dialogue
+The written manuscript written with the artificial
+fictional research diary has been dropped.
+Do you read?#MTLed
+> END STRING
+
+> BEGIN STRING
+読む
+> CONTEXT: Map192/events/7/pages/0/10/Choice/0
+> CONTEXT: Map192/events/7/pages/1/10/Choice/0
+> CONTEXT: Map150/events/57/pages/0/10/Choice/0
+> CONTEXT: Map150/events/65/pages/0/10/Choice/0
+> CONTEXT: Map070/events/12/pages/0/10/Choice/0
+> CONTEXT: Map071/events/7/pages/0/10/Choice/0
+> CONTEXT: Map071/events/7/pages/1/10/Choice/0
+> CONTEXT: Map047/events/5/pages/1/8/Choice/0
+Read#MTLed
+> END STRING
+
+> BEGIN STRING
+読まない
+> CONTEXT: Map192/events/7/pages/0/10/Choice/1
+> CONTEXT: Map192/events/7/pages/1/10/Choice/1
+> CONTEXT: Map150/events/57/pages/0/10/Choice/1
+> CONTEXT: Map150/events/65/pages/0/10/Choice/1
+> CONTEXT: Map070/events/12/pages/0/10/Choice/1
+> CONTEXT: Map071/events/7/pages/0/10/Choice/1
+> CONTEXT: Map071/events/7/pages/1/10/Choice/1
+> CONTEXT: Map047/events/5/pages/1/8/Choice/1
+I do not read#MTLed
+> END STRING
+
+> BEGIN STRING
+一体何がいけなかったのだろうか？
+素体は手術に失敗して死んだばかりの患者だったのだが。
+> CONTEXT: Map192/events/7/pages/0/12/Dialogue
+> CONTEXT: Map192/events/7/pages/1/12/Dialogue
+> CONTEXT: Map071/events/7/pages/0/13/Dialogue
+> CONTEXT: Map071/events/7/pages/1/13/Dialogue
+What on earth could not have done? The prime field was a
+patient who just failed in the operation and died.#MTLed
+> END STRING
+
+> BEGIN STRING
+やはり生きた生物でなければ、
+人工的に淫魔化させることは出来ないのだろうか。
+> CONTEXT: Map192/events/7/pages/0/15/Dialogue
+> CONTEXT: Map192/events/7/pages/1/15/Dialogue
+As long as it is not a living creature, Is it impossible to
+artificially make it fake?#MTLed
+> END STRING
+
+> BEGIN STRING
+古文書を読み解いたところ、
+再び淫女王が現れるまでには、
+もうあまり時間は残されていないようだ。
+> CONTEXT: Map192/events/7/pages/0/18/Dialogue
+> CONTEXT: Map192/events/7/pages/1/18/Dialogue
+> CONTEXT: Map071/events/7/pages/0/19/Dialogue
+> CONTEXT: Map071/events/7/pages/1/19/Dialogue
+When reading and understanding old documents,
+By the time the hilarious girl appears again,
+It seems that there is not much time left.#MTLed
+> END STRING
+
+> BEGIN STRING
+いつまでも天使をあてにしてはいられない。
+彼女の力もいつまで通用するか、
+わからないのだから。
+> CONTEXT: Map192/events/7/pages/0/22/Dialogue
+> CONTEXT: Map192/events/7/pages/1/22/Dialogue
+> CONTEXT: Map071/events/7/pages/0/23/Dialogue
+> CONTEXT: Map071/events/7/pages/1/23/Dialogue
+I can not depend on forever forever. How long will her
+power pass, I do not know.#MTLed
+> END STRING
+
+> BEGIN STRING
+かと言って、魔法も淫魔相手には効果が薄く、
+逆にこちらが魅了されてしまうだろう。
+> CONTEXT: Map192/events/7/pages/0/26/Dialogue
+> CONTEXT: Map192/events/7/pages/1/26/Dialogue
+> CONTEXT: Map071/events/7/pages/0/27/Dialogue
+> CONTEXT: Map071/events/7/pages/1/27/Dialogue
+However, magic is also ineffective to the opponent,
+On the contrary it will be fascinated.#MTLed
+> END STRING
+
+> BEGIN STRING
+やはり淫魔に抗うには淫魔しかない。
+人間の言うことを聞く従順な使い魔を、
+何としても完成させなければ。
+> CONTEXT: Map192/events/7/pages/0/29/Dialogue
+> CONTEXT: Map192/events/7/pages/1/29/Dialogue
+> CONTEXT: Map071/events/7/pages/0/30/Dialogue
+> CONTEXT: Map071/events/7/pages/1/30/Dialogue
+After all, there is only a dragon to defeat the devil.
+An obedient demon you hear what a human says,
+I have to complete it.#MTLed
+> END STRING
+
+> BEGIN STRING
+たとえ後の歴史家に悪魔と罵られようとやり遂げて見せる。
+そのために魔法使いとしての地位も名誉も捨て、
+こんな山奥に隠れ住んでいるのだから。
+> CONTEXT: Map192/events/7/pages/0/33/Dialogue
+> CONTEXT: Map192/events/7/pages/1/33/Dialogue
+> CONTEXT: Map071/events/7/pages/0/34/Dialogue
+> CONTEXT: Map071/events/7/pages/1/34/Dialogue
+Even if you later realize that you are being devastated as
+a devil to a historian. For that reason we also abandoned
+our position as a wizard and honor, Because I live hidden
+behind such a mountain.#MTLed
+> END STRING
+
+> BEGIN STRING
+ここで手記は終わっている…。
+> CONTEXT: Map192/events/7/pages/0/37/Dialogue
+> CONTEXT: Map192/events/7/pages/1/37/Dialogue
+> CONTEXT: Map071/events/7/pages/0/38/Dialogue
+> CONTEXT: Map071/events/7/pages/1/38/Dialogue
+The note is over here ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ページの間に鍵が挟まっている。
+> CONTEXT: Map192/events/7/pages/0/39/Dialogue
+> CONTEXT: Map071/events/7/pages/0/40/Dialogue
+The key is caught between pages.#MTLed
+> END STRING

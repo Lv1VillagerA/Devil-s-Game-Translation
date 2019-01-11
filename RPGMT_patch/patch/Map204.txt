@@ -1,0 +1,250 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「うーむ…どうもこのところ、
+　野菜たちの様子がおかしいのだが」
+> CONTEXT: Map204/events/17/pages/0/6/Dialogue
+> CONTEXT: Map079/events/17/pages/0/6/Dialogue
+「Hmm ... for some time recently, It seems strange that the
+vegetables are strange」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺の気のせいかもしれないが、
+　微かに甘い香りがただよってくるのだ」
+> CONTEXT: Map204/events/17/pages/0/9/Dialogue
+> CONTEXT: Map079/events/17/pages/0/9/Dialogue
+「It may be due to my mind, A slightly sweet scent comes
+into play」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最近ようやく野菜たちの様子が、
+　元に戻ったんだ」
+> CONTEXT: Map204/events/17/pages/1/6/Dialogue
+> CONTEXT: Map079/events/17/pages/1/6/Dialogue
+「Recently the appearance of vegetables, I got it back.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あの甘い香りもいつの間にか消えちまったし、
+　一体何だったんだ？」
+> CONTEXT: Map204/events/17/pages/1/9/Dialogue
+> CONTEXT: Map079/events/17/pages/1/9/Dialogue
+「That sweet scent also disappeared unexpectedly,
+What on earth were you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おっと、お客さんかい？
+　とれたての新鮮野菜とかどうだい？」
+> CONTEXT: Map204/events/18/pages/0/6/Dialogue
+> CONTEXT: Map079/events/18/pages/0/6/Dialogue
+「Oops, are you a customer? How about freshest fresh
+vegetables?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「お客さんは冒険者のようだし、
+　剣や鎧のほうが入用かな。
+　この場にはないけど、家の方にいけばなかなかの品が…」
+> CONTEXT: Map204/events/18/pages/0/9/Dialogue
+> CONTEXT: Map079/events/18/pages/0/9/Dialogue
+「The customer seems to be an adventurer,
+I wonder if swords and armor are needed.
+Although I am not in this place, if I go to the house,
+quite a few items ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「えっ、剣も鎧もいらない？
+　はぁ…最近普通の魔物が急激に減って、
+　逆に淫魔が増えてるというのは本当のようだね」
+> CONTEXT: Map204/events/18/pages/0/13/Dialogue
+> CONTEXT: Map079/events/18/pages/0/13/Dialogue
+「Well, do not you need a sword or armor?
+Huh ... Recently ordinary demons have decreased sharply,
+On the contrary it seems to be true that the number of bad
+luck increases」#MTLed
+> END STRING
+
+> BEGIN STRING
+「冒険者のお兄さんとお嬢さんにも、
+　武器や防具が全く売れないんじゃ。
+　こりゃ早々に、淫魔用の装備に切り替えたほうが良さそうだよ」
+> CONTEXT: Map204/events/18/pages/0/17/Dialogue
+> CONTEXT: Map079/events/18/pages/0/17/Dialogue
+「For the adventurer's older brother and daughter,
+Weapons and armor are not sold at all. It seems better to
+switch to equestrian equipment as soon as possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+【青空雑貨】
+新鮮な食料品だけでなく、
+冒険者さんに必須の武器や防具、傷薬なども扱っています。
+ぜひお気軽に声をおかけください。
+> CONTEXT: Map204/events/19/pages/0/6/Dialogue
+> CONTEXT: Map079/events/19/pages/0/6/Dialogue
+【Blue sky goods】. Not only fresh food items,
+We also handle weapons, protective gears, scratches and
+other essentials for adventurers. Please do not hesitate to
+call out.#MTLed
+> END STRING
+
+> BEGIN STRING
+「うんしょ…うんしょ…洗濯も楽じゃないわ」
+> CONTEXT: Map204/events/20/pages/0/6/Dialogue
+> CONTEXT: Map079/events/20/pages/0/6/Dialogue
+「Yeah ... living ... ... laundry is not easy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「旦那の分と子供の分と私の分だけど、
+　特にこのところ、服についた甘ったるい香りが、
+　全然取れないわ」
+> CONTEXT: Map204/events/20/pages/0/8/Dialogue
+> CONTEXT: Map079/events/20/pages/0/8/Dialogue
+「It is part of my husband, my child and my part,
+Especially recently, the sweet scent on clothes,
+I can not take it at all.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「むしろ…洗えば洗うほど服に染みついて…、
+　もう…ずっとこのままでも、
+　良い気がしてきたわ…うふふふ\\I[140]」
+> CONTEXT: Map204/events/20/pages/0/12/Dialogue
+> CONTEXT: Map079/events/20/pages/0/12/Dialogue
+「Rather ... it is soaked in clothes as to wash and wash
+..., Already ... As always this way, I felt a good feeling
+... Uhufufu \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最近服についた甘い香りも消えて、
+　ベッドの上で旦那を責めることも、
+　少しずつ減ってきたのよ」
+> CONTEXT: Map204/events/20/pages/1/6/Dialogue
+> CONTEXT: Map079/events/20/pages/1/6/Dialogue
+「The sweet scent on clothes recently also disappeared,
+You can blame your husband on the bed, It's decreasing
+little by little」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも…旦那の幸せそうなイき顔、
+　もう子宮がうずいちゃうし、
+　時々は責めたてたいわね\\I[140]」
+> CONTEXT: Map204/events/20/pages/1/10/Dialogue
+> CONTEXT: Map079/events/20/pages/1/10/Dialogue
+「But ... Husband 's happy face, The uterus is already
+aching, Sometimes I want to blame you \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「外は淫魔が出るからって、
+　町の中だけで遊ぶのも退屈だよー」
+> CONTEXT: Map204/events/21/pages/0/6/Dialogue
+> CONTEXT: Map079/events/21/pages/0/6/Dialogue
+「Because there is a bad guy outside, It's boring to just
+play in the town」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何でも淫魔は剣や魔法は効かなくて、
+　性技以外じゃ倒せないらしいよ」
+> CONTEXT: Map204/events/21/pages/0/9/Dialogue
+> CONTEXT: Map079/events/21/pages/0/9/Dialogue
+「Anything is a sword and a magic do not work for 魔 魔,
+It seems that you can not beat other than sexual skills」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも性技って何だろう？
+　今度パパとママに聞いてみようかな」
+> CONTEXT: Map204/events/21/pages/0/12/Dialogue
+> CONTEXT: Map079/events/21/pages/0/12/Dialogue
+「But what is sexual technology? Let's ask Papa and Mama
+this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+「昔は魔物に襲われて死ぬのが当たり前でしたが、
+　今は淫魔に犯されて逝くのが、
+　当たり前になってしまったようです」
+> CONTEXT: Map204/events/22/pages/0/6/Dialogue
+> CONTEXT: Map079/events/22/pages/0/6/Dialogue
+「In the past it was natural to be attacked by demons and
+die, It is now that a man is fucked by a bad guy,
+It seems that it became natural」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私の恋人も、花の泉に現れた淫魔に犯されて…うぅ」
+> CONTEXT: Map204/events/22/pages/0/10/Dialogue
+> CONTEXT: Map079/events/22/pages/0/10/Dialogue
+「My sweetheart is also fucked by a whipping fang that
+appeared in a spring of flowers ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうですか。花の泉の淫魔を倒したのですね」
+> CONTEXT: Map204/events/22/pages/1/6/Dialogue
+> CONTEXT: Map204/events/22/pages/2/6/Dialogue
+> CONTEXT: Map079/events/22/pages/1/6/Dialogue
+> CONTEXT: Map079/events/22/pages/2/6/Dialogue
+「Is that so. You have defeated the fiend of the flower
+spring」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これであの人も安心して天国に逝けます…とはいえ、
+　腹上死寸前の顔は、まさに天国でしたけど」
+> CONTEXT: Map204/events/22/pages/1/8/Dialogue
+> CONTEXT: Map204/events/22/pages/2/8/Dialogue
+> CONTEXT: Map079/events/22/pages/1/8/Dialogue
+> CONTEXT: Map079/events/22/pages/2/8/Dialogue
+「Now that person can feel secure and pass away to heaven
+.... However, The face just before death on the abdomen was
+exactly heaven」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とっ…ともかく、ありがとうございます。
+　これは少ないですが、
+　私とあの人との結婚資金を貯めていたモノです」
+> CONTEXT: Map204/events/22/pages/1/11/Dialogue
+> CONTEXT: Map079/events/22/pages/1/11/Dialogue
+「Take ... Anyway, thank you. Although this is small,
+It is the thing which I was saving the marriage funds for
+me and that man」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これを貴方たちに差し上げます。
+　本当にありがとうございました」
+> CONTEXT: Map204/events/22/pages/1/15/Dialogue
+> CONTEXT: Map079/events/22/pages/1/15/Dialogue
+「I will give this to you. I'm really thankful to you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あの人の敵を討っていただき、
+　本当にありがとうございました」
+> CONTEXT: Map204/events/22/pages/2/11/Dialogue
+> CONTEXT: Map079/events/22/pages/2/11/Dialogue
+「Thanks to his enemies, I'm really thankful to you」#MTLed
+> END STRING
+
+> BEGIN STRING
+体験版はここまでとなります。お疲れ様でした。
+それでは、タイトルに戻ります。
+> CONTEXT: Map204/events/25/pages/0/7/Dialogue
+> CONTEXT: Map204/events/26/pages/0/7/Dialogue
+> CONTEXT: Map204/events/27/pages/0/7/Dialogue
+> CONTEXT: Map079/events/25/pages/0/7/Dialogue
+> CONTEXT: Map079/events/26/pages/0/7/Dialogue
+> CONTEXT: Map079/events/27/pages/0/7/Dialogue
+The trial version will be here.Thank you for your hard
+work. Well then, I will return to the title.#MTLed
+> END STRING

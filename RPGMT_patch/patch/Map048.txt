@@ -1,0 +1,63 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+マイホーム　外
+> CONTEXT: Map048/display_name/
+Outside my home#MTLed
+> END STRING
+
+> BEGIN STRING
+看板の裏には、今の食べごろは、ブルーベリー、キャベツ、カブ、
+ブルーベリーはジャムにして瓶詰めにする予定…と、
+可愛らしい字で書かれている。
+> CONTEXT: Map048/events/2/pages/0/7/Dialogue
+On the back of the signboard, the current food is
+blueberry, cabbage, turnip, Blueberries are scheduled to be
+jammed and bottled ... and, It is written in lovely
+letters.#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者\\N[1]と\\N[6]の家…と、
+可愛らしい字で書かれている。
+> CONTEXT: Map048/events/2/pages/0/22/Dialogue
+Adventurer \\N[1] When \\N[6] House ... ...,
+It is written in lovely letters.#MTLed
+> END STRING
+
+> BEGIN STRING
+井戸の底には、冷たそうな水が湧き出ている。
+> CONTEXT: Map048/events/3/pages/1/6/Dialogue
+At the bottom of the well, cold water seems to spring.#MTLed
+> END STRING
+
+> BEGIN STRING
+野菜を盗むべからず！…と、
+可愛らしい文字で書かれている。
+> CONTEXT: Map048/events/7/pages/0/6/Dialogue
+Do not steal vegetables!…When, It is written with lovely
+letters.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[6]が野菜を育てたり洗濯物を洗うときなどには、
+こちらの泉の水を使用しているようだ。
+> CONTEXT: Map048/events/9/pages/0/6/Dialogue
+\\N[6] When raising vegetables and washing laundry,
+etc., It seems to be using the water of this spring.#MTLed
+> END STRING
+
+> BEGIN STRING
+洗い桶の中には綺麗な水で満たされている。
+> CONTEXT: Map048/events/10/pages/0/6/Dialogue
+The washing tub is filled with clean water.#MTLed
+> END STRING
+
+> BEGIN STRING
+鳥や獣避けのかかしだ。
+使わなくなった、古い武器や防具をつなぎ合わせ、
+\\N[6]が精魂込めて作成した物…らしい。
+> CONTEXT: Map048/events/11/pages/0/6/Dialogue
+It is a scarecrow of birds and beast avoidance.
+I used old weapons and armor, which I no longer use,
+\\N[6] It is like a thing created with a spirit ....#MTLed
+> END STRING

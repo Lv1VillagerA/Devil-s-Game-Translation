@@ -1,0 +1,38 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+枯れ山　９合目
+> CONTEXT: Map091/display_name/
+Withering mountain 9th meeting#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はぁ、ようやく折り返しだね\\C[29]」
+> CONTEXT: Map091/events/31/pages/0/9/Dialogue
+\\C[29]「\\C[0]Haa, it's finally turning around\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、ここから先は淫魔の気配を感じる。
+　気をつけて進むぞ\\C[1]」
+> CONTEXT: Map091/events/31/pages/0/11/Dialogue
+\\C[1]「\\C[0]Oh, I feel the sign of bad luck next time.
+Be careful and move on.\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん、噂の女山賊たちだね。
+　上級淫魔の仕業で間違いないのかな？\\C[29]」
+> CONTEXT: Map091/events/31/pages/0/16/Dialogue
+\\C[29]「\\C[0]Well, rumored women bandits.
+Is not it a mistake in senior demonic work?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええ、枯れ山のふもとから、強力な淫気を感じますわ。
+　間違いなく上級淫魔が関わってますので、
+　その点は大丈夫ですわ」
+> CONTEXT: Map091/events/31/pages/0/20/Dialogue
+「Yeah, I feel strong persecution from the foot of a dead
+mountain. Since it is definitely involved with an advanced
+umami, That point is okay.」#MTLed
+> END STRING

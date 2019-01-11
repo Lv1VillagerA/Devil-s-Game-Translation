@@ -1,0 +1,276 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+客室　２Ｆ
+> CONTEXT: Map150/display_name/
+Guest room 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+宿泊した人たちの荷物がしまわれている。
+> CONTEXT: Map150/events/21/pages/1/7/Dialogue
+> CONTEXT: Map150/events/22/pages/1/7/Dialogue
+> CONTEXT: Map150/events/23/pages/1/7/Dialogue
+> CONTEXT: Map150/events/24/pages/1/7/Dialogue
+The baggage of those who stayed are lost.#MTLed
+> END STRING
+
+> BEGIN STRING
+用途不明の薬品が多数収納されている。
+> CONTEXT: Map150/events/25/pages/0/7/Dialogue
+> CONTEXT: Map150/events/26/pages/0/7/Dialogue
+> CONTEXT: Map150/events/27/pages/0/7/Dialogue
+> CONTEXT: Map150/events/28/pages/0/7/Dialogue
+> CONTEXT: Map150/events/29/pages/0/7/Dialogue
+> CONTEXT: Map150/events/30/pages/0/7/Dialogue
+> CONTEXT: Map150/events/31/pages/0/7/Dialogue
+> CONTEXT: Map150/events/32/pages/0/7/Dialogue
+Many unknown chemicals are stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+館の使用人が書き残したと思われる日記がある、
+読みますか？
+> CONTEXT: Map150/events/57/pages/0/7/Dialogue
+There is a diary that the owner of the house seems to have
+left behind, Do you read?#MTLed
+> END STRING
+
+> BEGIN STRING
+一日目
+領主様の使いという人に誘われ、
+今日からこの館で働くことになった。
+> CONTEXT: Map150/events/57/pages/0/13/Dialogue
+first day. Invited by someone who uses the lords,
+From today I will be working at this pavilion.#MTLed
+> END STRING
+
+> BEGIN STRING
+今日は初日ということで、
+館の色々な部屋を案内されて終わった。
+かなりの広さのわりに、僕以外の男手がいないようだ。
+> CONTEXT: Map150/events/57/pages/0/17/Dialogue
+Today is the first day, I was guided through various rooms
+in the hall and it ended. It seems that there are no other
+men than me for quite a while.#MTLed
+> END STRING
+
+> BEGIN STRING
+二日目
+僕の役目は館の中と外の清掃だ。
+昨日一日かけて館の構造はわかったので、特に問題はない。
+> CONTEXT: Map150/events/57/pages/0/21/Dialogue
+Day 2. My job is cleaning the inside and outside of the
+hall. I knew the structure of the hall over the whole day
+yesterday, so there is no particular problem.#MTLed
+> END STRING
+
+> BEGIN STRING
+掃除に関しても、
+館のお嬢様たちが丁寧に教えてくれる。
+しかし少しスキンシップが激しすぎる気がする。
+> CONTEXT: Map150/events/57/pages/0/25/Dialogue
+As for cleaning, The young ladies of the library will teach
+them carefully. However, I feel that the skin ship is a bit
+too intense.#MTLed
+> END STRING
+
+> BEGIN STRING
+三日目
+本日も館の清掃を行う。
+何故か昨日よりも、お嬢様方の密着度合いが高くなっている。
+> CONTEXT: Map150/events/57/pages/0/29/Dialogue
+third day. I will also clean the house today.
+Somehow the degree of close contact with the girls is
+getting higher than yesterday.#MTLed
+> END STRING
+
+> BEGIN STRING
+ことあるごとに僕のカラダの隅々を、
+優しく撫で回してくるのだ。
+あぁ…そんなトコロまで…駄目ですお嬢様…！
+> CONTEXT: Map150/events/57/pages/0/33/Dialogue
+Every time there is a thing in my body, It gently strokes
+me. Ah ... even to such a tough ... ... no daughter ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+四日目
+早くも僕の理性が欲望に負けようとしている。
+館の清掃中もエッチなことばかり考えてしまう。
+> CONTEXT: Map150/events/57/pages/0/37/Dialogue
+the forth day. My reason is trying to lose to desire as
+soon as possible. I will think about only horny things
+while cleaning the house.#MTLed
+> END STRING
+
+> BEGIN STRING
+そんな僕に領主様がお声をかけてくれた。
+内容は当り障りのない話だったが、
+たったそれだけで僕のモノは…もう。
+> CONTEXT: Map150/events/57/pages/0/41/Dialogue
+My lord speaks to me like that. The content was a story
+that did not hurt, Just that alone is my thing ... already.#MTLed
+> END STRING
+
+> BEGIN STRING
+五日目
+アレから悶々とした夜を過ごし、
+必死に静めようとしても駄目だった。
+> CONTEXT: Map150/events/57/pages/0/45/Dialogue
+Fifth day. I spent a cramped night out of Ale,
+It was useless trying to calm desperately.#MTLed
+> END STRING
+
+> BEGIN STRING
+今日の仕事中もずっと勃起したままで、
+いつお嬢様方にバレないかビクビクしている。
+幸いなことに指摘されるようなことはなかったけど。
+> CONTEXT: Map150/events/57/pages/0/49/Dialogue
+While still working everyday, When you are lucky you are
+not girls. Fortunately there was nothing to be pointed out.#MTLed
+> END STRING
+
+> BEGIN STRING
+六日目
+日に日に自分の性欲を押さえられず、
+いつお嬢様方に襲いかかってしまうか、心配になってきた。
+> CONTEXT: Map150/events/57/pages/0/53/Dialogue
+Sixth day. I can not hold my libido every day,
+I was worried when I was going to attack the girls.#MTLed
+> END STRING
+
+> BEGIN STRING
+そんな僕の様子を見かねたのか、
+領主様が相談に乗ってくれることになり、
+明日自分の部屋に来るようにとのことだ。
+> CONTEXT: Map150/events/57/pages/0/57/Dialogue
+I wonder if she sees me like that, The lord will take care
+of you, I told myself to come to my room tomorrow.#MTLed
+> END STRING
+
+> BEGIN STRING
+優しくて美しい領主様で良かったなぁ。
+領主様のことを考えると…僕…僕…！
+> CONTEXT: Map150/events/57/pages/0/61/Dialogue
+It was nice and beautiful lord. Thinking about the lord ...
+... I ... I ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ここで日記は終わっている…。
+> CONTEXT: Map150/events/57/pages/0/64/Dialogue
+> CONTEXT: Map150/events/65/pages/0/54/Dialogue
+The diary is over here ....#MTLed
+> END STRING
+
+> BEGIN STRING
+館を訪れた男が書き残したと思われる日記がある、
+読みますか？
+> CONTEXT: Map150/events/65/pages/0/7/Dialogue
+There is a diary which the man who visited the museum
+thinks it left behind, Do you read?#MTLed
+> END STRING
+
+> BEGIN STRING
+本当はこんなことを書いている状況ではないのだが、
+万一俺が失敗したときのために、
+他の冒険者にこれを残すことにする。
+> CONTEXT: Map150/events/65/pages/0/13/Dialogue
+It is not really the situation where I write such a thing,
+In the unlikely event I failed, I will leave this to other
+adventurers.#MTLed
+> END STRING
+
+> BEGIN STRING
+今の女領主に代替わりしてから、
+魔物と淫魔による島での被害がピタリと止んだらしい。
+明らかに怪しいと感じた。俺以外にも多くの人がそう思うだろう。
+> CONTEXT: Map150/events/65/pages/0/17/Dialogue
+After substituting for the current lady owner,
+It seems that the damage on the island caused by monsters
+and obscurities stopped suddenly. I felt obviously
+suspicious. Many people think so, besides me.#MTLed
+> END STRING
+
+> BEGIN STRING
+今の領主に得体の知れなさを感じているだろう。
+もっとも、島人にとっては万々歳なのだが、
+やはり最悪の可能性も捨てきれない。
+> CONTEXT: Map150/events/65/pages/0/21/Dialogue
+You will feel the unfamiliarity of the acquaintance to the
+current lord. Although it is all-out to the islanders,
+Again we can not abandon the worst possible possibilities.#MTLed
+> END STRING
+
+> BEGIN STRING
+そう…領主本人が淫魔だという可能性だ。
+月に一度の男限定の求人が、良い証拠だ。
+> CONTEXT: Map150/events/65/pages/0/25/Dialogue
+Yes ... the possibility that the lord himself is a bad guy.
+A male job-only job once a month is good proof.#MTLed
+> END STRING
+
+> BEGIN STRING
+密かに冒険者ギルドの援助を受けて、
+領主の館に客人として潜り込んだのは良いが…。
+> CONTEXT: Map150/events/65/pages/0/28/Dialogue
+Secretly receiving the aid of the adventurer guild,
+It is good that he got into the owner's house as a guest.#MTLed
+> END STRING
+
+> BEGIN STRING
+この館は思った以上にヤバイ。
+食事や風呂など歓迎を受けるのは良いが、
+そのたびに女が数人、奉仕係として付いてくるのだ。
+> CONTEXT: Map150/events/65/pages/0/31/Dialogue
+This building is more jerk than I thought.
+It is good to receive a welcome such as meals and baths,
+Each time a woman comes along as a service staff.#MTLed
+> END STRING
+
+> BEGIN STRING
+領主として突然降って湧いた客人を歓迎、
+または警戒する気持ちはわからなくもないが…。
+> CONTEXT: Map150/events/65/pages/0/35/Dialogue
+Welcome guests who suddenly fell as lords,
+I do not even know the feeling of caution ....#MTLed
+> END STRING
+
+> BEGIN STRING
+何よりヤバイのは付き人たちの動作一つ一つに、
+俺は目は奪われっぱなしで、
+彼女たちに身も心も犯されたい…そればかりしか考えられなくなる。
+> CONTEXT: Map150/events/65/pages/0/38/Dialogue
+More than anything, Yabai 's attendants' actions one by
+one, I keep my eyes taken away, I want to have their bodies
+and minds violated ... they only can think about it.#MTLed
+> END STRING
+
+> BEGIN STRING
+もう俺の理性は限界寸前だ。
+相手が淫魔だと気づいたときには、
+既に手遅れということだ。
+> CONTEXT: Map150/events/65/pages/0/42/Dialogue
+My reason is on the verge of limit. When you realize that
+the other person is a bad guy, It is already too late.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔性の女たちが今日も俺の耳元で囁く。
+こちらの知っている情報を全て話せば、
+領主自ら桃源郷を見せてくれると。
+> CONTEXT: Map150/events/65/pages/0/46/Dialogue
+Magical ladies whisper at my ear today as well.
+If you talk about all the information you know,
+The lords will show themselves Togenokyo.#MTLed
+> END STRING
+
+> BEGIN STRING
+心もカラダも腑抜けにされた以上、何処にも逃げられない。
+これから女領主に、
+俺が侵入した目的を洗いざらい話してしまおう。
+> CONTEXT: Map150/events/65/pages/0/50/Dialogue
+I can not escape anywhere because my heart and body have
+been made funny. From now on to the lady,
+Let me talk about the purpose I invaded.#MTLed
+> END STRING

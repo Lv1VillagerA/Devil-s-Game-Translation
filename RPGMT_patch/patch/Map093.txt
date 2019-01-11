@@ -1,0 +1,73 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+枯れ山　３合目
+> CONTEXT: Map093/display_name/
+Withering mountain third meeting#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺は商隊の護衛隊長だ。もっとも…元がつくが。
+　枯れ山を越えようとしていたところ、
+　女山賊たちに襲われてな」
+> CONTEXT: Map093/events/32/pages/0/6/Dialogue
+「I'm the escort captain of the merchant. Although ...
+Although it gets original. As I tried to cross the dead
+mountain, Woman bandits are attacked by」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろただの山賊なら何とかなるのだが、
+　淫魔になり、攻撃が効かなくなった以上、
+　為す術もなく囚われの身になってしまったんだ」
+> CONTEXT: Map093/events/32/pages/0/10/Dialogue
+「After all, if only a bandit is managed somehow,
+As it became obsessive and the attack ceased to work,
+I did not have the technique to do it but I was trapped.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「アジトには俺たちの他にも、
+　数多くの男たちが囚われ、
+　女山賊たちに性的な辱めを受けていた」
+> CONTEXT: Map093/events/32/pages/0/14/Dialogue
+「Besides us besides us, Many men are caught,
+Woman bandits were sexually humiliated」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺は奴らの一瞬の隙を突いて、
+　この男を連れて脱出するのが精一杯だったんだ」
+> CONTEXT: Map093/events/32/pages/0/18/Dialogue
+「I poked in the gap of their moments, It was as much as I
+could escape with this guy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「山賊の頭さえ倒せれば、ふもとの漁村まで引き返せるのだが、
+　今さら女山賊たちのたむろする枯れ山を越えて、
+　安全な宿場町まで行くのは、この男を連れていてはとてもな」
+> CONTEXT: Map093/events/32/pages/0/21/Dialogue
+「If you can defeat even the heads of the bandits, you can
+go back to the fishing village at the foot,
+Beyond the withered mountain which the woman bandits now
+hang out, It is very safe to take this guy to go to a safe
+lodgings town.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし今思い出しても、あの女山賊たちには、
+　出来ればもう二度と会いたく…いや…会って…、
+　今度は直接犯してもら…はっ！　俺は何を…！」
+> CONTEXT: Map093/events/32/pages/0/25/Dialogue
+「But even now I remember that woman bandits,
+I would like to meet you again if possible ... no ... Meet
+me, This time I will commit them directly ... Ha! What am I
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うっ…うぅ…女山賊たちのカラダ…えがったぁ…\\I[140]」
+> CONTEXT: Map093/events/33/pages/0/6/Dialogue
+「Uh ... Uoo ... Woman The bandits of the bandits ... It
+was ... oh ... \\I[140]」#MTLed
+> END STRING

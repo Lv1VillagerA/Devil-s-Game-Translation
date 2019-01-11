@@ -1,0 +1,220 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「はいはい、今日は奴隷市は開かれてないよ。
+　次に開かれるのはある程度奴隷が集まったらだし、
+　一週間以上先じゃないかな？」
+> CONTEXT: Map199/events/32/pages/0/6/Dialogue
+> CONTEXT: Map141/events/32/pages/0/6/Dialogue
+「Today there is no slave city open. It will open next time
+if slaves gather to a certain extent, It might be a week or
+more ahead?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あと他の町じゃどうか知らないけど、
+　この魔法都市ではずっと昔から、奴隷販売は合法だよ。
+　そこの所を誤解しないでよね」
+> CONTEXT: Map199/events/32/pages/0/10/Dialogue
+> CONTEXT: Map141/events/32/pages/0/10/Dialogue
+「I do not even know about it in other towns,
+For a long time in this magical city, slave sale is legal.
+Do not misunderstand the place there」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろ魔貨欲しさに、
+　親が子を売るというのもあるし、
+　孤児の売り買いなんて珍しくないからね」
+> CONTEXT: Map199/events/32/pages/0/14/Dialogue
+> CONTEXT: Map141/events/32/pages/0/14/Dialogue
+「In any case the magical coins wanted, Some parents sell
+their children, It is not unusual for orphans to buy and
+sell」#MTLed
+> END STRING
+
+> BEGIN STRING
+「町の外でどれだけ淫魔が暴れていても、
+　魔法都市にいる限りは安全です」
+> CONTEXT: Map199/events/43/pages/0/6/Dialogue
+> CONTEXT: Map141/events/43/pages/0/6/Dialogue
+「No matter how much horse rage is out of town,
+It's safe as long as you are in a magical city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええ、私たち魔法使いがその気になれば、
+　天使に頼らずとも、淫魔を倒すことが出来るのです」
+> CONTEXT: Map199/events/43/pages/0/9/Dialogue
+> CONTEXT: Map141/events/43/pages/0/9/Dialogue
+「Yeah, if we are interested in the wizard,
+You can defeat the bastard without relying on an angel」#MTLed
+> END STRING
+
+> BEGIN STRING
+「きゃははは！　どうだー思い知ったか～。
+　魔法使い様の力の前では、
+　淫女王など敵じゃないのだ～」
+> CONTEXT: Map199/events/44/pages/0/6/Dialogue
+> CONTEXT: Map141/events/44/pages/0/6/Dialogue
+「Hahaha! How did you know? Before the power of the wizard,
+It is not an enemy such as a lady king ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あらあら、うちの娘ったらはしゃいじゃって…」
+> CONTEXT: Map199/events/45/pages/0/6/Dialogue
+> CONTEXT: Map141/events/45/pages/0/6/Dialogue
+「oh no, my daughter is awesome ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でもうちのダンナが封印の塔に向かった以上、
+　淫女王なんて倒して、すぐ帰って来るわ」
+> CONTEXT: Map199/events/45/pages/0/8/Dialogue
+> CONTEXT: Map141/events/45/pages/0/8/Dialogue
+「But as our Danna headed for the seal tower,
+Defeat the horny king and come home soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+「二百年以上昔の淫女王なんて、
+　今の魔法使いたちの敵じゃないもの」
+> CONTEXT: Map199/events/45/pages/0/11/Dialogue
+> CONTEXT: Map141/events/45/pages/0/11/Dialogue
+「Hundreds of years ago, Those not the enemy of the current
+wizards」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…今日も日差しが心地良いのう」
+> CONTEXT: Map199/events/46/pages/0/6/Dialogue
+> CONTEXT: Map141/events/46/pages/0/6/Dialogue
+「Haa ... the sun is comfortable today as well」#MTLed
+> END STRING
+
+> BEGIN STRING
+「外では凶悪な淫女王が侵攻を開始したとか聞くが、
+　この町は平和そのものじゃよ」
+> CONTEXT: Map199/events/46/pages/0/8/Dialogue
+> CONTEXT: Map141/events/46/pages/0/8/Dialogue
+「Outside hears that heinous horny king started invasion,
+This town is the peace itself」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろ大結界がある限り淫魔たちは手も足も出せぬし、
+　この町の魔法使いは、世界屈指の使い手ばかりじゃ」
+> CONTEXT: Map199/events/46/pages/0/11/Dialogue
+> CONTEXT: Map141/events/46/pages/0/11/Dialogue
+「As long as there is a great boundary, the demons can not
+put their hands or legs, The magician of this town is
+nothing but the best user in the world」#MTLed
+> END STRING
+
+> BEGIN STRING
+「たとえ淫魔の大群が攻めてきても、
+　たちどころに殲滅出来るじゃろう」
+> CONTEXT: Map199/events/46/pages/0/14/Dialogue
+> CONTEXT: Map141/events/46/pages/0/14/Dialogue
+「Even if the hordes of bad luck attacks,
+Let's be annihilated every now and then」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかも今はこの町の魔法使いだけではなく、
+　世界中の名だたる豪傑たちが、
+　封印の塔の淫女王を討ち果たすべく、戦っておるのじゃ」
+> CONTEXT: Map199/events/46/pages/0/17/Dialogue
+> CONTEXT: Map141/events/46/pages/0/17/Dialogue
+「And now not only the wizard of this town,
+Majestic gods from all over the world, You are fighting to
+fight the villain King of the seal tower」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ほほほっ、わしら人間の勝利は、
+　もう決まったも同然じゃて」
+> CONTEXT: Map199/events/46/pages/0/21/Dialogue
+> CONTEXT: Map141/events/46/pages/0/21/Dialogue
+「Hoho, the victory of a human being, It's as good as it is
+already decided」#MTLed
+> END STRING
+
+> BEGIN STRING
+「敵は淫魔だけではなく、他の国の者もいますからね。
+　なので定期的に町の見回りをしています」
+> CONTEXT: Map199/events/47/pages/0/6/Dialogue
+> CONTEXT: Map141/events/47/pages/0/6/Dialogue
+「Not only enemies are bad luck, but also from other
+countries. So I regularly look around the city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう言えばここ最近、
+　外で淫魔に襲われたという行商人の生き残りが、
+　魔法都市に逃げ込んでくる事件が、少し多いような」
+> CONTEXT: Map199/events/47/pages/0/9/Dialogue
+> CONTEXT: Map141/events/47/pages/0/9/Dialogue
+「That's why recently, The survival of the peddler who had
+been attacked by a female outside, A case escaping into a
+magic city is like a little more」#MTLed
+> END STRING
+
+> BEGIN STRING
+「生き残ったのは何故か女子供ばかりでしたが、
+　彼女たちは目立った武器も携帯しておらず、
+　まさに着の身着のままでした」
+> CONTEXT: Map199/events/47/pages/0/13/Dialogue
+> CONTEXT: Map141/events/47/pages/0/13/Dialogue
+「It was only female children why survived,
+They also do not carry prominent weapons,
+I was just wearing clothes」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そんなか弱い彼女たちを疑うことなんて、
+　僕には…いえ、町の人たちにも出来ません！」
+> CONTEXT: Map199/events/47/pages/0/17/Dialogue
+> CONTEXT: Map141/events/47/pages/0/17/Dialogue
+「To doubt such weak girls, To me ... No, I can not do it
+for people in the town!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「決して彼女たちの美しいカラダに目が眩んで、
+　鼻の下を伸ばしたからではありませんよ？」
+> CONTEXT: Map199/events/47/pages/0/20/Dialogue
+> CONTEXT: Map141/events/47/pages/0/20/Dialogue
+「Never dazzled their beautiful body, It is not because I
+stretched out under my nose?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ全く…この町は、
+　行商人たちの駆け込み寺ではないというのに」
+> CONTEXT: Map199/events/48/pages/0/6/Dialogue
+> CONTEXT: Map141/events/48/pages/0/6/Dialogue
+「Ha totally ... this town, Although it is not a run-up
+temple of peddlers」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら女ばかりの商隊とはいえ、
+　そういつまでも甘い顔をして…でもあの女たち。
+　すごく美人だったなぁ」
+> CONTEXT: Map199/events/48/pages/0/9/Dialogue
+> CONTEXT: Map141/events/48/pages/0/9/Dialogue
+「Even though it is a woman who is just a woman,
+That way you keep your sweet face forever ... but that
+girls. I was pretty beautiful.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「商隊一同が助けれくれたお礼をしたいからって、
+　俺…夜に呼び出されてるんだよな。
+　いったいどんなお礼かな。まぁ想像はつくが…ぐへへ\\I[140]」
+> CONTEXT: Map199/events/48/pages/0/13/Dialogue
+「Because we wanted to thank all the merchants for their
+help, I ... It's being called at night. What kind of thank
+you!Well imagination attaches, but ... \\I[140]」#MTLed
+> END STRING

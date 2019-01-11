@@ -1,0 +1,151 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「たくっ！　また一人だけ売れ残りやがって！」
+> CONTEXT: Map176/events/4/pages/0/10/Dialogue
+「Take it! Only one person is unsold!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「伝説のエルフというだけで、少々ふっかけ過ぎたか？
+　このまま売れ残り続けても、維持費がかさむしな。
+　仕方ない…次から少々値を下げてみるか」
+> CONTEXT: Map176/events/4/pages/0/13/Dialogue
+「Just a legendary elf, did you feel a little overworked?
+Even if we continue to sell like this, maintenance costs
+will increase. It can not be helped ... I try to lower it a
+bit from the next」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最悪知り合いの娼館に、
+　二束三文で売っぱらっちまうって手もあるな」
+> CONTEXT: Map176/events/4/pages/0/17/Dialogue
+「At the worst acquaintance 's hall, There are also hands
+to sell out in two sentences.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]魔法都市には来るのは始めてだが、
+　こんな場所があったなんてな\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/34/Dialogue
+\\C[1]「\\C[0]It is my first time to come to a magical city,
+I did not know there was such a place\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「へいいらっしゃい！　冒険者の旦那！
+　奴隷を買いに来たんですかい？」
+> CONTEXT: Map176/events/4/pages/0/57/Dialogue
+「Come on! Adventurer's husband! Did you come to buy a
+slave?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ですが…あいにく市は今日はもう終わって、
+　またの開催日を……って、そうだ！」
+> CONTEXT: Map176/events/4/pages/0/60/Dialogue
+「But ... unfortunately the city has finished today,
+I will hold the date of another ... ... That's right!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いやはや、旦那は運が良い！
+　実は一人だけ売れのこ……いや！
+　たった今仕入れたんですよ！」
+> CONTEXT: Map176/events/4/pages/0/64/Dialogue
+「No, my husband is lucky! Actually, only one person can
+sell ... ... No! I just bought it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]もしかして、このエルフの女か？\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/73/Dialogue
+\\C[1]「\\C[0]Perhaps, this elf woman?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「へい、そうです！
+　今なら旦那のために、
+　特別に二十万魔貨でお売りしますよ！」
+> CONTEXT: Map176/events/4/pages/0/79/Dialogue
+「That's right! Now for the husband, I will sell it in
+specially 200,000 magic coins!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁ…その前に一つ聞きたいんだが、
+　もし俺が買わなかったら、
+　エルフの奴隷はこの先どうなるんだ？\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/84/Dialogue
+\\C[1]「\\C[0]Ah ... ... I want to ask one before that,
+If I did not buy it, What will happen to the slaves of
+elves in the future?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それは…その…言い辛いんですが、
+　何しろエルフという種族はは非常に珍しく、
+　しかも美しい容姿ですし、ろくな結末にはなりませんなぁ」
+> CONTEXT: Map176/events/4/pages/0/92/Dialogue
+「That ... ... that ... It is hard to say,
+Anyway the tribe named Elf is very unusual,
+Moreover, it is a beautiful appearance and it will not be a
+ferocious ending」#MTLed
+> END STRING
+
+> BEGIN STRING
+「昔からエルフは金持ち連中に引き取られ、
+　性処理用として死ぬまで被虐的な扱いを受けると、
+　相場は決まっていますし」
+> CONTEXT: Map176/events/4/pages/0/96/Dialogue
+「Long ago elves were taken over by rich people,
+Upon being subjected to cruel treatment until sex for
+death, The market is decided」#MTLed
+> END STRING
+
+> BEGIN STRING
+「また、それを運良く免れたとしても、
+　奴隷鉱夫として買われ、
+　死ぬまで鉱山でこき使われ続けるのは確実」
+> CONTEXT: Map176/events/4/pages/0/100/Dialogue
+「Also, even if you can escape it luckily,
+Bought as a slave miner, It surely will continue to be used
+in mines until death」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし旦那の男気に惚れた弱みだ！
+　ええい！　このエルフの女を、
+　特別に十万魔貨まで下げてお売りしましょう！」
+> CONTEXT: Map176/events/4/pages/0/104/Dialogue
+「But it is a weakness that fell in love with her husband's
+mouth! Well! This elf woman, Let's sell it down to a
+special 100,000 demonic currency!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]十万魔貨か…確かに大金だが。
+　手持ちの魔貨と、装備や道具をほぼ全て売り払えば、
+　用意できない額じゃないか\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/109/Dialogue
+\\C[1]「\\C[0]Hundreds of thousands of magical currencies ... It is
+certainly a lot of money. If you sell nearly all of the
+stock of witches and equipment and tools,
+Is not it an unprepared amount?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はぁ…ここで会ったのも何かの縁か。
+　今すぐ十万魔貨を工面してくるから、
+　少し待っていてくれ\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/126/Dialogue
+\\C[1]「\\C[0]Haa ... it is also the edge of something I saw here.
+Now we will have a hundred thousand witchcraft,
+Wait a while.\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]その間、絶対誰にも売るんじゃないぞ！\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/143/Dialogue
+\\C[1]「\\C[0]Meanwhile, absolutely not to sell to anyone!\\C[1]」#MTLed
+> END STRING

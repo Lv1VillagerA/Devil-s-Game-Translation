@@ -1,0 +1,96 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「うっ…うぅ…誰か…そこにいるのか…？」
+> CONTEXT: Map002/events/7/pages/0/7/Dialogue
+「ugh ... Uoo ... Someone ... Are you there ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]アンタはもしかして、調査隊のメンバーか？
+　だったらもう大丈夫だ！　助けに来たんだ！\\C[1]」
+> CONTEXT: Map002/events/7/pages/0/9/Dialogue
+\\C[1]「\\C[0]Are you a member of the research team?
+Then it's all right! I came here to help!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ははっ…そうか…助けが…だが、
+　…私はもう駄目だ」
+> CONTEXT: Map002/events/7/pages/0/13/Dialogue
+「Ahh ... I see ... help ... but, ... I will not do anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+「彼女たちの度重なるエナジードレインで、
+　かつて…鉱山で鍛えた手足が…枯れ木のように、
+　…やせ細ってしまった」
+> CONTEXT: Map002/events/7/pages/0/16/Dialogue
+「With their repeated energy drain, Once ... limbs trained
+with mines ... like dead trees, ... I got thinner」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ここから脱出して、
+　またやり直せば良い。
+　アンタはまだ終わってなんかいない！\\C[1]」
+> CONTEXT: Map002/events/7/pages/0/21/Dialogue
+\\C[1]「\\C[0]Escape from here, You can do it over again.
+You have not finished yet!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「良いんだ…自分のカラダのことは、
+　…自分が一番…良くわかっている。
+　もう…目を開けているのも…辛い」
+> CONTEXT: Map002/events/7/pages/0/26/Dialogue
+「It's okay ... As for my body, ... I am the best ... I
+know well. It is too ... It is painful to open my eyes ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]おい…しっかりしろ！　おい…！\\C[1]」
+> CONTEXT: Map002/events/7/pages/0/31/Dialogue
+\\C[1]「\\C[0]Hey ... make sure! Hey…!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「目を閉じると…彼女たちの甘い香りと…美しい肢体が、
+　最後に精奴隷ではなく…人間として逝けて…私は…しあわ…せ…」
+> CONTEXT: Map002/events/7/pages/0/33/Dialogue
+「When I close my eyes ... their sweet scents ... beautiful
+limbs, In the end it is not a precision slave ... as a
+human being passed ... I am ... ... ... ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+それっきり男は動かなくなった…。
+> CONTEXT: Map002/events/7/pages/0/46/Dialogue
+That's why the man stopped moving ....#MTLed
+> END STRING
+
+> BEGIN STRING
+男は満足そうな顔で事切れている…。
+> CONTEXT: Map002/events/7/pages/1/9/Dialogue
+> CONTEXT: Map002/events/7/pages/2/9/Dialogue
+The man is out of content with a satisfying face ....#MTLed
+> END STRING
+
+> BEGIN STRING
+男の懐から魔貨がこぼれ落ちた…。
+> CONTEXT: Map002/events/7/pages/1/11/Dialogue
+Magical spilled from the bosom of a man ....#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]炭鉱に扉？　…ギルドからの情報はなかったが。
+　ということは、\\N[6]はこの奥か\\C[1]」
+> CONTEXT: Map002/events/14/pages/0/9/Dialogue
+\\C[1]「\\C[0]Doors to coal mines? ... There was no information from
+the guild. That means, \\N[6] Is this far behind?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どうにかして、開ける手段を探さないと\\C[1]」
+> CONTEXT: Map002/events/14/pages/0/12/Dialogue
+\\C[1]「\\C[0]Somehow, I have to find a means to open it\\C[1]」#MTLed
+> END STRING

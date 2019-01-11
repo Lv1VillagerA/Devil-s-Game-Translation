@@ -1,0 +1,194 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大魔法使いの家
+> CONTEXT: Map160/display_name/
+Great wizard house#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここはこ魔法都市一の使い手と言われる、
+　二人の魔法使いが住む家ですよ」
+> CONTEXT: Map160/events/4/pages/0/6/Dialogue
+「This place is said to be a user of this magical city,
+It is the house where two wizards live」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でもあのお二人は実力は確かなのですが、
+　性格的には…ちょっと」
+> CONTEXT: Map160/events/4/pages/0/9/Dialogue
+「But both of them are qualified, but, Personally ... hey」#MTLed
+> END STRING
+
+> BEGIN STRING
+「気に入った男や女を片っ端から抱いて、
+　飽きたら捨てるという行為を、繰り返しているのです」
+> CONTEXT: Map160/events/4/pages/0/12/Dialogue
+「Hugging the favorite man or woman from one end,
+I repeat the act of throwing away after getting tired of it
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あっ…でも、魔貨だけは持ってますので。
+　妾として飽きた人たちにも、
+　本当に何不自由のない生活を送らせているのですよ」
+> CONTEXT: Map160/events/4/pages/0/15/Dialogue
+「Ah ... but I have only the witch. For those who got bored
+as a concubine, It really is living without inconvenience」#MTLed
+> END STRING
+
+> BEGIN STRING
+「んっ、そこのエルフは魔法が使えるようだね。
+　なかなか良い目をしている。それに容姿も悪くない。
+　いや、むしろ良い部類だな」
+> CONTEXT: Map160/events/5/pages/0/6/Dialogue
+「It seems that elves there can use magic.
+It has quite good eyes. Besides, it does not look bad.
+No, it's rather a good category.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうだい？　エルフの君、
+　今すぐ冒険者を辞めて、この僕の妾にならないか？」
+> CONTEXT: Map160/events/5/pages/0/10/Dialogue
+「How are you? Elves, you, Quitting an adventurer right
+now, can not you become this my servant?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]むっ…お断りするよ！\\C[29]」
+> CONTEXT: Map160/events/5/pages/0/13/Dialogue
+\\C[29]「\\C[0]Muu ... I will refuse!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この僕の誘いを断るのか？
+　ふん、これだから野蛮な森の民は！
+　まぁ良い…どうせすぐ気が変わるだろう」
+> CONTEXT: Map160/events/5/pages/0/15/Dialogue
+「Are you refusing this invitation from me?
+Hmm, this is so savage forest people! Well good ... I will
+change my mind sooner or later」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この町の素晴らしさ、そして僕の優秀さも、
+　すぐに理解し、どうか貴方様の妾にしてくださいと、
+　…そう頭を下げに来るに決まっている」
+> CONTEXT: Map160/events/5/pages/0/19/Dialogue
+「The splendor of this town, and my excellence,
+Please understand immediately, please let me be your
+concubine, ... So it is decided to come head down」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふーん…魔法は使えないようだけど、
+　なかなか意志の強そうな顔立ちね。
+　それに、全身をかなり鍛えてあるわ」
+> CONTEXT: Map160/events/6/pages/0/6/Dialogue
+「Hmm ... I can not use magic, It seems quite easy to have
+a will. Besides, I have totally trained the whole body.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どう？　そこの貴方…泥臭い冒険者なんて辞めて、
+　私の情夫にならない？
+　一生何不自由させないわよ」
+> CONTEXT: Map160/events/6/pages/0/10/Dialogue
+「How? You there ... quit a dirty adventurer,
+Can not you be my husband? I will not let in my life for
+the rest of my life」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁいや…俺は…そんな気は…\\C[1]」
+> CONTEXT: Map160/events/6/pages/0/14/Dialogue
+\\C[1]「\\C[0]Aya ... I ... ... that kind of mind ...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あら断るのね。ますます気に入ったわ。
+　でも気が変わったら、いつでもどうぞ。
+　魔法都市で一番の魔女が、貴方を男にしてあげるから」
+> CONTEXT: Map160/events/6/pages/0/16/Dialogue
+「You refuse it. I liked it more and more.
+But when your mind changes, please come anytime.
+The greatest witch in the magic city will give you a man」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ…主様とお嬢様も、
+　もう少し落ち着いてくださると良いのですが」
+> CONTEXT: Map160/events/7/pages/0/6/Dialogue
+「Hmm ... Main and Lady, too, It would be nice if you calm
+down a bit more」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とはいえ、先代の主様も女癖が悪かったですしなぁ。
+　今の主様とお嬢様と同じように、
+　引き抜いた妾の数は両手両足ではとても足りませんし」
+> CONTEXT: Map160/events/7/pages/0/9/Dialogue
+「However, the master of the previous generation also had
+bad habits. Just like the present Lord and the lady,
+The number of pulls I pull out is not very good with both
+hands and feet」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…この私が引退する前に、
+　女癖と男癖の悪さ…治すことが出来るのでしょうか」
+> CONTEXT: Map160/events/7/pages/0/13/Dialogue
+「Haa ... Before I retire, Poor girls and bad habits ...
+Can they be cured」#MTLed
+> END STRING
+
+> BEGIN STRING
+高級そうな魔法道具が乱雑に収納されている。
+> CONTEXT: Map160/events/8/pages/1/6/Dialogue
+> CONTEXT: Map160/events/9/pages/1/6/Dialogue
+Magical tools that seem to be high grade are stored in
+disorder.#MTLed
+> END STRING
+
+> BEGIN STRING
+高級感溢れる夜の営み用の小道具が適当にしまわれている。
+> CONTEXT: Map160/events/10/pages/0/6/Dialogue
+> CONTEXT: Map160/events/11/pages/0/6/Dialogue
+> CONTEXT: Map160/events/12/pages/0/6/Dialogue
+> CONTEXT: Map160/events/13/pages/0/6/Dialogue
+Props for luxurious night-time activities are appropriately
+stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+調教用の首輪やロウソクが乱雑に収納されている。
+> CONTEXT: Map160/events/14/pages/0/6/Dialogue
+> CONTEXT: Map160/events/15/pages/0/6/Dialogue
+Collars and candles for training are housed cluttered.#MTLed
+> END STRING
+
+> BEGIN STRING
+棚の中には何も入っていない。
+> CONTEXT: Map160/events/16/pages/0/6/Dialogue
+> CONTEXT: Map160/events/17/pages/0/6/Dialogue
+> CONTEXT: Map070/events/13/pages/0/7/Dialogue
+There is nothing in the shelf.#MTLed
+> END STRING
+
+> BEGIN STRING
+執事の心得などと書かれた本が並んでいる。
+> CONTEXT: Map160/events/18/pages/0/6/Dialogue
+> CONTEXT: Map160/events/19/pages/0/6/Dialogue
+There are books written as knowledge of the butler etc.#MTLed
+> END STRING
+
+> BEGIN STRING
+高級そうなピアノが置かれている。
+> CONTEXT: Map160/events/20/pages/0/6/Dialogue
+> CONTEXT: Map160/events/21/pages/0/6/Dialogue
+> CONTEXT: Map142/events/15/pages/0/6/Dialogue
+> CONTEXT: Map142/events/16/pages/0/6/Dialogue
+There is a luxury-like piano.#MTLed
+> END STRING

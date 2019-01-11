@@ -1,0 +1,3343 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+☆攻撃☆
+> CONTEXT: Skills/1/name/
+☆ Attack ☆#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与える。
+> CONTEXT: Skills/1/description/
+Damages the enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+の攻撃！
+> CONTEXT: Skills/1/message1/
+ attacks!#lvl1
+> END STRING
+
+> BEGIN STRING
+☆防御☆
+> CONTEXT: Skills/2/name/
+☆ Defense ☆#MTLed
+> END STRING
+
+> BEGIN STRING
+ＴＰを少しだけ回復させます。
+> CONTEXT: Skills/2/description/
+I will restore TP a little.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は呼吸を整えた。
+> CONTEXT: Skills/2/message1/
+He prepared the breath.#MTLed
+> END STRING
+
+> BEGIN STRING
+交渉
+> CONTEXT: Skills/4/name/
+Negotiation#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔とスペルカードを入手するために交渉を行います。
+> CONTEXT: Skills/4/description/
+We will negotiate to obtain spoof cards and spoof cards.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+脱衣
+> CONTEXT: Skills/5/name/
+Undressing#MTLed
+> CONTEXT: Map304/events/14/pages/0/21/Choice/1
+Undressing#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔の着ている服を脱がします。
+> CONTEXT: Skills/5/description/
+I will remove the clothes that the bastard wears.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+屈服
+> CONTEXT: Skills/6/name/
+> CONTEXT: States/144/name/
+Yield#MTLed
+> END STRING
+
+> BEGIN STRING
+戦いを止めて無抵抗になります。
+> CONTEXT: Skills/6/description/
+I will stop fighting and become resistant.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+決裂
+> CONTEXT: Skills/7/name/
+Break#MTLed
+> END STRING
+
+> BEGIN STRING
+交渉を行い必ず失敗します。
+> CONTEXT: Skills/7/description/
+I will negotiate and I will fail.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+召喚
+> CONTEXT: Skills/9/name/
+Summons#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔を呼び出します
+> CONTEXT: Skills/9/description/
+Call the devil
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+送還
+> CONTEXT: Skills/10/name/
+Repatriation#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔を送還します。
+送還中は従魔の精力と気力が微量ながら徐々に回復します
+> CONTEXT: Skills/10/description/
+\\}I will repatriate the devil. While repatriating, the vigor and
+energy of the devil will recover gradually with a small amount#MTLed
+> END STRING
+
+> BEGIN STRING
+◆特技
+> CONTEXT: Skills/19/name/
+◆ Special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+従属
+> CONTEXT: Skills/21/name/
+Subordination#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺、交渉が必ず失敗し、常に性感帯を突かれます
+> CONTEXT: Skills/21/description/
+Hissatsushi, negotiations always fail, always being
+attacked in the erogenous zone#MTLed
+> END STRING
+
+> BEGIN STRING
+愛撫
+> CONTEXT: Skills/23/name/
+> CONTEXT: States/69/name/
+Caress#MTLed
+> END STRING
+
+> BEGIN STRING
+愛撫を繰り出し快感を与える
+【通常攻撃なのでゲージ高速】【無属性】
+> CONTEXT: Skills/23/description/
+Pleasure caresses give pleasure. 【Since it is a normal
+attack gauge speed] 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+連続愛撫 Lv1
+> CONTEXT: Skills/24/name/
+Continuous caress Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+連続で愛撫を繰り出し快感を与える
+【無属性】
+> CONTEXT: Skills/24/description/
+> CONTEXT: Skills/25/description/
+> CONTEXT: Skills/26/description/
+Continue caressing and give pleasure. 【No attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+連続愛撫 Lv2
+> CONTEXT: Skills/25/name/
+Continuous caress Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+連続愛撫 Lv3
+> CONTEXT: Skills/26/name/
+Continuous caress Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+疾風怒涛 Lv1
+> CONTEXT: Skills/27/name/
+Shippuuden Lv1#MTLed
+> END STRING
+
+> BEGIN STRING
+疾風のような速度で愛撫を繰り出し快感を与える
+【無属性】
+> CONTEXT: Skills/27/description/
+> CONTEXT: Skills/28/description/
+> CONTEXT: Skills/29/description/
+Give a pleasure with caress at a speed like a gale. 【No
+attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+疾風怒涛 Lv2
+> CONTEXT: Skills/28/name/
+Shippuuden Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+疾風怒涛 Lv3
+> CONTEXT: Skills/29/name/
+Shippuuden Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+電光石火 Lv1
+> CONTEXT: Skills/30/name/
+Lightning stove Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+電光石火の速さで愛撫を繰り出し快感を与える
+【無属性】
+> CONTEXT: Skills/30/description/
+> CONTEXT: Skills/31/description/
+Give a pleasure to caress by the lightning speed of
+lightning. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+電光石火 Lv2
+> CONTEXT: Skills/31/name/
+Lightning light Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+胸を撫でる Lv1
+> CONTEXT: Skills/35/name/
+Stroking my chest Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+胸を撫でることで快感を与える
+【胸属性】
+> CONTEXT: Skills/35/description/
+> CONTEXT: Skills/36/description/
+> CONTEXT: Skills/37/description/
+Pleasant by stroking your chest. 【Chest attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+胸を撫でる Lv2
+> CONTEXT: Skills/36/name/
+Stroking my chest Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+胸を撫でる Lv3
+> CONTEXT: Skills/37/name/
+Stroking my chest Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+乳首を弄る Lv1
+> CONTEXT: Skills/38/name/
+Tackle nipples Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+乳首を弄ることで快感を与える
+【胸属性】
+> CONTEXT: Skills/38/description/
+> CONTEXT: Skills/39/description/
+> CONTEXT: Skills/40/description/
+Pleasure by touching the nipple. 【Chest attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+乳首を弄る Lv2
+> CONTEXT: Skills/39/name/
+Tackle nipples Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+乳首を弄る Lv3
+> CONTEXT: Skills/40/name/
+Tackle nipples Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+柔乳を揉む Lv1
+> CONTEXT: Skills/41/name/
+Loose soft milk Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+柔らかな胸を激しく揉むことで快感を与える
+【胸属性】
+> CONTEXT: Skills/41/description/
+> CONTEXT: Skills/42/description/
+Giving a pleasant feeling by rubbing soft breasts violently
+. 【Chest attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+柔乳を揉む Lv2
+> CONTEXT: Skills/42/name/
+Loose soft milk Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を触る Lv1
+> CONTEXT: Skills/45/name/
+Touch the buttocks Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を撫でることで快感を与える
+【尻属性】
+> CONTEXT: Skills/45/description/
+> CONTEXT: Skills/46/description/
+> CONTEXT: Skills/47/description/
+Pleasantly stroking the buttocks. 【Ass attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+尻を触る Lv2
+> CONTEXT: Skills/46/name/
+Touch the buttocks Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を触る Lv3
+> CONTEXT: Skills/47/name/
+Touch the buttocks Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を揉む Lv1
+> CONTEXT: Skills/48/name/
+Lust the hips Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を揉むことで感を与える
+【尻属性】
+> CONTEXT: Skills/48/description/
+> CONTEXT: Skills/49/description/
+> CONTEXT: Skills/50/description/
+Giving a feeling by massaging the buttocks. 【Ass attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+尻を揉む Lv2
+> CONTEXT: Skills/49/name/
+Lust 2 Lust 2#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を揉む Lv3
+> CONTEXT: Skills/50/name/
+Lust 3 Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を弄ぶ Lv1
+> CONTEXT: Skills/51/name/
+Lust 1 playing in the buttocks#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を激しく撫で回すことで快感を与える
+【尻属性】
+> CONTEXT: Skills/51/description/
+> CONTEXT: Skills/52/description/
+Give pleasure by stroking the ass vigorously. 【Ass
+attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+尻を弄ぶ Lv2
+> CONTEXT: Skills/52/name/
+Lust play Lip 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ピストン Lv1
+> CONTEXT: Skills/55/name/
+Piston Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+腰を振ることで快感を与える
+【挿入属性】
+> CONTEXT: Skills/55/description/
+> CONTEXT: Skills/56/description/
+> CONTEXT: Skills/57/description/
+Giving pleasure by shaking waist. 【Insertion attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ピストン Lv2
+> CONTEXT: Skills/56/name/
+Piston Lv2#MTLed
+> END STRING
+
+> BEGIN STRING
+ピストン Lv3
+> CONTEXT: Skills/57/name/
+Piston Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｗピストン Lv1
+> CONTEXT: Skills/58/name/
+W Piston Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+腰を激しく振ることで快感を与える
+【挿入属性】
+> CONTEXT: Skills/58/description/
+> CONTEXT: Skills/59/description/
+> CONTEXT: Skills/60/description/
+Pleasantly shake your waist. 【Insertion attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+Ｗピストン Lv2
+> CONTEXT: Skills/59/name/
+W Piston Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｗピストン Lv3
+> CONTEXT: Skills/60/name/
+W Piston Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｔピストン Lv1
+> CONTEXT: Skills/61/name/
+T piston Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+腰を打ち付けるように振ることで快感を与える
+【挿入属性】
+> CONTEXT: Skills/61/description/
+> CONTEXT: Skills/62/description/
+Give pleasure by shaking to hit your waist. 【Insertion
+attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｔピストン Lv2
+> CONTEXT: Skills/62/name/
+T piston Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+貝合わせ Lv1
+> CONTEXT: Skills/65/name/
+Shell matching Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+互いの秘所を擦り合わせることで快感を与える
+【挿入属性】
+> CONTEXT: Skills/65/description/
+> CONTEXT: Skills/66/description/
+> CONTEXT: Skills/67/description/
+Giving pleasure by rubbing each other's secret place. 
+【Insertion attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+貝合わせ Lv2
+> CONTEXT: Skills/66/name/
+Shell matching Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+貝合わせ Lv3
+> CONTEXT: Skills/67/name/
+Shell matching Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+松葉崩し Lv1
+> CONTEXT: Skills/68/name/
+Broken crutch Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+松葉が交差するように抱き合い快感を与える
+【挿入属性】
+> CONTEXT: Skills/68/description/
+> CONTEXT: Skills/69/description/
+> CONTEXT: Skills/70/description/
+Embrace and give a pleasure like a pine needle crosses. 
+【Insertion attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+松葉崩し Lv2
+> CONTEXT: Skills/69/name/
+Broken crutch Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+松葉崩し Lv3
+> CONTEXT: Skills/70/name/
+Pine needle breaking Lv 3#MTLed
+> END STRING
+
+> BEGIN STRING
+真・貝合わせ Lv1
+> CONTEXT: Skills/71/name/
+True / shellfish Lv 1#MTLed
+> END STRING
+
+> BEGIN STRING
+秘所同士を激しく擦り合わせ快感を与える
+【挿入属性】
+> CONTEXT: Skills/71/description/
+> CONTEXT: Skills/72/description/
+Grinding the secretaries violently and giving a pleasant
+sensation. 【Insertion attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+真・貝合わせ Lv2
+> CONTEXT: Skills/72/name/
+True / shellfish Lv 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ドレインキス
+> CONTEXT: Skills/75/name/
+Drain kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+蕩ける口づけで精力を吸い取り、行動をキャンセルする
+【無属性】
+> CONTEXT: Skills/75/description/
+Suffocate energetically with a kiss that spoils, canceling
+actions. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+はスペルカードの力を解放した！
+> CONTEXT: Skills/79/message1/
+> CONTEXT: Skills/80/message1/
+> CONTEXT: Skills/81/message1/
+> CONTEXT: Skills/82/message1/
+> CONTEXT: Skills/83/message1/
+> CONTEXT: Skills/84/message1/
+> CONTEXT: Skills/85/message1/
+> CONTEXT: Skills/86/message1/
+> CONTEXT: Skills/87/message1/
+> CONTEXT: Skills/88/message1/
+He released the power of the spell card!#MTLed
+> END STRING
+
+> BEGIN STRING
+◆解放
+> CONTEXT: Skills/100/name/
+◆ Release#MTLed
+> END STRING
+
+> BEGIN STRING
+恍惚の接吻
+> CONTEXT: Skills/101/name/
+Ecstatic Kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+行動カーソルを戻し、快感(小)を与える
+【無属性】
+> CONTEXT: Skills/101/description/
+Return behavior cursor and give pleasure (small). 【No
+attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+水流の愛撫
+> CONTEXT: Skills/102/name/
+Water caress#MTLed
+> END STRING
+
+> BEGIN STRING
+行動カーソルを戻し、快感(大)を与える
+【無属性】
+> CONTEXT: Skills/102/description/
+> CONTEXT: Skills/103/description/
+Return behavior cursor and give pleasure (large). 【No
+attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+死者の呼び声
+> CONTEXT: Skills/103/name/
+Call of the dead#MTLed
+> END STRING
+
+> BEGIN STRING
+妖蛇の拘束
+> CONTEXT: Skills/104/name/
+Restraint of a vampire#MTLed
+> END STRING
+
+> BEGIN STRING
+行動速度を一定時間ゆっくりにし、快感(小)を与える
+【無属性】
+> CONTEXT: Skills/104/description/
+Give action speed slowly for a certain period of time, give
+pleasure (small). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+性職者の祈り
+> CONTEXT: Skills/105/name/
+Prayer of sex workers#MTLed
+> END STRING
+
+> BEGIN STRING
+行動速度を一定時間ゆっくりにし、快感(大)を与える
+【無属性】
+> CONTEXT: Skills/105/description/
+Give action speed slowly for a certain period of time, give
+pleasure (large). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+九尾の寵愛
+> CONTEXT: Skills/106/name/
+The love of Kuo#MTLed
+> END STRING
+
+> BEGIN STRING
+行動速度を一定時間ゆっくりにし、快感(大)を与え行動カーソルを少し戻す
+【無属性】
+> CONTEXT: Skills/106/description/
+\\}Move the action speed slowly for a certain period of time,
+give pleasure (large) and return the action cursor slightly. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+美しき歌声
+> CONTEXT: Skills/107/name/
+Beautiful singing voice#MTLed
+> END STRING
+
+> BEGIN STRING
+行動カーソルを一定時間止め、快感(小)を与える
+【無属性】
+> CONTEXT: Skills/107/description/
+Stop action cursor for a certain time, give pleasure
+(small). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+月の神秘
+> CONTEXT: Skills/108/name/
+The mystery of the moon#MTLed
+> END STRING
+
+> BEGIN STRING
+行動カーソルを一定時間止め、快感(大)を与える
+【無属性】
+> CONTEXT: Skills/108/description/
+Stop action cursor for a certain period of time, give
+pleasure (large). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の深森
+> CONTEXT: Skills/109/name/
+Fairy Forest#MTLed
+> END STRING
+
+> BEGIN STRING
+行動カーソルを一定時間止め、快感(大)を与え行動カーソルを少し戻す
+【無属性】
+> CONTEXT: Skills/109/description/
+\\}Stop the behavior cursor for a certain period of time, give
+pleasure (large) and return the action cursor slightly. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+漆黒の狩猟
+> CONTEXT: Skills/110/name/
+Blackhead hunting#MTLed
+> END STRING
+
+> BEGIN STRING
+一定時間快感(小)を与え続ける
+【無属性】
+> CONTEXT: Skills/110/description/
+Continue to give pleasure (small) for a certain period of
+time. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+神獣の怒り
+> CONTEXT: Skills/111/name/
+Anger of the beast#MTLed
+> END STRING
+
+> BEGIN STRING
+一定時間快感(大)を与え続ける
+【無属性】
+> CONTEXT: Skills/111/description/
+Continue to give pleasure (large) for a certain period of
+time. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+聖なる審判
+> CONTEXT: Skills/112/name/
+Holy referee#MTLed
+> END STRING
+
+> BEGIN STRING
+一定時間快感(大)を与え続け、行動カーソルを少し戻す
+【無属性】
+> CONTEXT: Skills/112/description/
+Continue to give pleasure (large) for a certain time,
+return action cursor a little. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+姿なき刺客
+> CONTEXT: Skills/113/name/
+Unseen assassin#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃力を一定時間下げ、快感(小)を与える
+【無属性】
+> CONTEXT: Skills/113/description/
+Reduce attack power for a certain period of time, give
+pleasure (small). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+小さな悪戯
+> CONTEXT: Skills/114/name/
+Small prank#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃力を一定時間下げ、快感(大)を与える
+【無属性】
+> CONTEXT: Skills/114/description/
+Lower the attack power for a certain period of time and
+give pleasure (large). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+忍びの手管
+> CONTEXT: Skills/115/name/
+Synopsis of hands#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃力を一定時間下げ、快感(大)を与え行動カーソルを少し戻す
+【無属性】
+> CONTEXT: Skills/115/description/
+\\}Lower the attack power for a certain period of time, give
+pleasure (large) and return the action cursor a little. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+氷の棺
+> CONTEXT: Skills/116/name/
+Ice coffin#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺技を一定時間封印し、快感(小)を与える
+【無属性】
+> CONTEXT: Skills/116/description/
+Seals a deathblow technique for a certain time and gives a
+pleasure (small). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+白き封印
+> CONTEXT: Skills/117/name/
+White seal#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺技を一定時間封印し、快感(大)を与える
+【無属性】
+> CONTEXT: Skills/117/description/
+Seals a deathblow technique for a certain time and gives a
+pleasure (large). 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+堕天の誘い
+> CONTEXT: Skills/118/name/
+Invitation of fallen weather#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺技を一定時間封印し、快感(大)を与えて行動カーソルを少し戻す
+【無属性】
+> CONTEXT: Skills/118/description/
+\\}Seal the deathblow technique for a certain time, give
+pleasure (large) and return the action cursor a little. 【No attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士の性技
+> CONTEXT: Skills/119/name/
+Warrior's sex technique#MTLed
+> END STRING
+
+> BEGIN STRING
+胸責めにより快感(小)を与える
+【胸属性】
+> CONTEXT: Skills/119/description/
+Give pleasure (small) by chest torture. 【Chest attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+幽霊の手先
+> CONTEXT: Skills/120/name/
+Hand of ghosts#MTLed
+> END STRING
+
+> BEGIN STRING
+胸責めにより快感(大)を与える
+【胸属性】
+> CONTEXT: Skills/120/description/
+Give pleasure (large) by chest torture. 【Chest attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+這い寄る闇
+> CONTEXT: Skills/121/name/
+The darkness crawling#MTLed
+> END STRING
+
+> BEGIN STRING
+胸責めにより快感(大)を与え、行動カーソルを少し戻す
+【胸属性】
+> CONTEXT: Skills/121/description/
+Give pleasure (large) by chest torture and return action
+cursor a little. 【Chest attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+妖かしの蔦
+> CONTEXT: Skills/122/name/
+The strange ivy#MTLed
+> END STRING
+
+> BEGIN STRING
+尻責めにより快感(小)を与える
+【尻属性】
+> CONTEXT: Skills/122/description/
+Give pleasure (small) by assault torture. 【Ass attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+瞬速の猫
+> CONTEXT: Skills/123/name/
+Instant cat#MTLed
+> END STRING
+
+> BEGIN STRING
+尻責めにより快感(大)を与える
+【尻属性】
+> CONTEXT: Skills/123/description/
+Give pleasure (large) by hit torture. 【Ass attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+天女の手解き
+> CONTEXT: Skills/124/name/
+Celebrity handmade#MTLed
+> END STRING
+
+> BEGIN STRING
+尻責めにより快感(大)を与え、行動カーソルを少し戻す
+【尻属性】
+> CONTEXT: Skills/124/description/
+Give pleasure (large) by tying blame, return action cursor
+a bit. 【Ass attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+狼の本能
+> CONTEXT: Skills/125/name/
+Wolf's instinct#MTLed
+> END STRING
+
+> BEGIN STRING
+ピストンにより快感(小)を与える
+【挿入属性】
+> CONTEXT: Skills/125/description/
+Give pleasure (small) by piston. 【Insertion attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+吸血鬼の魔淫
+> CONTEXT: Skills/126/name/
+Vampire's Witch#MTLed
+> END STRING
+
+> BEGIN STRING
+ピストンにより快感(大)を与える
+【挿入属性】
+> CONTEXT: Skills/126/description/
+Give pleasure (large) by piston. 【Insertion attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+粘液の侵食
+> CONTEXT: Skills/127/name/
+Erosion of mucus#MTLed
+> END STRING
+
+> BEGIN STRING
+ピストンにより快感(大)を与え、行動カーソルを少し戻す
+【挿入属性】
+> CONTEXT: Skills/127/description/
+Give pleasure (large) by piston and return action cursor a
+little. 【Insertion attribute】#MTLed
+> END STRING
+
+> BEGIN STRING
+絶対零度
+> CONTEXT: Skills/128/name/
+Absolute temperature#MTLed
+> END STRING
+
+> BEGIN STRING
+精力を吸い取る
+【無属性】
+> CONTEXT: Skills/128/description/
+To absorb supremacy. 【No attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+闇の訪れ
+> CONTEXT: Skills/129/name/
+The arrival of the darkness#MTLed
+> END STRING
+
+> BEGIN STRING
+精力を大きく吸い取る
+【無属性】
+> CONTEXT: Skills/129/description/
+Absorption of energetic power greatly. 【No attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+魔女の誘惑
+> CONTEXT: Skills/130/name/
+The temptation of a witch#MTLed
+> END STRING
+
+> BEGIN STRING
+気力を吸い取り快感を与える
+【無属性】
+> CONTEXT: Skills/130/description/
+Suck power and give your pleasure. 【No attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+蕩ける愛
+> CONTEXT: Skills/131/name/
+The love that goes#MTLed
+> END STRING
+
+> BEGIN STRING
+気力を大きく吸い取り快感を与える
+【無属性】
+> CONTEXT: Skills/131/description/
+Give your energy a great deal of pleasure. 【No attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+命の刈り取り
+> CONTEXT: Skills/132/name/
+Reaping of life#MTLed
+> END STRING
+
+> BEGIN STRING
+精力と気力を吸い取る
+【無属性】
+> CONTEXT: Skills/132/description/
+Suction off energy and energy. 【No attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+淫界の門
+> CONTEXT: Skills/133/name/
+Gate of the Northern World#MTLed
+> END STRING
+
+> BEGIN STRING
+精力と気力を大きく吸い取る
+【無属性】
+> CONTEXT: Skills/133/description/
+Absorption of energy and energy greatly. 【No attribute】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+◆攻撃サポート
+> CONTEXT: Skills/150/name/
+◆ Attack support#MTLed
+> END STRING
+
+> BEGIN STRING
+特技＋５％
+> CONTEXT: Skills/151/name/
+Special skill + 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技攻撃力上昇
+> CONTEXT: Skills/151/description/
+> CONTEXT: Skills/152/description/
+> CONTEXT: Skills/153/description/
+> CONTEXT: Skills/154/description/
+> CONTEXT: Skills/155/description/
+Special skill Attack power increase
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+特技＋１０％
+> CONTEXT: Skills/152/name/
+Special skill + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技＋１５％
+> CONTEXT: Skills/153/name/
+Special skill + 15%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技＋２０％
+> CONTEXT: Skills/154/name/
+Special skill + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技＋２５％
+> CONTEXT: Skills/155/name/
+Special skill + 25%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技ブースト
+> CONTEXT: Skills/156/name/
+Special boost#MTLed
+> END STRING
+
+> BEGIN STRING
+特技攻撃力が上昇する
+> CONTEXT: Skills/156/description/
+Special skill attack power rises
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放＋５％
+> CONTEXT: Skills/157/name/
+Release + 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放攻撃力上昇
+> CONTEXT: Skills/157/description/
+> CONTEXT: Skills/158/description/
+> CONTEXT: Skills/159/description/
+> CONTEXT: Skills/160/description/
+> CONTEXT: Skills/161/description/
+Liberation Attack Power Increase
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放＋１０％
+> CONTEXT: Skills/158/name/
+Release + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放＋１５％
+> CONTEXT: Skills/159/name/
+Release + 15%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放＋２０％
+> CONTEXT: Skills/160/name/
+Release + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放＋２５％
+> CONTEXT: Skills/161/name/
+Release + 25%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放ブースト
+> CONTEXT: Skills/162/name/
+Release Boost#MTLed
+> END STRING
+
+> BEGIN STRING
+解放攻撃力が上昇する
+> CONTEXT: Skills/162/description/
+Liberation Attack power rises
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+行動キャンセル１０％
+> CONTEXT: Skills/163/name/
+Action cancellation 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+一定確率で行動をキャンセルする
+> CONTEXT: Skills/163/description/
+> CONTEXT: Skills/164/description/
+> CONTEXT: Skills/165/description/
+> CONTEXT: Skills/166/description/
+> CONTEXT: Skills/167/description/
+Cancel an action with a certain probability
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+行動キャンセル２０％
+> CONTEXT: Skills/164/name/
+Action cancellation 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+行動キャンセル３０％
+> CONTEXT: Skills/165/name/
+Behavior cancellation 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+行動キャンセル４０％
+> CONTEXT: Skills/166/name/
+Action cancellation 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+行動キャンセル５０％
+> CONTEXT: Skills/167/name/
+Behavior cancellation 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+行動抑止支援
+> CONTEXT: Skills/168/name/
+Action suppression support#MTLed
+> END STRING
+
+> BEGIN STRING
+相手の行動ゲージを一定確率で戻す
+> CONTEXT: Skills/168/description/
+Returning opponent's behavior gauge with a certain
+probability#MTLed
+> END STRING
+
+> BEGIN STRING
+特技反撃１０％
+> CONTEXT: Skills/169/name/
+Special ticket counter attack 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+セットしている特技からランダムで反撃
+> CONTEXT: Skills/169/description/
+> CONTEXT: Skills/170/description/
+> CONTEXT: Skills/171/description/
+> CONTEXT: Skills/172/description/
+> CONTEXT: Skills/173/description/
+Randomly fight back from the feat being set
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+特技反撃２０％
+> CONTEXT: Skills/170/name/
+Special ticket counter attack 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技反撃３０％
+> CONTEXT: Skills/171/name/
+Special skill counterattack 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技反撃４０％
+> CONTEXT: Skills/172/name/
+Specialty counterattacks 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技反撃５０％
+> CONTEXT: Skills/173/name/
+Fight back 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+特技反撃支援
+> CONTEXT: Skills/174/name/
+Special skill counter-attack support#MTLed
+> END STRING
+
+> BEGIN STRING
+修得特技からランダムで反撃を行います
+> CONTEXT: Skills/174/description/
+I will counterattack randomly from my mastery
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放反撃１０％
+> CONTEXT: Skills/175/name/
+Liberation counterattack 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+セットしている解放からランダムで反撃
+> CONTEXT: Skills/175/description/
+> CONTEXT: Skills/176/description/
+> CONTEXT: Skills/177/description/
+> CONTEXT: Skills/178/description/
+> CONTEXT: Skills/179/description/
+Fight back randomly from the set release
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放反撃２０％
+> CONTEXT: Skills/176/name/
+Liberation counterattack 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放反撃３０％
+> CONTEXT: Skills/177/name/
+Liberation counterattack 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放反撃４０％
+> CONTEXT: Skills/178/name/
+Liberation counterattack 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放反撃５０％
+> CONTEXT: Skills/179/name/
+Liberation counterattack 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+解放反撃支援
+> CONTEXT: Skills/180/name/
+Liberation counterattack support#MTLed
+> END STRING
+
+> BEGIN STRING
+修得解放からランダムで反撃を行います
+> CONTEXT: Skills/180/description/
+Let's counterattack randomly from the acquisition and
+release#MTLed
+> END STRING
+
+> BEGIN STRING
+胸一斉
+> CONTEXT: Skills/181/name/
+Chest allure#MTLed
+> END STRING
+
+> BEGIN STRING
+胸系の特技、解放を常に一斉発動する
+> CONTEXT: Skills/181/description/
+Chest system special skill, always release all at once
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+尻一斉
+> CONTEXT: Skills/182/name/
+All over#MTLed
+> END STRING
+
+> BEGIN STRING
+尻系の特技、解放を常に一斉発動する
+> CONTEXT: Skills/182/description/
+Always activate the special skill of the butt type,
+liberation at all times#MTLed
+> END STRING
+
+> BEGIN STRING
+挿入一斉
+> CONTEXT: Skills/183/name/
+All at once#MTLed
+> END STRING
+
+> BEGIN STRING
+挿入系の特技、解放を常に一斉発動する
+> CONTEXT: Skills/183/description/
+Always activate featuring inserts, release
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+愛撫一斉
+> CONTEXT: Skills/184/name/
+Cynomolgus#MTLed
+> END STRING
+
+> BEGIN STRING
+無属性系の特技、解放を常に一斉発動する
+> CONTEXT: Skills/184/description/
+Always activate feats and liberations of nonattribute type
+all at once#MTLed
+> END STRING
+
+> BEGIN STRING
+特技二連
+> CONTEXT: Skills/185/name/
+Special skill twice#MTLed
+> END STRING
+
+> BEGIN STRING
+特技が常に二連続になる
+> CONTEXT: Skills/185/description/
+Special skill is always two consecutive
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+特技三連
+> CONTEXT: Skills/186/name/
+Special skill triad#MTLed
+> END STRING
+
+> BEGIN STRING
+特技が常に三連続になる
+> CONTEXT: Skills/186/description/
+Special skill is always three consecutive
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放二連
+> CONTEXT: Skills/187/name/
+Liberation series#MTLed
+> END STRING
+
+> BEGIN STRING
+解放が常に二連続になる
+> CONTEXT: Skills/187/description/
+Liberation is always two consecutive
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放三連
+> CONTEXT: Skills/188/name/
+Liberating triplets#MTLed
+> END STRING
+
+> BEGIN STRING
+解放が常に三連続になる
+> CONTEXT: Skills/188/description/
+Release will always be three consecutive
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+特技支援
+> CONTEXT: Skills/189/name/
+Special skill support#MTLed
+> END STRING
+
+> BEGIN STRING
+特技選択後の行動速度が上昇する
+> CONTEXT: Skills/189/description/
+Action speed after selection of special skill rises
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放速度＋
+> CONTEXT: Skills/190/name/
+Release speed +#MTLed
+> END STRING
+
+> BEGIN STRING
+解放選択後の行動速度が上昇する
+> CONTEXT: Skills/190/description/
+> CONTEXT: Skills/192/description/
+Action speed after release selection increases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放速度＋＋
+> CONTEXT: Skills/191/name/
+Release speed ++#MTLed
+> END STRING
+
+> BEGIN STRING
+解放選択後の行動速度がさらに上昇する
+> CONTEXT: Skills/191/description/
+Behavior speed after release selection further increases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+解放支援
+> CONTEXT: Skills/192/name/
+Liberation aid#MTLed
+> END STRING
+
+> BEGIN STRING
+性感支援
+> CONTEXT: Skills/194/name/
+> CONTEXT: Skills/200/name/
+Sexual support#MTLed
+> END STRING
+
+> BEGIN STRING
+クリティカル率が上昇する
+> CONTEXT: Skills/194/description/
+> CONTEXT: Skills/200/description/
+Critical rate rises
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔知識
+> CONTEXT: Skills/196/name/
+Intelligence knowledge#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔のデータベースを検索し、クリティカル率アップ
+> CONTEXT: Skills/196/description/
+Search for database of bad lucks and increase critical rate
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+衣服知識
+> CONTEXT: Skills/198/name/
+Clothing knowledge#MTLed
+> END STRING
+
+> BEGIN STRING
+衣服のデータベースを検索し、脱衣成功率アップ
+> CONTEXT: Skills/198/description/
+Search clothes database, increase undressing success rate
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+特技行動低下
+> CONTEXT: Skills/202/name/
+Special skill behavior decline#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で行動速度を低下します
+> CONTEXT: Skills/202/description/
+Decrease the action speed with a certain probability when
+using a special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+特技行動停止
+> CONTEXT: Skills/203/name/
+Special skill action stop#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で行動カーソルをめます
+> CONTEXT: Skills/203/description/
+We will hit an action cursor with a certain probability
+when using a special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+特技攻撃低下
+> CONTEXT: Skills/204/name/
+Declining skill attack#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で攻撃力を下げます
+> CONTEXT: Skills/204/description/
+Decrease attack power with constant probability when using
+special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+特技封印
+> CONTEXT: Skills/205/name/
+Special skill seal#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で必殺技を封印します
+> CONTEXT: Skills/205/description/
+Sealed deadly technique with a certain probability when
+using a special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+特技精力減少
+> CONTEXT: Skills/206/name/
+Special skill reduction#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で快感を与え続ける
+> CONTEXT: Skills/206/description/
+Keep giving pleasure with constant probability when using
+special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+特技精力吸収
+> CONTEXT: Skills/207/name/
+Special skill absorption#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で精力を吸い取ります
+> CONTEXT: Skills/207/description/
+Absorbs energies with a certain probability when using
+special skills#MTLed
+> END STRING
+
+> BEGIN STRING
+特技気力吸収
+> CONTEXT: Skills/208/name/
+Special tactical respiratory absorption#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で気力を吸い取ります
+> CONTEXT: Skills/208/description/
+Absorbs energy with a certain probability when using
+special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+特技精気吸収
+> CONTEXT: Skills/209/name/
+Special skill absorption#MTLed
+> END STRING
+
+> BEGIN STRING
+特技使用時に一定確率で精力、気力を吸い取ります
+> CONTEXT: Skills/209/description/
+Ability to absorb energy and energy with a certain
+probability when using special skills#MTLed
+> END STRING
+
+> BEGIN STRING
+胸属性
+> CONTEXT: Skills/210/name/
+Chest attribute#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘中無属性特技、解放を胸属性にします
+【別属性付加時は無属性】
+> CONTEXT: Skills/210/description/
+Nonbreaking feat during battle, releasing as breast
+attribute. [No attribute when adding another attribute]#MTLed
+> END STRING
+
+> BEGIN STRING
+尻属性
+> CONTEXT: Skills/211/name/
+Ass attribute#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘中無属性特技、解放を尻属性にします
+【別属性付加時は無属性】
+> CONTEXT: Skills/211/description/
+Nonattribute special skill in battle, release will be ass
+attributes. [No attribute when adding another attribute]#MTLed
+> END STRING
+
+> BEGIN STRING
+挿入属性
+> CONTEXT: Skills/212/name/
+Insertion attribute#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘中無属性特技、解放を挿入属性にします
+【別属性付加時は無属性】
+> CONTEXT: Skills/212/description/
+\\}Make no attribute attribute / release during battle as insert attribute
+[No attribute when adding another attribute]#MTLed
+> END STRING
+
+> BEGIN STRING
+無属性全体
+> CONTEXT: Skills/213/name/
+Whole Attribute#MTLed
+> END STRING
+
+> BEGIN STRING
+無属性の特技、解放効果が敵全体になります
+> CONTEXT: Skills/213/description/
+> CONTEXT: Skills/214/description/
+> CONTEXT: Skills/215/description/
+> CONTEXT: Skills/216/description/
+No-attribute feat, liberation effect becomes enemy as a
+whole#MTLed
+> END STRING
+
+> BEGIN STRING
+胸属性全体
+> CONTEXT: Skills/214/name/
+Whole chest attribute#MTLed
+> END STRING
+
+> BEGIN STRING
+尻属性全体
+> CONTEXT: Skills/215/name/
+Full ass attribute#MTLed
+> END STRING
+
+> BEGIN STRING
+挿入属性全体
+> CONTEXT: Skills/216/name/
+The entire insertion attribute#MTLed
+> END STRING
+
+> BEGIN STRING
+◆防御サポート
+> CONTEXT: Skills/250/name/
+◆ Defense Support#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃回避５％
+> CONTEXT: Skills/251/name/
+Attack avoidance 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+一定確率で攻撃を回避する
+> CONTEXT: Skills/251/description/
+> CONTEXT: Skills/252/description/
+> CONTEXT: Skills/253/description/
+Avoid attacks with constant probability
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃回避１０％
+> CONTEXT: Skills/252/name/
+Attack avoidance 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃回避２０％
+> CONTEXT: Skills/253/name/
+Attack avoidance 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｆバリア
+> CONTEXT: Skills/254/name/
+> CONTEXT: Skills/303/name/
+F barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+通常攻撃に対して障壁を発生させる
+> CONTEXT: Skills/254/description/
+Generate barriers against normal attacks
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+快感軽減５％
+> CONTEXT: Skills/255/name/
+Pleasure alleviation 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+受ける快感を軽減する
+> CONTEXT: Skills/255/description/
+> CONTEXT: Skills/256/description/
+> CONTEXT: Skills/257/description/
+Reduce pleasure received
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+快感軽減１０％
+> CONTEXT: Skills/256/name/
+Pleasure alleviation 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+快感軽減２０％
+> CONTEXT: Skills/257/name/
+Pleasure alleviation 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺率低下５％
+> CONTEXT: Skills/259/name/
+Hissatsu reduction 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺使用確率を低下させる
+> CONTEXT: Skills/259/description/
+> CONTEXT: Skills/260/description/
+> CONTEXT: Skills/261/description/
+Decrease the probability of death
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+必殺率低下１０％
+> CONTEXT: Skills/260/name/
+Decay rate drop 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺率低下２０％
+> CONTEXT: Skills/261/name/
+Decay rate is reduced 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+破損率低下５％
+> CONTEXT: Skills/263/name/
+Damage reduction 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+破損率が低下する
+> CONTEXT: Skills/263/description/
+> CONTEXT: Skills/264/description/
+> CONTEXT: Skills/265/description/
+The damage rate decreases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+破損率低下１０％
+> CONTEXT: Skills/264/name/
+Damage reduction 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+破損率低下２０％
+> CONTEXT: Skills/265/name/
+Damage reduction 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力回復１％
+> CONTEXT: Skills/267/name/
+Energy recovery 1%#MTLed
+> END STRING
+
+> BEGIN STRING
+行動毎に従魔の精力を自動回復
+> CONTEXT: Skills/267/description/
+> CONTEXT: Skills/268/description/
+> CONTEXT: Skills/269/description/
+Automatic recovery of devil's energies for each action
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+精力回復２％
+> CONTEXT: Skills/268/name/
+Energy recovery 2%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力回復４％
+> CONTEXT: Skills/269/name/
+Energy recovery 4%#MTLed
+> END STRING
+
+> BEGIN STRING
+自己修復機能
+> CONTEXT: Skills/270/name/
+Self-repair function#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔の精力を徐々に回復する
+> CONTEXT: Skills/270/description/
+Recover the devil's energies gradually
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+気力回復１０％
+> CONTEXT: Skills/271/name/
+Vigor recovery 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+行動毎にランダムで気力を１回復
+> CONTEXT: Skills/271/description/
+> CONTEXT: Skills/272/description/
+> CONTEXT: Skills/273/description/
+> CONTEXT: Skills/274/description/
+Randomly recover your spirit by 1 action
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+気力回復２０％
+> CONTEXT: Skills/272/name/
+Vigor recovery 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+気力回復３０％
+> CONTEXT: Skills/273/name/
+Vigor recovery 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+気力回復４０％
+> CONTEXT: Skills/274/name/
+Vigor recovery 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+淫気転換機能
+> CONTEXT: Skills/275/name/
+Lusty conversion function#MTLed
+> END STRING
+
+> BEGIN STRING
+ターン毎に一定確率で気力が回復する
+> CONTEXT: Skills/275/description/
+Spirit recovers with constant probability every turn
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+全状態異常５％
+> CONTEXT: Skills/276/name/
+All state abnormality 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+全状態異常を一定確率で無効化する
+> CONTEXT: Skills/276/description/
+> CONTEXT: Skills/277/description/
+> CONTEXT: Skills/278/description/
+> CONTEXT: Skills/279/description/
+Invalidate all state abnormality with constant probability
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+全状態異常１０％
+> CONTEXT: Skills/277/name/
+All state abnormality 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+全状態異常２０％
+> CONTEXT: Skills/278/name/
+All state error 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+全状態異常３０％
+> CONTEXT: Skills/279/name/
+All state abnormality 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力吸収軽減１０％
+> CONTEXT: Skills/280/name/
+Energy absorption reduction 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+吸い取られる精力を軽減する
+> CONTEXT: Skills/280/description/
+> CONTEXT: Skills/281/description/
+> CONTEXT: Skills/282/description/
+> CONTEXT: Skills/283/description/
+> CONTEXT: Skills/284/description/
+Reduce the power to be sucked
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+精力吸収軽減２０％
+> CONTEXT: Skills/281/name/
+Energy absorption reduction 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力吸収軽減３０％
+> CONTEXT: Skills/282/name/
+Reduction of energy absorption 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力吸収軽減４０％
+> CONTEXT: Skills/283/name/
+Energy absorption reduction 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力吸収軽減５０％
+> CONTEXT: Skills/284/name/
+Energy absorption reduction 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+逃走速度＋１０％
+> CONTEXT: Skills/286/name/
+Escape speed + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+逃走選択後の行動速度が上昇する
+> CONTEXT: Skills/286/description/
+> CONTEXT: Skills/287/description/
+> CONTEXT: Skills/288/description/
+> CONTEXT: Skills/289/description/
+Action speed after escape choice rises
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+逃走速度＋２０％
+> CONTEXT: Skills/287/name/
+Escape speed + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+逃走速度＋４０％
+> CONTEXT: Skills/288/name/
+Escape speed + 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+逃走支援
+> CONTEXT: Skills/289/name/
+Escape assistance#MTLed
+> END STRING
+
+> BEGIN STRING
+道具速度＋１０％
+> CONTEXT: Skills/290/name/
+Tool speed + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+道具選択後の行動速度が上昇する
+> CONTEXT: Skills/290/description/
+> CONTEXT: Skills/291/description/
+> CONTEXT: Skills/292/description/
+> CONTEXT: Skills/293/description/
+Action speed after tool selection rises
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+道具速度＋２０％
+> CONTEXT: Skills/291/name/
+Tool speed + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+道具速度＋４０％
+> CONTEXT: Skills/292/name/
+Tool speed + 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+道具支援
+> CONTEXT: Skills/293/name/
+Tool support#MTLed
+> END STRING
+
+> BEGIN STRING
+侵食無効５％
+> CONTEXT: Skills/294/name/
+Erosion ineffective 5%#MTLed
+> END STRING
+
+> BEGIN STRING
+一定確率でターン毎の快感を無効化する
+> CONTEXT: Skills/294/description/
+> CONTEXT: Skills/295/description/
+> CONTEXT: Skills/296/description/
+Disable pleasure for each turn with constant probability
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+侵食無効１０％
+> CONTEXT: Skills/295/name/
+Erosion ineffective 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+侵食無効２０％
+> CONTEXT: Skills/296/name/
+Erosion ineffective 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+精気変換２５％
+> CONTEXT: Skills/298/name/
+Excellent conversion 25%#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔減少時に主人公の精力、気力を回復
+> CONTEXT: Skills/298/description/
+> CONTEXT: Skills/299/description/
+> CONTEXT: Skills/300/description/
+Recovery of hero's energies and energy when submarines are
+decreasing#MTLed
+> END STRING
+
+> BEGIN STRING
+精気変換５０％
+> CONTEXT: Skills/299/name/
+Conversion 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+精気変換１００％
+> CONTEXT: Skills/300/name/
+100%#MTLed
+> END STRING
+
+> BEGIN STRING
+通常攻撃に対して障壁を発生させる【一定確率で無効化】
+> CONTEXT: Skills/303/description/
+Generate barriers against ordinary attack 【Invalidate with
+constant probability】#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｐバリア
+> CONTEXT: Skills/304/name/
+P barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+性感帯の攻撃に対して障壁を発生させる【一定確率で無効化】
+> CONTEXT: Skills/304/description/
+Generate barriers against attacks of erogenous zones
+[Invalidate with constant probability]#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｓバリア
+> CONTEXT: Skills/305/name/
+> CONTEXT: Items/74/name/
+S barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺攻撃に対して障壁を発生させる【一定確率で無効化】
+> CONTEXT: Skills/305/description/
+Generate barriers against deathblow attack [Invalidate with
+constant probability]#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｄバリア
+> CONTEXT: Skills/306/name/
+D barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+侵食ダメージに対して障壁を発生させる【一定確率で無効化】
+> CONTEXT: Skills/306/description/
+Generate barriers against erosion damage 【Invalidate with
+constant probability】#MTLed
+> END STRING
+
+> BEGIN STRING
+◆その他
+> CONTEXT: Skills/350/name/
+◆ Other#MTLed
+> END STRING
+
+> BEGIN STRING
+精力２５０
+> CONTEXT: Skills/351/name/
+Energy 250#MTLed
+> END STRING
+
+> BEGIN STRING
+最大精力上昇【重複可能】
+> CONTEXT: Skills/351/description/
+> CONTEXT: Skills/352/description/
+> CONTEXT: Skills/353/description/
+> CONTEXT: Skills/354/description/
+Maximum energetic elevation [possible duplication]
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+精力５００
+> CONTEXT: Skills/352/name/
+Energy 500#MTLed
+> END STRING
+
+> BEGIN STRING
+精力７５０
+> CONTEXT: Skills/353/name/
+Energetic 750#MTLed
+> END STRING
+
+> BEGIN STRING
+精力１０００
+> CONTEXT: Skills/354/name/
+Energy 1000#MTLed
+> END STRING
+
+> BEGIN STRING
+精力ブースト
+> CONTEXT: Skills/355/name/
+> CONTEXT: Skills/411/name/
+Energetic boost#MTLed
+> END STRING
+
+> BEGIN STRING
+精力最大値が増加する
+> CONTEXT: Skills/355/description/
+> CONTEXT: Skills/411/description/
+Maximum effort increases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+従魔精力５００
+> CONTEXT: Skills/356/name/
+Demonic energies 500#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔の最大精力上昇【重複可能】
+> CONTEXT: Skills/356/description/
+> CONTEXT: Skills/357/description/
+> CONTEXT: Skills/358/description/
+> CONTEXT: Skills/359/description/
+> CONTEXT: Skills/360/description/
+Maximum energetic increase of the devil 【possible
+duplication】#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔精力１０００
+> CONTEXT: Skills/357/name/
+Demonic energetic power 1000#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔精力１５００
+> CONTEXT: Skills/358/name/
+Demonic energies 1500#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔精力２０００
+> CONTEXT: Skills/359/name/
+Demonic energies 2000#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔精力２５００
+> CONTEXT: Skills/360/name/
+Demonic energetic 2500#MTLed
+> END STRING
+
+> BEGIN STRING
+気力ブースト
+> CONTEXT: Skills/361/name/
+> CONTEXT: Skills/412/name/
+Heavy boost#MTLed
+> END STRING
+
+> BEGIN STRING
+気力最大値が増加する
+> CONTEXT: Skills/361/description/
+> CONTEXT: Skills/412/description/
+Vigor maximum value increases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+気力＋５
+> CONTEXT: Skills/362/name/
+Vary + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+最大気力上昇【重複可能】
+> CONTEXT: Skills/362/description/
+> CONTEXT: Skills/363/description/
+> CONTEXT: Skills/364/description/
+> CONTEXT: Skills/365/description/
+Maximum power increase [possible duplication]
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+気力＋１０
+> CONTEXT: Skills/363/name/
+Journal + 10#MTLed
+> END STRING
+
+> BEGIN STRING
+気力＋１５
+> CONTEXT: Skills/364/name/
+Journal + 15#MTLed
+> END STRING
+
+> BEGIN STRING
+気力＋２０
+> CONTEXT: Skills/365/name/
+Journal + 20#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔気力＋１０
+> CONTEXT: Skills/367/name/
+Submission spirit + 10#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔の最大気力上昇【重複可能】
+> CONTEXT: Skills/367/description/
+> CONTEXT: Skills/368/description/
+> CONTEXT: Skills/369/description/
+> CONTEXT: Skills/370/description/
+Maximum vigor of devil 【possible duplication】
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+従魔気力＋２０
+> CONTEXT: Skills/368/name/
+Submarine spirit + 20#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔気力＋３０
+> CONTEXT: Skills/369/name/
+Submission vigor + 30#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔気力＋４０
+> CONTEXT: Skills/370/name/
+Submarine aid + 40#MTLed
+> END STRING
+
+> BEGIN STRING
+経験値＋１０％
+> CONTEXT: Skills/372/name/
+Experience value + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+修得経験値上昇
+> CONTEXT: Skills/372/description/
+> CONTEXT: Skills/373/description/
+> CONTEXT: Skills/374/description/
+> CONTEXT: Skills/375/description/
+> CONTEXT: Skills/376/description/
+Learned experience rise
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+経験値＋２０％
+> CONTEXT: Skills/373/name/
+Experience value + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+経験値＋３０％
+> CONTEXT: Skills/374/name/
+Experience value + 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+経験値＋４０％
+> CONTEXT: Skills/375/name/
+Experience value + 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+経験値＋５０％
+> CONTEXT: Skills/376/name/
+Experience value + 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+学習支援
+> CONTEXT: Skills/377/name/
+Learning support#MTLed
+> END STRING
+
+> BEGIN STRING
+より多くの経験値を得ることが出来る
+> CONTEXT: Skills/377/description/
+You can get more experience value
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨＋１０％
+> CONTEXT: Skills/378/name/
+Magical coin + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+収得魔貨上昇
+> CONTEXT: Skills/378/description/
+> CONTEXT: Skills/379/description/
+> CONTEXT: Skills/380/description/
+> CONTEXT: Skills/381/description/
+> CONTEXT: Skills/382/description/
+Incoming wagon rise
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨＋２０％
+> CONTEXT: Skills/379/name/
+Magical coin + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨＋３０％
+> CONTEXT: Skills/380/name/
+Magical coin + 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨＋４０％
+> CONTEXT: Skills/381/name/
+Magical coin + 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+魔貨＋５０％
+> CONTEXT: Skills/382/name/
+Magical coin + 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+探知支援
+> CONTEXT: Skills/383/name/
+Detection support#MTLed
+> END STRING
+
+> BEGIN STRING
+より多くの魔貨を手に入れることが出来る
+> CONTEXT: Skills/383/description/
+I can get more witchcraft
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+先制率上昇１０％
+> CONTEXT: Skills/384/name/
+Increase preemptive rate 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+先制攻撃率が上昇する
+> CONTEXT: Skills/384/description/
+> CONTEXT: Skills/385/description/
+> CONTEXT: Skills/386/description/
+> CONTEXT: Skills/387/description/
+> CONTEXT: Skills/388/description/
+First strike rate increases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+先制率上昇２０％
+> CONTEXT: Skills/385/name/
+Preemptive rate increase 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+先制率上昇３０％
+> CONTEXT: Skills/386/name/
+Rising preemptive rate 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+先制率上昇４０％
+> CONTEXT: Skills/387/name/
+Increase preemptive rate 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+先制率上昇５０％
+> CONTEXT: Skills/388/name/
+Rising preemptive rate 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+広範囲レーダー
+> CONTEXT: Skills/389/name/
+Extensive radar#MTLed
+> END STRING
+
+> BEGIN STRING
+周囲の淫魔の位置を把握し先制確率を上昇させる
+> CONTEXT: Skills/389/description/
+Grasp the position of the surrounding dragonfly and raise
+the precedence probability#MTLed
+> END STRING
+
+> BEGIN STRING
+不意打ち防止
+> CONTEXT: Skills/390/name/
+Prevent surprise attack#MTLed
+> END STRING
+
+> BEGIN STRING
+不意打ちを完全に防止
+> CONTEXT: Skills/390/description/
+Completely prevent surprise attack
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+交渉成功＋１０％
+> CONTEXT: Skills/392/name/
+Negotiation success + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+交渉成功率が上昇する
+> CONTEXT: Skills/392/description/
+> CONTEXT: Skills/393/description/
+> CONTEXT: Skills/394/description/
+> CONTEXT: Skills/395/description/
+Negotiation success rate rises
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+交渉成功＋２０％
+> CONTEXT: Skills/393/name/
+Negotiation success + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+交渉成功＋３０％
+> CONTEXT: Skills/394/name/
+Negotiation success + 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+言語支援
+> CONTEXT: Skills/395/name/
+Language support#MTLed
+> END STRING
+
+> BEGIN STRING
+カード入手枚数＋１
+> CONTEXT: Skills/396/name/
+Number of cards purchased + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+カードの入手枚数が増加する
+> CONTEXT: Skills/396/description/
+> CONTEXT: Skills/397/description/
+> CONTEXT: Skills/398/description/
+The number of cards acquired increases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+カード入手枚数＋２
+> CONTEXT: Skills/397/name/
+Number of Cards Acquired + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+カード入手枚数＋３
+> CONTEXT: Skills/398/name/
+Number of Cards Acquired + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+ＨＩＴ引き継ぎ１０％
+> CONTEXT: Skills/400/name/
+HIT handover 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘後に初期化されるＨＩＴ数を引き継ぐ
+> CONTEXT: Skills/400/description/
+> CONTEXT: Skills/401/description/
+> CONTEXT: Skills/402/description/
+> CONTEXT: Skills/403/description/
+> CONTEXT: Skills/404/description/
+Take over the number of HITs initialized after battle
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ＨＩＴ引き継ぎ２０％
+> CONTEXT: Skills/401/name/
+HIT handover 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+ＨＩＴ引き継ぎ３０％
+> CONTEXT: Skills/402/name/
+HIT handover 30%#MTLed
+> END STRING
+
+> BEGIN STRING
+ＨＩＴ引き継ぎ４０％
+> CONTEXT: Skills/403/name/
+HIT handover 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+ＨＩＴ引き継ぎ５０％
+> CONTEXT: Skills/404/name/
+HIT handover 50%#MTLed
+> END STRING
+
+> BEGIN STRING
+記録レコーダ
+> CONTEXT: Skills/405/name/
+Recorder#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘終了後に一定量のＨＩＴ数を引き継ぐ
+> CONTEXT: Skills/405/description/
+Take over a certain number of HITs after battle is over
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+道具回数＋３
+> CONTEXT: Skills/406/name/
+Number of tools + 3#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘中の道具の使用回数が増加
+> CONTEXT: Skills/406/description/
+> CONTEXT: Skills/407/description/
+Increase use of battle tools
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+道具回数＋５
+> CONTEXT: Skills/407/name/
+Number of tools + 5#MTLed
+> END STRING
+
+> BEGIN STRING
+異次元箱
+> CONTEXT: Skills/408/name/
+Dimensional box#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘中の道具使用回数が上昇する
+> CONTEXT: Skills/408/description/
+The number of tool use times during battle increases
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アイテム入手量↑
+> CONTEXT: Skills/409/name/
+Item acquisition amount ↑#MTLed
+> END STRING
+
+> BEGIN STRING
+一度に入手するアイテムの量増加
+> CONTEXT: Skills/409/description/
+Increase quantity of items to be obtained at once
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+上半分が装備スキル
+> CONTEXT: Skills/431/name/
+Equipment skill in the upper half#MTLed
+> END STRING
+
+> BEGIN STRING
+下半分が強化スキル
+> CONTEXT: Skills/432/name/
+The lower half is strengthening skill#MTLed
+> END STRING
+
+> BEGIN STRING
+◆攻撃　スキル
+> CONTEXT: Skills/435/name/
+Attack skill#MTLed
+> END STRING
+
+> BEGIN STRING
+連携+20%
+> CONTEXT: Skills/436/name/
+Collaboration + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+連携時の攻撃力が２０％上昇する
+> CONTEXT: Skills/436/description/
+Attack power at the time of cooperation increases by 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+連携+40%
+> CONTEXT: Skills/437/name/
+Collaboration + 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+連携時の攻撃力が４０％上昇する
+> CONTEXT: Skills/437/description/
+Attack power at the time of cooperation increases by 40%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+胸+1
+> CONTEXT: Skills/441/name/
+> CONTEXT: Skills/443/name/
+Chest + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+胸責めのＨｉｔ数が＋１される
+> CONTEXT: Skills/441/description/
+> CONTEXT: Skills/443/description/
+Hit number of chest torture is incremented by 1
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+胸+2
+> CONTEXT: Skills/442/name/
+> CONTEXT: Skills/444/name/
+Chest + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+胸責めのＨｉｔ数が＋２される
+> CONTEXT: Skills/442/description/
+> CONTEXT: Skills/444/description/
+Hit number of chest torture is +2
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+尻+1
+> CONTEXT: Skills/447/name/
+> CONTEXT: Skills/449/name/
+Butt + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+尻責めのＨｉｔ数が＋１される
+> CONTEXT: Skills/447/description/
+> CONTEXT: Skills/449/description/
+The number of Hit of the ticket blame is incremented by 1
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+尻+2
+> CONTEXT: Skills/448/name/
+> CONTEXT: Skills/450/name/
+Ass + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+尻責めのＨｉｔ数が＋２される
+> CONTEXT: Skills/448/description/
+> CONTEXT: Skills/450/description/
+The number of Hits of the ticket blame is incremented by 2
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+膣+1
+> CONTEXT: Skills/453/name/
+> CONTEXT: Skills/455/name/
+Vaginal + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+膣責めのＨｉｔ数が＋１される
+> CONTEXT: Skills/453/description/
+> CONTEXT: Skills/455/description/
+Hit number of vaginal torture is incremented by 1
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+膣+2
+> CONTEXT: Skills/454/name/
+> CONTEXT: Skills/456/name/
+Vaginal + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+膣責めのＨｉｔ数が＋２される
+> CONTEXT: Skills/454/description/
+> CONTEXT: Skills/456/description/
+Hit count of vaginal torture is +2
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+唇+1
+> CONTEXT: Skills/459/name/
+> CONTEXT: Skills/461/name/
+Lips + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+唇責めのＨｉｔ数が＋１される
+> CONTEXT: Skills/459/description/
+> CONTEXT: Skills/461/description/
+The number of Hit of lip acute is incremented by 1
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+唇+2
+> CONTEXT: Skills/460/name/
+> CONTEXT: Skills/462/name/
+Lips + 2#MTLed
+> END STRING
+
+> BEGIN STRING
+唇責めのＨｉｔ数が＋２される
+> CONTEXT: Skills/460/description/
+> CONTEXT: Skills/462/description/
+The number of Hit of lip repression is +2
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+追撃+10%
+> CONTEXT: Skills/465/name/
+> CONTEXT: Skills/467/name/
+Pursuit + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+１０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Skills/465/description/
+> CONTEXT: Skills/467/description/
+Hit count is incremented by 1 at attack by 10%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+追撃+20%
+> CONTEXT: Skills/466/name/
+> CONTEXT: Skills/468/name/
+Pursuit + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+２０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Skills/466/description/
+> CONTEXT: Skills/468/description/
+Hit number is incremented by 1 at attack at 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+性感+10%
+> CONTEXT: Skills/471/name/
+> CONTEXT: Skills/473/name/
+Sensibility + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+１０％でクリティカルヒットになる
+> CONTEXT: Skills/471/description/
+> CONTEXT: Skills/473/description/
+Become a critical hit with 10%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+性感+20%
+> CONTEXT: Skills/472/name/
+> CONTEXT: Skills/474/name/
+Sensibility + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+２０％でクリティカルヒットになる
+> CONTEXT: Skills/472/description/
+> CONTEXT: Skills/474/description/
+Become a critical hit at 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+牽制+10%
+> CONTEXT: Skills/477/name/
+> CONTEXT: Skills/479/name/
+Check + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+１０％でキャンセル時に大幅に戻す
+> CONTEXT: Skills/477/description/
+> CONTEXT: Skills/479/description/
+Revert to 10% at the time of cancellation
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+牽制+20%
+> CONTEXT: Skills/478/name/
+> CONTEXT: Skills/480/name/
+Check + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+２０％でキャンセル時に大幅に戻す
+> CONTEXT: Skills/478/description/
+> CONTEXT: Skills/480/description/
+Revert to 20% at the time of cancellation
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+威圧+10%
+> CONTEXT: Skills/483/name/
+> CONTEXT: Skills/485/name/
+Intimidate + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+１０％で非弱点でもキャンセル効果を発動
+> CONTEXT: Skills/483/description/
+> CONTEXT: Skills/485/description/
+Canceling effect is activated even at 10% and non-weak
+points#MTLed
+> END STRING
+
+> BEGIN STRING
+威圧+20%
+> CONTEXT: Skills/484/name/
+> CONTEXT: Skills/486/name/
+Compulsion + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+２０％で非弱点でもキャンセル効果を発動
+> CONTEXT: Skills/484/description/
+> CONTEXT: Skills/486/description/
+Cancel effect is activated even at 20% and non-weak points
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+平常心+10%
+> CONTEXT: Skills/490/name/
+> CONTEXT: Skills/492/name/
+Regular heart + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+１０％でキャンセルを無効化する
+> CONTEXT: Skills/490/description/
+> CONTEXT: Skills/492/description/
+Invalidate cancellation by 10%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+平常心+20%
+> CONTEXT: Skills/491/name/
+> CONTEXT: Skills/493/name/
+Regular heart + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+２０％でキャンセルを無効化する
+> CONTEXT: Skills/491/description/
+> CONTEXT: Skills/493/description/
+Invalidate cancellation by 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+忍耐+10%
+> CONTEXT: Skills/496/name/
+> CONTEXT: Skills/498/name/
+Patience + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力が０以下になったとき１０％で耐える
+ただし効果発動毎に発動率は低下する
+> CONTEXT: Skills/496/description/
+> CONTEXT: Skills/498/description/
+\\}It can withstand 10% when energetic becomes 0 or less. However, the
+triggering rate decreases for each effect invocation#MTLed
+> END STRING
+
+> BEGIN STRING
+忍耐+20%
+> CONTEXT: Skills/497/name/
+> CONTEXT: Skills/499/name/
+Patience + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+精力が０以下になったとき２０％で耐える
+ただし効果発動毎に発動率は低下する
+> CONTEXT: Skills/497/description/
+> CONTEXT: Skills/499/description/
+\\}It can endure at 20% when the energies become 0 or less. However, the
+triggering rate decreases for each effect invocation#MTLed
+> END STRING
+
+> BEGIN STRING
+Hit+10%
+> CONTEXT: Skills/502/name/
+> CONTEXT: Skills/504/name/
+Hit + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+与える快感がＨｉｔ数の１０％上昇する
+> CONTEXT: Skills/502/description/
+> CONTEXT: Skills/504/description/
+Give pleasure increases by 10% of Hit number
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+Hit+20%
+> CONTEXT: Skills/503/name/
+> CONTEXT: Skills/505/name/
+Hit + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Skills/503/description/
+> CONTEXT: Skills/505/description/
+Give pleasure increases by 20% of Hit number
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+理性-10%
+> CONTEXT: Skills/508/name/
+> CONTEXT: Skills/510/name/
+Reason - 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+性技使用時の消費理性が－１０％される
+> CONTEXT: Skills/508/description/
+> CONTEXT: Skills/510/description/
+Consumption reason when using sex technique is set at -10%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+理性-20%
+> CONTEXT: Skills/509/name/
+> CONTEXT: Skills/511/name/
+Reason - 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+性技使用時の消費理性が－２０％される
+> CONTEXT: Skills/509/description/
+> CONTEXT: Skills/511/description/
+Consumption reason when using sex technique is -20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+吸収-20%
+> CONTEXT: Skills/514/name/
+> CONTEXT: Skills/516/name/
+Absorption - 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+エナジードレインを２０％軽減する
+> CONTEXT: Skills/514/description/
+> CONTEXT: Skills/516/description/
+Reduce energy drain by 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+吸収-40%
+> CONTEXT: Skills/515/name/
+> CONTEXT: Skills/517/name/
+Absorption - 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+エナジードレインを４０％軽減する
+> CONTEXT: Skills/515/description/
+> CONTEXT: Skills/517/description/
+Reduce energy drain by 40%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+イきそう-20%
+> CONTEXT: Skills/520/name/
+> CONTEXT: Skills/522/name/
+It looks good - 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+イきそうを２０％で無効化する
+> CONTEXT: Skills/520/description/
+> CONTEXT: Skills/522/description/
+Ineffective with yeast at 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+イきそう-40%
+> CONTEXT: Skills/521/name/
+> CONTEXT: Skills/523/name/
+It looks good - 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+イきそうを４０％で無効化する
+> CONTEXT: Skills/521/description/
+> CONTEXT: Skills/523/description/
+Ineffective at 40% to be yea
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+骨抜き-20%
+> CONTEXT: Skills/526/name/
+> CONTEXT: Skills/528/name/
+Boning - 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+骨抜きを２０％で無効化する
+> CONTEXT: Skills/526/description/
+> CONTEXT: Skills/528/description/
+Invalidate oozing by 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+骨抜き-40%
+> CONTEXT: Skills/527/name/
+> CONTEXT: Skills/529/name/
+Boning - 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+骨抜きを４０％で無効化する
+> CONTEXT: Skills/527/description/
+> CONTEXT: Skills/529/description/
+Invalidate oozing out at 40%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+魅了-20%
+> CONTEXT: Skills/532/name/
+Attraction - 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了を２０％の確立で無効化する
+> CONTEXT: Skills/532/description/
+Disable fascination with 20% establishment
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+魅了-40%
+> CONTEXT: Skills/533/name/
+> CONTEXT: Skills/535/name/
+Attracted -40%#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了を４０％の確立で無効化する
+> CONTEXT: Skills/533/description/
+> CONTEXT: Skills/535/description/
+Disable fascination with 40% establishment
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+魅了 20%
+> CONTEXT: Skills/534/name/
+Fascination 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+状態異常を２０％の確立で無効化する　スキル強化
+
+> CONTEXT: Skills/534/description/
+Strengthen skills to invalidate state abnormalities by 20%
+establishment. #MTLed
+> END STRING
+
+> BEGIN STRING
+◆補助スキル
+> CONTEXT: Skills/538/name/
+◆ Auxiliary skills#MTLed
+> END STRING
+
+> BEGIN STRING
+幸運+10%
+> CONTEXT: Skills/539/name/
+> CONTEXT: Skills/541/name/
+Fortune + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘終了後の収得ＳＰが１０％上昇する
+> CONTEXT: Skills/539/description/
+> CONTEXT: Skills/541/description/
+Acquired SP after battle increases by 10%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+幸運+20%
+> CONTEXT: Skills/540/name/
+> CONTEXT: Skills/542/name/
+Good luck + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘終了後の収得ＳＰが２０％上昇する
+> CONTEXT: Skills/540/description/
+> CONTEXT: Skills/542/description/
+Acquired SP after battle is increased by 20%
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+休息+10%
+> CONTEXT: Skills/545/name/
+> CONTEXT: Skills/547/name/
+Rest + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘終了後に精力と理性が１０％回復する
+> CONTEXT: Skills/545/description/
+> CONTEXT: Skills/547/description/
+Energy and reason will recover by 10% after battle is over
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+休息+20%
+> CONTEXT: Skills/546/name/
+> CONTEXT: Skills/548/name/
+Rest + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Skills/546/description/
+> CONTEXT: Skills/548/description/
+Energy and reason will recover by 20% after battle is over
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+警戒+10%
+> CONTEXT: Skills/551/name/
+> CONTEXT: Skills/553/name/
+Alert + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘開始時に１０％で先手を取る
+> CONTEXT: Skills/551/description/
+> CONTEXT: Skills/553/description/
+Take 10% at the start of battle
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+警戒+20%
+> CONTEXT: Skills/552/name/
+> CONTEXT: Skills/554/name/
+Alert + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘開始時に２０％で先手を取る
+> CONTEXT: Skills/552/description/
+> CONTEXT: Skills/554/description/
+At the start of battle get 20% at the beginning
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+探索+10%
+> CONTEXT: Skills/557/name/
+> CONTEXT: Skills/559/name/
+Search + 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+ダンジョンでの拾得品が１０％の確立で１増加する
+> CONTEXT: Skills/557/description/
+> CONTEXT: Skills/559/description/
+The found items in the dungeon will increase by 1 with the
+establishment of 10%#MTLed
+> END STRING
+
+> BEGIN STRING
+探索+20%
+> CONTEXT: Skills/558/name/
+> CONTEXT: Skills/560/name/
+Search + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+ダンジョンでの拾得品が２０％の確立で１増加する
+> CONTEXT: Skills/558/description/
+> CONTEXT: Skills/560/description/
+The picked-up items in the dungeon will increase by 1 with
+the establishment of 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+引き継ぎ+20%
+> CONTEXT: Skills/563/name/
+> CONTEXT: Skills/565/name/
+Take over + 20%#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｈｉｔ数を次の戦闘に２０％引き継ぐ
+> CONTEXT: Skills/563/description/
+> CONTEXT: Skills/565/description/
+Take over 20% of Hit number to next battle
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+引き継ぎ+40%
+> CONTEXT: Skills/564/name/
+> CONTEXT: Skills/566/name/
+Take over + 40%#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｈｉｔ数を次の戦闘に4０％引き継ぐ
+> CONTEXT: Skills/564/description/
+> CONTEXT: Skills/566/description/
+Hit number takes over 40% to the next battle
+                                                           #MTLed
+> END STRING

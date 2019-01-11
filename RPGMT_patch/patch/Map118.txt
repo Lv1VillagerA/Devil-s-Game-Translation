@@ -1,0 +1,112 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大森林　西
+> CONTEXT: Map118/display_name/
+Great Forest West#MTLed
+> END STRING
+
+> BEGIN STRING
+必死に抵抗したのかあちこち泥まみれになりながらも、
+心地良さそうな顔で昇天している。
+> CONTEXT: Map118/events/24/pages/0/7/Dialogue
+Was it desperately resisting? While it was
+becoming covered with mud, He is ascending with a
+comfortable face.#MTLed
+> END STRING
+
+> BEGIN STRING
+フードに隠れて表情は良く見えないが、
+緩みきった口元でヨダレを垂らしながら死んでいる。
+> CONTEXT: Map118/events/25/pages/0/7/Dialogue
+Hidden in the hood, the facial expressions can not be seen
+well, I'm dying while hanging around with a loose mouth.#MTLed
+> END STRING
+
+> BEGIN STRING
+ヌメった精液たまりの中で、蕩けた表情のまま逝っている。
+> CONTEXT: Map118/events/26/pages/0/7/Dialogue
+In the drowned semen pool, I am dying as if I had a bold
+expression.#MTLed
+> END STRING
+
+> BEGIN STRING
+焦点の定まらない目で、幸せそうに事切れている。
+> CONTEXT: Map118/events/27/pages/0/7/Dialogue
+With eyes whose focus is uncertain, I am happy with it.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]皆…動かなくなってる。
+　それにこの人たちの顔…何処かで\\C[29]」
+> CONTEXT: Map118/events/34/pages/0/14/Dialogue
+\\C[29]「\\C[0]Everyone ... It's gone. And the face of these people ...
+somewhere\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっか…まず仮面の男が一人、
+　そしてこの場に横たわってる人たちが四人\\C[29]」
+> CONTEXT: Map118/events/34/pages/0/17/Dialogue
+\\C[29]「\\C[0]Is that so ... First of all, one man at the mask,
+And there are four people lying in this place\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]、何かわかったのか？\\C[1]」
+> CONTEXT: Map118/events/34/pages/0/20/Dialogue
+\\C[1]「\\C[0]\\N[6] Do you understand something?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん、ここで倒れてる人たちは皆、
+　昔私を捕らえた奴隷商人だよ\\C[29]」
+> CONTEXT: Map118/events/34/pages/0/24/Dialogue
+\\C[29]「\\C[0]Yeah, all the people who have fallen here,
+It is a slave merchant who captured me a long time ago\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]助けを求めに来た人も含めると、
+　人数も姿形も昔の記憶と全く同じだから、
+　多分間違いはないんじゃないかなぁ\\C[29]」
+> CONTEXT: Map118/events/34/pages/0/27/Dialogue
+\\C[29]「\\C[0]Including those who came to ask for help,
+Since both the number of people and the figure are exactly
+the same as those of old times, Perhaps there is no mistake
+I wonder\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「天使の私が言うのも何ですが、
+　憎しみは何も生まないというわけでは、ありませんわ。
+　しかし、どうか闇に染まらないでください」
+> CONTEXT: Map118/events/34/pages/0/31/Dialogue
+「What an angel 's I say, There is no hatred not to produce
+anything. But please do not stare in the darkness」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん…それは大丈夫だよ。
+　終わってみたら、何だか妙に呆気ない感じでね\\C[29]」
+> CONTEXT: Map118/events/34/pages/0/37/Dialogue
+\\C[29]「\\C[0]Well ... that's fine. When I finish, something strangely
+disgusting\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私が直接手を下したわけじゃないんだけど、
+　それより、今の問題は褐色の淫魔だよ\\C[29]」
+> CONTEXT: Map118/events/34/pages/0/42/Dialogue
+\\C[29]「\\C[0]I did not directly withdraw my hand,
+More than that, the problem now is a brown devil\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。考えるのは後にして、
+　今は先を急ごう。
+　その淫魔が何を企んでるか、わからないしな\\C[1]」
+> CONTEXT: Map118/events/34/pages/0/46/Dialogue
+\\C[1]「\\C[0]That's right.Later on thinking,
+Let 's hurry ahead now. I do not know what that demon is
+planning\\C[1]」#MTLed
+> END STRING

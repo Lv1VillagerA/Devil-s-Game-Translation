@@ -1,0 +1,46 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+下水道　最下層
+> CONTEXT: Map104/display_name/
+Sewer lowest layer#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]指輪…に、見えなくもないか？\\C[1]」
+> CONTEXT: Map104/events/1/pages/0/16/Dialogue
+\\C[1]「\\C[0]Is it not invisible to the ring?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]\\N[1]、
+　もうここ以上の下層はなさそうだよ？\\C[29]」
+> CONTEXT: Map104/events/1/pages/0/20/Dialogue
+\\C[29]「\\C[0]\\N[1] , It seems that there is no lower level over
+here any longer?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そうだな。
+　もしこれが目的の物でないとしても、
+　最下層まで探したんだ\\C[1]」
+> CONTEXT: Map104/events/1/pages/0/23/Dialogue
+\\C[1]「\\C[0]... That's right. Even if this is not what you want,
+I looked for the bottom layer\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]じゃぁこの指輪を依頼人に確認してもらえば、
+　依頼終了ということで、良いのかな？\\C[29]」
+> CONTEXT: Map104/events/1/pages/0/28/Dialogue
+\\C[29]「\\C[0]Well, if you ask the client to confirm this ring,
+Is it good as it is requested to end?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そうと決まれば、
+　いつまでもこんな汚水や淫魔だらけの場所にいたくないし、
+　さっさと脱出するよ！\\C[29]」
+> CONTEXT: Map104/events/1/pages/0/31/Dialogue
+\\C[29]「\\C[0]If so decided, I do not want to stay in such a place full
+of such sewage and dirty forever, I will escape quickly!\\C[29]」#MTLed
+> END STRING

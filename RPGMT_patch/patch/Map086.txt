@@ -1,0 +1,101 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+雑貨屋
+> CONTEXT: Map086/display_name/
+General store#MTLed
+> END STRING
+
+> BEGIN STRING
+「冒険者のお二人さん。
+　切れ味の良い武器がいかがかしら？」
+> CONTEXT: Map086/events/4/pages/0/6/Dialogue
+「Two of the adventurers. How about a sharp weapon?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それともこちらの盾、
+　クマの爪でもかすり傷程度しかつかない優れものよ」
+> CONTEXT: Map086/events/4/pages/0/9/Dialogue
+「Or this shield, Even a bear's nail is excellent only with
+scratches」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どう？　両方買ってくれるなら、
+　安くしておくわよ？」
+> CONTEXT: Map086/events/4/pages/0/12/Dialogue
+「How? If you buy both, Let me keep it cheap?」#MTLed
+> END STRING
+
+> BEGIN STRING
+商品にならないような、色々な道具が並べられている。
+> CONTEXT: Map086/events/5/pages/1/7/Dialogue
+Various tools are arranged that are not goods.#MTLed
+> END STRING
+
+> BEGIN STRING
+無数の槍が埃をかぶっている。
+> CONTEXT: Map086/events/6/pages/0/7/Dialogue
+Numerous spears are wearing dust.#MTLed
+> END STRING
+
+> BEGIN STRING
+無数の槍が立てかけられている。
+> CONTEXT: Map086/events/7/pages/0/7/Dialogue
+Numerous spears are on stand.#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な衣服の生地が綺麗に立てかけられている。
+> CONTEXT: Map086/events/8/pages/0/7/Dialogue
+> CONTEXT: Map086/events/9/pages/0/7/Dialogue
+Various clothing fabrics are standing up beautifully.#MTLed
+> END STRING
+
+> BEGIN STRING
+顧客リストと販売の帳簿がしまわれている。
+> CONTEXT: Map086/events/10/pages/0/7/Dialogue
+> CONTEXT: Map086/events/11/pages/0/7/Dialogue
+The list of customers and the book of sales are put
+together.#MTLed
+> END STRING
+
+> BEGIN STRING
+傷薬や装飾品などが収納されている。
+> CONTEXT: Map086/events/12/pages/0/7/Dialogue
+Scratches and decorative items are stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+観葉植物だ。良く手入れされている。
+> CONTEXT: Map086/events/13/pages/0/7/Dialogue
+It is a foliage plant. It is well maintained.#MTLed
+> END STRING
+
+> BEGIN STRING
+立派な盾だ。どんな攻撃でもびくともしないだろう。
+> CONTEXT: Map086/events/14/pages/0/7/Dialogue
+It is a wonderful shield. I will not bite any attack.#MTLed
+> END STRING
+
+> BEGIN STRING
+美しい装飾のされた弓だ。魔力が込められているのだろうか。
+> CONTEXT: Map086/events/15/pages/0/7/Dialogue
+It is a beautifully decorated bow. I wonder if magical
+powers are put in it.#MTLed
+> END STRING
+
+> BEGIN STRING
+立派な剣だ。どんなモノでも抵抗なく斬れそうだ。
+> CONTEXT: Map086/events/16/pages/0/7/Dialogue
+It is a wonderful sword. I can seem to slash anything
+without resistance.#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険者に関するマニュアル本や、商売に関する専門書が目立つ。
+> CONTEXT: Map086/events/17/pages/0/7/Dialogue
+> CONTEXT: Map086/events/18/pages/0/7/Dialogue
+Manual books on adventurers and professional books on
+business are outstanding.#MTLed
+> END STRING

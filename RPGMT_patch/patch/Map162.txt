@@ -1,0 +1,262 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　１Ｆ
+> CONTEXT: Map162/display_name/
+Tower of Seal 1F#MTLed
+> END STRING
+
+> BEGIN STRING
+どうやら特殊な魔法で施錠及び強化がしてあるようだ。
+手持ちの装備では壊せそうにない。
+> CONTEXT: Map162/events/24/pages/0/7/Dialogue
+> CONTEXT: Map162/events/39/pages/0/7/Dialogue
+> CONTEXT: Map162/events/40/pages/0/7/Dialogue
+Apparently there seems to be locking and strengthening with
+special magic. It is unlikely that it will be destroyed
+with the equipment of hand.#MTLed
+> END STRING
+
+> BEGIN STRING
+「くそっ…くそぉ…！　俺は天使に選ばれたんだぞ！
+　今まで下級淫魔相手に、ずっと勝利し続けてたんだ！」
+> CONTEXT: Map162/events/27/pages/0/7/Dialogue
+「Damn it ... damn ...! I was chosen as an angel!
+I have been victorious all the time for lower class 魔 魔
+opponent so far!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それなのに、この塔の下級淫魔相手に、
+　手も足も出ずに搾り尽くされちまった！」
+> CONTEXT: Map162/events/27/pages/0/10/Dialogue
+「Even so, to this lower tower of this tower,
+I got no hands and no legs and it ceased to be squeezed!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「下級だってのに何だよこの強さは…！
+　結界の中なら安全？　馬鹿な！
+　いくら弱体化した所で、普通の人間が勝てるものか！」
+> CONTEXT: Map162/events/27/pages/0/13/Dialogue
+「Even though it's lower level, what is this strength ...!
+Is it safe in the barrier? Foolish! How much can we win
+with normal weak place!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺たち人間は淫魔の家畜になって、
+　細々と生きていくしかねえんだよ！」
+> CONTEXT: Map162/events/27/pages/0/17/Dialogue
+「We humans become domestic animals, I only have to live in
+detail!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「んっ…また餌が来たのか？
+　悪いことは言わない。早く逃げたほうが良い」
+> CONTEXT: Map162/events/32/pages/0/7/Dialogue
+「umph ... did the bait come again? I do not say bad
+things. You had better get away early.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺たちはそれなりに名の知られた冒険者だったが、
+　この塔の淫魔には、全く歯がたたなかった」
+> CONTEXT: Map162/events/32/pages/0/10/Dialogue
+「We were indeed a well-known adventurer,
+There was absolutely no tooth on the toy of this tower」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まるで赤子の手をひねるように、
+　皆次々に絶頂させられていったよ」
+> CONTEXT: Map162/events/32/pages/0/13/Dialogue
+「Just like twisting the baby 's hand, Everyone was caught
+one after the other」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その中で魔力を持つ者を上の階に連れて行き、
+　そして魔力を持たない男は餌として、
+　女は淫魔にしたのち解放したんだ」
+> CONTEXT: Map162/events/32/pages/0/16/Dialogue
+「Within them bring the magical person to the upper floor,
+And a man with no magical power as bait,
+After liberating a woman, she released it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だからもう一度言う。
+　早く逃げたほうが良い」
+> CONTEXT: Map162/events/32/pages/0/20/Dialogue
+「So say it again. You had better get away early.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちっ…ちくしょう！　話が違うじゃねえか！
+　何が魔法都市でも五本の指に入る魔法使いだ！
+　ちっとも通じねえじゃねえか！」
+> CONTEXT: Map162/events/33/pages/0/7/Dialogue
+「Chit ... Damn it! The story is different!
+What is a magical city that goes into five fingers even in
+a magical city! Hey, you do not understand!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おまけに魔法だけでなく、
+　物理攻撃も全く効かねえとか…詐欺じゃねえか！」
+> CONTEXT: Map162/events/33/pages/0/11/Dialogue
+「Besides magic not only, Physical attacks are totally
+ineffective ... Is not it a fraud!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「すぐに絶頂させれば淫魔は消えると聞いて、
+　皆必死に奮闘したが、
+　結局指先一つでイかされちまった」
+> CONTEXT: Map162/events/33/pages/0/14/Dialogue
+「I heard that it will disappear if you crown immediately,
+Everyone desperately struggled, After all I was put up with
+one fingertip」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こんな相手に勝てるわけねえだろ。
+　俺たちゃ人間は皆…淫魔の家畜にされるんだ」
+> CONTEXT: Map162/events/33/pages/0/18/Dialogue
+「You can not win such a opponent. We all human beings ...
+are made into domestic animals」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…こんな年寄りでさえ、
+　淫魔たちに見つめられるだけで、
+　若い頃のたぎりを取り戻すとはのう」
+> CONTEXT: Map162/events/34/pages/0/7/Dialogue
+「Ah ... Even such a senior citizen, Just being stared at
+the demons, I will regain the rest of my youth」#MTLed
+> END STRING
+
+> BEGIN STRING
+「天使に選ばれ、精が枯れ果てたわしならば、
+　淫魔の誘惑にも抗えると思ったのじゃが、
+　どうやら見通しが甘かったようじゃな」
+> CONTEXT: Map162/events/34/pages/0/11/Dialogue
+「If you are chosen as an angel and sperm has ended
+withered, I thought that it would resist against the
+temptation of the bastard, Apparently the outlook seemed
+sweet」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…しかし、本当にえがったわぃ…。
+　これならば残り少ない命を、
+　彼女たちに吸い尽くされるのも…良いかもしれぬのう」
+> CONTEXT: Map162/events/34/pages/0/15/Dialogue
+「Huh ... but I really wanted to .... If this is the case,
+It may be better for them to suck it out ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うっ…うぅ…もう…出ない…やめて…くれぇ…」
+> CONTEXT: Map162/events/35/pages/0/7/Dialogue
+「ugh ... Uh ... already ... I will not come ... stop ...
+give me ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こんな…はずじゃぁ…なかったの…に、
+　天使に選ばれた適格者たちが、
+　封印の塔の淫魔には…上質な餌に過ぎないなんて…」
+> CONTEXT: Map162/events/35/pages/0/9/Dialogue
+「It was supposed to ... Such a thing ... There,
+Eligible qualified people chosen as angels,
+To the toy of the seal tower ... It is nothing but a fine
+ba ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「実力が…違いすぎる…だが、
+　もう…どうでも良い。
+　俺は…このまま淫魔様の…家畜として…」
+> CONTEXT: Map162/events/35/pages/0/13/Dialogue
+「Ability is ... too different ... But, Already ... nothing
+good. I ... as a lady ... as a livestock ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「生涯を終える…のだから…お前たちも、
+　快楽に抗うより…淫魔様に…従ったほうが…良いぞ」
+> CONTEXT: Map162/events/35/pages/0/17/Dialogue
+「I will finish my life ... Because of you,
+Rather than resisting pleasure ... It is better to follow
+obedience ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こんな…こんなはずじゃなかったんだ…。
+　俺が長年鍛えた剣術が…全く通用しないなんて…」
+> CONTEXT: Map162/events/36/pages/0/7/Dialogue
+「Such ... It was not supposed to be this ....
+The swordsmans that I trained for years ... I can not pass
+it at all ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかも…淫魔たちの手管により、
+　俺の長年の剣術が…経験が…精液に変えられて…、
+　膣内に吸い取られ…あぁ…！」
+> CONTEXT: Map162/events/36/pages/0/10/Dialogue
+「Moreover ... by the hands of the demons,
+My long-time swordsmans ... experience is turned into semen
+..., Sucked in the vagina ... Ah ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「思い出すと、また立ってきちまう…。
+　このまま俺の長年鍛え上げた筋肉が、
+　淫魔の吸精で…脂肪の塊に変えられるのも…時間の問題だ」
+> CONTEXT: Map162/events/36/pages/0/14/Dialogue
+「I remember when I recall ... .... My muscles that I
+forged over the years as it is, It is a problem of time
+that it can be transformed into a mass of fat by sucking
+the bastards ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だがもう…そんなことは…どうでも良い…。
+　早く…淫魔たちの吸精の時間が来て欲しいと…、
+　心底待ちわびちまうんだよぉ…！」
+> CONTEXT: Map162/events/36/pages/0/18/Dialogue
+「But already ... such a thing ... Anything's fine.
+As soon as possible ... I want you to have time for
+insemination of the demons ... ..., I'm going to wait in
+the bottom of my heart ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「上級淫魔…いえ、
+　淫女王アニスの淫気を感じますわ！」
+> CONTEXT: Map162/events/37/pages/0/7/Dialogue
+「Senior lusty ... No, I feel the horny king Anis's lust!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「間違いなく彼女は、この塔の最上階にいますわ！」
+> CONTEXT: Map162/events/37/pages/0/10/Dialogue
+「Definitely she is on the top floor of this tower!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっか…いよいよ決着がつくんだね\\C[29]」
+> CONTEXT: Map162/events/37/pages/0/14/Dialogue
+\\C[29]「\\C[0]OK ... I'm finalized\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、必ずここで終わりにするぞ。
+　そのためにも、塔の最上階へ急ごう\\C[1]」
+> CONTEXT: Map162/events/37/pages/0/16/Dialogue
+\\C[1]「\\C[0]Oh, I will definitely finish here.
+For that, let's hurry to the top floor of the tower\\C[1]」#MTLed
+> END STRING

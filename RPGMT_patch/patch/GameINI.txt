@@ -1,0 +1,8 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+淫魔の遊戯
+> CONTEXT: GameINI/Title
+Yu-Gi-Oh!#MTLed
+> CONTEXT: System/game_title/
+Yu-Gi-Oh!#MTLed
+> END STRING

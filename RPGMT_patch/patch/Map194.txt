@@ -1,0 +1,312 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]やっぱりここまで辿り着くのは、
+　\\N[1]たち二人…ううん、
+　天使をいれると三人だと思ってたよ\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/17/Dialogue
+\\C[10]「\\C[0]After all, In case \\N[1] Two of us ... No,
+I thought it would be three people if I put an angel\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ボクたち淫魔は、
+　この二百年の間に強くなったけど、
+　君たち人間は、逆に弱くなったんじゃないかな？\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/23/Dialogue
+\\C[10]「\\C[0]My fellow devil, It became strong during the last two
+hundred years, Did you guys become weaker, on the contrary?\\C[10]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]と言うか、ボクまで順番が回って来ない以前に、
+　塔の一階…ううん！　塔に辿り着く前にほぼ全滅って、
+　どういうことなの！　\\N[1]！\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/29/Dialogue
+\\C[10]「\\C[0]Or, before the turn does not come to me,
+The first floor of the tower ... No! Before reaching the
+tower nearly annihilated, What do you mean! In case
+\\N[1] !\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]俺に聞かれても知らねえよ！\\C[1]」
+> CONTEXT: Map194/events/4/pages/0/33/Dialogue
+\\C[1]「\\C[0]Even if you ask me I do not know!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]せっかく楽しみにしてたのに！
+　次々と塔を登ってくる適格者との戦いを！
+　この日が来るのを、ずっと待ってたのに！\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/37/Dialogue
+\\C[10]「\\C[0]I was looking forward to it!
+Battle with qualified people who climb the tower one after
+another! I was waiting for this day to come!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あまりに誰も来ないから、退屈過ぎて、
+　もう計画を実行に移すところだったよ\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/43/Dialogue
+\\C[10]「\\C[0]Because no one comes too, it is too boring,
+It was time to put the plan into practice\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっ…そうだった！
+　その計画って何なの！\\C[29]」
+> CONTEXT: Map194/events/4/pages/0/46/Dialogue
+\\C[29]「\\C[0]Well ... that was it! What is that plan!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ふっふっふ～もう気づいてるかもしれないけど、
+　この塔の…そして魔法使いたちの魔力を全て集めて、
+　ボクの淫気で汚染するんだ～\\I[140]\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/51/Dialogue
+\\C[10]「\\C[0]Fluffy - It may be noticed already,
+Collect all the magical powers of this tower ... and the
+wizards, I am contaminated with my lasciviousness ~ \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうすれば、
+　この世界全てを楽々覆い尽くす程の淫気に変化するから、
+　戦わずして理性を、蕩けさせられるんだよ\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/55/Dialogue
+\\C[10]「\\C[0]that way, Because it changes into enough sexual intent to
+cover all of this world easily, You can make your reasons
+fade away without fighting\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]…って、マリーダが言ってたんだから\\I[140]\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/61/Dialogue
+\\C[10]「\\C[0]... Because Marida was saying that \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]雰囲気的には緊張感はないが、
+　やってることはとんでもないな！\\C[1]」
+> CONTEXT: Map194/events/4/pages/0/63/Dialogue
+\\C[1]「\\C[0]There is no tension in the atmosphere,
+There is nothing we are doing!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]とにかく！　ここでアニスを止めないと、
+　私たちの世界はお終いだよ！\\C[29]」
+> CONTEXT: Map194/events/4/pages/0/66/Dialogue
+\\C[29]「\\C[0]Anyways! If you do not stop Anise here,
+Our world is over!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうだよ。だから頑張って快楽に抗ってね。
+　人間って守るものがあったほうが、
+　より強い力を引き出せるんでしょう？\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/69/Dialogue
+\\C[10]「\\C[0]that's right. So do your best and resist against pleasure.
+It would be better for people to protect things,
+You can draw stronger power, right?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もし\\N[1]が負けたら、
+　その瞬間に世界は終わっちゃうんだから。
+　せいぜいボクを楽しませてよね\\I[140]\\C[10]」
+> CONTEXT: Map194/events/4/pages/0/73/Dialogue
+\\C[10]「\\C[0]if \\N[1] When it loses, Because the world will end
+at that moment. At best I am entertaining you \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もうちょっとだったのになぁ。
+　もうちょっとで…この世界がボクのモノに…\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/12/Dialogue
+\\C[10]「\\C[0]I wish I was a little more.
+A little more ... This world is my thing ...\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]アニス…世界を支配するのは嘘でしょう？
+　だって、そうじゃないと、私たちを待ってる意味は…。
+　貴女がその気になればすぐにでも…\\C[29]」
+> CONTEXT: Map194/events/4/pages/1/17/Dialogue
+\\C[29]「\\C[0]Anise ... Is not it a lie to rule the world?
+Because, if not, the meaning of waiting for us ....
+As soon as you feel that way ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ん…淫女王ってね。
+　すごく強い淫魔のみ、名乗ることを許されるんだよね\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/24/Dialogue
+\\C[10]「\\C[0]I mean ... King of girls. Only a very strong fairy tale
+is allowed to bear it\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]だけどあまりにも強すぎる淫女王は、
+　何度異性とカラダを重ねても、
+　全然満たされないんだよね\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/27/Dialogue
+\\C[10]「\\C[0]But too strong a horny king,
+No matter how many times you overlap heterosexuals and
+body, I can not fulfill it at all\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]どれだけ美味しい精を吸っても、
+　それは楽しい食事ではなく、淫女王のボクにとっては、
+　ただの作業なんだよ\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/31/Dialogue
+\\C[10]「\\C[0]No matter how much you taste delicious sperm,
+It's not a fun meal, but for me, It's just working\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]だから他の世界に侵攻するんだ\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/38/Dialogue
+\\C[10]「\\C[0]So invade other worlds\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうすれば\\N[1]のように、
+　ボクのカラダも心も満たしてくれる人間と、
+　こうして出会えるかもしれないからね\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/40/Dialogue
+\\C[10]「\\C[0]that way \\N[1] like, I am a human who fills my body
+and mind, You might be able to meet in this way\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…アニス\\C[1]」
+> CONTEXT: Map194/events/4/pages/1/44/Dialogue
+\\C[1]「\\C[0]…anise\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]世界を支配するのはいつでも出来たけど、
+　強い男性とカラダを重ねる前に、
+　ナタリアに封印されたら堪らないからね\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/46/Dialogue
+\\C[10]「\\C[0]I could control the world at any time,
+Before laying a strong men and body, Because I can not
+afford it if sealed in Natalia\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]二百年前の戦いのときは、
+　さぁこれからっ！てところで邪魔されたからね。
+　今回は先手を打たせてもらったよ\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/53/Dialogue
+\\C[10]「\\C[0]In the battle two hundred years ago,
+Now! Because I was disturbed. This time I got the first
+opportunity\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]だからもう満足かな。
+　\\N[1]のような強い男性と出会えたしね。
+　精奴隷に出来なかったのは心残りだけど\\I[140]\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/57/Dialogue
+\\C[10]「\\C[0]So it is already satisfying.
+In case \\N[1] I met a strong man like that.
+I am afraid that I could not be a precaudress \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]だっ…駄目だからね！
+　それは絶対に駄目！\\C[29]」
+> CONTEXT: Map194/events/4/pages/1/61/Dialogue
+\\C[29]「\\C[0]So ... I will not! It is absolutely useless!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]きゃははっ…そろそろ時間みたいだよ。
+　もう一度来るのに、今度は何百年かかるかなぁ\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/69/Dialogue
+\\C[10]「\\C[0]Ahh ... It looks like time.
+I wonder if it will take hundreds of years this time to
+come again\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]との戦いは、本当に楽しかったよ。
+　もしボクがもう一度会えるとしたら、
+　キミたちの子孫、ってことになるのかな？\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/72/Dialogue
+\\C[10]「\\C[0]\\N[1] The fight with, was really fun.
+If I could meet again, I wonder if it will be the
+descendants of you?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]その日を楽しみに待たせてもらうよ。
+　そして…今度こそ…\\I[140]\\C[10]」
+> CONTEXT: Map194/events/4/pages/1/79/Dialogue
+\\C[10]「\\C[0]I'll be looking forward to that day.
+And ... this time ... \\I[140]\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+アニスの声は聞こえなくなった…。
+> CONTEXT: Map194/events/4/pages/1/90/Dialogue
+I can not hear the voice of Anise ....#MTLed
+> END STRING
+
+> BEGIN STRING
+「二人とも！　無事ですの！
+　淫女王アニスはどうなりましたの！」
+> CONTEXT: Map194/events/4/pages/1/103/Dialogue
+「Both of them!It's alright! What happened to the female
+king Anise!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ええと…ナタリア。
+　ずっと声が聞こえなかったが、
+　今までどうしてたんだ？\\C[1]」
+> CONTEXT: Map194/events/4/pages/1/108/Dialogue
+\\C[1]「\\C[0]Well ... Natalia. I could not hear the voice for a long
+time, What have you been up to now?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫女王アニスの淫気があまりも強力で、
+　精神体ですら、干渉することが非常に難しくなりましたの」
+> CONTEXT: Map194/events/4/pages/1/112/Dialogue
+「Lustful king Anis's lusts are too strong,
+Even the spiritual body became very difficult to interfere」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ですので、あれだけ張り詰めていた淫気が、
+　今は跡形もなく消えて、
+　淫界への穴が開きかけているこの状況」
+> CONTEXT: Map194/events/4/pages/1/118/Dialogue
+「So, the lasciviousness that was tightening that much,
+Now it disappeared without a trace, This situation that a
+hole to the dark world is opening」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一応私に残された力で淫界への穴を塞ぎ、
+　\\N[1]たち二人が飲み込まれるのは回避しましたが…。
+　もちろん、詳しく説明してくれますわよね？」
+> CONTEXT: Map194/events/4/pages/1/122/Dialogue
+「At first for me the power left behind closed the hole to
+the horny world, In case \\N[1] We avoided being
+swallowed by ourselves .... Of course you can explain in
+detail, right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そうだね。ちゃんと説明してあげるよ。
+　でも長くなりそうだし、家に帰ってからゆっくりとね\\C[29]」
+> CONTEXT: Map194/events/4/pages/1/126/Dialogue
+\\C[29]「\\C[0]Yeah.I'll explain it properly.
+But it seems to be long and slowly after I came home\\C[29]」#MTLed
+> END STRING

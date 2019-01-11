@@ -1,0 +1,7 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+廃坑　入り口
+> CONTEXT: Map056/display_name/
+> CONTEXT: Map007/display_name/
+Entrance of waste shaft#MTLed
+> END STRING

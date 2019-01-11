@@ -1,0 +1,105 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戸棚の中には色々な野菜が入っている。
+> CONTEXT: Map121/events/4/pages/1/6/Dialogue
+Various vegetables are contained in the cupboard.#MTLed
+> END STRING
+
+> BEGIN STRING
+「この港から南に少し歩くと、
+　立派な大聖堂が見えて来るんですよ」
+> CONTEXT: Map121/events/5/pages/0/6/Dialogue
+> CONTEXT: Map121/events/5/pages/1/6/Dialogue
+「From this harbor a short walk to the south,
+A wonderful cathedral is visible」#MTLed
+> END STRING
+
+> BEGIN STRING
+「大抵の町にある教会が支部だとしたら、
+　大聖堂が本部ですね」
+> CONTEXT: Map121/events/5/pages/0/9/Dialogue
+> CONTEXT: Map121/events/5/pages/1/9/Dialogue
+「If the church in most towns is a branch,
+The cathedral is the headquarters」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何でも、もうすぐ天使様が見られるという噂で、
+　世界中から巡礼者が押しかけているらしいですよ」
+> CONTEXT: Map121/events/5/pages/0/12/Dialogue
+「With anything rumored that an angel will be seen soon,
+It seems that pilgrims are pushing from all over the world」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私も一度で良いから、
+　現界された天使様を間近で拝みたいものですなぁ」
+> CONTEXT: Map121/events/5/pages/0/15/Dialogue
+「Because I am good at once, I would like to worship the
+angel who was at the mercy near the end」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何でも、もうすぐ天使様が降臨なされるという噂で、
+　世界中から巡礼者が押しかけているらしいですよ」
+> CONTEXT: Map121/events/5/pages/1/12/Dialogue
+「With anything rumored that an angel will come down soon,
+It seems that pilgrims are pushing from all over the world」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そして現界した天使様はとても美しくて、
+　淫らだったという噂ですよ」
+> CONTEXT: Map121/events/5/pages/1/15/Dialogue
+「And the angel who was on earth was very beautiful,
+It is a rumor that it was horrible」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…私も天使様の愛に包まれたかったなぁ」
+> CONTEXT: Map121/events/5/pages/1/18/Dialogue
+「Oh ... I also wanted to be surrounded by angel's love」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もう、あの子はいつまでたっても海賊海賊って、
+　夢を見るのは良いんだけどね」
+> CONTEXT: Map121/events/6/pages/0/6/Dialogue
+「Already, she is a pirate pirate no matter how long it is,
+It is good to see a dream」#MTLed
+> END STRING
+
+> BEGIN STRING
+「少しは家の手伝いも、してもらいたいものだわ」
+> CONTEXT: Map121/events/6/pages/0/9/Dialogue
+「I would like to help the house a little」#MTLed
+> END STRING
+
+> BEGIN STRING
+調理器具が綺麗に整頓されている。
+> CONTEXT: Map121/events/7/pages/0/6/Dialogue
+> CONTEXT: Map121/events/8/pages/0/6/Dialogue
+The cooking utensils are neatly arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+海賊の絵本や海に関する本が並んでいる。
+> CONTEXT: Map121/events/9/pages/0/6/Dialogue
+> CONTEXT: Map121/events/10/pages/0/6/Dialogue
+Books on pirate picture books and the sea line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+大人用と子供用の衣服が丁寧にしまわれている。
+> CONTEXT: Map121/events/11/pages/0/6/Dialogue
+> CONTEXT: Map121/events/12/pages/0/6/Dialogue
+Clothes for adults and children are carefully stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+真面目そうな本のカバーの中に、
+所々エッチな本が隠されている。
+> CONTEXT: Map121/events/13/pages/0/6/Dialogue
+In the cover of a serious book, A horny book is hidden in
+places.#MTLed
+> END STRING

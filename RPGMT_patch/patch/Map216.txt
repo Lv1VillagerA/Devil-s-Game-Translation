@@ -1,0 +1,30 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「今まで百年以上見張りを続けてきたけど、
+　こんなことは始めてだっだよ」
+> CONTEXT: Map216/events/3/pages/0/6/Dialogue
+> CONTEXT: Map200/events/7/pages/0/6/Dialogue
+> CONTEXT: Map178/events/7/pages/0/6/Dialogue
+「I have kept watch over 100 years ago, This is my first
+time」#MTLed
+> END STRING
+
+> BEGIN STRING
+「突然目の前の結界に大穴が開いたと思ったら、
+　そこから大勢の淫魔が村に雪崩れ込んで来たんだ」
+> CONTEXT: Map216/events/3/pages/0/9/Dialogue
+> CONTEXT: Map200/events/7/pages/0/9/Dialogue
+「Suddenly when I thought that a large hole had opened in
+the barrier in front of me, A lot of bad lucky crowns came
+into the village from there」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…今思い出しても股間が熱く…じゃなくて、
+　恐怖で震えてくるよ」
+> CONTEXT: Map216/events/3/pages/0/12/Dialogue
+> CONTEXT: Map200/events/7/pages/0/12/Dialogue
+> CONTEXT: Map178/events/7/pages/0/12/Dialogue
+「Oh ... I remember now but my groin is hot ... not,
+Trembling with fear」#MTLed
+> END STRING

@@ -1,0 +1,491 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+↑冒険者ギルド件宿屋
+ご休息、または酒、食事だけでもＯＫ
+新鮮な海の幸を食べたくなったら、我が店にぜひどうぞ
+> CONTEXT: Map203/events/7/pages/0/6/Dialogue
+> CONTEXT: Map096/events/7/pages/0/6/Dialogue
+↑ Adventurer Guild Stores Inn. Rest, or drink, just meal OK
+If you want to eat the fresh seafood, please do come to our
+shop#MTLed
+> END STRING
+
+> BEGIN STRING
+「うちは札と道具の売り買いと、
+　バリアクズの引き取りをやってるよ。
+　それで…今日はどんな用だい？」
+> CONTEXT: Map203/events/19/pages/0/10/Dialogue
+> CONTEXT: Map201/events/18/pages/0/10/Dialogue
+> CONTEXT: Map199/events/41/pages/0/10/Dialogue
+> CONTEXT: Map141/events/41/pages/0/10/Dialogue
+> CONTEXT: Map115/events/18/pages/0/10/Dialogue
+> CONTEXT: Map096/events/19/pages/0/10/Dialogue
+> CONTEXT: Map001/events/10/pages/0/10/Dialogue
+> CONTEXT: Map044/events/9/pages/0/10/Dialogue
+「We sell and buy tags and tools, I'm doing the pick up of
+the barrier shoes. So ... what kind are you for today?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バリアクズを渡す
+> CONTEXT: Map203/events/19/pages/0/14/Choice/0
+> CONTEXT: Map201/events/18/pages/0/14/Choice/0
+> CONTEXT: Map199/events/41/pages/0/14/Choice/0
+> CONTEXT: Map141/events/41/pages/0/14/Choice/0
+> CONTEXT: Map115/events/18/pages/0/14/Choice/0
+> CONTEXT: Map096/events/19/pages/0/14/Choice/0
+> CONTEXT: Map001/events/10/pages/0/14/Choice/0
+> CONTEXT: Map044/events/9/pages/0/14/Choice/0
+Give Bar Kizu#MTLed
+> END STRING
+
+> BEGIN STRING
+道具の販売
+> CONTEXT: Map203/events/19/pages/0/14/Choice/1
+> CONTEXT: Map201/events/18/pages/0/14/Choice/1
+> CONTEXT: Map199/events/41/pages/0/14/Choice/1
+> CONTEXT: Map141/events/41/pages/0/14/Choice/1
+> CONTEXT: Map115/events/18/pages/0/14/Choice/1
+> CONTEXT: Map096/events/19/pages/0/14/Choice/1
+> CONTEXT: Map001/events/10/pages/0/14/Choice/1
+> CONTEXT: Map044/events/9/pages/0/14/Choice/1
+Sales of tools#MTLed
+> END STRING
+
+> BEGIN STRING
+「今まで\\N[1]からもらったバリアクズは、\\V[660]個だな」
+> CONTEXT: Map203/events/19/pages/0/16/Dialogue
+> CONTEXT: Map201/events/18/pages/0/16/Dialogue
+> CONTEXT: Map199/events/41/pages/0/16/Dialogue
+> CONTEXT: Map141/events/41/pages/0/16/Dialogue
+> CONTEXT: Map115/events/18/pages/0/16/Dialogue
+> CONTEXT: Map096/events/19/pages/0/16/Dialogue
+> CONTEXT: Map001/events/10/pages/0/16/Dialogue
+> CONTEXT: Map044/events/9/pages/0/16/Dialogue
+「until now \\N[1] The barrier kid got from me, \\V[660]
+Meaning」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何だ…新しいバリアクズを持ってないじゃないか」
+> CONTEXT: Map203/events/19/pages/0/23/Dialogue
+> CONTEXT: Map201/events/18/pages/0/23/Dialogue
+> CONTEXT: Map199/events/41/pages/0/23/Dialogue
+> CONTEXT: Map141/events/41/pages/0/23/Dialogue
+> CONTEXT: Map115/events/18/pages/0/23/Dialogue
+> CONTEXT: Map096/events/19/pages/0/23/Dialogue
+> CONTEXT: Map001/events/10/pages/0/23/Dialogue
+> CONTEXT: Map044/events/9/pages/0/23/Dialogue
+「What ... I guess you do not have any new barrier tights」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これで受け取ったバリアクズは、\\V[660]個になったぞ」
+> CONTEXT: Map203/events/19/pages/0/28/Dialogue
+> CONTEXT: Map201/events/18/pages/0/28/Dialogue
+> CONTEXT: Map199/events/41/pages/0/28/Dialogue
+> CONTEXT: Map141/events/41/pages/0/28/Dialogue
+> CONTEXT: Map115/events/18/pages/0/28/Dialogue
+> CONTEXT: Map096/events/19/pages/0/28/Dialogue
+> CONTEXT: Map001/events/10/pages/0/28/Dialogue
+> CONTEXT: Map044/events/9/pages/0/28/Dialogue
+「The barrier shoes received in this way, \\V[660] You got it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これ以上交換出来る物はないぞ」
+> CONTEXT: Map203/events/19/pages/0/144/Dialogue
+> CONTEXT: Map201/events/18/pages/0/144/Dialogue
+> CONTEXT: Map199/events/41/pages/0/144/Dialogue
+> CONTEXT: Map141/events/41/pages/0/144/Dialogue
+> CONTEXT: Map115/events/18/pages/0/144/Dialogue
+> CONTEXT: Map096/events/19/pages/0/144/Dialogue
+> CONTEXT: Map001/events/10/pages/0/144/Dialogue
+> CONTEXT: Map044/events/9/pages/0/144/Dialogue
+「There is nothing to replace any more」#MTLed
+> END STRING
+
+> BEGIN STRING
+札屋
+特殊な札の販売、またバリアクズを引き取ります。
+バリアクズの引き取り数に応じて、
+珍しい品と交換いたします。
+> CONTEXT: Map203/events/20/pages/0/6/Dialogue
+> CONTEXT: Map201/events/19/pages/0/6/Dialogue
+> CONTEXT: Map199/events/28/pages/0/6/Dialogue
+> CONTEXT: Map141/events/28/pages/0/6/Dialogue
+> CONTEXT: Map115/events/19/pages/0/6/Dialogue
+> CONTEXT: Map096/events/20/pages/0/6/Dialogue
+Tag House. We will also sell special tickets, as well as
+barrier fins. Depending on the number of receipts of
+barrier shoes, We will exchange with unusual items.#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここは定期船乗り場だ。
+　とはいえ、次の出港予定は未定だけどな」
+> CONTEXT: Map203/events/21/pages/0/6/Dialogue
+> CONTEXT: Map096/events/21/pages/0/6/Dialogue
+「This is a regular seaside place. Nonetheless, the next
+scheduled departure date is unknown」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いつになるか？　さぁ…何しろ今ついたばかりだからな。
+　一日二日ですぐ出るときもあるし、
+　数週間も留まるときもあるからなぁ」
+> CONTEXT: Map203/events/21/pages/0/9/Dialogue
+> CONTEXT: Map096/events/21/pages/0/9/Dialogue
+「When will it be? Now ... after all, I just arrived.
+There are times when I leave soon in two days a day,
+Sometimes it will stay for several weeks」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どちらにせよ、すぐ出港というわけにはいかないな。
+　おたくら冒険者なら、依頼でもこなしながら、
+　気長に待つほうが良いんじゃないか？」
+> CONTEXT: Map203/events/21/pages/0/13/Dialogue
+> CONTEXT: Map096/events/21/pages/0/13/Dialogue
+「Either way, it can not be just departure.
+If you are an adventurer, you can do it at the request,
+Is not it better to wait patiently?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]確かにね。でも…依頼かぁ\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/19/Dialogue
+> CONTEXT: Map096/events/21/pages/0/19/Dialogue
+\\C[29]「\\C[0]Indeed. But ... is it a request?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おっと…今これといった依頼を受けてないんなら、
+　ぜひ俺の出す依頼を受けてくれよ」
+> CONTEXT: Map203/events/21/pages/0/21/Dialogue
+> CONTEXT: Map096/events/21/pages/0/21/Dialogue
+「Oops ... now if you have not received a request like this,
+Please accept me a request」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。取りあえず話を聞いて、
+　その内容次第ってことになるが、良いか？\\C[1]」
+> CONTEXT: Map203/events/21/pages/0/24/Dialogue
+> CONTEXT: Map096/events/21/pages/0/24/Dialogue
+\\C[1]「\\C[0]That's right. For the time being, listening to the story,
+It will depend on its content, is it good?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あいよっ！　実はこの村の東に、
+　今は使われてない下水道があるんだよ」
+> CONTEXT: Map203/events/21/pages/0/27/Dialogue
+「Aiyo! Actually, to the east of this village,
+There is a sewer that is not used now」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]下水道？　そんなものがあったんだぁ\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/32/Dialogue
+> CONTEXT: Map096/events/21/pages/0/32/Dialogue
+\\C[29]「\\C[0]Sewerage? There was such a thing\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁまだ魔法道具が普及していなくて、
+　炭鉱が賑わってた頃の話だからな。
+　今はもうこの町も、寂れた漁村に変わっちまったが」
+> CONTEXT: Map203/events/21/pages/0/34/Dialogue
+> CONTEXT: Map096/events/21/pages/0/34/Dialogue
+「Well, magic tools are not yet popular, It is a story
+about when the coal mines crowded. Now that this town has
+changed to a somewhat fishing village」#MTLed
+> END STRING
+
+> BEGIN STRING
+「っと、話がそれちまったな。
+　実はその下水道に、大切な結婚指輪を落としちまってな」
+> CONTEXT: Map203/events/21/pages/0/38/Dialogue
+> CONTEXT: Map096/events/21/pages/0/38/Dialogue
+「Uh, the story came. Actually, I have dropped an important
+wedding ring to the sewer」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もうだいぶ昔のことなんだが、
+　死んだ妻の形見なんでな。
+　出来れば見つけ出して欲しいんだ」
+> CONTEXT: Map203/events/21/pages/0/41/Dialogue
+> CONTEXT: Map096/events/21/pages/0/41/Dialogue
+「It is already long ago, It is a memento of a dead wife.
+I want you to find out where possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]その指輪が、下水道にあるのは確かなのか？\\C[1]」
+> CONTEXT: Map203/events/21/pages/0/45/Dialogue
+> CONTEXT: Map096/events/21/pages/0/45/Dialogue
+\\C[1]「\\C[0]Is it certain that the ring is in the sewer?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ、下水に落としたのは確かだ。
+　とはいえ、今もまだ残っているかどうかまではな。
+　ただ探してくれるだけで良いんだ。…頼む！」
+> CONTEXT: Map203/events/21/pages/0/47/Dialogue
+「Oh, it is certain that I dropped it into sewers.
+Nonetheless, it remains to be determined whether it still
+remains. Just just search for it. …ask!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私は構わないけど、
+　亡くなった奥さんの形見のようだしね。
+　出来れば見つけてあげたいよ\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/53/Dialogue
+> CONTEXT: Map096/events/21/pages/0/53/Dialogue
+\\C[29]「\\C[0]I do not mind, It looks like a memento of a late wife.
+I want to find it if possible\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「嬢ちゃんは優しいな！
+　報酬は…そうだな。
+　定期船の一等客室でどうだ？」
+> CONTEXT: Map203/events/21/pages/0/57/Dialogue
+> CONTEXT: Map096/events/21/pages/0/57/Dialogue
+「Lady is kind! Rewards ... That's right.
+How about in the first-class room of a regular ship?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「お二人さんが何処まで乗るか知らないが、
+　陸に上がるまでは、快適な船の旅を約束するぜ！」
+> CONTEXT: Map203/events/21/pages/0/61/Dialogue
+> CONTEXT: Map096/events/21/pages/0/61/Dialogue
+「I do not know where two people ride, We promise a
+comfortable boat trip until we land!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]\\N[1]、なかなか良さそうだよ。
+　この依頼受けようよ！\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/66/Dialogue
+> CONTEXT: Map096/events/21/pages/0/66/Dialogue
+\\C[29]「\\C[0]\\N[1] It looks pretty good.
+Let's accept this request!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな…まぁ、
+　断る理由もこれといってないしな。
+　だが、見つからなくても恨むなよ？\\C[1]」
+> CONTEXT: Map203/events/21/pages/0/69/Dialogue
+> CONTEXT: Map096/events/21/pages/0/69/Dialogue
+\\C[1]「\\C[0]That's right ... well, This is not the reason for
+refusing. But you do not hate it even if you do not find
+it?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ははっ！　心配しなくても、その時はいさぎよく諦めるさ！
+　それじゃ…頼んだぜ！」
+> CONTEXT: Map203/events/21/pages/0/74/Dialogue
+> CONTEXT: Map096/events/21/pages/0/74/Dialogue
+「Hahah! Even if you do not worry, at that time you will
+give up quickly! Well then ... I asked!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「昔はただの下水道だったんだが、
+　今は淫魔がはびこる危険な場所って噂だ」
+> CONTEXT: Map203/events/21/pages/1/6/Dialogue
+> CONTEXT: Map096/events/21/pages/1/6/Dialogue
+「It used to be a simple sewer in old days,
+It is a rumor that it is a dangerous place where bastards
+rage now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「くれぐれも気をつけて探してくれよ」
+> CONTEXT: Map203/events/21/pages/1/9/Dialogue
+> CONTEXT: Map096/events/21/pages/1/9/Dialogue
+「Please be careful and look for it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「んっ…どうしたお二人さん。
+　もしかして、見つけてくれたのか？」
+> CONTEXT: Map203/events/21/pages/2/7/Dialogue
+> CONTEXT: Map096/events/21/pages/2/8/Dialogue
+「umph ... What happened to you two people.
+Perhaps, did you find it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こっ…こいつは！　大分汚れちまってるが、
+　裏に妻の名前が彫ってあるから間違いないぜ！」
+> CONTEXT: Map203/events/21/pages/2/10/Dialogue
+> CONTEXT: Map096/events/21/pages/2/12/Dialogue
+「Here ... this one! Oita is dirty, but, There is no doubt
+that my wife 's name is carved behind it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うっ…うぅ…何で、
+　俺を残して逝っちまったんだよ…」
+> CONTEXT: Map203/events/21/pages/2/14/Dialogue
+> CONTEXT: Map096/events/21/pages/2/16/Dialogue
+「ugh ... Uoo ... Why, I left and left me ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「…おっとすまねえ。
+　最近、妙に涙もろくてな」
+> CONTEXT: Map203/events/21/pages/2/17/Dialogue
+> CONTEXT: Map096/events/21/pages/2/19/Dialogue
+「... Oops. Recently, my eyes are tearfully cursed」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とにかくお二人さんを歓迎するぜ！
+　丁度、荷物の積み込みも終わったことだし、
+　いつでも出港出来るぜ！」
+> CONTEXT: Map203/events/21/pages/2/20/Dialogue
+> CONTEXT: Map096/events/21/pages/2/22/Dialogue
+「Anyway we welcome you two! The loading of luggage is just
+finished, You can leave port anytime!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それで、今すぐ乗るのかい？」
+> CONTEXT: Map203/events/21/pages/3/6/Dialogue
+> CONTEXT: Map096/events/21/pages/3/6/Dialogue
+「So, are you going to ride right now?」#MTLed
+> END STRING
+
+> BEGIN STRING
+乗る
+> CONTEXT: Map203/events/21/pages/3/8/Choice/0
+> CONTEXT: Map202/events/12/pages/1/12/Choice/0
+> CONTEXT: Map106/events/12/pages/1/12/Choice/0
+> CONTEXT: Map096/events/21/pages/3/8/Choice/0
+get on#MTLed
+> END STRING
+
+> BEGIN STRING
+乗らない
+> CONTEXT: Map203/events/21/pages/3/8/Choice/1
+> CONTEXT: Map202/events/12/pages/1/12/Choice/1
+> CONTEXT: Map106/events/12/pages/1/12/Choice/1
+> CONTEXT: Map096/events/21/pages/3/8/Choice/1
+Do not ride#MTLed
+> END STRING
+
+> BEGIN STRING
+「それじゃお二人さん！
+　快適な船旅を楽しんでくれよな！」
+> CONTEXT: Map203/events/21/pages/3/10/Dialogue
+> CONTEXT: Map202/events/12/pages/1/14/Dialogue
+> CONTEXT: Map106/events/12/pages/1/14/Dialogue
+> CONTEXT: Map096/events/21/pages/3/10/Dialogue
+「Well then you two! Enjoy a pleasant boat trip!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうだな。別に積み込みが終わったからといって、
+　すぐ出港するわけでもねえし」
+> CONTEXT: Map203/events/21/pages/3/24/Dialogue
+> CONTEXT: Map202/events/12/pages/1/30/Dialogue
+> CONTEXT: Map106/events/12/pages/1/30/Dialogue
+> CONTEXT: Map096/events/21/pages/3/24/Dialogue
+「That's right. Just because the loading is over,
+Even not to leave soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今はお二人さんの気の済むまで、
+　荷造りすることだな」
+> CONTEXT: Map203/events/21/pages/3/27/Dialogue
+> CONTEXT: Map202/events/12/pages/1/33/Dialogue
+> CONTEXT: Map106/events/12/pages/1/33/Dialogue
+> CONTEXT: Map096/events/21/pages/3/27/Dialogue
+「Until now the second person's feeling well,
+It is to pack up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おっと…お二人さん久しぶりだな。
+　どうだい？　元気でやってるかい？」
+> CONTEXT: Map203/events/21/pages/5/6/Dialogue
+> CONTEXT: Map201/events/22/pages/0/6/Dialogue
+> CONTEXT: Map202/events/12/pages/2/6/Dialogue
+> CONTEXT: Map115/events/22/pages/0/6/Dialogue
+> CONTEXT: Map106/events/12/pages/2/6/Dialogue
+> CONTEXT: Map096/events/21/pages/5/6/Dialogue
+「Oops ... It is after a long absence. How are you? Are you
+doing well?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こっちはいつも通りヒーヒーこき使われてるが、
+　ようやく亡き妻の思いを、乗り越えられそうだぜ」
+> CONTEXT: Map203/events/21/pages/5/9/Dialogue
+> CONTEXT: Map201/events/22/pages/0/9/Dialogue
+> CONTEXT: Map202/events/12/pages/2/9/Dialogue
+> CONTEXT: Map115/events/22/pages/0/9/Dialogue
+> CONTEXT: Map106/events/12/pages/2/9/Dialogue
+> CONTEXT: Map096/events/21/pages/5/9/Dialogue
+「As usual he is using hee hee, Finally my deceased wife's
+thought, I can get over it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「本当にありがとな！　感謝してるぜ！」
+> CONTEXT: Map203/events/21/pages/5/12/Dialogue
+> CONTEXT: Map201/events/22/pages/0/12/Dialogue
+> CONTEXT: Map202/events/12/pages/2/12/Dialogue
+> CONTEXT: Map115/events/22/pages/0/12/Dialogue
+> CONTEXT: Map106/events/12/pages/2/12/Dialogue
+> CONTEXT: Map096/events/21/pages/5/12/Dialogue
+「Thank you so much! I'm grateful!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「んー…今日も海が穏やかで良い日だな」
+> CONTEXT: Map203/events/24/pages/0/7/Dialogue
+> CONTEXT: Map096/events/24/pages/0/7/Dialogue
+「Hmm ... the sea is calm and good day today」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これならきっと、魚もたくさんとれそうだぜ」
+> CONTEXT: Map203/events/24/pages/0/9/Dialogue
+> CONTEXT: Map096/events/24/pages/0/9/Dialogue
+「I guess this is definitely a lot of fish too」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…海は良いのう」
+> CONTEXT: Map203/events/25/pages/0/7/Dialogue
+> CONTEXT: Map096/events/25/pages/0/7/Dialogue
+「Huh ... The sea is good」#MTLed
+> END STRING
+
+> BEGIN STRING
+「たとえ村は寂れたとしても、
+　海は何も変わらず、そこにあるのじゃ」
+> CONTEXT: Map203/events/25/pages/0/9/Dialogue
+> CONTEXT: Map096/events/25/pages/0/9/Dialogue
+「Even if the village is sad, The ocean has not changed, it
+is there」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう…この村の東の区画は寂れ、
+　建物は全て崩れ去ってしまったがのう」
+> CONTEXT: Map203/events/25/pages/0/12/Dialogue
+「Yes ... the east compartment of this village is sad,
+All the buildings have collapsed away」#MTLed
+> END STRING

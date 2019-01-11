@@ -1,0 +1,10 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]よし、外出準備はこんなものかな。
+　親方も気を使ってくれたようだし、
+　たまには酒場に飲みに行くのも良いだろう\\C[1]」
+> CONTEXT: Map440/events/4/pages/0/6/Dialogue
+\\C[1]「\\C[0]Alright, is preparing for going out like this?
+It seems that the mother used to care.
+Sometimes it's better to go drinking at a bar\\C[1]」#MTLed
+> END STRING

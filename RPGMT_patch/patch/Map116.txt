@@ -1,0 +1,78 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「あら、この寒い中わざわざ、
+　祈りを捧げに来てくれたのですか？」
+> CONTEXT: Map116/events/7/pages/0/6/Dialogue
+> CONTEXT: Map116/events/7/pages/1/6/Dialogue
+「Oh, during my cold we bother, Did you come to dedicate
+prayers?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方たちのような熱心な信徒に、
+　天使様もさぞお喜びでしょう」
+> CONTEXT: Map116/events/7/pages/0/9/Dialogue
+「To enthusiastic faithful like you, Mr. Angel will be
+delighted as well」#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方たちに、天使様の加護がありますように」
+> CONTEXT: Map116/events/7/pages/0/12/Dialogue
+「May all angel's blessings be there for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]（\\C[0]もう既に加護付きなんだけど、
+　黙っておこうかなぁ\\C[29]）
+> CONTEXT: Map116/events/7/pages/0/14/Dialogue
+> CONTEXT: Map116/events/7/pages/1/14/Dialogue
+\\C[29](\\C[0] I already have protection with you,
+I wonder if I will keep it silent.\\C[29] )#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方たちのような熱心な信徒に、
+　天使様もきっと喜ばれますよ」
+> CONTEXT: Map116/events/7/pages/1/9/Dialogue
+「To enthusiastic faithful like you, The angel will surely
+be pleased」#MTLed
+> END STRING
+
+> BEGIN STRING
+「…貴方たちに天使様の加護がありますよう」
+> CONTEXT: Map116/events/7/pages/1/12/Dialogue
+「... I wish you angel 's protection」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あら、冒険者の方ですか？　寒い中ご苦労様です」
+> CONTEXT: Map116/events/8/pages/0/6/Dialogue
+> CONTEXT: Map116/events/8/pages/1/6/Dialogue
+「Oh, are you an adventurer?Sorry to bother you in the cold.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この町は北と南の大陸の中間点として、
+　貴方たちのような冒険者が多く立ち寄るのですよ」
+> CONTEXT: Map116/events/8/pages/0/8/Dialogue
+> CONTEXT: Map116/events/8/pages/1/8/Dialogue
+「This town is a midpoint between the north and south
+continents, Many adventurers like you are stopping by a lot
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうぞ、ゆっくりしていってくださいね」
+> CONTEXT: Map116/events/8/pages/0/11/Dialogue
+> CONTEXT: Map116/events/8/pages/1/11/Dialogue
+「Please, please go slow」#MTLed
+> END STRING
+
+> BEGIN STRING
+良く整備されているピアノが置かれている。
+> CONTEXT: Map116/events/9/pages/0/6/Dialogue
+> CONTEXT: Map116/events/10/pages/0/6/Dialogue
+There is a well-maintained piano.#MTLed
+> END STRING

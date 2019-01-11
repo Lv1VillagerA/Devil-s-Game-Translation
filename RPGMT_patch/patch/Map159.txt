@@ -1,0 +1,76 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+民家
+> CONTEXT: Map159/display_name/
+> CONTEXT: Map158/display_name/
+> CONTEXT: Map157/display_name/
+> CONTEXT: Map136/display_name/
+> CONTEXT: Map134/display_name/
+> CONTEXT: Map133/display_name/
+> CONTEXT: Map132/display_name/
+> CONTEXT: Map121/display_name/
+> CONTEXT: Map119/display_name/
+> CONTEXT: Map111/display_name/
+> CONTEXT: Map110/display_name/
+> CONTEXT: Map107/display_name/
+> CONTEXT: Map109/display_name/
+> CONTEXT: Map099/display_name/
+> CONTEXT: Map097/display_name/
+> CONTEXT: Map089/display_name/
+> CONTEXT: Map085/display_name/
+> CONTEXT: Map084/display_name/
+> CONTEXT: Map087/display_name/
+> CONTEXT: Map065/display_name/
+> CONTEXT: Map064/display_name/
+> CONTEXT: Map066/display_name/
+Private house#MTLed
+> END STRING
+
+> BEGIN STRING
+「んっ…この本も、一ヶ月前にもう読んでしまった」
+> CONTEXT: Map159/events/4/pages/0/6/Dialogue
+「Hmm ... this book has already been read a month ago」#MTLed
+> END STRING
+
+> BEGIN STRING
+「頼みの綱の行商人たちは、
+　外では淫魔が活性化してるせいで、
+　あまり荷が入ってこない」
+> CONTEXT: Map159/events/4/pages/0/8/Dialogue
+「The peddlers of the requestor '. Due to the
+revitalization of evil outside, There is not much load
+coming in」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも私から町の外行くなんて嫌、
+　淫魔なんかどうでも良いけど…とても面倒」
+> CONTEXT: Map159/events/4/pages/0/12/Dialogue
+「But I do not want to go out of town from me,
+I do not care about bad guys, but ... very troublesome」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もし珍しい本が読めるのなら、
+　貴方でも構わない。…ぜひ売って欲しい」
+> CONTEXT: Map159/events/4/pages/0/15/Dialogue
+「If you can read rare books, You do not mind.... I would
+like you to sell it」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女の服や本、道具などがごっちゃにしまわれている。
+> CONTEXT: Map159/events/5/pages/1/6/Dialogue
+> CONTEXT: Map159/events/6/pages/1/6/Dialogue
+Witch clothes, books, tools, etc. are being touched down.#MTLed
+> END STRING
+
+> BEGIN STRING
+英雄の物語や魔導書、多種多様な本が並んでいる。
+> CONTEXT: Map159/events/7/pages/0/6/Dialogue
+> CONTEXT: Map159/events/8/pages/0/6/Dialogue
+> CONTEXT: Map159/events/9/pages/0/6/Dialogue
+> CONTEXT: Map159/events/10/pages/0/6/Dialogue
+Hero's stories, magical books, and a wide variety of books
+are lining up.#MTLed
+> END STRING

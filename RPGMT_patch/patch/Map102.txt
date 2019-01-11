@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+下水道　中層
+> CONTEXT: Map102/display_name/
+Sewer intermediate layer#MTLed
+> END STRING

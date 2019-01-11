@@ -1,0 +1,217 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+回想部屋
+> CONTEXT: Map227/display_name/
+> CONTEXT: Map011/display_name/
+> CONTEXT: Map001/display_name/
+Reminiscent room#MTLed
+> END STRING
+
+> BEGIN STRING
+回想部屋の全体説明＝回想部屋全体の説明です。
+淫魔の絵本の説明＝中央にある淫魔の絵本の説明です。
+その他の説明＝その他の補足説明です。
+> CONTEXT: Map227/events/7/pages/0/6/Dialogue
+> CONTEXT: Map011/events/7/pages/0/6/Dialogue
+Overall explanation of the reminiscence room = explanation
+of the entire reminiscence room. Explanation of a poor
+picture book = It is explanation of a poor picture book in
+the center. Other explanation = Other supplementary
+explanation.#MTLed
+> END STRING
+
+> BEGIN STRING
+回想部屋の全体説明
+> CONTEXT: Map227/events/7/pages/0/10/Choice/0
+> CONTEXT: Map011/events/7/pages/0/10/Choice/0
+Overall description of reminiscence room#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔の絵本の説明
+> CONTEXT: Map227/events/7/pages/0/10/Choice/1
+> CONTEXT: Map011/events/7/pages/0/10/Choice/1
+Explanation of poor picture book#MTLed
+> END STRING
+
+> BEGIN STRING
+その他の説明
+> CONTEXT: Map227/events/7/pages/0/10/Choice/2
+> CONTEXT: Map011/events/7/pages/0/10/Choice/2
+Other explanation#MTLed
+> END STRING
+
+> BEGIN STRING
+説明を閉じる
+> CONTEXT: Map227/events/7/pages/0/10/Choice/3
+> CONTEXT: Map011/events/7/pages/0/10/Choice/3
+Close description#MTLed
+> END STRING
+
+> BEGIN STRING
+このフロアにあるものは、淫魔の絵本。
+精力と理性の全回復、罠敗北、レベルアップ処理、
+背景の変更、ＢＧＭの変更。
+> CONTEXT: Map227/events/7/pages/0/12/Dialogue
+What is on this floor is a poor picture book.
+Total restoration of energetic and reason, trap defeat,
+level up processing, Change background, change BGM.#MTLed
+> END STRING
+
+> BEGIN STRING
+北のフロアにあるものは、レベルリセット、クリアー後ボード、
+魔貨とＳＰの補充、名前の変更、お札売りの商人、
+教会のシスター、二周目の開始（クリア後限定）
+> CONTEXT: Map227/events/7/pages/0/16/Dialogue
+Those on the north floor, level reset, clear after board,
+Replenishment of witch and SP, change of name, merchant of
+selling bills, Sister of the Church, the start of the
+second lap (after clearing only)#MTLed
+> END STRING
+
+> BEGIN STRING
+南のフロアにあるものは、コンフィグとなります。
+> CONTEXT: Map227/events/7/pages/0/20/Dialogue
+Those on the south floor will be configured.#MTLed
+> END STRING
+
+> BEGIN STRING
+中央にある淫魔の絵本には、
+戦闘、敗北、鑑賞と、
+３つの閲覧があります。
+戦闘モードは敵Ｌｖと開始位置を選べるだけですので外します。
+> CONTEXT: Map227/events/7/pages/0/24/Dialogue
+> CONTEXT: Map011/events/7/pages/0/22/Dialogue
+To the poor picture book in the center, Battle, defeat,
+appreciation, There are three browsing. Remove the battle
+mode as it can only select enemy Lv and start position.#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘回想は物語の中で戦える淫魔と、
+自由に何度でも戦うことが出来ます。
+こちらのＬｖを調整するよりも、敵のＬｖを調整したほうが、
+色々手っ取り早いです。
+> CONTEXT: Map227/events/7/pages/0/29/Dialogue
+> CONTEXT: Map011/events/7/pages/0/27/Dialogue
+Battle recollection is a funky man who can fight in the
+story, You can fight freely any number of times.
+It is better to adjust the enemy's Lv than to adjust this
+Lv, It is variously quick.#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北回想は淫魔に負けた直後から、
+開始することが出来ます。
+こちらも戦闘回想の敵レベルと同じで、
+上下で回想シーンを自由に選択することが出来ます。
+> CONTEXT: Map227/events/7/pages/0/34/Dialogue
+> CONTEXT: Map011/events/7/pages/0/32/Dialogue
+Just after losing to defeat reminisce of a devil,
+You can start. This is the same as the enemy level of
+battle recollection, You can freely select the recollection
+scene above and below.#MTLed
+> END STRING
+
+> BEGIN STRING
+最後に鑑賞モードですが、
+こちらはゲーム内で使用された、
+全立ち絵や描写絵を自由に閲覧することが出来ます。
+大きな立ち絵などは、隅々まで見渡すことも可能です。
+> CONTEXT: Map227/events/7/pages/0/39/Dialogue
+> CONTEXT: Map011/events/7/pages/0/37/Dialogue
+Lastly it is an appreciation mode, This was used in the
+game, You can freely browse all standing pictures and
+depiction pictures. You can also look over every corner of
+a large standing picture.#MTLed
+> END STRING
+
+> BEGIN STRING
+右にある背景と左にあるＢＧＭは、
+夜の絵本の戦闘時、敗北時、閲覧時の背景とＢＧＭを、
+自由に変更出来ます。
+> CONTEXT: Map227/events/7/pages/0/46/Dialogue
+> CONTEXT: Map011/events/7/pages/0/44/Dialogue
+Background on the right and BGM on the left,
+Background and BGM at battle of night picture books, at
+defeat, browsing, You can change it freely.#MTLed
+> END STRING
+
+> BEGIN STRING
+北の部屋にある二周目は、
+アイテム、装備、魔貨、ＳＰの特典以外は、
+全く一周目と同じですので、純粋に無双したい方向けです。
+> CONTEXT: Map227/events/7/pages/0/50/Dialogue
+> CONTEXT: Map011/events/7/pages/0/48/Dialogue
+On the second lap in the room in the north,
+Except items, equipment, currency, SP benefits,
+It is exactly the same as the first lap, so it's for those
+who want purely musou.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲームクリアおめでとうございます！
+ここでは、全ての淫魔との回想を行えます。
+詳しくは手前にある紫の水晶を調べてください。
+> CONTEXT: Map227/events/12/pages/0/10/Dialogue
+Congratulations on game clear! Here, you can recall with
+all the fantasies. Please check the purple crystal in the
+foreground for details.#MTLed
+> END STRING
+
+> BEGIN STRING
+なお、元の世界には戻れませんので、
+セーブデータは別にとっておくことを、
+オススメします。それでは…ゆっくりと楽しんでください。
+> CONTEXT: Map227/events/12/pages/0/14/Dialogue
+Since you can not return to the original world,
+Saving the save data separately, I will recommend it. Then
+... please enjoy at ease.#MTLed
+> END STRING
+
+> BEGIN STRING
+最後に、ここまでプレイしていただき、
+ありがとうございました！
+> CONTEXT: Map227/events/12/pages/0/18/Dialogue
+Finally, I have played so far, Thank you very much!#MTLed
+> END STRING
+
+> BEGIN STRING
+罠ＥＮＤを見られます。
+廃坑奥のインプＡとＢ、船上の上忍の全３種類です。
+見ない場合は一番下を選択か、キャンセルしてください。
+> CONTEXT: Map227/events/13/pages/0/12/Dialogue
+> CONTEXT: Map011/events/13/pages/0/12/Dialogue
+You can see the trap END. Imp A and B at the back of the
+waste incineration, and Shinobi on the ship are all three
+types. If you do not see it please select the bottom or
+cancel.#MTLed
+> END STRING
+
+> BEGIN STRING
+インプＡ　罠を見る
+> CONTEXT: Map227/events/13/pages/0/16/Choice/0
+> CONTEXT: Map011/events/13/pages/0/16/Choice/0
+View Imp A Trap#MTLed
+> END STRING
+
+> BEGIN STRING
+インプＢ　罠を見る
+> CONTEXT: Map227/events/13/pages/0/16/Choice/1
+> CONTEXT: Map011/events/13/pages/0/16/Choice/1
+Watch Imp B trap#MTLed
+> END STRING
+
+> BEGIN STRING
+上忍　罠を見る
+> CONTEXT: Map227/events/13/pages/0/16/Choice/2
+> CONTEXT: Map011/events/13/pages/0/16/Choice/2
+Seeing the Shinoba Trap#MTLed
+> END STRING
+
+> BEGIN STRING
+罠ＥＮＤは見ない
+> CONTEXT: Map227/events/13/pages/0/16/Choice/3
+> CONTEXT: Map011/events/13/pages/0/16/Choice/3
+I do not see Trap END#MTLed
+> END STRING

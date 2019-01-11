@@ -1,0 +1,70 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+保存食などが隙間なく詰め込まれている。
+> CONTEXT: Map085/events/4/pages/1/7/Dialogue
+> CONTEXT: Map085/events/5/pages/1/7/Dialogue
+Preserved foods and so on are tightly packed.#MTLed
+> END STRING
+
+> BEGIN STRING
+作業着から寝間着まで、綺麗に折りたたまれてしまわれている。
+> CONTEXT: Map085/events/6/pages/0/6/Dialogue
+> CONTEXT: Map085/events/7/pages/0/6/Dialogue
+From work clothes to sleepwear, it has been folded nicely.#MTLed
+> END STRING
+
+> BEGIN STRING
+「私は木や水の属性魔法が得意だ。
+　そのために、
+　この町にわざわざ引っ越してきたのだが」
+> CONTEXT: Map085/events/8/pages/0/6/Dialogue
+「I am good at wood and water attribute magic.
+for that reason, I moved all the way to this town」#MTLed
+> END STRING
+
+> BEGIN STRING
+「残念なことに、
+　属性魔法の触媒となるカードが、
+　尽きてしまった」
+> CONTEXT: Map085/events/8/pages/0/10/Dialogue
+「Unfortunately, Attribute Magic's card, I have run out」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろんそのままでも魔法は発動するが、
+　やはりカードのあるなしでは、雲泥の差だな」
+> CONTEXT: Map085/events/8/pages/0/14/Dialogue
+「Of course the magic invokes as it is, After all, without
+the card, it is the difference of the clouds」#MTLed
+> END STRING
+
+> BEGIN STRING
+とれたての野菜が雑多に並んでいる。
+> CONTEXT: Map085/events/9/pages/0/7/Dialogue
+Fresh vegetables line up in miscellaneous.#MTLed
+> END STRING
+
+> BEGIN STRING
+綺麗な色の水晶が台の上にのっている。
+> CONTEXT: Map085/events/10/pages/0/7/Dialogue
+A beautiful color crystal stood on the table.#MTLed
+> END STRING
+
+> BEGIN STRING
+可愛らしい花が花瓶にいけてある。
+> CONTEXT: Map085/events/11/pages/0/7/Dialogue
+Lovely flowers are going to the vase.#MTLed
+> END STRING
+
+> BEGIN STRING
+年代物のワインがしまわれている。
+> CONTEXT: Map085/events/12/pages/0/7/Dialogue
+The wines of the period are out.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い用の法衣がしまわれている。
+> CONTEXT: Map085/events/13/pages/0/7/Dialogue
+> CONTEXT: Map085/events/14/pages/0/7/Dialogue
+The garment for the wizard is gone.#MTLed
+> END STRING

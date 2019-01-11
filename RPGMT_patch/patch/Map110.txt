@@ -1,0 +1,148 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「恋人が領主の館に行ってから、一度も戻ってきません」
+> CONTEXT: Map110/events/4/pages/0/6/Dialogue
+> CONTEXT: Map110/events/4/pages/1/6/Dialogue
+「I have never returned since my lover went to the lord's
+house」#MTLed
+> END STRING
+
+> BEGIN STRING
+「心配になり何度も足を運んだのですが、
+　そのたびに門の前で、今は館で働いてもらっている。
+　もう少ししたら帰すとの一点張りで」
+> CONTEXT: Map110/events/4/pages/0/8/Dialogue
+> CONTEXT: Map110/events/4/pages/1/8/Dialogue
+「I was worried and had visited many times,
+Every time in front of the gate, I am being worked in the
+hall now. It's a point that I will return home after a
+while」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それ以外にも月に一度、領主の使いと名乗る美しい女が町に来て、
+　高待遇で男の働き手を雇いたいと言い、
+　色香に目が眩んだ男を何人も連れて行くのです」
+> CONTEXT: Map110/events/4/pages/0/12/Dialogue
+> CONTEXT: Map110/events/4/pages/1/12/Dialogue
+「Besides that, once a month a beautiful woman who calls
+the use of the lord came to town, He said he would like to
+hire a man's workers with high treatment,
+Man brings a man whose eyes are dazzling to falcon」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そして恋人と同じように、
+　誰一人戻って来ていません」
+> CONTEXT: Map110/events/4/pages/0/16/Dialogue
+> CONTEXT: Map110/events/4/pages/1/16/Dialogue
+「And like a lover, No one has come back」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もちろんギルドにも依頼を出しているのですが、
+　領主の館に向かった冒険者の方は、
+　まだ一人も帰って…うっ…うぅ」
+> CONTEXT: Map110/events/4/pages/0/19/Dialogue
+> CONTEXT: Map110/events/4/pages/1/19/Dialogue
+「Of course, I also requested a guild, If you are an
+adventurer who headed to the lord's house,
+I have just returned home ... ugh ... Uoo」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これは上級淫魔の仕業ですわね。
+　天使であるこの私が言うのですから、
+　間違いありませんわ」
+> CONTEXT: Map110/events/4/pages/0/25/Dialogue
+「This is a senior demonic work. Because this is an angel I
+say, There is no mistake.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そのわりに、
+　蓮華の淫気はつかめなかったんだが？\\C[1]」
+> CONTEXT: Map110/events/4/pages/0/29/Dialogue
+\\C[1]「\\C[0]On the contrary, Did not you catch the lotus Chinese
+girls?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あっ！　あれはたまたま！
+　何しろまだ現界が不完全ですから、
+　本来の力が発揮されていれば…きっと！」
+> CONTEXT: Map110/events/4/pages/0/34/Dialogue
+「Ah! That occasionally! Because the current world is still
+incomplete anyway, If the original power is demonstrated
+... surely!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]まぁまぁ…\\N[1]も、
+　ナタリアで遊ぶのはそのくらいにして、
+　とにかく問題の領主の館に行ってみようよ\\C[29]」
+> CONTEXT: Map110/events/4/pages/0/38/Dialogue
+\\C[29]「\\C[0]It's okay ... \\N[1] Also,
+About that much to play with Natalia, Let's go to the
+owner's house anyway\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「流石\\N[6]ちゃんは良いこと言いますわ！
+　どうせ定期船は最低数日は停泊していますし、
+　行って確かめるだけの時間は、十二分にありますわよ」
+> CONTEXT: Map110/events/4/pages/0/44/Dialogue
+「Fluffy \\N[6] I will say good things! Regular ship is
+anchored at least for the few days, There is plenty of time
+to go and make sure」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]まぁどうせ船の積み下ろしが終わるまで、
+　他に急いですることもないしな。…行ってみるか\\C[1]」
+> CONTEXT: Map110/events/4/pages/0/48/Dialogue
+\\C[1]「\\C[0]Well anyway until the ship's loading and unloading is
+over, I do not have to hurry to anything else.Do you go?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]とにかく今は、
+　領主の館に行ってみようよ！\\C[29]」
+> CONTEXT: Map110/events/4/pages/1/23/Dialogue
+\\C[29]「\\C[0]Anyway now, Let's go to the lord's house!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ありがとうございます。
+　貴方たちのおかげで、
+　恋人の敵を討つことが出来ました」
+> CONTEXT: Map110/events/4/pages/2/6/Dialogue
+「Thank you very much. Thanks to you, I was able to avert
+your lover 's enemy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今後も亡き恋人の遺品を見つけ次第、
+　優先的に引き取らせていただきますので、
+　…どうぞよろしくお願いしますね」
+> CONTEXT: Map110/events/4/pages/2/10/Dialogue
+「As soon as we find the remains of a deceased lover,
+Because I will take over with priority, ... Thank you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+恋人との夜の性活が捗る道具がしまわれている。
+> CONTEXT: Map110/events/5/pages/1/6/Dialogue
+> CONTEXT: Map110/events/6/pages/1/6/Dialogue
+The tools for progress of sexual activity of the night with
+a lover are stolen.#MTLed
+> END STRING
+
+> BEGIN STRING
+男を堕とす百の手管、
+女が主導権を握る心得などの本が並んでいる。
+> CONTEXT: Map110/events/8/pages/0/6/Dialogue
+> CONTEXT: Map110/events/9/pages/0/6/Dialogue
+One hundred throat trembling a man, There are books such as
+knowledge that women take the initiative.#MTLed
+> END STRING

@@ -1,0 +1,43 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　２Ｆ
+> CONTEXT: Map164/display_name/
+Tower of seal 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+「ひゃっ…ひゃいぃ…わかりましゅた…淫女王しゃまぁ\\I[140]」
+> CONTEXT: Map164/events/21/pages/0/7/Dialogue
+「I'm sorry ... I understand ... Okay I'm King \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫女王しゃまのためにぃ…\\I[140]
+　僕…いっぱい…いっぱい魔力送りましゅぅ\\I[140]」
+> CONTEXT: Map164/events/21/pages/0/9/Dialogue
+「For the horny girl ... \\I[140]. I ... a lot ... ... full of
+magical sentings \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だからぁ…もっと気持ち良くしてくだしゃぁい\\I[140]
+　人間の裏切りしぇっくしゅ…気持ち良いのおおん\\I[140]」
+> CONTEXT: Map164/events/21/pages/0/12/Dialogue
+「That's why ... make me feel more comfortable \\I[140]
+Betrayal of human beings ... a feeling of comfort \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「イっ…イかせてぇ…もう…アタシも淫魔にしてぇ\\I[140]」
+> CONTEXT: Map164/events/22/pages/0/7/Dialogue
+「I ... I 'll take it ... already ... I'm going to fuck you
+too \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「魔力を送るためだけにぃ…\\I[140]
+　なっ…生殺しは…嫌ぁ…\\I[140]」
+> CONTEXT: Map164/events/22/pages/0/9/Dialogue
+「Just to send magical power ... \\I[140]
+It is ... killed ... is disgusting ... \\I[140]」#MTLed
+> END STRING

@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+食事部屋　１Ｆ
+> CONTEXT: Map144/display_name/
+Meal room 1F#MTLed
+> END STRING

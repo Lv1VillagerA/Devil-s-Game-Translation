@@ -1,0 +1,431 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+さてどうするか…。
+> CONTEXT: Map315/events/5/pages/0/6/Dialogue
+> CONTEXT: Map315/events/6/pages/0/6/Dialogue
+> CONTEXT: Map315/events/7/pages/0/6/Dialogue
+Well what to do ....#MTLed
+> END STRING
+
+> BEGIN STRING
+酒場へ向かう
+> CONTEXT: Map315/events/5/pages/0/8/Choice/0
+> CONTEXT: Map315/events/6/pages/0/8/Choice/0
+> CONTEXT: Map315/events/7/pages/0/8/Choice/0
+Head to the bar#MTLed
+> END STRING
+
+> BEGIN STRING
+もう少しここにいる
+> CONTEXT: Map315/events/5/pages/0/8/Choice/1
+> CONTEXT: Map315/events/6/pages/0/8/Choice/1
+> CONTEXT: Map315/events/7/pages/0/8/Choice/1
+I am here a little more#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「よし…\\N[1]！　そのまま…そのままゆっくりだ」
+> CONTEXT: Map315/events/12/pages/0/6/Dialogue
+master. 「Alright ... \\N[1] ! Just ... as it is.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]了解…っと、親方…この位置ですか？\\C[1]」
+> CONTEXT: Map315/events/12/pages/0/9/Dialogue
+\\C[1]「\\C[0]OK ... ... Owner, is this position?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ああ、…上出来だ。よし、こんなところか」
+> CONTEXT: Map315/events/12/pages/0/13/Dialogue
+「Oh, it's good. OK, is this place like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔
+「では、私の修理は完了したのでしょうか？」
+> CONTEXT: Map315/events/12/pages/0/16/Dialogue
+Devil. 「So, was my repair done?」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ああ、嬢ちゃん。まだ少し残ってるが、
+　明日の朝までには終わるぜ！
+　それと\\N[1]、今日はもうあがって良いぜ！」
+> CONTEXT: Map315/events/12/pages/0/19/Dialogue
+master. 「Oh, young lady. There is still a little left,
+I will finish it by tomorrow morning! With it \\N[1]
+Today is already good to go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]え？　まだ仕事が残って…\\C[1]」
+> CONTEXT: Map315/events/12/pages/0/25/Dialogue
+\\C[1]「\\C[0]Huh? There are still jobs left ...\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「残りは俺一人で間に合う簡単な調整だけだ。
+　\\N[1]もここのところ休みなしだったし、たまにはな」
+> CONTEXT: Map315/events/12/pages/0/27/Dialogue
+master. 「The rest is just an easy adjustment that I can
+make in time. In case \\N[1] There was no holiday here,
+occasionally」#MTLed
+> END STRING
+
+> BEGIN STRING
+「っと、\\N[1]、これは今月の分だ。
+　寝る前に酒場で一杯ひっかけてくれば、少しは憂さが晴れるだろ！
+　飲み代としてちっとは色をつけといたぜ！　楽しんできな！」
+> CONTEXT: Map315/events/12/pages/0/42/Dialogue
+「Uh, \\N[1] , This is the month's part. If you caught
+a cup at the bar before going to bed, the sorrow will be
+somewhat clear! As a drinking errand I put a color a
+little! Have fun!」#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔
+「明日の朝には主人が引取りに来ますので、
+　それまでは親方さんの元で預かりと聞いています」
+> CONTEXT: Map315/events/12/pages/1/6/Dialogue
+Devil. 「As my husband comes to pick up tomorrow morning,
+Until then, I heard that they were kept under the boss」#MTLed
+> END STRING
+
+> BEGIN STRING
+「短い間ですが、よろしくお願いします」
+> CONTEXT: Map315/events/12/pages/1/10/Dialogue
+「It's a short while, thank you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「\\N[1]にはいつも世話になってるからな。
+　遠慮せずに羽根を伸ばして来ると良い」
+> CONTEXT: Map315/events/14/pages/0/6/Dialogue
+master. 「\\N[1] I am always taken care of.
+Do not hesitate to extend the feathers」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「さて、ここが最後の施設だ。
+　\\N[1]も馴染みがあるよな」
+> CONTEXT: Map315/events/14/pages/1/7/Dialogue
+master. 「Well, this is the last facility.
+In case \\N[1] I also have familiarity」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ここでは従魔のLvアップ毎の能力上昇及び、
+　淫魔から手に入れたカードの変化を行うことが出来るぜ」
+> CONTEXT: Map315/events/14/pages/1/11/Dialogue
+master. 「Here, the ability rise for each Lv up of the
+devil, You can do the change of the card you got from the
+bastard」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「って\\N[1]なら、知っていて当然だよな。
+　はぁ、これで全部終わっちまったな」
+> CONTEXT: Map315/events/14/pages/1/16/Dialogue
+master. 「What? \\N[1] Then, you know, it is natural.
+Ha, this is all over now」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「俺もミアもこうやって送り出すのは苦手だ。
+　いつでも帰って来て良いぜ」
+> CONTEXT: Map315/events/14/pages/1/21/Dialogue
+master. 「I and I are not good at sending out like this.
+You can return home anytime」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ということだ。\\N[1]、
+　ミアには俺から言っておいてやる！」
+> CONTEXT: Map315/events/14/pages/1/25/Dialogue
+master. 「I'm saying that. \\N[1] , I will tell from
+Mia to Mia!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]親方…今までありがとうございました！\\C[1]」
+> CONTEXT: Map315/events/14/pages/1/30/Dialogue
+\\C[1]「\\C[0]Master ... Thank you so far!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「馬鹿野郎！　今生の別れでもあるまいし！
+　ほら！　こいつは餞別代わりだ！」
+> CONTEXT: Map315/events/14/pages/1/32/Dialogue
+master. 「You idiot! It is not parting of your life again!
+Look! This is a substitute alternative!」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「たくっ！　最近歳のせいか、
+　妙に涙もろいぜ！」
+> CONTEXT: Map315/events/14/pages/1/53/Dialogue
+master. 「Take it! Because of my recent age,
+Strangely tears fragile!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして俺は、淫魔ハンターとして、
+始めての一歩を踏み出すのだった…。
+> CONTEXT: Map315/events/14/pages/1/63/Dialogue
+In this way, as I am a hatred, It was taking the first step
+....#MTLed
+> END STRING
+
+> BEGIN STRING
+ここからは、自由行動となります。
+> CONTEXT: Map315/events/14/pages/1/69/Dialogue
+From here you will be free.#MTLed
+> END STRING
+
+> BEGIN STRING
+世界の何処かにいる淫女王の討伐が最終目的ですが、
+その過程で、何処へ向かい何をするかは決まっていません。
+> CONTEXT: Map315/events/14/pages/1/71/Dialogue
+Although the ultimate goal is the suppression of a virgin
+king in somewhere in the world, In the process, where to go
+and what to do is not decided.#MTLed
+> END STRING
+
+> BEGIN STRING
+なお、各イベントに時間制限はありませんので、
+好きなように冒険してください。
+> CONTEXT: Map315/events/14/pages/1/74/Dialogue
+Since there is no time limit for each event,
+Please adventure as you like.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミア
+\\C[2]「\\C[0]あっ、\\N[1]お兄さん。
+　今日は酒場で飲んでくるんだよね？\\C[2]」
+> CONTEXT: Map315/events/15/pages/0/6/Dialogue
+Mia. \\C[2]「\\C[0]Ah, \\N[1] brother. Today you are drinking at a
+bar, do not you?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミア
+\\C[2]「\\C[0]おじいちゃんも、
+　たまには息抜きするようにって\\C[2]」
+> CONTEXT: Map315/events/15/pages/0/10/Dialogue
+Mia. \\C[2]「\\C[0]Grandpa, too, Sometimes I try to relax.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミア
+\\C[2]「\\C[0]こっちは気にしなくて良いから、
+　\\N[1]お兄さんは思いっきり楽しんで来てよ\\C[2]」
+> CONTEXT: Map315/events/15/pages/0/14/Dialogue
+Mia. \\C[2]「\\C[0]Because you do not have to worry about this,
+In case \\N[1] Your older brother will come and enjoy
+it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミア
+\\C[2]「\\C[0]お兄さん、
+　いつでも戻ってきて良いんだよ？\\C[2]」
+> CONTEXT: Map315/events/15/pages/1/6/Dialogue
+Mia. \\C[2]「\\C[0]brother, You can come back at any time?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミア
+\\C[2]「\\C[0]疲れたら二階のベッドで、
+　一休みして良いんだよ\\C[2]」
+> CONTEXT: Map315/events/15/pages/1/10/Dialogue
+Mia. \\C[2]「\\C[0]If you get tired, on the second floor bed,
+You can take a break.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「なるほど、大体の事情はわかった。
+　それで\\N[1]、お前はこれからどうするんだ？」
+> CONTEXT: Map315/events/16/pages/0/9/Dialogue
+master. 「Indeed, I understood the general circumstances.
+So then \\N[1] What are you going to do from now?」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「淫魔ハンターなら誰もが羨む従魔と、
+　こうして契約しちまってるんだ」
+> CONTEXT: Map315/events/16/pages/0/14/Dialogue
+master. 「With a demon who envies everyone if it is a lusty
+hunter, That's why I am signed up」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「今の\\N[1]なら、
+　ハンターとして稼ぐことも十分出来るだろう？」
+> CONTEXT: Map315/events/16/pages/0/18/Dialogue
+master. 「Now \\N[1] Then, Can you earn enough as a
+hunter?」#MTLed
+> END STRING
+
+> BEGIN STRING
+淫魔ハンターになる
+> CONTEXT: Map315/events/16/pages/0/22/Choice/0
+Become a fantasy hunter#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔技師を続ける
+> CONTEXT: Map315/events/16/pages/0/22/Choice/1
+Continue a subordinate technician#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「だろうな。\\N[1]ならそう言うと思ってたぜ」
+> CONTEXT: Map315/events/16/pages/0/24/Dialogue
+master. 「I wonder. \\N[1] Then I thought I would say so
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミア
+\\C[2]「\\C[0]お兄さんが決めたのなら、
+　ミアは応援するよ。ちょっと寂しいけどね\\C[2]」
+> CONTEXT: Map315/events/16/pages/0/28/Dialogue
+Mia. \\C[2]「\\C[0]If your older brother decided,
+Mia will support you. Somewhat lonely though\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「さてと、じゃぁ行くか。
+　\\N[1]、従魔の嬢ちゃん、ちょっと付き合ってもらうぜ」
+> CONTEXT: Map315/events/16/pages/0/33/Dialogue
+master. 「Well then, shall we go? In case \\N[1] ,
+Daughter's lady, let's have a little dating」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]親方、行くって何処に？\\C[1]」
+> CONTEXT: Map315/events/16/pages/0/38/Dialogue
+\\C[1]「\\C[0]Master, where to go?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「\\N[1]はライセンスは持っていても、
+　実際にハンターとしての活動はしてなかっただろ？」
+> CONTEXT: Map315/events/16/pages/0/40/Dialogue
+master. 「\\N[1] Even if you have a license,
+You actually did not act as a hunter, do you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「だからこの俺が淫魔ハンターの主要施設を、
+　ざっと案内するってわけよ」
+> CONTEXT: Map315/events/16/pages/0/45/Dialogue
+master. 「That 's why I'm the main facility of the hunter,
+I will give you a rough guide」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]親方…何もそこまで\\C[1]」
+> CONTEXT: Map315/events/16/pages/0/50/Dialogue
+\\C[1]「\\C[0]Master ... Nothing to that\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「俺もミアも、\\N[1]には無事生きて帰って来て欲しい。
+　それにこれぐらい、大した手間じゃねえ」
+> CONTEXT: Map315/events/16/pages/0/52/Dialogue
+master. 「Both I and Mia, \\N[1] I want you to live
+safely and return home. And this is not a big deal」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]親方…ありがとうございます！\\C[1]」
+> CONTEXT: Map315/events/16/pages/0/57/Dialogue
+\\C[1]「\\C[0]Masori ... Thank you!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「さて、そうと決まったらさっさと行くぞ」
+> CONTEXT: Map315/events/16/pages/0/59/Dialogue
+master. 「Well, let's go quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それでも俺は、従魔技師を続けたいです\\C[1]」
+> CONTEXT: Map315/events/16/pages/0/73/Dialogue
+\\C[1]「\\C[0]Still I want to continue a submission technician\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「そうか。\\N[1]が決めたのなら、もう何も言わねえ。
+　そっちの嬢ちゃんも異論はねえな？」
+> CONTEXT: Map315/events/16/pages/0/75/Dialogue
+master. 「Really. \\N[1] If it has decided, I will not
+say anything anymore. My girlfriend also has no objection?」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「どうやら問題はねえみたいだな。
+　しかし、急に新しい家族が増えちまったな」
+> CONTEXT: Map315/events/16/pages/0/80/Dialogue
+master. 「Apparently there seems to be no problem.
+But, suddenly the new family has increased」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミア
+\\C[2]「\\C[0]でも、賑やかなのはいいことだよ？\\C[2]」
+> CONTEXT: Map315/events/16/pages/0/85/Dialogue
+Mia. \\C[2]「\\C[0]But it's nice to be lively?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+親方
+「ははっ！　違いねえな！
+　それじゃ今夜は、新しい家族の歓迎パーティーだ！」
+> CONTEXT: Map315/events/16/pages/0/89/Dialogue
+master. 「Hahah! There is no difference! Well then tonight
+is a welcome party for the new family!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして俺は、荒野に旅立つこともなく、
+親方や\\N[11]たちに従魔技師の技術を教わりながら、
+忙しくも充実した日々を過ごすのだった。
+> CONTEXT: Map315/events/16/pages/0/98/Dialogue
+Thus I will not leave the wilderness, Master \\N[11]
+While teaching to the technicians' skills,
+Although I was busy, I was spending full days.#MTLed
+> END STRING
+
+> BEGIN STRING
+従魔技師ＥＮＤ………選択前に戻ります。
+> CONTEXT: Map315/events/16/pages/0/102/Dialogue
+Submarine technician END ......... Returns before
+selecting.#MTLed
+> END STRING

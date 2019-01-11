@@ -1,0 +1,58 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「確かに海も良いが…やはり山も良い」
+> CONTEXT: Map099/events/4/pages/0/7/Dialogue
+「Surely the ocean is good, but the mountain is also good」#MTLed
+> END STRING
+
+> BEGIN STRING
+「山賊のボスも退治されたようだし、
+　今こそ山登りの楽しさを皆に伝えるべきだ」
+> CONTEXT: Map099/events/4/pages/0/9/Dialogue
+「The bandits' boss seems to have been torn down,
+It is time to tell everyone the fun of mountain climbing
+now」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし、そのための資料が、
+　全くと言って良い程足りておらぬな。
+　ふむ、どうしたものか」
+> CONTEXT: Map099/events/4/pages/0/12/Dialogue
+「However, It is not enough to say at all.
+Hmm, what is wrong?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「僕、将来は立派な船乗りになるんだ！」
+> CONTEXT: Map099/events/5/pages/0/7/Dialogue
+「I will be a fine sailor in the future!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そしていつか自分だけの船を手に入れて、
+　世界中を旅するんだ！　良いだろ！　えへへ！」
+> CONTEXT: Map099/events/5/pages/0/9/Dialogue
+「And someday you get your own ship, Journey all over the
+world!That's good!Err said!」#MTLed
+> END STRING
+
+> BEGIN STRING
+色々な雑貨が引き出しの中に詰め込まれている。
+> CONTEXT: Map099/events/6/pages/1/7/Dialogue
+Various miscellaneous goods are packed in the drawer.#MTLed
+> END STRING
+
+> BEGIN STRING
+棚の中は殆ど空っぽだ。
+> CONTEXT: Map099/events/7/pages/0/7/Dialogue
+> CONTEXT: Map099/events/8/pages/0/7/Dialogue
+The inside of the shelf is almost empty.#MTLed
+> END STRING
+
+> BEGIN STRING
+大人用と子供用の衣服がしまわれている。
+> CONTEXT: Map099/events/9/pages/0/7/Dialogue
+> CONTEXT: Map099/events/10/pages/0/7/Dialogue
+Clothing for adults and children is closed.#MTLed
+> END STRING

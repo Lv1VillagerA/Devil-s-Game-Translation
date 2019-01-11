@@ -1,0 +1,156 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「情報か…ここは外界から、
+　完全に切り離されてるからね」
+> CONTEXT: Map131/events/1/pages/0/29/Dialogue
+「Information ... Here from the outside world,
+It's completely separated」#MTLed
+> END STRING
+
+> BEGIN STRING
+「お二人さんの聞きたそうな情報は、
+　残念ながら入ってきてないかな。申し訳ないね」
+> CONTEXT: Map131/events/1/pages/0/32/Dialogue
+「As for the information that the second person asked,
+Unfortunately it has not come in. I am sorry」#MTLed
+> END STRING
+
+> BEGIN STRING
+数多くのお酒が並べられている。
+> CONTEXT: Map131/events/5/pages/0/6/Dialogue
+> CONTEXT: Map131/events/6/pages/0/6/Dialogue
+> CONTEXT: Map131/events/7/pages/0/6/Dialogue
+> CONTEXT: Map131/events/8/pages/0/6/Dialogue
+> CONTEXT: Map117/events/5/pages/0/6/Dialogue
+> CONTEXT: Map117/events/6/pages/0/6/Dialogue
+> CONTEXT: Map117/events/7/pages/0/6/Dialogue
+> CONTEXT: Map117/events/8/pages/0/6/Dialogue
+> CONTEXT: Map108/events/5/pages/0/6/Dialogue
+> CONTEXT: Map108/events/6/pages/0/6/Dialogue
+> CONTEXT: Map108/events/7/pages/0/6/Dialogue
+> CONTEXT: Map108/events/8/pages/0/6/Dialogue
+> CONTEXT: Map100/events/5/pages/0/6/Dialogue
+> CONTEXT: Map100/events/6/pages/0/6/Dialogue
+> CONTEXT: Map100/events/7/pages/0/6/Dialogue
+> CONTEXT: Map100/events/8/pages/0/6/Dialogue
+> CONTEXT: Map069/events/9/pages/1/6/Dialogue
+> CONTEXT: Map069/events/10/pages/1/6/Dialogue
+> CONTEXT: Map069/events/13/pages/0/6/Dialogue
+> CONTEXT: Map069/events/14/pages/0/6/Dialogue
+> CONTEXT: Map069/events/15/pages/0/6/Dialogue
+> CONTEXT: Map069/events/16/pages/0/6/Dialogue
+Many sake is lined up.#MTLed
+> END STRING
+
+> BEGIN STRING
+「何年かに一度、結界の僅かなほころびを越えて、
+　迷いこんでくる人間がいるんだ」
+> CONTEXT: Map131/events/11/pages/0/6/Dialogue
+「Once in a few years, beyond a slight break of the barrier,
+There are people who get lost」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そいつが良い人間なら村に置いてやるが、
+　悪い人間の場合は記憶を消して、
+　大森林のど真ん中に放置だな」
+> CONTEXT: Map131/events/11/pages/0/9/Dialogue
+「I'll put it in the village if he is a good man,
+In the case of a bad person, erase the memory,
+It is neglected in the middle of the big forest」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここの酒場のオヤジは、珍しく良い人間だったからな。
+　もう十年以上、エルフの村で暮らしてるんだぜ」
+> CONTEXT: Map131/events/11/pages/0/13/Dialogue
+「The owner of the bar in here was a rare and good person.
+I have lived in an elven village for over ten years
+already.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「嫌ですわ…また大昔のように、戦いが始まるのかしら」
+> CONTEXT: Map131/events/12/pages/0/6/Dialogue
+「I hate it ... I also wonder if the battle will start like
+ancient times」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でも天使が現界すれば、
+　淫魔の女王だろうと…きっと」
+> CONTEXT: Map131/events/12/pages/0/8/Dialogue
+「But if an angel is in the world, I guess the queen of bad
+guys ... I bet」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何より私は毎夜、彼をベッドの上で喘がせてますが、
+　淫魔との戦いには自信がありませんわ。
+　その…少々やり過ぎてしまうかもしれませんし\\I[140]」
+> CONTEXT: Map131/events/12/pages/0/11/Dialogue
+「More than anything I'm panting him on the bed every night,
+I do not have confidence in the battle with fecundity.
+That ... it may be overkilling a little \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+今まで見たこともない酒が並んでいる。
+> CONTEXT: Map131/events/13/pages/0/6/Dialogue
+> CONTEXT: Map131/events/14/pages/0/6/Dialogue
+There are a lot of sake that I have never seen before.#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふん…今回助けたからと、
+　良い気になるなよ」
+> CONTEXT: Map131/events/17/pages/0/6/Dialogue
+「Hmm ... Because I helped this time, Do not bother me」#MTLed
+> END STRING
+
+> BEGIN STRING
+「けど…\\N[6]が連れて来たんなら、
+　多少は信じても良いかもな」
+> CONTEXT: Map131/events/17/pages/0/9/Dialogue
+「but… \\N[6] If you brought it, Maybe I can believe it
+somewhat」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だがな、人間全てを信じたわけじゃないぞ！
+　あくまでもお前と、\\N[6]をだな！」
+> CONTEXT: Map131/events/17/pages/0/12/Dialogue
+「However, I did not trust all human beings!
+To the last, \\N[6] Do it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もうずっと結界の外には出てなかったけど、
+　今回のことで考えが変わったわ」
+> CONTEXT: Map131/events/18/pages/0/6/Dialogue
+「I have not left outside the barrier for a long time,
+My thoughts have changed with this thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[6]が連れてる男のように、
+　優しい人間もいるのね」
+> CONTEXT: Map131/events/18/pages/0/9/Dialogue
+「\\N[6] Like a man with her, There are also kind people
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぁ…そう思ったら私も、
+　人間の彼氏が欲しくなってきちゃったわ」
+> CONTEXT: Map131/events/18/pages/0/12/Dialogue
+「Oh ... I thought so, I wanted a human boyfriend」#MTLed
+> END STRING
+
+> BEGIN STRING
+「\\N[6]、今度私も一緒に、
+　結界の外を案内してくれないかしら？」
+> CONTEXT: Map131/events/18/pages/0/15/Dialogue
+「\\N[6] , I will join you next time, Will you show me
+around the barrier?」#MTLed
+> END STRING

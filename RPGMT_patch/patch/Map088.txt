@@ -1,0 +1,45 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「天使様の力を持ってすれば、
+　淫魔の発する淫らな気を浄化することが出来ます」
+> CONTEXT: Map088/events/7/pages/0/6/Dialogue
+> CONTEXT: Map088/events/7/pages/1/6/Dialogue
+「If you have the angel 's power, You can purify the nasty
+thoughts of a demon」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでも女王や上級淫魔の放った淫気は、
+　今の天使様では、まだ浄化しきれないらしいですよ」
+> CONTEXT: Map088/events/7/pages/0/9/Dialogue
+> CONTEXT: Map088/events/7/pages/1/9/Dialogue
+「Still queen and senior demorious deliriousness,
+It seems that it can not be cleared up yet with the angel
+who is now.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「皆が祈りを捧げれば、
+　天使様は再びこの世に現界し、
+　邪悪な淫魔を必ずや討ち滅ぼすでしょう」
+> CONTEXT: Map088/events/8/pages/0/6/Dialogue
+> CONTEXT: Map088/events/8/pages/1/6/Dialogue
+「If everyone prayed, Angel-sama is again in this world,
+We will definitely destroy the wicked evil spirit」#MTLed
+> END STRING
+
+> BEGIN STRING
+「さぁ…貴方たちも天使様に祈りを捧げましょう。
+　浄化の時は、もうすぐそこまで迫っています」
+> CONTEXT: Map088/events/8/pages/0/10/Dialogue
+> CONTEXT: Map088/events/8/pages/1/10/Dialogue
+「Now ... let us pray to the angel. At the time of
+purification, it is close to that soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+立派なピアノが置かれている。
+> CONTEXT: Map088/events/9/pages/0/7/Dialogue
+> CONTEXT: Map088/events/10/pages/0/7/Dialogue
+A fine piano is placed.#MTLed
+> END STRING

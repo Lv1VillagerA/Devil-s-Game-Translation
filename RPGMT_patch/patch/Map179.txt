@@ -1,0 +1,38 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]ある日いつものように魔法の鍛錬をしていると、
+　突然武器を持った人間たちが取り囲み、
+　あろうことかこのアタシに要求を突きつけたのだ\\C[10]」
+> CONTEXT: Map179/events/7/pages/0/3/Dialogue
+\\C[10]「\\C[0]One day as I do magical training like usual,
+Suddenly surrounded by people with weapons,
+Well I guessed it to this attitude\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]お前が大人しく捕まらないと、
+　別の場所に待機している仲間が、
+　エルフの村に攻めこむぞ…とな\\C[10]」
+> CONTEXT: Map179/events/7/pages/0/7/Dialogue
+\\C[10]「\\C[0]If you do not get caught quietly,
+A friend waiting in another place, I will attack you in the
+village of elves ... and\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]アタシは必死に考えた。
+　こいつらを倒すことは容易い。
+　だが、村に災いを呼び込むわけにはいかない\\C[10]」
+> CONTEXT: Map179/events/7/pages/0/12/Dialogue
+\\C[10]「\\C[0]I thought desperately. It is easy to beat these guys.
+However, it is impossible to attract disaster to the
+village\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]たとえここでアタシが捕まっても、
+　村のエルフたちが、必ず助けに来てくれると\\C[10]」
+> CONTEXT: Map179/events/7/pages/0/20/Dialogue
+\\C[10]「\\C[0]Even if I get caught here,
+The village elves are sure to come and help\\C[10]」#MTLed
+> END STRING

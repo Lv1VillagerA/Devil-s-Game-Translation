@@ -1,0 +1,64 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「まったく、淫魔などに犯られるとは、
+　エルフの風上にも置けないな」
+> CONTEXT: Map200/events/4/pages/0/6/Dialogue
+> CONTEXT: Map178/events/10/pages/0/6/Dialogue
+「To be completely committed, such as a bad guy,
+I can not put it on the winds of elves」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この私が体調を崩してさえいなければ、
+　淫魔の一人や二人！　人間の手を借りずとも！」
+> CONTEXT: Map200/events/4/pages/0/9/Dialogue
+> CONTEXT: Map178/events/10/pages/0/9/Dialogue
+「If this me is not even sick, One or two of the bad
+guys!Without human hands!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふんっ、それが分かったら、
+　さっさと村から出ていくことだな！」
+> CONTEXT: Map200/events/4/pages/0/12/Dialogue
+> CONTEXT: Map178/events/10/pages/0/12/Dialogue
+「Huh, once I understand it, Going out of the village
+quickly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まったく…何故長老は、
+　\\N[6]が一緒にいるとはいえ、こんな人間を村に！」
+> CONTEXT: Map200/events/4/pages/0/15/Dialogue
+> CONTEXT: Map178/events/10/pages/0/15/Dialogue
+「Absolutely ... why the elder, In case \\N[6] Although
+they are together, such a human being is in the village!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今回の襲撃により、
+　村のエルフが大勢逝ってしまいました」
+> CONTEXT: Map200/events/5/pages/0/6/Dialogue
+> CONTEXT: Map178/events/5/pages/0/6/Dialogue
+「By this raid, Elves in the village have gone a lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私たちは確かに長命ですが、
+　環境の変化には弱いという特徴があります」
+> CONTEXT: Map200/events/5/pages/0/9/Dialogue
+> CONTEXT: Map178/events/5/pages/0/9/Dialogue
+「Although we are long-lived indeed, It is characterized by
+vulnerability to environmental change」#MTLed
+> END STRING
+
+> BEGIN STRING
+「人間と違い非常に受精しにくいため、
+　こうして一度数が減ってしまうと、
+　なかなか元には戻れないのです」
+> CONTEXT: Map200/events/5/pages/0/12/Dialogue
+> CONTEXT: Map178/events/5/pages/0/12/Dialogue
+「Unlike humans, it is hard to fertilize,
+Once the number has decreased, It is hard to get back to
+the former」#MTLed
+> END STRING

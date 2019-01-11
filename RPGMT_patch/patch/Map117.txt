@@ -1,0 +1,280 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「そういえば最近自警団の詰め所に、
+　仮面をつけた瀕死の男が担ぎ込まれたらしいよ」
+> CONTEXT: Map117/events/1/pages/0/30/Dialogue
+「By the way, recently, It seems that a dying man with
+masks was brought in」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何でもほぼ全裸なうえに衰弱も激しく、
+　精液を垂らしながらここまで逃げて来たようで、
+　全てを話し終えるやいなや、絶頂して事切れたって話だよ」
+> CONTEXT: Map117/events/1/pages/0/33/Dialogue
+「Everything is nearly naked and weak, It seems that he ran
+away while dropping the semen, It's a story that as soon as
+I finished talking about everything, I got caught and threw
+it out」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっと詳しく知りたいなら、
+　まだら模様の屋根の家に行くと良い。
+　そこが自警団の詰め所だからね」
+> CONTEXT: Map117/events/1/pages/0/37/Dialogue
+「If you want to know more, Go to a mottled roof house.
+That's the vigilante's packing place」#MTLed
+> END STRING
+
+> BEGIN STRING
+「例の大聖堂の噂。
+　どうやら真実らしいよ」
+> CONTEXT: Map117/events/1/pages/0/44/Dialogue
+「Rumors of an example cathedral. Apparently it is true」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とうとう天使が現界を果たしたって、
+　大聖堂のシスターが、
+　この酒場にまで布教に来たからね」
+> CONTEXT: Map117/events/1/pages/0/47/Dialogue
+「An angel fulfilled the present world, The sister of the
+cathedral, Because I came to propagate to this bar.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ巡礼者、
+　もしくは信者を呼び込むのが目的なようだけど、
+　話を聞く限り…間違いはなさそうだね」
+> CONTEXT: Map117/events/1/pages/0/51/Dialogue
+「Well pilgrims, It seems to be the purpose of attracting
+followers or believers, As long as I hear the story ...
+There is no mistake」#MTLed
+> END STRING
+
+> BEGIN STRING
+「でもあのシスター…妙に色っぽいというか。
+　酒場中の男を惹きつけてたから、
+　もう営業にならなかったよ」
+> CONTEXT: Map117/events/1/pages/0/55/Dialogue
+「But that sister ... Is it strangely sexy?
+Because I was drawn to a man in the bar,
+I have not been in business anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どうやら現界は失敗したという噂だね。
+　でも、淫女王の所在はどうやら、
+　魔法都市の西に立つ、封印の塔だということがわかったよ」
+> CONTEXT: Map117/events/1/pages/0/61/Dialogue
+「Apparently it is a rumor that the current world failed.
+However, the location of the lady king is apparently,
+I found it to be a seal tower standing west of the magical
+city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この町からも適格者はもちろん、
+　腕に覚えのある冒険者や魔法使いが、
+　淫女王打倒ということで既に向かったよ」
+> CONTEXT: Map117/events/1/pages/0/65/Dialogue
+「Not only qualified people from this town,
+Adventurers and magicians who remember in the arms,
+I already headed off because I was overthrown by the lady
+king」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私は酒場の…そしてギルドのマスターとして、
+　彼らが帰ってきたときのために、
+　美味い酒の準備をしておこうかね」
+> CONTEXT: Map117/events/1/pages/0/69/Dialogue
+「I am at the bar and ... as the master of the guild,
+For the time they came back, Let's prepare delicious sake」#MTLed
+> END STRING
+
+> BEGIN STRING
+「むぅ…私としたことが、
+　大切なカードをきらしてしまうとは」
+> CONTEXT: Map117/events/11/pages/0/6/Dialogue
+「Muu ... what you have done for me, It is said that I will
+cut off my precious card」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふむ…しかしものは考えようだな。
+　ここで手持ちの種類を全て補充しておけば、
+　しばらくきれる心配はないな」
+> CONTEXT: Map117/events/11/pages/0/9/Dialogue
+「Hm ... but let's think about things. If you replenish all
+the types on hand here, There is no worry that it will be
+clean for a while」#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方たち、この大陸は始めて？
+　だったらお姉さんが、良いことを教えてあげるわ」
+> CONTEXT: Map117/events/12/pages/0/6/Dialogue
+「Are you starting this continent? Then my sister will tell
+you a good thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この大陸には有名な場所が３つあるのよ」
+> CONTEXT: Map117/events/12/pages/0/9/Dialogue
+「There are three famous places on this continent」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一つは東に広がる大森林。
+　何でも長命の種族である、エルフが住んでるって噂よ」
+> CONTEXT: Map117/events/12/pages/0/11/Dialogue
+「One is a large forest spreading east. It's a rumor that
+elves are living in their long-lived tribe」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もう一つは少し南に建っている大聖堂。
+　全ての教会の総本山的立場であり、
+　多くの巡礼者で賑わってるわ」
+> CONTEXT: Map117/events/12/pages/0/14/Dialogue
+「Another one is the cathedral which stands a little south.
+It is the headquarters position of all churches,
+It is crowded with many pilgrims」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最後の一つが南の川向こうにある、魔法都市よ。
+　都市の人口の半数以上が魔法使いという、
+　まさに世界最先端の都市と言って良いわね」
+> CONTEXT: Map117/events/12/pages/0/18/Dialogue
+「The last one is over the river in the south, a magical
+city. More than half of the population of the city is
+called a mage, It's exactly the world's most advanced city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「実はお姉さんも魔法都市の出身なの。
+　どう？　役に立ったでしょう？」
+> CONTEXT: Map117/events/12/pages/0/22/Dialogue
+「Actually my older sister is also from a magical city.
+How? Was it useful?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺はこの間、魔法都市に行った帰りなんだが、
+　ありゃぁとんでもない所だぜ」
+> CONTEXT: Map117/events/13/pages/0/6/Dialogue
+「I have been to the magical city this time,
+It's awfully stuffy place.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「確かに半数以上は魔法使いだ。
+　残りは何だと聞かれると、
+　あまり大きな声じゃ言えないがな」
+> CONTEXT: Map117/events/13/pages/0/9/Dialogue
+「Certainly more than half are wizards. When asked what the
+rest is, I can not say it is a big voice」#MTLed
+> END STRING
+
+> BEGIN STRING
+「魔法を使えない奴隷を上から目線で、
+　労働力として酷使してるのさ」
+> CONTEXT: Map117/events/13/pages/0/13/Dialogue
+「With a line of sight from above with slaves that can not
+use magic, I overwork it as a labor force」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おまけに余所者は魔法が使えれば歓迎されるが、
+　魔法の使えない俺じゃぁ、ろくな依頼が回ってこねえ」
+> CONTEXT: Map117/events/13/pages/0/16/Dialogue
+「Besides, the outsiders are welcomed if magic can be used,
+I can not use magic Ooh, the requests are so slow」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まったく！　とんだ世界最先端の都市だぜ！
+　まぁ…そこのエルフの嬢ちゃんなら魔法を使えるだろうし、
+　歓迎間違いなしだけどな」
+> CONTEXT: Map117/events/13/pages/0/19/Dialogue
+「Completely! Terada It is the most advanced city in the
+world! Well ... if you are a elder lady there, you can use
+magic, There is no hope but welcome.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私は大聖堂を目指して巡礼を続けているのですが、
+　ここに来て、少し体調を崩してしまいましてね」
+> CONTEXT: Map117/events/14/pages/0/6/Dialogue
+「I am continuing pilgrims aiming at the cathedral,
+Come here and have lost a little sickness」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ大聖堂までもう少しですし、
+　しっかり療養し万全の体調で向かうつもりです」
+> CONTEXT: Map117/events/14/pages/0/9/Dialogue
+「Well it's a little more to the cathedral,
+I will take care of my health and go with a perfect
+physical condition」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし、天使様の降臨を間近で見るためか、
+　大聖堂に先に向かった他の巡礼者の方々が、
+　戻って来ないのが気になりますね」
+> CONTEXT: Map117/events/14/pages/0/12/Dialogue
+「But to see the advent of the angel close by,
+Other pilgrims who headed to the cathedral,
+I do not mind being back」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろ一人も戻って来ない…ですからね。
+　こんなことを言うと信仰が足りないかもしれませんが、
+　…何か嫌な予感がします」
+> CONTEXT: Map117/events/14/pages/0/16/Dialogue
+「No one will come back anyway ... So that's it.
+If you say this, your faith may not be enough,
+... I have a bad feeling」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何と…大聖堂でそんなことが、
+　この町で体調を崩したのは、不幸中の幸いでしたね」
+> CONTEXT: Map117/events/14/pages/1/6/Dialogue
+「What ... such a thing in the cathedral,
+It was a happy happiness that we lost physical condition in
+this town」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もし私が大聖堂に向かっていたら、
+　あぁ…何やら股間がヒクついてきましたよ」
+> CONTEXT: Map117/events/14/pages/1/9/Dialogue
+「If I was headed to the cathedral, Ah ... somehow the
+crotch came on me」#MTLed
+> END STRING
+
+> BEGIN STRING
+世界各地の銘酒が並んでいる。
+> CONTEXT: Map117/events/15/pages/0/6/Dialogue
+> CONTEXT: Map117/events/16/pages/0/6/Dialogue
+Rice wines from all over the world line up.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法に関する本が多数並んでいる。
+> CONTEXT: Map117/events/17/pages/0/6/Dialogue
+> CONTEXT: Map117/events/18/pages/0/6/Dialogue
+Many books on magic are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+古いピアノだが良く手入れされている。
+> CONTEXT: Map117/events/19/pages/0/6/Dialogue
+Although it is an old piano, it is well maintained.#MTLed
+> END STRING

@@ -1,0 +1,30 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+すべて
+> CONTEXT: Imbooks/1/name/
+All#MTLed
+> END STRING
+
+> BEGIN STRING
+調合
+> CONTEXT: Imbooks/2/name/
+Preparation#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+> CONTEXT: Imbooks/3/name/
+Blacksmith#MTLed
+> END STRING
+
+> BEGIN STRING
+交換
+> CONTEXT: Imbooks/4/name/
+Exchange#MTLed
+> END STRING
+
+> BEGIN STRING
+セット
+> CONTEXT: Imbooks/5/name/
+Set#MTLed
+> END STRING

@@ -1,0 +1,42 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+下水道　上層
+> CONTEXT: Map101/display_name/
+Sewer top layer#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それにしても、薄暗くて…汚いところだね\\C[29]」
+> CONTEXT: Map101/events/19/pages/0/9/Dialogue
+\\C[29]「\\C[0]Even so, it's dim, it's a dirty place\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そりゃ下水道だからな。
+　しかもどうやら、先客がいるようだな\\C[1]」
+> CONTEXT: Map101/events/19/pages/0/11/Dialogue
+\\C[1]「\\C[0]That's because it's a sewer.
+And apparently, there seems to be a previous customer\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]でも、上級淫魔はいないんでしょう？\\C[29]」
+> CONTEXT: Map101/events/19/pages/0/14/Dialogue
+\\C[29]「\\C[0]But, there is no senior demonic, is it?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええ、感じるのは下級淫魔だけですわ。
+　ですので、その点は安心ですわね」
+> CONTEXT: Map101/events/19/pages/0/16/Dialogue
+「Yeah, I feel only lower grade drama. So, that point is
+safe.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっかぁ、それじゃ早く、目的の指輪を探そうよ。
+　暗くてジメジメしてる所に留まるのは、嫌だよぉ\\C[29]」
+> CONTEXT: Map101/events/19/pages/0/19/Dialogue
+\\C[29]「\\C[0]Well then, let's quickly find the ring of interest.
+I do not want to stay in places that are dark and dark\\C[29]」#MTLed
+> END STRING

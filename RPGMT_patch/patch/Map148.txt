@@ -1,0 +1,319 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+調教部屋　１Ｆ
+> CONTEXT: Map148/display_name/
+Training Room 1F#MTLed
+> END STRING
+
+> BEGIN STRING
+用途不明の薬品がぎっしりと詰め込まれている。
+> CONTEXT: Map148/events/4/pages/0/7/Dialogue
+> CONTEXT: Map148/events/5/pages/0/7/Dialogue
+> CONTEXT: Map148/events/10/pages/0/7/Dialogue
+> CONTEXT: Map148/events/11/pages/0/7/Dialogue
+Chemicals of unknown purpose are packed carefully.#MTLed
+> END STRING
+
+> BEGIN STRING
+棚の中には殆ど空になった瓶が転がっている。
+> CONTEXT: Map148/events/6/pages/0/7/Dialogue
+> CONTEXT: Map148/events/7/pages/0/7/Dialogue
+> CONTEXT: Map148/events/8/pages/0/7/Dialogue
+> CONTEXT: Map148/events/9/pages/0/7/Dialogue
+A bottle almost empty is rolling in the shelf.#MTLed
+> END STRING
+
+> BEGIN STRING
+「う…あぁ…もう…出ないぃ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/10/Dialogue
+「Uh ... Ah ... already ... I will not go out ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「領主さみゃぁ…駄目でしゅぅ…イっちゃいましゅぅ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/12/Dialogue
+「Lord of mind ... I can not do it ... Ichita ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やめてぇ……いやぁ…やっぱりやめない…でぇ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/14/Dialogue
+「It's hard ... ... Well ... I will not quit after all ...
+well ... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もう……知ってる情報…全て…しゃべりましゅたぁ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/16/Dialogue
+「Already ... ... Knowing information ... all ... talking
+... \\I[140]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「…この強烈な淫気は！
+　姿だけは限りなく人間に近いですが、
+　上級淫魔に間違いありませんわ！」
+> CONTEXT: Map148/events/16/pages/0/21/Dialogue
+「... This intense lustfulness! It is nearly impossible for
+people to see, There is no doubt as an advanced umami!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]全く…騒がしい客人じゃのう。
+　妾…領主鈴菜に何か用かのう？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/31/Dialogue
+\\C[10]「\\C[0]No ... noisy guests. Concubine ... Do you have something
+for Lord Suzuki?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]貴女がこの島の領主ね！
+　その人たちを、今すぐ解放してよ！\\C[29]」
+> CONTEXT: Map148/events/16/pages/0/38/Dialogue
+\\C[29]「\\C[0]You are the lord of this island!
+Please release those people right now!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ほほほ、解放しろじゃと？
+　お主ら…何か勘違いしておらぬか？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/41/Dialogue
+\\C[10]「\\C[0]Haha, let's release it? Owner ... Are you
+misunderstanding?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっ…勘違い？
+　でも…そこにいる人たちは、
+　皆淫魔に搾り取られて…\\C[29]」
+> CONTEXT: Map148/events/16/pages/0/44/Dialogue
+\\C[29]「\\C[0]Er ... Misunderstanding? But ... those who are there,
+Everyone is being squeezed by a bastard ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]こ奴らは全員望んでこの館に来た。
+　そして、妾に自分の子種を差し出すから、
+　一生飼い殺して欲しいと要求してきたのじゃぞ？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/50/Dialogue
+\\C[10]「\\C[0]They all came to this pavilion, wanting.
+And because I will present my son to my concubine,
+Have you requested that you want me to kill my entire life?\\C[10]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もちろん、
+　館の女たちを使い、多少の奉仕はしたが、
+　それでもカラダまでは重ねておらぬぞ？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/54/Dialogue
+\\C[10]「\\C[0]of course, I used women in the hall and did some service,
+Nevertheless you have not piled up until the body?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それに妾が今の領主になった後、
+　魔物と淫魔の被害は目に見えて減っておる。
+　どうじゃ？　それでも妾に罪があると思うのか？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/59/Dialogue
+\\C[10]「\\C[0]And after the concubine became the current lord,
+The damage of monsters and obscurities is reduced visibly.
+How about? Still think that there is sin in the concubine?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あうぅ…そっ…それは…その…\\C[29]」
+> CONTEXT: Map148/events/16/pages/0/63/Dialogue
+\\C[29]「\\C[0]Oh ... oh ... that ... that ... ... that ...\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「二人とも…騙されてはいけませんわ！
+　この館に充満する強烈な淫気…並みの人間なら、
+　ただその場にいるだけで、快楽に蝕まれてしまいますわ！」
+> CONTEXT: Map148/events/16/pages/0/68/Dialogue
+「Both of you ... do not be deceived! Strong lustfulness
+full of this pavilion ... If it is a man of level,
+Just being on the spot, it will be eroded by pleasure!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう…たとえ直接手をくださなくとも…ですわ！
+　それに月に一度の町の男の勧誘行為、
+　貴女、今までいったい何人の男を吸い尽くしましたの！」
+> CONTEXT: Map148/events/16/pages/0/72/Dialogue
+「Yes ... even if you do not give me a direct hand ... Yes!
+Moreover, the solicitation act of the man in the town once
+a month, You guys, how many guys have you sucked up to now!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]むっ…天使がおったのか。
+　これでは妾がいくら口先で丸め込んでも、
+　無駄かもしれぬのう\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/84/Dialogue
+\\C[10]「\\C[0]Muu ... did you have an angel?
+Even though the concubine rounds up with the mouth,
+It may be useless.\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]いや…待て…。
+　人間の男にエルフの女…それに天使の加護…これは\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/90/Dialogue
+\\C[10]「\\C[0]No ... Wait .... Elf woman to human man ... And angel's
+protection ... this is\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ほほほほっ！
+　待ち望んでおった獲物が、
+　向こうから来おったわ！\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/95/Dialogue
+\\C[10]「\\C[0]Ho ho ho! The prey that had been waiting for,
+I came from over there!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]人間の領主の真似事も、
+　そろそろ飽きてきたところじゃ\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/101/Dialogue
+\\C[10]「\\C[0]Mistress of the human lord, too,
+Where I got bored\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それに必要な情報も、
+　あらかた聞き出せたしのう。
+　これ以上は、質の悪い餌にしかならぬわ\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/104/Dialogue
+\\C[10]「\\C[0]Information necessary for it,
+I was able to hear it beforehand. More than that, it can
+only be a poor bait\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]何より噂のお主たちを堕とせば、
+　淫女王様も、さぞお喜びになることじゃろう！\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/110/Dialogue
+\\C[10]「\\C[0]More than anything, if you ruin the rumored lord,
+Let's be delighted with the King of Horny girls!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]館の下級淫魔共では相手にはならぬようじゃが、
+　妾なら…どうかのう！\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/113/Dialogue
+\\C[10]「\\C[0]It seems not to be an opponent in the lower class bad
+luck charm, If it is me ... how is it!\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やりましたわね。\\N[1]。
+　これで快楽漬けにされていた人たちも、
+　ようやく解放されますわ」
+> CONTEXT: Map148/events/16/pages/1/9/Dialogue
+「I did it. \\N[1] . People who were pleased with this,
+too, I will finally be released.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも、既に吸い殺された方々もいますし、
+　ここまで堕とされて元の状態に戻るかまでは…」
+> CONTEXT: Map148/events/16/pages/1/15/Dialogue
+「Although some people have already been sucked and killed,
+Until whether it falls to this point and returns to the
+original state ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とにかく、お二人とも良く頑張りましたわね。
+　あとの処理は教会関係者に引き継がせますわ」
+> CONTEXT: Map148/events/16/pages/1/20/Dialogue
+「Anyway, both of us did their best well.
+The rest of the process will be handed over to church
+officials」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっか…いよいよ、
+　私の故郷に帰るんだね\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/24/Dialogue
+\\C[29]「\\C[0]I see… , You go back to my hometown\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]、大丈夫だって。
+　俺も、そしてナタリアも一緒なんだ\\C[1]」
+> CONTEXT: Map148/events/16/pages/1/27/Dialogue
+\\C[1]「\\C[0]\\N[6] It's okay. I and Natalia are together\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]きゃはっ、\\N[1]、
+　心配してくれて…ありがとう\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/32/Dialogue
+\\C[29]「\\C[0]Khaha, \\N[1] , Thanks for your concern\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]おっおぅ、わかってるなる…良いけどよ\\C[1]」
+> CONTEXT: Map148/events/16/pages/1/35/Dialogue
+\\C[1]「\\C[0]Oh, I know ... I'm good, but\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そういえば南の大陸には、
+　大聖堂があったね。確か教会の本部だっけ？\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/39/Dialogue
+\\C[29]「\\C[0]By the way, on the southern continent,
+There was a cathedral. Is it the headquarters of the
+church?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええ、今まで通った村や町の教会は支部ですので。
+　ですので、もし私が現界するとしたら、
+　本部である大聖堂に間違いありませんわ」
+> CONTEXT: Map148/events/16/pages/1/42/Dialogue
+「Yes, since the church in the village and town which I
+have passed so far is a branch. So, if I were to do it now,
+There is no mistake in the headquarters cathedral」#MTLed
+> END STRING
+
+> BEGIN STRING
+「その時こそ、お二人は本当の意味で、
+　役目から解放されるでしょうね」
+> CONTEXT: Map148/events/16/pages/1/46/Dialogue
+「At that time, the two people are in a true meaning,
+It will be released from the role」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]でも…淫魔の脅威がなくなるのは良いけど、
+　もうすぐお別れだと思うと、何だか少し寂しいね\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/51/Dialogue
+\\C[29]「\\C[0]But ... It is good that the threat of the bad luck is
+gone, I think that it is almost time to say good-by, it is
+somewhat sad lonely\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええ、私もお二人と別れるのは…ですわ。
+　ですが、まだ現界まではもう少し時間が必要ですし、
+　最後まで頑張りますわよ」
+> CONTEXT: Map148/events/16/pages/1/54/Dialogue
+「Well, I also want to separate from you two ....
+However, we still need some more time to the present,
+I will do my best till the end」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。
+　そろそろ船も出られるだろうし、
+　遅れないうちに、船着場に向かうとするか\\C[1]」
+> CONTEXT: Map148/events/16/pages/1/58/Dialogue
+\\C[1]「\\C[0]That's right. It will be a ship soon,
+Before I was late, I decided to head to the pier\\C[1]」#MTLed
+> END STRING

@@ -1,0 +1,30 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+廃坑　中央
+> CONTEXT: Map059/display_name/
+> CONTEXT: Map002/display_name/
+Center of the mine shaft#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ここにはレバーがあったはずだが。
+　…痕跡すらなくなっている\\C[1]」
+> CONTEXT: Map059/events/2/pages/0/10/Dialogue
+\\C[1]「\\C[0]There must have been a lever here.
+... even traces are gone\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…おかしいな。
+　前はここに扉があったはずなのだが\\C[1]」
+> CONTEXT: Map059/events/14/pages/0/10/Dialogue
+\\C[1]「\\C[0]…that's strange. It should have been a door here before\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]とにかく、ここでじっとしてても時間の無駄だ。
+　今は別の場所に行こう\\C[1]」
+> CONTEXT: Map059/events/14/pages/0/13/Dialogue
+\\C[1]「\\C[0]Anyway, staying here is a waste of time.
+Let's go to another place now\\C[1]」#MTLed
+> END STRING

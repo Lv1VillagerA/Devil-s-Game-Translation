@@ -1,0 +1,85 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+牢屋番の部屋
+> CONTEXT: Map052/display_name/
+A room of jail#MTLed
+> END STRING
+
+> BEGIN STRING
+◆精奴隷前の牢屋◆
+最近、捕らえた人間への行き過ぎたつまみ食いが多発しています。
+精奴隷にする前の行為は、【出来る範囲で】自重しましょう！
+> CONTEXT: Map052/events/1/pages/0/6/Dialogue
+◆ prison in front of a slave. Recently, excessive
+knob eating to the captured human being occurred
+frequently. Let 's act as much as possible within
+the action before becoming a slave!#MTLed
+> END STRING
+
+> BEGIN STRING
+追伸！　つまみ食い後の鍵の閉め忘れに注意！
+> CONTEXT: Map052/events/1/pages/0/10/Dialogue
+Postscript! Be careful not to forget to close the
+key after snacking!#MTLed
+> END STRING
+
+> BEGIN STRING
+◆牢屋番の部屋◆
+使い終わった鍵は必ず所定の鍵棚へ！
+脱走した人間も、なるべく吸い尽くさずに連れ戻そう！
+> CONTEXT: Map052/events/2/pages/0/6/Dialogue
+◆ Room of prison number ◆. Always use the key to the
+prescribed key shelf! Let's take out deserted people as
+much as possible!#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方が例の男なのね。
+　ふーん…何だか吸いたくなってきちゃうわ」
+> CONTEXT: Map052/events/12/pages/0/7/Dialogue
+「You are an example man. Hmmm ... I'm about to suck it
+somehow.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この間は吸精に夢中になるあまり、
+　牢の鍵をかけ忘れて、
+　精奴隷を一人逃しちゃったのよね」
+> CONTEXT: Map052/events/12/pages/0/10/Dialogue
+「In the meantime, it gets crazy about insemination,
+Forget to lock the prison, You missed a slave alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁかなり衰弱してたから、
+　遅かれ早かれあの世逝きなんだけど、
+　ちょっと勿体なかったわね」
+> CONTEXT: Map052/events/12/pages/0/14/Dialogue
+「Well I was pretty debilitating, Sooner or later it will
+be the rest of the world, I was a bit disrespective」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう思うと急にお腹が減ってきたわ。
+　隠してある精液ミルク、
+　今飲んじゃおうかしら」
+> CONTEXT: Map052/events/12/pages/0/18/Dialogue
+「I suddenly got hungry when I thought so.
+Hidden semen milk, I wonder if I'm drinking now.」#MTLed
+> END STRING
+
+> BEGIN STRING
+男と堕とす１００の手段！
+始めての精奴隷…などのよくわからない本が、
+適当に並べられている。
+> CONTEXT: Map052/events/15/pages/1/6/Dialogue
+A man and 100 means of falling! A book I do not know well,
+such as the first slave secret ..., It is properly
+arranged.#MTLed
+> END STRING
+
+> BEGIN STRING
+透明でヌメった液体で満たされている…。
+> CONTEXT: Map052/events/18/pages/0/6/Dialogue
+It is filled with transparent and nuising liquid ....#MTLed
+> END STRING

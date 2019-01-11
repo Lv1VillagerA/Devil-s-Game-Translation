@@ -1,0 +1,174 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふんふんふ～ん…これでお目々をつけて、
+　雪だるまの完成だよ！」
+> CONTEXT: Map202/events/11/pages/0/6/Dialogue
+> CONTEXT: Map106/events/11/pages/0/6/Dialogue
+「Hmmmm ... this is where you put your eyes,
+It is completion of a snowman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「次は何して遊ぼうかなぁ？」
+> CONTEXT: Map202/events/11/pages/0/9/Dialogue
+> CONTEXT: Map106/events/11/pages/0/9/Dialogue
+「What shall we play next time?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「雪だるまの次はっと…今度は、
+　雪うさぎに挑戦しようかな～」
+> CONTEXT: Map202/events/11/pages/1/6/Dialogue
+> CONTEXT: Map106/events/11/pages/1/6/Dialogue
+「Next to the snowman ... ... Next time, Maybe I should try
+snow rabbits ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しばらくの間、荷物の積み下ろしのために、
+　この町に停泊するからな」
+> CONTEXT: Map202/events/12/pages/0/6/Dialogue
+> CONTEXT: Map106/events/12/pages/0/6/Dialogue
+「For a while, due to loading and unloading of baggage,
+I will be anchored in this town.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まぁ遅くとも数日の辛抱だ。
+　それさえ終われば、またすぐ出港出来るからよ」
+> CONTEXT: Map202/events/12/pages/0/9/Dialogue
+> CONTEXT: Map106/events/12/pages/0/9/Dialogue
+「Well at the latest it's patience for a few days.
+Even if it ends, you can leave soon again」#MTLed
+> END STRING
+
+> BEGIN STRING
+「おっと…お二人さん。
+　こっちの準備はばっちりだ」
+> CONTEXT: Map202/events/12/pages/1/6/Dialogue
+> CONTEXT: Map106/events/12/pages/1/6/Dialogue
+「Oops ... the second person. This preparation is perfect」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いつでも出港出来るぜ。
+　それで、もう乗るのかい？」
+> CONTEXT: Map202/events/12/pages/1/9/Dialogue
+> CONTEXT: Map106/events/12/pages/1/9/Dialogue
+「You can leave port anytime. Well, are you already riding?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここは魔物や淫魔の、
+　犠牲になった人たちが眠る墓です」
+> CONTEXT: Map202/events/15/pages/0/6/Dialogue
+> CONTEXT: Map106/events/15/pages/0/6/Dialogue
+「Here is a monster and a fantasy, It is a grave where the
+victims sleep」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし不思議なことに、
+　今の領主様に代替わりした日から、
+　これらの被害がピタリと止んだのです」
+> CONTEXT: Map202/events/15/pages/0/9/Dialogue
+> CONTEXT: Map106/events/15/pages/0/9/Dialogue
+「But strangely, From the day when I replaced my current
+lord, These damages came to a halt」#MTLed
+> END STRING
+
+> BEGIN STRING
+「不思議なこともあるものですね」
+> CONTEXT: Map202/events/15/pages/0/13/Dialogue
+> CONTEXT: Map106/events/15/pages/0/13/Dialogue
+「There are things that are strange」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここは淫魔や魔物の、
+　犠牲になった人たちが眠る墓です」
+> CONTEXT: Map202/events/15/pages/1/6/Dialogue
+> CONTEXT: Map106/events/15/pages/1/6/Dialogue
+「This is a demon or a demon, It is a grave where the
+victims sleep」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やはり領主様が、裏で糸を引いていたのですね」
+> CONTEXT: Map202/events/15/pages/1/9/Dialogue
+> CONTEXT: Map106/events/15/pages/1/9/Dialogue
+「After all, the lordsmen had pulled the thread behind」#MTLed
+> END STRING
+
+> BEGIN STRING
+「貴方たちはもしや、天使様の代理なのでは？
+　もしそうでなくとも、
+　少し…祈らせていただけませんか？」
+> CONTEXT: Map202/events/15/pages/1/11/Dialogue
+> CONTEXT: Map106/events/15/pages/1/11/Dialogue
+「Are you an angel 's alternative, perhaps?
+If not, A little ... could you please pray?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ほほほっ、冒険者の方かのう？
+　寒い中良く来なすった。
+　何もない町じゃが、ゆっくりしていくと良いぞ」
+> CONTEXT: Map202/events/16/pages/0/6/Dialogue
+> CONTEXT: Map106/events/16/pages/0/6/Dialogue
+「Ho ho ho, Are you an adventurer? I came often during the
+cold. If there is nothing in town, it is good if you go
+slowly」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ああそうそう、今の領主様は素晴らしく美人じゃから、
+　一度会いに行くのも良いぞ」
+> CONTEXT: Map202/events/16/pages/0/10/Dialogue
+> CONTEXT: Map106/events/16/pages/0/10/Dialogue
+「Oh yeah, my lord is a wonderful beauty from now on,
+It is good to go to see you once.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何しろワシのように諦めていた股間のモノが、
+　会った瞬間に元気を取り戻したのじゃからな」
+> CONTEXT: Map202/events/16/pages/0/13/Dialogue
+> CONTEXT: Map106/events/16/pages/0/13/Dialogue
+「The thing of the crotch who was giving up like an eagle
+in any case, I regained my energy at the moment I saw you」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…ありゃぁ本当に眼福じゃったわ」
+> CONTEXT: Map202/events/16/pages/0/16/Dialogue
+> CONTEXT: Map106/events/16/pages/0/16/Dialogue
+「Haa ... Oh well, it was really eye-catching.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何と…領主様がのう…。
+　道理でワシの股間がヒクつくわけじゃ」
+> CONTEXT: Map202/events/16/pages/1/6/Dialogue
+> CONTEXT: Map106/events/16/pages/1/6/Dialogue
+「How ... the lord owes .... It is reasonable that the
+crotch of the eagle is hooked」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし、人間の女では全く反応せぬのに、
+　淫魔というのは…本当に魔性の存在よのう」
+> CONTEXT: Map202/events/16/pages/1/9/Dialogue
+> CONTEXT: Map106/events/16/pages/1/9/Dialogue
+「However, a human woman does not respond at all,
+It's really a demon's existence」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この畑は春になれば新しく芽吹くが、
+　ワシのモノはもう…それだけが残念じゃのう」
+> CONTEXT: Map202/events/16/pages/1/12/Dialogue
+> CONTEXT: Map106/events/16/pages/1/12/Dialogue
+「This field buds newly in the spring, Eagle's thing is
+already ... It is too bad」#MTLed
+> END STRING

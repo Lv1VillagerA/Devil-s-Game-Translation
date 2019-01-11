@@ -1,0 +1,10 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この先、調教前の人間を捕らえているため、
+関係者以外立ち入り禁止！　つまみ食い厳禁！
+> CONTEXT: Map188/events/1/pages/0/6/Dialogue
+> CONTEXT: Map006/events/1/pages/0/6/Dialogue
+In the meantime, because of capturing the human being
+before training, Staff only!Pinned fish strictly
+prohibited!#MTLed
+> END STRING

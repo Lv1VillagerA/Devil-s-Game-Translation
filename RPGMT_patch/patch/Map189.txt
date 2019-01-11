@@ -1,0 +1,20 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+他の患者さんの迷惑になりますので、
+院内では大声で騒いだり、暴れたりしないこと！
+> CONTEXT: Map189/events/2/pages/0/7/Dialogue
+> CONTEXT: Map062/events/2/pages/0/7/Dialogue
+Because it becomes troublesome of other patients,
+Do not make loud noise in the hospital, do not rampage!#MTLed
+> END STRING
+
+> BEGIN STRING
+受付を済ませた患者さんは、
+呼び出しを受けるまで席について、
+落ち着いて待っていましょう。
+> CONTEXT: Map189/events/3/pages/0/7/Dialogue
+> CONTEXT: Map062/events/3/pages/0/7/Dialogue
+The patient who completed the reception,
+Regarding the seat until receiving a call,
+Let's wait and calm down.#MTLed
+> END STRING

@@ -1,0 +1,92 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[2]「\\C[0]にゃはは！　獲物が来たにゃ！
+　わちきの所まで来ると良いにゃ！\\C[2]」
+> CONTEXT: Map408/events/7/pages/0/7/Dialogue
+\\C[2]「\\C[0]Haha!Prey has arrived! It is good to come to Aichi!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]嫌な予感がする。
+　このまま先に進むべきか否か\\C[1]）
+> CONTEXT: Map408/events/7/pages/0/11/Dialogue
+\\C[1](\\C[0] I have a bad feeling. Whether to proceed as before or not\\C[1]
+)#MTLed
+> END STRING
+
+> BEGIN STRING
+先に進む
+> CONTEXT: Map408/events/7/pages/0/14/Choice/0
+Proceed#MTLed
+> END STRING
+
+> BEGIN STRING
+相手の出方を待つ
+> CONTEXT: Map408/events/7/pages/0/14/Choice/1
+Wait for the other party's attendance#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]ここは先に進んでみよう。
+　とにかく今は、相手の姿を確認しないことにはな\\C[1]）
+> CONTEXT: Map408/events/7/pages/0/16/Dialogue
+\\C[1](\\C[0] Let's go ahead here. Anyway, now that we do not check the
+figure of the other party\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]ここは、ハンターとしての勘を信じてみるか\\C[1]）
+> CONTEXT: Map408/events/7/pages/0/23/Dialogue
+\\C[1](\\C[0] Do you believe in this intuition as a hunter\\C[1] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そろそろ罠に嵌った頃合いだにゃ！
+　確認しに行くにゃ！\\C[2]」
+> CONTEXT: Map408/events/7/pages/0/42/Dialogue
+\\C[2]「\\C[0]It's about time you caught in a trap!
+I will go check it out!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]おかしいにゃ。何処の罠にもかかってにゃいにゃ。
+　危険を感じて逃げちゃったのかにゃ？\\C[2]」
+> CONTEXT: Map408/events/7/pages/0/54/Dialogue
+\\C[2]「\\C[0]It is strange.Do not catch any traps.
+Have you felt danger and ran away?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]お前！　逃げてにゃかっ…！\\C[2]」
+> CONTEXT: Map408/events/7/pages/0/75/Dialogue
+\\C[2]「\\C[0]you!You run away ...!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]正々堂々戦ってやれなくて、すまないな\\C[1]」
+> CONTEXT: Map408/events/7/pages/0/92/Dialogue
+\\C[1]「\\C[0]I'm sorry that I can not fight fairly\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]しっ…しまった！\\C[1]」
+> CONTEXT: Map408/events/8/pages/1/7/Dialogue
+> CONTEXT: Map408/events/9/pages/1/7/Dialogue
+\\C[1]「\\C[0]Shit ... I got it!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]にゃはは！　たとえハンター相手でも、
+　わちきが負けるはずにゃいにゃ！\\C[2]」
+> CONTEXT: Map408/events/8/pages/1/29/Dialogue
+> CONTEXT: Map408/events/9/pages/1/30/Dialogue
+\\C[2]「\\C[0]Haha!Even if you are a hunter,
+You must lose the crisp!\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それじゃ、おいしくいただくにゃ～！\\C[2]」
+> CONTEXT: Map408/events/8/pages/1/32/Dialogue
+> CONTEXT: Map408/events/9/pages/1/34/Dialogue
+\\C[2]「\\C[0]Well then, let's have delicious ~!\\C[2]」#MTLed
+> END STRING

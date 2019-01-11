@@ -1,0 +1,201 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「今の領主様になって魔物や淫魔の被害は減り、
+　生活は改善したんだが…一つ不思議なことがね」
+> CONTEXT: Map108/events/1/pages/0/30/Dialogue
+「As the lord of the present, the damage of monsters and
+obscurities decreases, Life has improved, but one strange
+thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「実は毎月一度この町に来て、
+　領主の館に男の働き手を連れて行くんだよ。
+　しかも行った男は誰一人として帰って来ない」
+> CONTEXT: Map108/events/1/pages/0/33/Dialogue
+「Actually, I came to this town once a month,
+I will bring a man 's workers to the owner' s house.
+Besides, no one went back as one」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ギルドからも不審に思って、
+　何度も腕利きを募り探りを入れているんだが、
+　それすら一人もね」
+> CONTEXT: Map108/events/1/pages/0/37/Dialogue
+「Suspected from the guild, I've been searching for my
+skills a couple of times and I've been exploring,
+Even that, even one person」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう言えば恋人が帰って来ないという女性が、
+　昨日飲みに来たっけか。
+　彼女の家は…町の中央辺りだったかな」
+> CONTEXT: Map108/events/1/pages/0/41/Dialogue
+「By the way, a woman that a lover will not come back,
+Did you come for a drink yesterday? Her house was around
+the center of the town.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「領主様の正体が、実は雪女の淫魔だったとはね」
+> CONTEXT: Map108/events/1/pages/0/47/Dialogue
+「It is said that the identity of the lord was actually a
+female devil of snow」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし人間そっくりだと、
+　淫魔だとわからないものだね」
+> CONTEXT: Map108/events/1/pages/0/49/Dialogue
+「But if it looks exactly like a human, I do not know if
+it's a bad guy」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いや、殆ど町人の前に姿を現さない領主という時点で、
+　もっと警戒するべきだったよ」
+> CONTEXT: Map108/events/1/pages/0/52/Dialogue
+「No, at the time of the lord who hardly reveals before the
+townspeople, You should have been more wary」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくら自分たちの生活が良くなったとしてもね。
+　ふむ…一つ肝に銘じておこう」
+> CONTEXT: Map108/events/1/pages/0/55/Dialogue
+「No matter how much their lives get better.
+Hmm ... let's keep in mind one thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何でもここの領主様は美しい容姿なうえ、
+　男好きらしいぜ？」
+> CONTEXT: Map108/events/11/pages/0/6/Dialogue
+> CONTEXT: Map108/events/11/pages/1/6/Dialogue
+「Anything the lord here is a beautiful appearance,
+You seem to like men?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺も辛い船乗りなんて辞めて、
+　領主様の屋敷で働きながらの、
+　ただれきった生活を送りたいぜ！」
+> CONTEXT: Map108/events/11/pages/0/9/Dialogue
+「I quit sending a spicy sailor, While working at the
+owner's house, I want to live a life without a break!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「たとえ正体が淫魔だったとしても、
+　腹上死で天国に逝けるとくれば…って、
+　やっぱり怖いよな！」
+> CONTEXT: Map108/events/11/pages/1/9/Dialogue
+「Even if the identity is a loser, If you are going to die
+in heaven due to death on your abdomen ...
+After all it is scary!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うう…寒い！
+　こうも寒いと荷物の積み下ろしの手も、
+　止まるってもんだぜ」
+> CONTEXT: Map108/events/12/pages/0/6/Dialogue
+「Uu ... cold! This is also cold and the hands of loading
+and unloading baggage, It will stop」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だから酒場で一休みしたところで、
+　誰にも責められねえのさ。
+　あぁ…酒がうまい！」
+> CONTEXT: Map108/events/12/pages/0/10/Dialogue
+「So when I was absent at the bar, No one can blame him.
+Oh ... the liquor is good!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この雪では、
+　積み下ろしも思うように捗らないからな」
+> CONTEXT: Map108/events/13/pages/0/7/Dialogue
+「With this snow, I will not progress as I think of loading
+and unloading」#MTLed
+> END STRING
+
+> BEGIN STRING
+「時には手を休めて、
+　活力を補充することも大切なのだ」
+> CONTEXT: Map108/events/13/pages/0/10/Dialogue
+「Sometimes rest your hands, It is also important to
+supplement vitality」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うむ…酒がカラダに染みこむな」
+> CONTEXT: Map108/events/13/pages/0/13/Dialogue
+「Well ... Sake does not soak into the body」#MTLed
+> END STRING
+
+> BEGIN STRING
+「私は旅の吟遊詩人ですが、
+　最近は英雄や姫君の語りが減り、
+　妖艶な淫魔が男を籠絡する語りを良く聞きます」
+> CONTEXT: Map108/events/14/pages/0/6/Dialogue
+「I am a traveling bard, Recently hero and princess' s
+speech decreased, I listen carefully to the narratives that
+a mysterious fantasy bridges a man」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここ数年は魔物の数が減り、
+　逆に淫魔の数が増える一方なので、
+　その影響でしょうか？」
+> CONTEXT: Map108/events/14/pages/0/10/Dialogue
+「In recent years the number of demons has decreased,
+On the contrary, as the number of demons increases,
+Is it an influence?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何と言いますか…世界全体が、
+　淫らに変わってきている…そう感じます」
+> CONTEXT: Map108/events/14/pages/0/14/Dialogue
+「What do you say ... The whole world, I am changing to be
+nasty ... I feel that way」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルコール度数の高そうな酒がしまわれている。
+> CONTEXT: Map108/events/15/pages/0/6/Dialogue
+> CONTEXT: Map108/events/16/pages/0/6/Dialogue
+Alcohol that seems to be high in alcohol is gone.#MTLed
+> END STRING
+
+> BEGIN STRING
+雪国での生活の知恵などの本が並べられている。
+> CONTEXT: Map108/events/17/pages/0/6/Dialogue
+> CONTEXT: Map108/events/18/pages/0/6/Dialogue
+Books such as wisdom of life in the snowy country are lined
+up.#MTLed
+> END STRING
+
+> BEGIN STRING
+「旅をしていると淫魔に追われることもしばしばで、
+　そのたびにいつ背後をつかれないかと、
+　ヒヤヒヤしています」
+> CONTEXT: Map108/events/19/pages/0/7/Dialogue
+「Often it is often chased by a fantasy when traveling,
+Whenever I can not get behind you, I'm hyakiya」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔の背後をつけば、勝ち目はあるのですが。
+　二人パーティーだと後列を狙われやすく、
+　最初から逃げる前提ならば、一人のほうが気楽ですね」
+> CONTEXT: Map108/events/19/pages/0/11/Dialogue
+「If you put behind the bad guy, there are winnings.
+It is easy to be aimed at the back row if it is a two party
+party, As a premise to escape from the beginning, one
+person is more comfortable」#MTLed
+> END STRING

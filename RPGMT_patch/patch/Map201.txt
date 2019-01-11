@@ -1,0 +1,100 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「やっぱりボク、将来は海賊になりたいな」
+> CONTEXT: Map201/events/25/pages/0/6/Dialogue
+> CONTEXT: Map115/events/25/pages/0/6/Dialogue
+「After all I want to become a pirate in the future」#MTLed
+> END STRING
+
+> BEGIN STRING
+「世界中の海を冒険して、
+　新大陸を発見するんだ！」
+> CONTEXT: Map201/events/25/pages/0/8/Dialogue
+> CONTEXT: Map115/events/25/pages/0/8/Dialogue
+「Adventure the seas around the world, Discover the New
+Continent!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「当然、悪の海賊団との戦いもはずせないよ！」
+> CONTEXT: Map201/events/25/pages/0/11/Dialogue
+> CONTEXT: Map115/events/25/pages/0/11/Dialogue
+「Of course, we can not afford to fight with evil pirates!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「現在船内に荷運び中だから、
+　関係ない人は近寄ったら駄目だぜ」
+> CONTEXT: Map201/events/26/pages/0/6/Dialogue
+> CONTEXT: Map115/events/26/pages/0/6/Dialogue
+「As we are currently carrying the cargo on board,
+People not involved will not be useless if you approach」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ふぅ…しかし最近は、
+　淫魔やら天使やらとゴタゴタしっぱなし、
+　それ関係の人や荷物の積み下ろしで、毎日大忙しだぜ」
+> CONTEXT: Map201/events/26/pages/0/9/Dialogue
+> CONTEXT: Map115/events/26/pages/0/9/Dialogue
+「Fuu ... But recently, I leaned with scary gossip with
+anguish and anglers, It's busy everyday with the people and
+baggage involved with it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「今回の航海も無事に成功したが、
+　他の船乗りの噂では、
+　途中淫魔に襲われたらしい」
+> CONTEXT: Map201/events/27/pages/0/6/Dialogue
+> CONTEXT: Map115/events/27/pages/0/6/Dialogue
+「Although this voyage also succeeded successfully,
+In other riders of sailors, She seems to have been attacked
+by a mystery on the way」#MTLed
+> END STRING
+
+> BEGIN STRING
+「海上では基本逃げ場はないからな。
+　もし俺の船で同じことが起これば、
+　たちまち乱交パーティーの始まりだぜ」
+> CONTEXT: Map201/events/27/pages/0/10/Dialogue
+> CONTEXT: Map115/events/27/pages/0/10/Dialogue
+「There is no basic escape place on the sea.
+If the same thing happens on my ship, It's the beginning of
+an orgy party right away.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「うぉ…いかんな。
+　想像したら、股間が立ってきやがった」
+> CONTEXT: Map201/events/27/pages/0/14/Dialogue
+> CONTEXT: Map115/events/27/pages/0/14/Dialogue
+「Wow ... no matter what. Imagine, my crotch stood up」#MTLed
+> END STRING
+
+> BEGIN STRING
+「先ほど淫魔の呪いのより亡くなられた方を、
+　埋葬したところです」
+> CONTEXT: Map201/events/28/pages/0/6/Dialogue
+> CONTEXT: Map115/events/28/pages/0/6/Dialogue
+「The person who died more than the curse of the fantasy,
+I just buried it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「たとえ奴隷商人として悪の限りを尽くしたとしても、
+　死は平等に訪れます」
+> CONTEXT: Map201/events/28/pages/0/9/Dialogue
+> CONTEXT: Map115/events/28/pages/0/9/Dialogue
+「Even if you do everything as evil as a slave merchant,
+Death visits equally」#MTLed
+> END STRING
+
+> BEGIN STRING
+「出来れば天使様の元に送られた彼の魂が、
+　安らかならんことを…」
+> CONTEXT: Map201/events/28/pages/0/12/Dialogue
+> CONTEXT: Map115/events/28/pages/0/12/Dialogue
+「His soul, if possible sent to the angel 's source,
+Do not worry ...」#MTLed
+> END STRING

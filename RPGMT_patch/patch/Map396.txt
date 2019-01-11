@@ -1,0 +1,66 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「掘り出し物、色々あるぜ。
+　まぁ見てってくれや」
+> CONTEXT: Map396/events/5/pages/0/7/Dialogue
+> CONTEXT: Map386/events/5/pages/0/7/Dialogue
+「There are lots of exciting things. Well please look」#MTLed
+> END STRING
+
+> BEGIN STRING
+「また来てくれよな」
+> CONTEXT: Map396/events/5/pages/0/15/Dialogue
+> CONTEXT: Map386/events/5/pages/0/24/Dialogue
+「Please come back again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「最近この辺りでキャンプを始めたんだ」
+> CONTEXT: Map396/events/6/pages/0/8/Dialogue
+「I recently started camping around here」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔が弱いから安全に発掘出来て大助かりだ。
+　しばらく留まるつもりだぜ」
+> CONTEXT: Map396/events/6/pages/0/10/Dialogue
+「It is a great aid to excavate safely because the bad
+lucky weak. I'm going to stay for a while.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]淫魔の強さに関しては、
+　私の記憶は古いので、あまりあてにはなりませんね\\C[3]」
+> CONTEXT: Map396/events/6/pages/0/18/Dialogue
+\\C[3]「\\C[0]Regarding the strength of the bastard,
+My memory is old, so I can not count on that much\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]最近目覚めるまで、
+　ずっと避難所の中でしたので、
+　実戦経験の不足が大きいです\\C[3]」
+> CONTEXT: Map396/events/6/pages/0/21/Dialogue
+\\C[3]「\\C[0]Until recently woke up, Because it was in the shelter for
+a long time, Lack of actual experience is great\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]淫魔の強さですか。
+　インストール済みのデータは百年以上前のもので、
+　あてには出来ませんね\\C[3]」
+> CONTEXT: Map396/events/6/pages/0/32/Dialogue
+\\C[3]「\\C[0]Is the strength of the bad guy?
+Installed data is more than 100 years old,
+I can not do it\\C[3]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[3]「\\C[0]マスターに起こされるまで、
+　ずっとシェルター内でしたので。
+　今は少しでも多くの、実戦経験を積みたいところです\\C[3]」
+> CONTEXT: Map396/events/6/pages/0/36/Dialogue
+\\C[3]「\\C[0]Until it is raised to the master,
+Because it was in the shelter all the time.
+Now I want to accumulate as much experience as possible\\C[3]」#MTLed
+> END STRING

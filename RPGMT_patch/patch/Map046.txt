@@ -1,0 +1,71 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[29]「\\C[0]……\\N[1]。…\\N[1]！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/1/Dialogue
+\\C[29]「\\C[0]... .... \\N[1] .... \\N[1] !\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うーん……こ…ここは？\\C[1]」
+> CONTEXT: Map046/events/2/pages/0/15/Dialogue
+\\C[1]「\\C[0]Well ... ... here ... where is this?\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]もう\\N[1]ったら！
+　急に机に突っ伏したと思ったら、
+　それから何度呼びかけても起きないんだから！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/18/Dialogue
+\\C[29]「\\C[0]Already \\N[1] っ て て! If you think that you suddenly
+fell down on the desk, Then I will not get up even if I
+call many times!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]大丈夫\\N[1]？
+　ちゃんと私の名前言える？\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/27/Dialogue
+\\C[29]「\\C[0]All right \\N[1] What? Can you say my name properly?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+言える
+> CONTEXT: Map046/events/2/pages/0/30/Choice/0
+To say#MTLed
+> END STRING
+
+> BEGIN STRING
+言えない
+> CONTEXT: Map046/events/2/pages/0/30/Choice/1
+I can not say#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あぁ良かった。
+　どうやら意識はしっかりしてるようね\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/33/Dialogue
+\\C[29]「\\C[0]Oh good. Apparently consciousness seems to be solid\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっ…嘘？
+　まさか打ちどころが悪くて\\N[1]の記憶は…。
+　とにかく、私の名前は\\N[6]よ！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/40/Dialogue
+\\C[29]「\\C[0]Er ... Lie? It was not awesome \\N[1] The memory of
+.... Anyway, my name is \\N[6] That's it!\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]とにかく今日は、
+　鉱山調査の依頼を済ませるんでしょう？\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/51/Dialogue
+\\C[29]「\\C[0]Anyway today, Will you make a request for a mine survey?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]いい加減寝ぼけた頭をシャキッとして、
+　さっさと例の鉱山に向かおうよ！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/54/Dialogue
+\\C[29]「\\C[0]With a sharp head asleep, Let's head to the example mine!\\C[29]」#MTLed
+> END STRING

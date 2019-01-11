@@ -1,0 +1,102 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「私はいつの日かある程度の技術を修得したら、
+　この村から都会に引っ越す予定です」
+> CONTEXT: Map064/events/4/pages/0/6/Dialogue
+> CONTEXT: Map064/events/4/pages/1/6/Dialogue
+「If I learn some skill some day someday,
+I plan to move from this village to the city」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そのために時々診療所に出向き、
+　医者としての勉強を続けているのです」
+> CONTEXT: Map064/events/4/pages/0/9/Dialogue
+「To that end, I visit the clinic from time to time,
+I am continuing my studies as a doctor」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あの先生は優秀な魔法使いでもありますから、
+　周囲には常に強力な結界を張り、
+　魔物が近づけないようにしてあるという話です」
+> CONTEXT: Map064/events/4/pages/0/12/Dialogue
+「That teacher is also an excellent mage,
+Always keep strong boundaries around you,
+It is a story that the monsters do not approach」#MTLed
+> END STRING
+
+> BEGIN STRING
+「また、医者としての腕も確かで、遠い国から、
+　わざわざ診察を受けに来る患者さんもいる程ですよ」
+> CONTEXT: Map064/events/4/pages/0/16/Dialogue
+「Also, as a doctor's arms certainly, from distant
+countries, To the extent that there are some patients
+coming to see the doctor」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そのために時々診療所に出向き、
+　医者としての技術を学んでいたのですが…」
+> CONTEXT: Map064/events/4/pages/1/9/Dialogue
+「To that end, I visit the clinic from time to time,
+I was learning skills as a doctor, but ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「まさか強力な淫魔を呼び寄せることになってしまうとは」
+> CONTEXT: Map064/events/4/pages/1/12/Dialogue
+「It is supposed to be bringing a strong powerful demon」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかしまだ、
+　私の夢が潰えたわけではありません」
+> CONTEXT: Map064/events/4/pages/1/14/Dialogue
+「However, My dream did not collapse」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いつか必ず先生のような、
+　立派な医者になってみせますよ」
+> CONTEXT: Map064/events/4/pages/1/17/Dialogue
+「Someday certainly like a teacher, I can show you a
+respectable doctor」#MTLed
+> END STRING
+
+> BEGIN STRING
+多数の食器類が乱雑に詰め込まれている。
+> CONTEXT: Map064/events/5/pages/0/6/Dialogue
+> CONTEXT: Map064/events/6/pages/0/6/Dialogue
+A lot of dishes are stuffed up in disorder.#MTLed
+> END STRING
+
+> BEGIN STRING
+医療関係の書物が、
+綺麗に並べられている。
+> CONTEXT: Map064/events/7/pages/0/6/Dialogue
+> CONTEXT: Map064/events/8/pages/0/6/Dialogue
+Medical-related books, It is lined up beautifully.#MTLed
+> END STRING
+
+> BEGIN STRING
+村の周囲に生息する動物の資料が、
+適当に収められている。
+> CONTEXT: Map064/events/9/pages/0/6/Dialogue
+Materials of animals living around the village,
+It is properly contained.#MTLed
+> END STRING
+
+> BEGIN STRING
+見たこともない薬品が、
+数多く収納されている。
+> CONTEXT: Map064/events/10/pages/1/6/Dialogue
+> CONTEXT: Map064/events/11/pages/1/6/Dialogue
+A medicine that has never been seen, Many are stored.#MTLed
+> END STRING
+
+> BEGIN STRING
+様々な書類が乱雑に積み重なっている。
+> CONTEXT: Map064/events/12/pages/1/6/Dialogue
+Various documents are piling up in disorder.#MTLed
+> END STRING

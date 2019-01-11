@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+会議室　１Ｆ
+> CONTEXT: Map147/display_name/
+Conference room 1F#MTLed
+> END STRING

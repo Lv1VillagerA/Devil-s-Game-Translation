@@ -1,0 +1,39 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+雪の港町
+> CONTEXT: Map106/display_name/
+Snow port town#MTLed
+> END STRING
+
+> BEGIN STRING
+外はとても寒いが、井戸の底の水は凍っていないようだ。
+> CONTEXT: Map106/events/13/pages/1/6/Dialogue
+> CONTEXT: Map106/events/14/pages/1/6/Dialogue
+It is very cold outside but the water at the bottom of the
+well does not appear to be frozen.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]次は、この町で数日ほど停泊するんだっけ？\\C[29]」
+> CONTEXT: Map106/events/17/pages/0/8/Dialogue
+\\C[29]「\\C[0]Next time are you going to anchor in this town for a
+couple of days?\\C[29]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]荷物の積み下ろしだそうだ。
+　そのついでに俺たちは、まぁいないとは思うが、
+　上級淫魔を探してみるか\\C[1]」
+> CONTEXT: Map106/events/17/pages/0/12/Dialogue
+\\C[1]「\\C[0]It seems to be loading and unloading of luggage.
+At the same time, we think that it is not okay,
+Would you like to look for senior demons\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そうだね。船上の件もあるし、
+　もしかしたらってことも考えておかなきゃね\\C[29]」
+> CONTEXT: Map106/events/17/pages/0/18/Dialogue
+\\C[29]「\\C[0]Yeah.There are cases on board,
+I have to think about it, maybe\\C[29]」#MTLed
+> END STRING

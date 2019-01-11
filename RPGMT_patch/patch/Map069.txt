@@ -1,0 +1,389 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「何でも炭鉱だけでなく、山向こうではかなり前から、
+　淫魔による事件が起きてるとか」
+> CONTEXT: Map069/events/1/pages/0/30/Dialogue
+> CONTEXT: Map044/events/1/pages/0/30/Dialogue
+「Not only coal mine as well as anything beyond the
+mountain, It is said that an incidents caused by bad luck」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ここは山奥だから、
+　情報が入ってくるのが遅いとはいえ、
+　ちょっとびっくりだね」
+> CONTEXT: Map069/events/1/pages/0/33/Dialogue
+> CONTEXT: Map044/events/1/pages/0/33/Dialogue
+「Because it is mountainous here, Although information is
+slow to come in, It is a little surprised」#MTLed
+> END STRING
+
+> BEGIN STRING
+「診療所の先生の行っていた実験は、
+　淫魔に立ち向かえる人間を、
+　生み出すためだったらしい」
+> CONTEXT: Map069/events/1/pages/0/39/Dialogue
+> CONTEXT: Map044/events/1/pages/0/39/Dialogue
+「Experiments performed by a clinic teacher,
+A man who can stand up against a devil, It seems that it
+was to create it」#MTLed
+> END STRING
+
+> BEGIN STRING
+「診療所を建てる前から、
+　今のような状況を見越していたとしたら、
+　いや…本当にすごい先生だったよ」
+> CONTEXT: Map069/events/1/pages/0/43/Dialogue
+> CONTEXT: Map044/events/1/pages/0/43/Dialogue
+「Before building a clinic, If we had anticipated such a
+situation, No ... really awesome teacher」#MTLed
+> END STRING
+
+> BEGIN STRING
+「行っていたことは、どうあれ…ね」
+> CONTEXT: Map069/events/1/pages/0/47/Dialogue
+> CONTEXT: Map044/events/1/pages/0/47/Dialogue
+「What I did was anything ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「この間定期の見回りで初めて淫魔に遭ったんだが、
+　こちらが剣で斬ろうが魔法で燃やそうが、
+　平気な顔して近寄って来たんだぜ？」
+> CONTEXT: Map069/events/2/pages/0/6/Dialogue
+「During this time, I had encountered a fantasy for the
+first time with a regular patrolling, Whether it is a sword
+or a slash, but it burns with magic, You came close to me
+with a flat face?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「だが淫魔の危険性については、
+　事前に教会の連中から教わってたからな」
+> CONTEXT: Map069/events/2/pages/0/10/Dialogue
+「However, regarding the dangers of bad luck,
+I was taught from church members in advance.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それでも少しカラダを重ねただけで、
+　即腑抜けにされかけ、
+　一瞬の隙を突いて無我夢中で逃げてきたんだ」
+> CONTEXT: Map069/events/2/pages/0/13/Dialogue
+「Still just by overlapping a little body,
+Not being able to get it right away, I pushed through the
+gap for a moment and ran away in disgust.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「何とか逃げきれたから良かったが、
+　女の…いや、性の経験のない奴なら、
+　近寄るだけも即魅了されるな…こりゃ」
+> CONTEXT: Map069/events/2/pages/0/17/Dialogue
+「It was okay because I managed to get away with it somehow,
+Woman ... No, if you do not have sexual experience,
+Just approaching will not be attracted immediately ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「淫魔と戦うためには、
+　攻撃と行動が高くなければいけません」
+> CONTEXT: Map069/events/3/pages/0/6/Dialogue
+「In order to fight against evil, Attack and action must be
+high」#MTLed
+> END STRING
+
+> BEGIN STRING
+「攻撃は淫魔に与える快感に、
+　行動はこちらの手数を増やしてくれますからね」
+> CONTEXT: Map069/events/3/pages/0/9/Dialogue
+「Attack to the pleasures given to the devil,
+Behavior will increase this number of steps」#MTLed
+> END STRING
+
+> BEGIN STRING
+「これなら短期で一気に決着をつけられます。
+　もっとも…極端になると、
+　犯られるのも一瞬になってしまいますが」
+> CONTEXT: Map069/events/3/pages/0/12/Dialogue
+「If this is the case you can settle at once in a short
+time. But ... when it comes to extremes,
+It will be a moment to be committed」#MTLed
+> END STRING
+
+> BEGIN STRING
+「やはり淫魔相手には、
+　防御と抵抗が必須だな」
+> CONTEXT: Map069/events/7/pages/0/6/Dialogue
+「After all, to the opponent opponent, Defense and
+resistance are essential」#MTLed
+> END STRING
+
+> BEGIN STRING
+「どんなに与える快感が大きくても、
+　精力が尽きてしまえば何の意味もねえ」
+> CONTEXT: Map069/events/7/pages/0/9/Dialogue
+「No matter how much pleasure you give, If the energies run
+out, it makes no sense」#MTLed
+> END STRING
+
+> BEGIN STRING
+「防御で受ける快感を、
+　抵抗で受ける理性を軽減して耐え抜いたところを、
+　ガツンと一発だな」
+> CONTEXT: Map069/events/7/pages/0/12/Dialogue
+「Pleasure received by defense, Reduce the reason to be
+subjected to resistance and endure it, Guts and a shot」#MTLed
+> END STRING
+
+> BEGIN STRING
+「もっとも…あまり極端になると、
+　決定力不足で長期戦は免れねえが、
+　勝てば良いんだよ。勝てば」
+> CONTEXT: Map069/events/7/pages/0/16/Dialogue
+「However ... when it becomes too extreme,
+Long-term warfare can not be escaped due to insufficient
+decision power, You ought to win. If you win」#MTLed
+> END STRING
+
+> BEGIN STRING
+「道具と運は他の４つの能力値よりも、
+　軽視されがちですが、これはこれで重要ですよ」
+> CONTEXT: Map069/events/8/pages/0/6/Dialogue
+「Tools and luck than the other four ability values,
+It tends to be neglected, but this is important for this」#MTLed
+> END STRING
+
+> BEGIN STRING
+「たとえば道具は、
+　戦闘中の道具の使用回数が増加します」
+> CONTEXT: Map069/events/8/pages/0/9/Dialogue
+「For example, The number of uses of battle tools will
+increase」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そして運は性感突きやアイテムを落とす確率、
+　さらには戦闘後の基礎修得ＳＰの増加」
+> CONTEXT: Map069/events/8/pages/0/12/Dialogue
+「And luck is the probability of dropping sex sensuous
+things and items, Furthermore, increase of basic
+acquisition skill SP after battle」#MTLed
+> END STRING
+
+> BEGIN STRING
+「戦いへの影響は少ないかもしれませんが、
+　どちらも上げておいて損はありませんよ」
+> CONTEXT: Map069/events/8/pages/0/15/Dialogue
+「Although the influence on battle may be small,
+There is no loss after raising either」#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険入門書、世界の銘酒などが並んでいる。
+> CONTEXT: Map069/events/11/pages/0/6/Dialogue
+> CONTEXT: Map069/events/12/pages/0/6/Dialogue
+Adventure primer, world famous sake etc. are lining up.#MTLed
+> END STRING
+
+> BEGIN STRING
+「むむむ、淫魔とやり合うには強さだけでなく、
+　やはり特技がないと駄目だ」
+> CONTEXT: Map069/events/19/pages/0/6/Dialogue
+「Mumumu, not only strength but also strength,
+You must have a special skill after all.」#MTLed
+> END STRING
+
+> BEGIN STRING
+「一度修得した特技は忘れることなく、
+　自動で使用されるようだぞ」
+> CONTEXT: Map069/events/19/pages/0/9/Dialogue
+「Without forgetting the special skill acquired once,
+It seems to be used automatically」#MTLed
+> END STRING
+
+> BEGIN STRING
+「しかし、各部位攻撃の特技を修得すると、
+　Ｈｉｔ数と攻撃力は当然増加するが、
+　長く淫魔に触れているため、【消費理性も増加してしまう】」
+> CONTEXT: Map069/events/19/pages/0/12/Dialogue
+「However, if you acquire special skill of each part attack,
+Hit number and attack power naturally increase,
+Because it is long touching the bastard, [Consumption
+reason also increases]」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そして相手の淫魔が強くなるほど、
+　一度の攻撃で失う理性はさらに増加してしまうのだ。
+　これは気をつけなければな」
+> CONTEXT: Map069/events/19/pages/0/16/Dialogue
+「And the stronger the opponent's 魔 魔 is,
+The reason to lose in one attack is further increased.
+I should be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+「こちらが部位攻撃を選択する前に、
+　相手の状態を良く観察すると、胸、尻、膣、唇のとなりに、
+　数字が記されているだろう？」
+> CONTEXT: Map069/events/20/pages/0/6/Dialogue
+「Before choosing a site attack here, When observing the
+state of the partner well, it is next to the chest,
+buttocks, vagina, lips, Is there a number written?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それは相手がこちらの部位攻撃を、
+　どれだけ警戒しているかをあらわしているんだ」
+> CONTEXT: Map069/events/20/pages/0/10/Dialogue
+「It means that the other party attacks this site,
+It shows how wary you are」#MTLed
+> END STRING
+
+> BEGIN STRING
+「当然０に近いほうが大きな快感を与えられ、
+　逆に警戒値が５以上のとき攻撃すると、
+　手痛い反撃を受けてしまうんだぜ」
+> CONTEXT: Map069/events/20/pages/0/13/Dialogue
+「Of course, closer to 0 gives greater pleasure,
+Conversely, if you attack when the alert value is 5 or
+more, I'm going to take a counterattack back」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちなみに攻撃した部位の警戒値は上昇してしまうが、
+　その分他の部位は下がるから、上手く立ち回ってくれ」
+> CONTEXT: Map069/events/20/pages/0/17/Dialogue
+「Incidentally, the alert value of the attacked part will
+rise, The other parts will fall accordingly, so please walk
+around well」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そう言えば貴方は知ってるかしら？」
+> CONTEXT: Map069/events/21/pages/0/6/Dialogue
+「By the way, do you know?」#MTLed
+> END STRING
+
+> BEGIN STRING
+「自分の行動順が回ってきたとき、
+　各コマンドのとなりに、☆マークが出るじゃない」
+> CONTEXT: Map069/events/21/pages/0/8/Dialogue
+「When the order of their actions came, ☆ mark appears next
+to each command」#MTLed
+> END STRING
+
+> BEGIN STRING
+「あれは行動を選択した後の、
+　大まかなライン速度を表しているのよ」
+> CONTEXT: Map069/events/21/pages/0/11/Dialogue
+「That is after choosing action, It shows a rough line speed
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「銅、銀、金、金二つ、羽の順番で、
+　選択した後のライン速度をあらわしているから、
+　覚えておいて損はないわよ」
+> CONTEXT: Map069/events/21/pages/0/14/Dialogue
+「Copper, silver, gold, two gold, in the order of feathers,
+Since it shows the line speed after selection,
+Remember that there is no loss」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ちなみに、何も表示されてない場合は、
+　それ以下ってことよ」
+> CONTEXT: Map069/events/21/pages/0/18/Dialogue
+「By the way, if nothing is displayed, It's less than that」#MTLed
+> END STRING
+
+> BEGIN STRING
+「後は各部位攻撃の隣の数字は消費理性を、
+　道具の隣の数字はその戦闘での、
+　道具を使用可能な回数を示しているわ」
+> CONTEXT: Map069/events/21/pages/0/21/Dialogue
+「After that, the numbers next to each site attack are
+consumer reasons, The number next to the tool is in that
+battle, It shows the number of usable tools」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そうそう、言い忘れていたわ。
+　膣責めは他の部位より与える快感が大きいけど、
+　使用のたびに反動ダメージが入るから気をつけるのよ」
+> CONTEXT: Map069/events/21/pages/0/25/Dialogue
+「Oh yeah, I forgot to mention. Vaginal torture gives more
+pleasure than other parts, Every time I use it, I get
+recoil damage, so be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+「逆に唇責めは与える快感は少ないけど、
+　ライン速度も他の部位より早いし、
+　キャンセル効果を持っているから、意外と便利よ」
+> CONTEXT: Map069/events/21/pages/0/29/Dialogue
+「Conversely, lips blame gives less pleasure,
+Line speed is faster than other parts, It has a
+cancellation effect, so it's surprisingly convenient」#MTLed
+> END STRING
+
+> BEGIN STRING
+「バリア系のアイテムは、
+　どれも合成に非常に手間がかかりますが、
+　その効果は折り紙つきです」
+> CONTEXT: Map069/events/22/pages/0/6/Dialogue
+「Barrier type items, Although all of them are very
+time-consuming to synthesize, The effect is with origami」#MTLed
+> END STRING
+
+> BEGIN STRING
+「とくに強力な淫魔との戦闘前に使用しておけば、
+　戦いを有利に進めることが出来ます」
+> CONTEXT: Map069/events/22/pages/0/10/Dialogue
+「Especially if you use it before combat with a powerful
+bastion, You can advance the fight favorably」#MTLed
+> END STRING
+
+> BEGIN STRING
+「卑怯だと思いますか？　そんなことはありません。
+　我々人間が性技では圧倒的に不利な淫魔に、
+　唯一優っているものは、知恵のみです」
+> CONTEXT: Map069/events/22/pages/0/13/Dialogue
+「Do you think it is cowardly? That's not true.
+To human beings who are overwhelmingly disadvantaged in
+sexual skills, The only thing superior is wisdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+「せいぜい安全な結界の中から、
+　小賢しく戦ってあげましょう。
+　もっとも、決定打にかけると時間稼ぎにしかなりませんが」
+> CONTEXT: Map069/events/22/pages/0/17/Dialogue
+「From among at best safe barrier, Let me fight wisely.
+Although it is only a time earning if you make a decision
+strike」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ＳＰとはセックスポイントという意味で、
+　淫魔を倒した証です」
+> CONTEXT: Map069/events/22/pages/1/6/Dialogue
+> CONTEXT: Map068/events/2/pages/0/6/Dialogue
+> CONTEXT: Map068/events/2/pages/1/6/Dialogue
+「SP means sex point, It is a testimony of defeating a devil
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+「そして我が教会では天使様のお告げに従い、
+　ＳＰを魔貨やアイテムに交換し、
+　淫魔と戦う方を手助けする準備があります」
+> CONTEXT: Map069/events/22/pages/1/9/Dialogue
+> CONTEXT: Map068/events/2/pages/0/9/Dialogue
+> CONTEXT: Map068/events/2/pages/1/9/Dialogue
+「And in our church, following the angel's announcement,
+Exchange the SP for the curse and item, I'm ready to help
+those who fight demons」#MTLed
+> END STRING

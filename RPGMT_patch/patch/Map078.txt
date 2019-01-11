@@ -1,0 +1,36 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[10]「\\C[0]何しろボクの淫気と、
+　マリーダの複合魔法だからね。
+　ちょっとやそっとじゃ見破れないよ～\\C[10]」
+> CONTEXT: Map078/events/3/pages/0/8/Dialogue
+\\C[10]「\\C[0]My intolerance and anything,
+It's Marada's compound magic. I can not see through a bit
+or softly ~\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]後は内から淫気によって結界を腐らせてしまえば、
+　聖なる力も淫らな力に上書きされて、
+　魔晶石の前まで楽々侵入出来るってわけ\\C[10]」
+> CONTEXT: Map078/events/3/pages/0/12/Dialogue
+\\C[10]「\\C[0]Afterwards if you decay the barrier by intrusions from
+within, Sacred power is overwritten by obscene power,
+It is easy to break into the front of a magic stone\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]でも流石に大きい石を腐らせるには、
+　それなりに時間がかかるかな？\\C[10]」
+> CONTEXT: Map078/events/3/pages/0/23/Dialogue
+\\C[10]「\\C[0]But in order to make a big stone to rot on a fossil stone,
+Will it take so long?\\C[10]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]実験も一応成功したし、
+　ここでの用はなくなったね\\C[10]」
+> CONTEXT: Map078/events/3/pages/0/27/Dialogue
+\\C[10]「\\C[0]The experiment was also successful once,
+The use here is gone\\C[10]」#MTLed
+> END STRING

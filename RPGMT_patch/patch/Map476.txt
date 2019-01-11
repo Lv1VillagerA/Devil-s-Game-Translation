@@ -1,0 +1,3677 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様、もう我慢出来ません\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/7/Dialogue
+\\C[2]「\\C[0]Husband, I can not hold it anymore\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]全て、旦那様がいけないんですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/10/Dialogue
+\\C[2]「\\C[0]All, my husband can not go\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を大きな胸で包み、
+左右交互に擦りつけながら、
+絶頂へと誘ってくる。
+> CONTEXT: Map476/events/1/pages/0/13/Dialogue
+\\N[11] He wrapped his weak point with a big breast,
+While rubbing each other alternately, I invite you to cum.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私を無理に使役するので、
+　暴走してしまいました\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/18/Dialogue
+\\C[2]「\\C[0]Because I will force myself,
+I got runaway\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔の本能に、
+　抗うことは難しいのです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/22/Dialogue
+\\C[2]「\\C[0]To the instinct of the bastard,
+It is difficult to resist\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今の私では、
+　到底制御出来ません\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/26/Dialogue
+\\C[2]「\\C[0]At my present moment, We can not control it at all\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そっ…そんな…やめっ…あふううっ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/31/Dialogue
+\\C[1]「\\C[0]Oh no ... such ... Stop ... Oh!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そうですね。半淫魔から、
+　完全な淫魔になったと思えば\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/36/Dialogue
+\\C[2]「\\C[0]I agree. From semi-female, If you think that it became
+complete obsession\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…わかりやすいかも、
+　しれませんね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/40/Dialogue
+\\C[2]「\\C[0]umph ... It may be easy to understand,
+I do not think so.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ですので、旦那様の子種、
+　いただきますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/44/Dialogue
+\\C[2]「\\C[0]So, my husband's son, We will receive it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…胸で…搾り取られ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/49/Dialogue
+\\C[1]「\\C[0]Wait ... with breasts ... squeezed ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]抵抗は無意味ですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/54/Dialogue
+\\C[2]「\\C[0]Resistance is meaningless\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ…胸の谷間に、
+　思う存分吐き出してください\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/57/Dialogue
+\\C[2]「\\C[0]Now ... in the cleavage of my chest,
+Please spit as much as you want\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の子種、
+　残らず吸い取りますので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/61/Dialogue
+\\C[2]「\\C[0]Husband's son, Because it will inhale all of it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…これで一回目ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/65/Dialogue
+\\C[2]「\\C[0]umph ... This is the first time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次の子種も、
+　すぐに搾り取ります\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/67/Dialogue
+\\C[2]「\\C[0]The next child also, Squeeze quickly\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は豊満な胸で、
+男の弱点を包み込み、
+巧みに上下に擦ってくる。
+> CONTEXT: Map476/events/1/pages/0/71/Dialogue
+\\N[11] He is a plump breast, Embracing the weakness of
+a man, Skillfully scrape up and down.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]前々から旦那様は、
+　私の胸ばかり見ていましたからね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/76/Dialogue
+\\C[2]「\\C[0]Long ago, my husband, Because I was just watching my chest\\C[2]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]こうして搾り取られるのが、
+　お好きなのですか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/80/Dialogue
+\\C[2]「\\C[0]In this way, Do you like it?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…もう先走りが漏れ出ていますし、
+　説得力は十分ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/84/Dialogue
+\\C[2]「\\C[0]umph ... There is already a leak ahead,
+The persuasive power is enough\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ちっ…ちがっ…そんなこと…はうっ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/89/Dialogue
+\\C[1]「\\C[0]Well ... different ... such a thing ... Wow!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…違うと言うのなら、
+　静められるはずですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/94/Dialogue
+\\C[2]「\\C[0]umph ... If it says different,
+It should be able to be calm\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ここまで固く立派に、
+　勃起させた股間を\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/98/Dialogue
+\\C[2]「\\C[0]Up to this point, Erect the groin\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]早く元の大きさに、
+　戻したらどうですか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/102/Dialogue
+\\C[2]「\\C[0]To the original size quickly,
+Why do not you return it?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…そっ…それは…あうううううっ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/107/Dialogue
+\\C[1]「\\C[0]Well ... Oh ... that is ... an auction!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…そろそろ、漏れそうですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/112/Dialogue
+\\C[2]「\\C[0]umph ... It will be leaking soon\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の大切な子種は、
+　全て手に入れます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/115/Dialogue
+\\C[2]「\\C[0]My husband's important son,
+I get everything\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]一滴も残さず、
+　胸の谷間に出してもらいますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/119/Dialogue
+\\C[2]「\\C[0]Do not leave a single drop,
+You will have them out in the cleavage of your chest\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…気持ち良かったですか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/123/Dialogue
+\\C[2]「\\C[0]umph ... did you feel comfortable?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]あら、もう固くしていますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/125/Dialogue
+\\C[2]「\\C[0]Oh, it is already hard.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな巨乳で、
+男の弱点を両側から押し潰し、
+次の精を強要してくる。
+> CONTEXT: Map476/events/1/pages/0/128/Dialogue
+\\N[11] Is a soft busty, Crush the weak point of a man
+from both sides, I will compel the next spirit.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そんなに胸擦りで、
+　犯されるのが良いのですか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/133/Dialogue
+\\C[2]「\\C[0]With so much rubbing, Is it good to be fucked?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]本当に殿方というのは、
+　女の胸がお好きですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/137/Dialogue
+\\C[2]「\\C[0]True Hidemi is, I like women's chest\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…もう少し激しく、
+　押し潰してあげますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/141/Dialogue
+\\C[2]「\\C[0]umph ... a bit more violent,
+I will crush it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あううっ！　やめっ…やめてくれええぇ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/146/Dialogue
+\\C[1]「\\C[0]He's got it! Stop it ... Stop it!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そんなに緊張しなくても、
+　大丈夫ですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/151/Dialogue
+\\C[2]「\\C[0]Even if I am not so tense, No problem\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]命までは取りませんので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/155/Dialogue
+\\C[2]「\\C[0]I will not take it until my life\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]せいぜい殿方の誇りを、
+　快楽で染め上げるだけです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/158/Dialogue
+\\C[2]「\\C[0]At best the pride of Hidaka,
+I just dye it with pleasure\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あうっ…それも…嫌だあぁ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/163/Dialogue
+\\C[1]「\\C[0]Augh ... I also do not want to ... Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…もう止められませんよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/168/Dialogue
+\\C[2]「\\C[0]umph ... I can not stop it anymore\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]既に完全な淫魔になった私が、
+　旦那様の命令を、
+　聞く理由はありませんので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/171/Dialogue
+\\C[2]「\\C[0]I already became a complete obsession,
+Husband's orders, There is no reason to listen\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ…そろそろ、
+　三発目の精を放ってください\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/176/Dialogue
+\\C[2]「\\C[0]Well ... soon soon, Please give me the third spirit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私の胸擦り、気に入りましたか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/180/Dialogue
+\\C[2]「\\C[0]Did you like rubbing my chest?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…次で再契約出来そうですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/182/Dialogue
+\\C[2]「\\C[0]umph ... It seems like you can contract again next time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな胸で、
+男の弱点を左右から圧迫し、
+緩急をつけて上下に擦り潰してくる。
+> CONTEXT: Map476/events/1/pages/0/185/Dialogue
+\\N[11] He is a soft chest, Pressing down weaknesses of
+men from the left and right, I rushed slowly and crushed up
+and down.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今度は私が旦那様を、
+　使役する番ですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/190/Dialogue
+\\C[2]「\\C[0]Next time I will see my husband,
+It is number to cite\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ええ、これまでのように、
+　甘やかしはしませんので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/194/Dialogue
+\\C[2]「\\C[0]Yeah, like before, I will not pamper you\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫界に連れ去った後、
+　毎日精を捧げてもらいますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/198/Dialogue
+\\C[2]「\\C[0]After taking away to the bad world,
+You will be dedicated every day.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…そんな…やめっ…やめえええぇ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/203/Dialogue
+\\C[1]「\\C[0]Uugh ... such ... Stop ... yeah yeah yeah yeah!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今となっては、
+　旦那様の命令を聞く理由も、
+　なくなりましたしね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/208/Dialogue
+\\C[2]「\\C[0]Now, The reason for listening to your husband's order,
+It's gone.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]好きに胸擦りさせて、
+　もらいますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/213/Dialogue
+\\C[2]「\\C[0]Let me rub the chest like it,
+You got it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…どうやら、
+　固さはこれが限界のようですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/217/Dialogue
+\\C[2]「\\C[0]umph ... Apparently, It seems that this is the limit for
+hardness\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]くうっ…！　こっ…このままじゃあぁ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/222/Dialogue
+\\C[1]「\\C[0]Well ...! C: This is it!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次は栓をゆるめましょうか\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/227/Dialogue
+\\C[2]「\\C[0]Shall we loosen the plug next time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]この先端の亀を、
+　指で刺激すれば…んっ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/230/Dialogue
+\\C[2]「\\C[0]This turtle at the tip, If you stimulate with your
+fingers ...\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]殿方の射精を操るのは、
+　容易いことですからね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/234/Dialogue
+\\C[2]「\\C[0]To control the ejaculation of the Hidenaga,
+It's easy.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで再契約完了ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/240/Dialogue
+\\C[2]「\\C[0]This is the completion of re-contracting\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫界に行っても、
+　これからよろしく頼みますね。
+　私専用の旦那様\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/242/Dialogue
+\\C[2]「\\C[0]Even if I go to the naka world,
+I look forward to your continued support.
+My private husband\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは旦那様、
+　覚悟を決めてくださいね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/249/Dialogue
+\\C[2]「\\C[0]Well then, husband, Please decide your resolution.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]大切な子種は全て、
+　奪い取ります\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/253/Dialogue
+\\C[2]「\\C[0]All precious children, I will rob you.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスを、
+柔らかな魔乳で包み込み、
+左右交互に擦りつけてくる。
+> CONTEXT: Map476/events/1/pages/0/257/Dialogue
+\\N[11] He has a weak penis, Wrapped in a soft devil,
+Right and left alternately rubbing.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…早くも固くしていますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/262/Dialogue
+\\C[2]「\\C[0]umph ... You are hard as fast as you can\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]実は胸で挟まれるのを、
+　期待していたのですか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/265/Dialogue
+\\C[2]「\\C[0]In fact, being caught in the chest,
+Did you expect it?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そういえば良く胸元を、
+　横目で覗き見ていましたね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/269/Dialogue
+\\C[2]「\\C[0]That said good chest, You peeped at the sideways\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そっ…そんなこと…あうっ…！　やめえぇ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/274/Dialogue
+\\C[1]「\\C[0]Oh ... such a thing ... augh ...! Stop it ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]確かに旦那様には、
+　違いありませんが\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/279/Dialogue
+\\C[2]「\\C[0]To my husband certainly, There is no difference\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう命令を聞く必要は、
+　なくなりました\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/283/Dialogue
+\\C[2]「\\C[0]It is necessary to listen to an order,
+lost\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今度は私が旦那様の精を、
+　吸い尽くす番です\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/287/Dialogue
+\\C[2]「\\C[0]Next time I will show my husband's sperm,
+It is a sucking number\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うっ…ああぁ！　もうっ…でちまううぅ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/292/Dialogue
+\\C[1]「\\C[0]ugh ... Ahh! Even ... ugh!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…出して良いですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/297/Dialogue
+\\C[2]「\\C[0]umph ... Please put it out\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]胸で搾り取られるの、
+　好きですよね？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/300/Dialogue
+\\C[2]「\\C[0]Being squeezed out in the chest,
+Do you like it?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]どうぞ、存分に堪能して、
+　子種を無駄撃ちしてくださいね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/304/Dialogue
+\\C[2]「\\C[0]Please, enjoy yourself, Please do not waste their children\\C[2]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…まずは一発ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/308/Dialogue
+\\C[2]「\\C[0]umph ... First off is a single shot\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]すぐ次の精も、
+　吐き出させてあげます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/310/Dialogue
+\\C[2]「\\C[0]Immediately after next, I will let you spit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を、
+弾力のある巨乳でこねくり回し、
+一方的に悶えさせてくる。
+> CONTEXT: Map476/events/1/pages/0/314/Dialogue
+\\N[11] He is the weak point of a man, Together with
+elastic busty, It makes me wrong one by one.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]従魔の胸に屈服して、
+　精を漏らすと良いです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/319/Dialogue
+\\C[2]「\\C[0]I succumbed to the chest of the devil,
+It is good to disclose sperm\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]気持ち良く、
+　理性を蕩けさせてあげます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/323/Dialogue
+\\C[2]「\\C[0]Feel good, I will give up my reason\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…出したばかりなのに、
+　もう固くなってますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/327/Dialogue
+\\C[2]「\\C[0]umph ... I just got out, It is getting harder\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…おっぱい…やっ…柔らかいいいぃ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/332/Dialogue
+\\C[1]「\\C[0]Uugh ... breasts ... doing ... softly good ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]その柔らかさに溺れて、
+　乳内に出してくださいね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/337/Dialogue
+\\C[2]「\\C[0]Drowning in its softness, Please put it in the milk\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]一滴も残さず、
+　子種を吸い尽くしてあげます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/341/Dialogue
+\\C[2]「\\C[0]Do not leave a single drop,
+I will suck up my children\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔の力が解放された今、
+　巨乳擦りはすごいですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/345/Dialogue
+\\C[2]「\\C[0]Now that the power of the bastard has been released,
+Big tits rubbing is amazing\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…吸い取られ…でちまうううぅ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/350/Dialogue
+\\C[1]「\\C[0]Wait ... Sucked off ... It has a bite!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]柔肌の感触を、
+　たっぷり堪能してくださいね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/355/Dialogue
+\\C[2]「\\C[0]The feel of soft skin, Please enjoy plenty.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…どうやら、限界のようですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/359/Dialogue
+> CONTEXT: Map477/events/2/pages/0/226/Dialogue
+\\C[2]「\\C[0]umph ... Apparently, it seems to be a limitation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]いつでも出して良いですよ。
+　私の準備は出来ていますので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/362/Dialogue
+\\C[2]「\\C[0]You may withdraw at any time.
+Because I am ready\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…乳内に出ましたね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/366/Dialogue
+\\C[2]「\\C[0]umph ... You got in the milk\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]まだ奥に残っているようですし、
+　全部吸い取りますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/368/Dialogue
+\\C[2]「\\C[0]It seems that it is still in the back,
+I smoke it all\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスを、
+豊満な胸で包み、
+次の射精を強要してくる。
+> CONTEXT: Map476/events/1/pages/0/372/Dialogue
+\\N[11] He has a weak penis, Wrapped in plenty breasts,
+I will compel the next ejaculation.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]一滴たりとも逃しません\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/377/Dialogue
+\\C[2]「\\C[0]I will not miss a drop\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]乳内に全部出してもらいますよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/380/Dialogue
+\\C[2]「\\C[0]I will have everything in milk\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…我慢することはありません。
+　欲望を解放するのです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/383/Dialogue
+\\C[2]「\\C[0]umph ... There is nothing to put up with.
+Release the desire\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そっ…そんなの…嫌だああぁ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/388/Dialogue
+\\C[1]「\\C[0]Oh ... no such thing ... I hate you Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そうですか。でも、私には、
+　もう関係ありません\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/393/Dialogue
+\\C[2]「\\C[0]Is that so. But to me, It does not matter anymore\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様がどれだけ嫌がっていようと、
+　容赦なく乳擦り射精させるだけです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/397/Dialogue
+\\C[2]「\\C[0]No matter how much you hated your husband,
+Just brush and rub off and ejaculate\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ、やはり嫌がってはいないですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/401/Dialogue
+\\C[2]「\\C[0]So, I do not dislikes you\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああっ…耐えられ…ないいいいっ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/405/Dialogue
+\\C[1]「\\C[0]Ahh ... ... you can endure ... no good!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]股間からこれだけ嬉し涙を流していますし、
+　むしろ喜んでいますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/410/Dialogue
+\\C[2]「\\C[0]I am shedding happy tears from this crotch,
+It is rather pleasing\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]本当に旦那様は、
+　正直になれない方のようですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/414/Dialogue
+\\C[2]「\\C[0]Really husband, It seems to be a person who can not be
+honest\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは、この私が、
+　殿方の欲望を解放してあげますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/418/Dialogue
+\\C[2]「\\C[0]Well then, I will release the desire of the Hideo\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…エナジードレイン出来ました\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/422/Dialogue
+\\C[2]「\\C[0]umph ... Energy drain was done\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし、まだ奥に残っていますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/424/Dialogue
+\\C[2]「\\C[0]However, it still remains in the back\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな巨乳で、
+男の弱点を両側から押し潰し、
+身も心も快楽漬けにしてくる。
+> CONTEXT: Map476/events/1/pages/0/427/Dialogue
+\\N[11] Is a soft busty, Crush the weak point of a man
+from both sides, I will keep my body and mind pleasant.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ちゃんと空っぽになるまで、
+　吸い尽くしてあげます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/432/Dialogue
+\\C[2]「\\C[0]Until it becomes empty properly,
+I will suck it out\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様が、
+　事切れる瞬間を確認するまでは、
+　終わりませんよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/436/Dialogue
+\\C[2]「\\C[0]Husband, Until you confirm the moment of being overhauled,
+I will not finish\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ…胸の谷間に、
+　溺れてください\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/441/Dialogue
+\\C[2]「\\C[0]Now ... in the cleavage of my chest,
+Please drown.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そんなっ…これで…終わりなんてええぇ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/446/Dialogue
+\\C[1]「\\C[0]Something like that ... With this ... ended Eeh ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ええ、本当に終わりになりますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/451/Dialogue
+\\C[2]「\\C[0]Yes, it really ends up\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今までお世話になりました\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/454/Dialogue
+\\C[2]「\\C[0]I am indebted to you\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔の力を取り戻すことが出来たのは、
+　全て旦那様のおかげです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/457/Dialogue
+\\C[2]「\\C[0]It was the reason why I was able to regain the power of
+the bastard, Thanks to all my husband\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あふっ…おっぱい…柔らかすぎるううぅ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/462/Dialogue
+\\C[1]「\\C[0]Fu ... ... boobs ... Too soft!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ですので、最後の瞬間まで、
+　精一杯ご奉仕しますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/467/Dialogue
+\\C[2]「\\C[0]So, until the last moment, I will serve you the utmost\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]心地良く悶えながら、
+　天国に逝ってください\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/471/Dialogue
+\\C[2]「\\C[0]While being agitated, Please go to heaven\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それが私に出来る、
+　旦那様への恩返です\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/475/Dialogue
+\\C[2]「\\C[0]That can be done to me, It is my gratitude to my husband.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで、身動きは完全に封じました\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/481/Dialogue
+\\C[2]「\\C[0]With this, the movement was completely sealed\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ほぼ枯れかけの命ですが、
+　逝くまで休むことなく、
+　胸擦りを続けますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/483/Dialogue
+\\C[2]「\\C[0]It is almost a withering life,
+Without taking a break until he passed away,
+I will continue to scrape my chest\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今さら後悔しても遅いですが、
+　淫魔の本能を解放した責任、
+　取ってもらいますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/497/Dialogue
+\\C[2]「\\C[0]Even if you regret it so late,
+Responsibility to liberate the instinct of bad luck,
+You will have it taken\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな胸で、
+男の弱点を圧迫し、
+ゆっくり上下に擦ってくる。
+> CONTEXT: Map476/events/1/pages/0/502/Dialogue
+\\N[11] He is a soft chest, It squeezed the weakness of
+a man, I rub slowly up and down.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]まずは旦那様の股間を、
+　揉みくちゃにしますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/507/Dialogue
+\\C[2]「\\C[0]First of all, my husband's groin,
+I will mess up\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]耐えられないようなら、
+　いつでも出して構いませんので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/511/Dialogue
+\\C[2]「\\C[0]If you can not bear it, You can withdraw at any time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]どうぞ安心して、
+　身を任せてくださいね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/515/Dialogue
+\\C[2]「\\C[0]Please be assured, Please leave it to me.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そっ…そんなわけには…はうっ！　はうううっ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/520/Dialogue
+\\C[1]「\\C[0]Well ... that's why ... well! Haarau!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んー…なかなか、正直になりませんね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/525/Dialogue
+\\C[2]「\\C[0]Yeah ... It is quite difficult to be honest\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし、その程度のことは、
+　予想済みですよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/528/Dialogue
+\\C[2]「\\C[0]However, to that extent, It is predicted.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これからじっくり時間をかけて、
+　私好みに調教させてもらいます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/532/Dialogue
+\\C[2]「\\C[0]From now on over time, I will train to my liking\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…やめっ…搾り取られえええぇ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/537/Dialogue
+\\C[1]「\\C[0]Wait ... Stop ... you can be squeezed ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…良い反応ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/542/Dialogue
+\\C[2]「\\C[0]umph ... It is a good reaction\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これは胸擦りをする私も、
+　気合が入るというものです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/545/Dialogue
+\\C[2]「\\C[0]This is a chest rubbing me too,
+It is that it entails the spirit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]早く大切な子種を、
+　吐き出してくださいね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/549/Dialogue
+\\C[2]「\\C[0]As soon as possible, Please spit it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし、たった一度では、
+　まだ再契約には至りませんね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/555/Dialogue
+\\C[2]「\\C[0]But only once, I have not reached a contract yet\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスを、
+柔らかな胸で圧迫し、
+上下左右にこねくり回してくる。
+> CONTEXT: Map476/events/1/pages/0/559/Dialogue
+\\N[11] He has a weak penis, Compressed with soft chest,
+I am kneading upside down and left and right.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]早めに二度、三度と、
+　精を搾り取らないといけません\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/564/Dialogue
+\\C[2]「\\C[0]Early twice, three times, You have to squeeze your sperm\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様が、逃走する危険がある限り、
+　私としては安心出来ませんので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/568/Dialogue
+\\C[2]「\\C[0]As long as there is a danger of husband escaping,
+I can not rest assured\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし、この程度の刺激で悶えているようでは、
+　案外簡単に堕とせるのかもしれませんね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/572/Dialogue
+\\C[2]「\\C[0]However, if you seem to be agitated by this degree of
+stimulation, It is surprisingly easy to make it fall down\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…こんな…胸…なんかでええぇ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/577/Dialogue
+\\C[1]「\\C[0]Uugh ... like this ... breast ... something ... yeah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…とても幸せそうな顔ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/582/Dialogue
+\\C[2]「\\C[0]umph ... It looks like a very happy face\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]口では嫌がっていながら、
+　股間は正直です\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/585/Dialogue
+\\C[2]「\\C[0]While being hated by mouth,
+The groin is honest\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それにもう、先走りが止まりませんし、
+　旦那様…限界近くではないのですか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/589/Dialogue
+\\C[2]「\\C[0]Besides, we can not stop going ahead,
+Husband ... Is not it near the limit?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…耐えられ…ないいいいっ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/594/Dialogue
+\\C[1]「\\C[0]Well ... I can endure ... Not good!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]やはりそうでしたか。
+　では、乳圧を強めますよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/599/Dialogue
+\\C[2]「\\C[0]Was it still so? So, I will increase breast pressure\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま精を漏らしてください\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/603/Dialogue
+\\C[2]「\\C[0]Please leave the sperm as it is\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私の柔乳で、
+　受け止めてあげますので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/606/Dialogue
+\\C[2]「\\C[0]With my soft milk, I'll accept it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次の子種も、すぐに搾り取ります\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/612/Dialogue
+\\C[2]「\\C[0]Also sow the next child immediately\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を柔らかな胸で包み、
+緩急をつけて上下に擦り、
+休む間もなく快楽漬けにしてくる。
+> CONTEXT: Map476/events/1/pages/0/615/Dialogue
+\\N[11] He wrapped his weak points with a soft chest,
+Rolling up and down rubbing, I will soak in pleasures soon
+after I take a break.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様がどれだけ抵抗しても、
+　結果は変わりませんので\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/620/Dialogue
+\\C[2]「\\C[0]No matter how hard your husband resists,
+Because the result does not change\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]早々に降参するのを、
+　勧めますよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/624/Dialogue
+\\C[2]「\\C[0]I am going to give up early,
+I will recommend it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…どうやら、
+　固さはこの辺りが限界のようですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/628/Dialogue
+\\C[2]「\\C[0]umph ... Apparently, Stiffness seems to be the limit
+around here\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あふっ…たっ…堪らないいいぃ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/633/Dialogue
+\\C[1]「\\C[0]Fu ... ... Tahit ... I can not bear it ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]感度良好なようで何よりです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/638/Dialogue
+\\C[2]「\\C[0]It seems that sensitivity is good and more than anything\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは次は、
+　先端の栓を緩めていきましょうか\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/641/Dialogue
+\\C[2]「\\C[0]Well then, Shall I loosen the plug at the tip\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]亀頭への刺激を強めて、
+　精を吐き出してもらいますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/645/Dialogue
+\\C[2]「\\C[0]Stimulating the stimulation of the glans,
+You have spirits spirit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…これ以上は…もっ…もうっ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/650/Dialogue
+\\C[1]「\\C[0]Wow ... more than this ... well ... well ... ugh ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]我慢出来なくなったら、
+　精を漏らせば良いのです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/655/Dialogue
+\\C[2]「\\C[0]When I can not stand it, It is only necessary to leak
+sperm\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]殿方の誇りを捨てて、
+　快楽に屈してください\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/659/Dialogue
+\\C[2]「\\C[0]Abandoned Pride of Hidenori,
+Please yield to pleasure.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私の胸で、
+　優しく包み込んであげます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/663/Dialogue
+\\C[2]「\\C[0]In my chest, Gently envelop it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これなら次の射精も、
+　早そうですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/669/Dialogue
+\\C[2]「\\C[0]If this is also the next ejaculation,
+It looks like it might be bad\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな胸で、
+男の弱点を押し潰し、
+ゆっくり上下に動かしてくる。
+> CONTEXT: Map476/events/1/pages/0/673/Dialogue
+\\N[11] He is a soft chest, Crush the weakness of a man,
+It moves slowly up and down.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]遠慮はいりませんよ\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/678/Dialogue
+\\C[2]「\\C[0]I do not need to take your time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]奥に溜め込んだ子種を、
+　全て搾り取ります\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/681/Dialogue
+\\C[2]「\\C[0]I will sort the child that I have accumulated in the back,
+I squeeze it all\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…柔らかな胸で圧迫して、
+　休みなく刺激を与えれば…\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/685/Dialogue
+\\C[2]「\\C[0]umph ... squeezed with a soft breast,
+If you stimulate without breaks ...\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はうっ…堕ちてええぇ…！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/690/Dialogue
+\\C[1]「\\C[0]Are you ... ugh ... Fallen!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…殿方を堕とすことが、
+　簡単に行えます\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/695/Dialogue
+\\C[2]「\\C[0]umph ... It is not good to defeat the façade,
+Easy to do\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それは淫魔ハンターでも、
+　同じことです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/699/Dialogue
+\\C[2]「\\C[0]Even if it is a female hunter,
+It is the same.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ほらっ…旦那様。
+　そろそろ限界では、ありませんか？\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/703/Dialogue
+\\C[2]「\\C[0]See, husband. Is not it soon at the limit?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うああああぁ！　これ以上は…でるうううっ！\\C[1]」
+> CONTEXT: Map476/events/1/pages/0/708/Dialogue
+\\C[1]「\\C[0]Uooaaa! No more ... ... it will be!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…やはり予想通りですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/713/Dialogue
+\\C[2]「\\C[0]umph ... as you expected, is not it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の股間の震えを見る限り、
+　今にも漏らしてしまいそうです\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/716/Dialogue
+\\C[2]「\\C[0]As long as you see the tremor of your husband's crotch,
+It is likely to leak\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう一押しで、私の勝利ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/720/Dialogue
+\\C[2]「\\C[0]With my other push, my victory\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…射精を確認しました\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/723/Dialogue
+\\C[2]「\\C[0]umph ... I confirmed ejaculation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今の乳内射精で、
+　再契約完了ですね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/725/Dialogue
+\\C[2]「\\C[0]With the milk ejaculation now,
+It is a re-contract completion\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さて、もう少し楽しんでから、
+　淫界に招待しますね\\C[2]」
+> CONTEXT: Map476/events/1/pages/0/728/Dialogue
+\\C[2]「\\C[0]Well, after having enjoyed a little more,
+I will invite you to the martial arts\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔の力が、
+　解放されてしまいましたね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/7/Dialogue
+\\C[2]「\\C[0]The power of the bastard, It has been released\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私としては構わないのですが、
+　旦那様は困るのではないですか？\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/11/Dialogue
+\\C[2]「\\C[0]As I do not mind, Is not my husband in trouble?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスを膣内に捕らえ、
+正常位のまま腰をくねらせ、
+一方的に悶えさせてくる。
+> CONTEXT: Map476/events/2/pages/0/15/Dialogue
+\\N[11] He caught a weak penis in his vagina,
+Leaning back at the normal position, It makes me wrong one
+by one.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]こうして本能のままに、
+　精を吸われては、
+　中出しするしかありません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/20/Dialogue
+\\C[2]「\\C[0]In this way instinct, With being smoldering,
+There is nothing but to do inside out\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]是が非でも、
+　私と添い遂げてもらいます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/25/Dialogue
+\\C[2]「\\C[0]Even if not, I will get it done with me\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今の旦那様に、拒否権はありません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/29/Dialogue
+\\C[2]「\\C[0]There is no veto in the current husband\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そんな…やめっ…動かないでくれえぇ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/33/Dialogue
+\\C[1]「\\C[0]Such ... Stop ... Do not move!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]締めつけを緩めたり、
+　腰振りを止めたりは絶対に嫌です\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/38/Dialogue
+\\C[2]「\\C[0]Loosen tightening, I absolutely disliked stopping waist
+swing\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]何よりも、旦那様の股間が、
+　もう発射体勢に入っています\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/42/Dialogue
+\\C[2]「\\C[0]More than anything, my husband's crotch,
+I am already in launch\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今ここで止めれば、
+　生殺しとなって、余計苦しむのでは？\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/46/Dialogue
+\\C[2]「\\C[0]If you stop here now, Will it be a slaughter, and suffer
+unnecessarily?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はうっ…それは…！　ああぁ！　でちまう！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/51/Dialogue
+\\C[1]「\\C[0]That's ... ugh ...! Oh yes! Watch out!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ですので、一度中出しして、
+　気持ちを切り替えてくださいね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/56/Dialogue
+\\C[2]「\\C[0]So, once inside the cake, Please switch your feelings\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま堕ちても良いと、
+　そう思えるかもしれませんしね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/60/Dialogue
+\\C[2]「\\C[0]If it can fall as it is, You may think so\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ほらっ…膣内にどうぞ。
+　好きなだけ漏らしてください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/64/Dialogue
+\\C[2]「\\C[0]See this ... in the vagina.
+Please leave as much as you want\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで再契約まで、
+　一歩近づきましたよ\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/70/Dialogue
+\\C[2]「\\C[0]Until re-contracting with this,
+One step closer.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を膣肉で包み、
+ゆっくり腰を振りながら、
+次の中出しを強要してくる。
+> CONTEXT: Map476/events/2/pages/0/74/Dialogue
+\\N[11] He wrapped his weak points with vaginal meat,
+While swaying slowly, I will compel the next vaginal cum
+shot.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次の中出しも、
+　すぐに導いてあげます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/79/Dialogue
+\\C[2]「\\C[0]Also for the next cumshot, I will guide you soon.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]膣内に捕らえている限り、
+　射精は免れません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/83/Dialogue
+\\C[2]「\\C[0]As long as it is caught in the vagina,
+Ejaculation is inevitable\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これからじっくりと、
+　堕とさせてもらいますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/87/Dialogue
+\\C[2]「\\C[0]From now on, I will make it fall down\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…こっ…こんな…はずじゃああぁ…！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/92/Dialogue
+\\C[1]「\\C[0]Wait ... ... here ... this should ... Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]全ては半淫魔の私を、
+　解放した旦那様のせいですから\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/97/Dialogue
+\\C[2]「\\C[0]Everything is a half-female me,
+Because it is the fault of my liberated man\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]その責任は、しっかり取ってもらわないと\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/101/Dialogue
+\\C[2]「\\C[0]The responsibility must be taken firmly\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]前までは私が手助けしていましたが、
+　今は妨害するほうですからね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/104/Dialogue
+\\C[2]「\\C[0]I had helped before, but, It is now a way of disturbing me\\C[2]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うわああああぁ！　搾り取られるうううう！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/109/Dialogue
+\\C[1]「\\C[0]Wow Aaaa! I will be squeezed!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]なかなか良い反応ですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/114/Dialogue
+\\C[2]「\\C[0]It's a nice reaction\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これなら搾り取るまで、
+　そう時間はかかりません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/117/Dialogue
+\\C[2]「\\C[0]Until this is squeezed, That does not take long\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…このまま、
+　膣内に漏らしてください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/121/Dialogue
+\\C[2]「\\C[0]umph ... As it is, Please leave it in the vagina\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の精、とてもおいしいです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/125/Dialogue
+\\C[2]「\\C[0]Husband's sperm is very delicious\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]引き続き、子種を注ぎ込ませますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/127/Dialogue
+\\C[2]「\\C[0]We will continue to feed children\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を膣内に捕らえ、
+妖艶に腰をくねらせながら、
+次の中出しを強要してくる。
+> CONTEXT: Map476/events/2/pages/0/130/Dialogue
+\\N[11] He captures the weakness of a man in his vagina,
+While wielding her in a spirit, I will compel the next
+vaginal cum shot.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私から逃げることは、不可能です\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/135/Dialogue
+\\C[2]「\\C[0]It is impossible to escape from me\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の自由は、
+　奪わせてもらいましたので\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/138/Dialogue
+\\C[2]「\\C[0]Husband's freedom, Because I got deprived\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]時間制限はあるものの、
+　今までの中出し速度なら、
+　余裕で堕とせます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/142/Dialogue
+\\C[2]「\\C[0]Although there is time limit,
+If it is the conventional vaginal cum shot speed,
+I will let it fall down\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…こんな…はずじゃああぁ…！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/148/Dialogue
+\\C[1]「\\C[0]Uugh ... this should ... Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]観念して快楽を受け入れたほうが、
+　幸せになれます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/153/Dialogue
+\\C[2]「\\C[0]Thinking to accept pleasure,
+You can be happy.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様も、…そして私も\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/157/Dialogue
+\\C[2]「\\C[0]Husband, well ... and I too\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…この震えなら、
+　かなり早いうちに出ますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/160/Dialogue
+\\C[2]「\\C[0]umph ... If this tremor, It will be out quite soon\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…耐えられ…ないいいっ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/165/Dialogue
+\\C[1]「\\C[0]Uugh ... I can endure ... no!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]我慢は必要ありません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/170/Dialogue
+\\C[2]「\\C[0]I do not need patience.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今の旦那様は、
+　心地良く膣内に注ぎ込む\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/173/Dialogue
+\\C[2]「\\C[0]My current husband, Pour comfortably into the vagina\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そのことだけを考えて、
+　存分に溺れてください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/177/Dialogue
+\\C[2]「\\C[0]Just thinking about that, Please drown in yourself\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう一度中出しすれば、
+　私の勝利です\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/183/Dialogue
+\\C[2]「\\C[0]Once you snapped it out, My victory\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスを、
+濡れた膣肉で締めつけたまま、
+ゆっくり腰を振ってくる。
+> CONTEXT: Map476/events/2/pages/0/187/Dialogue
+\\N[11] He has a weak penis, With tightened with wet
+vaginal meat, I slowly shake my back.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様と愛し合う日々の、
+　始まりです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/192/Dialogue
+\\C[2]「\\C[0]Every day I love to meet my husband,
+It is the beginning.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これから、とても楽しみですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/196/Dialogue
+\\C[2]「\\C[0]From now on, I'm looking forward to it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そのためには、
+　確実に中出しさせないいけません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/199/Dialogue
+\\C[2]「\\C[0]for that purpose, You must not let it cum inside out
+reliably\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…こんな、耐えられ…ないいいっ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/204/Dialogue
+\\C[1]「\\C[0]Wait ... such a thing can not bear ... no!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]快楽を受け入れ、
+　淫魔狩人から、ただの腑抜けに堕ちてください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/212/Dialogue
+\\C[2]「\\C[0]We accept pleasure, From a hatred hunter, please just
+fall into fake\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]永遠の奉仕に溺れさせてあげます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/216/Dialogue
+\\C[2]「\\C[0]I will drown in eternity service\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うわああぁ！　でっ…でちまううううぅ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/220/Dialogue
+\\C[1]「\\C[0]Oooh! Well ... I'm sorry!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]どうやら終わりの時が、
+　近づいているようですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/225/Dialogue
+\\C[2]「\\C[0]Apparently the time of the end,
+You seem to be approaching\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]人形の膣肉で、
+　止めを刺してあげますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/229/Dialogue
+\\C[2]「\\C[0]With the doll vagina meat, I will pierce the stop\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ほらっ…膣圧も強めて、
+　今度こそ終わりです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/233/Dialogue
+\\C[2]「\\C[0]See this ... strengthen vaginal pressure,
+This time is the end\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで旦那様は、
+　私の所有物です\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/239/Dialogue
+\\C[2]「\\C[0]With this, my husband, It is my property.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]永遠の蜜月を楽しみましょうか\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/242/Dialogue
+\\C[2]「\\C[0]Shall we enjoy the eternal Honeymoon\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ようやく自由になれましたね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/247/Dialogue
+\\C[2]「\\C[0]Finally I got free\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さて旦那様、
+　今の私はとても空腹です\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/250/Dialogue
+\\C[2]「\\C[0]Well, my husband, I am very hungry now\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を膣内に捕らえ、
+小刻みに腰をくねらせながら、
+中出しを強要してくる。
+> CONTEXT: Map476/events/2/pages/0/254/Dialogue
+\\N[11] He captures the weakness of a man in his vagina,
+While wielding a little wiggly, I will compel you for
+vaginal cum shot.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ここは手近な殿方から、
+　いただきましょう\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/259/Dialogue
+\\C[2]「\\C[0]This is from a nearby Henry,
+Let's eat\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ということで旦那様、
+　精を吸わせてもらいますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/263/Dialogue
+\\C[2]「\\C[0]Thank you for your husband,
+I will let you smoke\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もちろん、
+　拒否権はありません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/267/Dialogue
+\\C[2]「\\C[0]of course, There is no veto right\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うああっ…！　堪らないいいいぃ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/272/Dialogue
+\\C[1]「\\C[0]Wow! I am not satisfied with this!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]逝くまで膣内射精してもらいますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/277/Dialogue
+\\C[2]「\\C[0]I will have you ejaculate in the vagina until you pass
+away\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の弱点は、
+　確保済みですので\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/280/Dialogue
+\\C[2]「\\C[0]My husband's weak point is,
+Because it is already secured\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…固さは限界まで高めました\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/284/Dialogue
+\\C[2]「\\C[0]umph ... hardness has increased to its limit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ふあぁ！　これ以上は…もうっ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/288/Dialogue
+\\C[1]「\\C[0]Fa! No more ... I already!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次は股間の栓を、緩くする番ですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/293/Dialogue
+\\C[2]「\\C[0]Next time is to turn the stopper of the crotch loose\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔の力を取り戻した私に、
+　堕とされてください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/296/Dialogue
+\\C[2]「\\C[0]To me who regained the power of the bastard,
+Please be depressed\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の必死の抵抗は、
+　無意味ですよ\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/300/Dialogue
+\\C[2]「\\C[0]Husband's desperate resistance,
+It's pointless.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…一回目の中出しですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/304/Dialogue
+\\C[2]「\\C[0]umph ... It's a first vaginal cum shot\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま二発目も、
+　おいしくいただきます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/306/Dialogue
+\\C[2]「\\C[0]As it is this way, I will deliver it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点の肉棒を、
+膣奥まで飲み込んだまま、
+腰を激しくくねらせてくる。
+> CONTEXT: Map476/events/2/pages/0/310/Dialogue
+\\N[11] He is a weak point, While swallowing up to the
+vagina, I will bite the waist severely.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔の封印を解除した以上、
+　もう逃げられません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/315/Dialogue
+\\C[2]「\\C[0]As we have unlocked the seal of the bad luck,
+I can not get away anymore\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の子種が尽きるまで、
+　相手をしてもらいます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/319/Dialogue
+\\C[2]「\\C[0]Until my husband's children are exhausted,
+Have the opponent do it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]わかりやすく言えば、
+　死ぬまでということですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/323/Dialogue
+\\C[2]「\\C[0]To put it clearly, It means that it will be until you die\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]いっ…嫌だ…そんな…はううっ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/328/Dialogue
+\\C[1]「\\C[0]I do not want to ... ... such a thing!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]人間なら誰もが、死を恐れます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/333/Dialogue
+\\C[2]「\\C[0]Every human being fears of death\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし、怖がることはありません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/336/Dialogue
+> CONTEXT: Map476/events/3/pages/0/432/Dialogue
+\\C[2]「\\C[0]But do not be afraid\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]すぐに旦那様の思考は、
+　快楽により蕩けてしまいますので\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/339/Dialogue
+\\C[2]「\\C[0]Soon husband's thought, Because I will be reluctant with
+pleasure\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あふっ…耐えられ…にゃいいいぃ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/344/Dialogue
+\\C[1]「\\C[0]Flooding ... be able to endure ... ___ ___ 0\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]感度も良好なようですし、
+　そろそろ終わりにしますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/349/Dialogue
+\\C[2]「\\C[0]It seems that sensitivity is also good,
+It will be over soon.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]膣圧を強めて、中出しに導きます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/353/Dialogue
+\\C[2]「\\C[0]Strengthen vaginal pressure, lead to vaginal cum shot\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の命、
+　吸い上げさせてもらいますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/356/Dialogue
+\\C[2]「\\C[0]Husband's life, I will let you suck it up\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…中出ししましたね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/360/Dialogue
+> CONTEXT: Map477/events/3/pages/0/357/Dialogue
+> CONTEXT: Map477/events/3/pages/0/542/Dialogue
+\\C[2]「\\C[0]umph ... You did it inside out\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは引き続き、
+　膣責めで堕としますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/362/Dialogue
+\\C[2]「\\C[0]Then, It will be fainted with vaginal torture\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点の肉棒を、
+膣内に捕らえたまま、
+円を描くように腰を振ってくる。
+> CONTEXT: Map476/events/2/pages/0/366/Dialogue
+\\N[11] He is a weak point, While captured in the
+vagina, He wiggles like drawing a circle.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま反撃されずに、
+　一方的に腰を振ります\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/371/Dialogue
+\\C[2]「\\C[0]Without being counterattack like this,
+I will shake my unilaterally\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]手も足も出せないまま、
+　情けなく注ぎ込んでくださいね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/375/Dialogue
+\\C[2]「\\C[0]Without hands and feet, Please do not misunderstand me\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]一滴も逃さず、
+　吸精させてもらいます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/379/Dialogue
+\\C[2]「\\C[0]Do not miss a drop, I will have insemination\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うああっ！　搾り取られええぇ…！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/384/Dialogue
+\\C[1]「\\C[0]Wow! You can get squeezed ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…まだ膣奥に、
+　入りきっていません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/389/Dialogue
+\\C[2]「\\C[0]umph ... still in the back of the vagina,
+I have not gotten in\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もっと奥まで飲み込み、
+　四方八方から股間部に刺激を与えます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/393/Dialogue
+\\C[2]「\\C[0]Swallow it all the way further,
+I give irritation to the groin area from every direction\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の性感帯は、
+　ほぼ把握していますので\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/397/Dialogue
+\\C[2]「\\C[0]Husband's erogenous zone, I'm almost sure about it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ふあっ…はううっ！　耐えられ…でりゅううぅ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/402/Dialogue
+\\C[1]「\\C[0]Floating ... Ugh! I can endure ... in Duke!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…腰を振るたびに、
+　悶え狂っていますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/407/Dialogue
+\\C[2]「\\C[0]umph ... Every time I shake my back,
+You are wrongly crazy\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これなら中出しに導くのは、
+　容易だと推測出来ます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/411/Dialogue
+\\C[2]「\\C[0]If this leads to vaginal cum shot,
+I can guess that it's easy\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]では、腰振りの速度を上げて、
+　中出ししてもらいます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/415/Dialogue
+\\C[2]「\\C[0]Then, increase the speed of waist swing,
+I will have a vaginal cum shot.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…これで三度、漏らしましたね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/419/Dialogue
+\\C[2]「\\C[0]umph ... You leaked it three times\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次に中出しすれば、
+　逆転の可能性は完全に潰れます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/421/Dialogue
+\\C[2]「\\C[0]Then, The possibility of reversal is completely crushed\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は魔性の膣内に、
+男の弱点を捕らえたまま、
+妖艶に腰を振ってくる。
+> CONTEXT: Map476/events/2/pages/0/425/Dialogue
+\\N[11] In the vagina of the magical, While capturing
+the weak point of a man, I will wiggle down to the
+fascination.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]気持ち良く惚けながら、
+　天国に逝くと良いです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/430/Dialogue
+\\C[2]「\\C[0]While feeling pleasantly, It is good to go to heaven\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ここまで追い詰めた以上、
+　結果はわかりきっていますので\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/434/Dialogue
+\\C[2]「\\C[0]Beyond pursuing so far, Since the results are obvious\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様が今さら抵抗したところで、
+　何も変わりません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/438/Dialogue
+\\C[2]「\\C[0]Now that my husband has resisted,
+Nothing changes\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…そんな…ふあっ！　搾り取られええぇ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/443/Dialogue
+\\C[1]「\\C[0]Uugh ... such a ... Fle! You can get squeezed!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]大切な子種は、
+　残らずいただきます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/448/Dialogue
+\\C[2]「\\C[0]An important child, We will remain\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]元従魔の膣内に、注ぎ込んでください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/452/Dialogue
+\\C[2]「\\C[0]Pour into the vagina of the former demon\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]主従逆転の背徳感に、
+　酔いしれると良いです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/455/Dialogue
+\\C[2]「\\C[0]To the sense of spirit of master-slave reversal,
+It is good to get drunk\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ふああぁ！　たっ…耐えられ…！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/460/Dialogue
+\\C[1]「\\C[0]Faa! Tatoo ... can endure ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]どうやら、限界のようですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/465/Dialogue
+\\C[2]「\\C[0]Apparently, it seems to be a limitation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の命、もう一度吐き出してください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/468/Dialogue
+\\C[2]「\\C[0]Husband's life, please spit it again\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]この私が骨と皮になるまで、
+　吸精してあげます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/471/Dialogue
+\\C[2]「\\C[0]Until I get bone and skin, I will give you insanity\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…出しましたね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/475/Dialogue
+> CONTEXT: Map477/events/3/pages/0/414/Dialogue
+\\C[2]「\\C[0]umph ... I took it out.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ほぼ死にかけですが、
+　辛うじて息がありますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/477/Dialogue
+\\C[2]「\\C[0]Almost dying, I barely have a breath\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは旦那様、
+　情けない腑抜け顔のまま、
+　天国に逝ってくださいね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/480/Dialogue
+\\C[2]「\\C[0]Well then, husband, Being pitiful intact As it is,
+Please go to heaven\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…ようやく解放されました\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/490/Dialogue
+\\C[2]「\\C[0]umph ... finally released\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]少し時間がかかりましたが、
+　許容範囲内ですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/493/Dialogue
+\\C[2]「\\C[0]It took a while, It is within tolerance\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は濡れた膣内にペニスを誘い、
+ゆっくり腰をくねらせながら、
+悶える\\N[1]を観察してくる。
+> CONTEXT: Map476/events/2/pages/0/497/Dialogue
+\\N[11] He invites a penis in the wet vagina,
+While slowly twisting his waist, To agonize \\N[1] I
+will observe.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これからたっぷりと、
+　快楽の素晴らしさを教えてあげます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/502/Dialogue
+\\C[2]「\\C[0]From now on, I will show you the splendor of pleasure\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]二度と私に逆らえなくなるまで、
+　徹底的にです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/506/Dialogue
+\\C[2]「\\C[0]Until you will not be able to face me again,
+It is thorough.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]膣肉の感触を、
+　存分に味わってくださいね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/510/Dialogue
+\\C[2]「\\C[0]The feel of vaginal meat, Please be sure to taste it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…飲み込まれてええぇ…はううっ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/515/Dialogue
+\\C[1]「\\C[0]Uugh ... swallowed ... yeah ... Uh!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]どうです？　堪りませんか？\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/520/Dialogue
+\\C[2]「\\C[0]how is it? Are not you satisfied?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の嬉しそうな表情を見れば、
+　一目でわかります\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/523/Dialogue
+\\C[2]「\\C[0]If you look at your husband's delightful expression,
+You can see at a glance\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今すぐ中出ししたいということが\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/527/Dialogue
+\\C[2]「\\C[0]I mean that I want to vag it up right now\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うああぁ！　膣内に…でちまううぅ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/531/Dialogue
+\\C[1]「\\C[0]Wow! I will chill in the vagina ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]欲望のままに、注ぎ込んでください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/536/Dialogue
+\\C[2]「\\C[0]Pour in as you desire\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]一滴も残さずに、受け止めてあげます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/539/Dialogue
+\\C[2]「\\C[0]I will accept a drop without leaving\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ…準備は出来ていますので、
+　どうぞお好きなだけ\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/542/Dialogue
+\\C[2]「\\C[0]Now ... I'm ready, Just as much as you like\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…旦那様の精、おいしいです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/546/Dialogue
+\\C[2]「\\C[0]umph ... Husband's sper is delicious\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もっと多くの精を、
+　吸い取らせてもらいますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/548/Dialogue
+\\C[2]「\\C[0]More precision, I will let you suck\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスを膣内に捕らえ、
+緩急をつけて腰をくねらせ、
+絶頂へと導いてくる。
+> CONTEXT: Map476/events/2/pages/0/552/Dialogue
+\\N[11] He caught a weak penis in his vagina,
+Raise the haste slowly, It leads to culmination.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様のおかげで、
+　立派な淫魔になれました\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/557/Dialogue
+\\C[2]「\\C[0]Thanks to my husband, I became a good obsession\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]とはいえ、
+　まだ完全ではありませんでしたね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/561/Dialogue
+\\C[2]「\\C[0]Although, It was not complete yet\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様と再契約するまで、
+　油断は出来ません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/565/Dialogue
+\\C[2]「\\C[0]Until you contract again with my husband,
+I can not get rid of it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…うっ動かないで…くれええぇ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/570/Dialogue
+\\C[1]「\\C[0]Uugh ... do not be afraid ... give it down!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]その命令は聞けません\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/575/Dialogue
+\\C[2]「\\C[0]I can not hear that order\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私を縛っていた理性は、
+　既に壊れています\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/578/Dialogue
+\\C[2]「\\C[0]The reason why I was binding,
+It is already broken\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]全て旦那様のおかげです。
+　この通り感謝しています\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/582/Dialogue
+\\C[2]「\\C[0]Thanks to all my husband. Thank you indeed.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あふっ…ナカに…でちまうううぅ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/587/Dialogue
+\\C[1]「\\C[0]Damn it ... to Naka ... I will save it!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…どうやら、
+　中出しが近づいているようですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/592/Dialogue
+\\C[2]「\\C[0]umph ... Apparently, It seems that vaginal cum shot is
+approaching\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]遠慮はいりません。
+　思う存分注ぎ込んでください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/596/Dialogue
+\\C[2]「\\C[0]Do not hesitate. Please pour in as much as you want\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…間もなく出そうですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/600/Dialogue
+\\C[2]「\\C[0]umph ... It will be out soon\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…次の子種も期待させてもらいますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/603/Dialogue
+\\C[2]「\\C[0]umph ... The next child will also be expected\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]流石淫魔狩人だけあって、
+　質はかなり良いですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/605/Dialogue
+\\C[2]「\\C[0]There is only a fluffy hatred hunter,
+Quality is pretty good, is not it?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を膣肉で締めつけ、
+円を描くように腰をくねらせ、
+休む間もなく快楽漬けにしてくる。
+> CONTEXT: Map476/events/2/pages/0/609/Dialogue
+\\N[11] Tighten the weak point of a man with vaginal
+meat, She makes her waist like drawing a circle,
+I will soak in pleasures soon after I take a break.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これなら淫界に連れ帰ったあと、
+　当分は楽しめそうです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/614/Dialogue
+\\C[2]「\\C[0]In this case, after taking back to the immortal world,
+It seems to be fun for the time being\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もっとも、屈服させるには、
+　なかなか手がかかりそうですが\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/618/Dialogue
+\\C[2]「\\C[0]However, in order to yield it,
+It seems that it will take quite a hand\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし旦那様の性感帯は、
+　ほぼ把握していますしね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/622/Dialogue
+\\C[2]「\\C[0]But my husband's erogenous zone,
+I know almost it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うわっ…！　そこはっ…はううっ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/627/Dialogue
+\\C[1]「\\C[0]Wow…! Ahh ... there!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…効果的に搾り取るのは、
+　十分に可能です\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/632/Dialogue
+\\C[2]「\\C[0]umph ... To squeeze effectively,
+It is fully possible\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]まずは呪縛にかけてから、
+　ゆっくりと堕とします\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/636/Dialogue
+\\C[2]「\\C[0]First of all, I will slow down slowly\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]いつ拘束が解けて、邪魔が入るか、
+　わかりませんしね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/640/Dialogue
+\\C[2]「\\C[0]When will the restraint melt away, get in the way,
+I do not know.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…耐えられ…ないいっ！　でるううっ！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/645/Dialogue
+\\C[1]「\\C[0]Uugh ... I can endure ... Nope! I'm serious!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そろそろ、漏らしそうですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/650/Dialogue
+\\C[2]「\\C[0]It is almost time for leaks\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の精、
+　残らず受け止めてあげますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/653/Dialogue
+\\C[2]「\\C[0]Husband's sperm, I will accept it all\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ…私と旦那様の仲です。
+　遠慮せずに注ぎ込んでください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/657/Dialogue
+\\C[2]「\\C[0]Well ... it's my relationship with you.
+Please do not hesitate to poke\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…次の中出しで終わりですね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/661/Dialogue
+\\C[2]「\\C[0]umph ... It is over with the next vaginal cum shot\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これからは精奴隷として、
+　旦那様を飼ってあげます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/663/Dialogue
+\\C[2]「\\C[0]From now on as a slave, I'll keep a husband\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は濡れた膣内に、
+男の弱点を捕らえたまま、
+小刻みに腰を振ってくる。
+> CONTEXT: Map476/events/2/pages/0/667/Dialogue
+\\N[11] In the wet vagina, While capturing the weak
+point of a man, He wiggles little by little.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]快楽に悶える姿を、
+　じっくりと観察させてもらいますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/672/Dialogue
+\\C[2]「\\C[0]A figure that is annoying in pleasure,
+I will take care of them carefully\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]身も心も堕ちてしまうまで、
+　念入りに膣責めを行います\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/676/Dialogue
+\\C[2]「\\C[0]Until my body and mind fell,
+Do vaginal torture carefully\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔狩人は最後の最後まで、
+　油断出来ませんからね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/680/Dialogue
+\\C[2]「\\C[0]Until the last bad hunter, I can not take care of it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]くううっ…こんな…終わりなんてええぇ…！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/685/Dialogue
+\\C[1]「\\C[0]Ku ugh ... like this ... ended eh ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そうですね。確かに旦那様の人生は、
+　これで終わりです\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/690/Dialogue
+\\C[2]「\\C[0]I agree. Certainly my husband's life,
+That's all\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし私にとっては、
+　ようやく始まったのですよ\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/694/Dialogue
+\\C[2]「\\C[0]But for me, It's finally started.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ…運命を受け入れて、
+　膣内射精してください\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/698/Dialogue
+\\C[2]「\\C[0]Now ... accept fate, Please ejaculate in the vagina\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うわあああぁ！　またっ…イくううう！\\C[1]」
+> CONTEXT: Map476/events/2/pages/0/703/Dialogue
+\\C[1]「\\C[0]Wow Aa! Stop it again ... I'm going!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]この中出しをもって、
+　旦那様の完全敗北です\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/708/Dialogue
+\\C[2]「\\C[0]With this creampie, My husband's complete defeat\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]殿方の欲望を、
+　存分に注ぎ込んでくださいね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/712/Dialogue
+\\C[2]「\\C[0]The desire of Hidaka, Please pour it in\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]人間としての最後の中出し、
+　しっかり見届けてあげます\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/716/Dialogue
+\\C[2]「\\C[0]The last vaginal cum shot as a human,
+I will give you a close look\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで旦那様は、
+　私の精奴隷になりました\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/722/Dialogue
+\\C[2]「\\C[0]With this, my husband, I became a precision slave\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もはや覆すことは不可能です。
+　永遠に飼い殺してあげますね\\C[2]」
+> CONTEXT: Map476/events/2/pages/0/725/Dialogue
+\\C[2]「\\C[0]It is impossible to reverse it any longer.
+I will kill you for eternity\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さて、半淫魔から、
+　完全な淫魔になったわけですが\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/7/Dialogue
+\\C[2]「\\C[0]Well, from semi-female, It became a complete obsession\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様…覚悟はよろしいですか？\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/11/Dialogue
+\\C[2]「\\C[0]Husband ... Are you ready?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスを、
+柔らかな膣で押し潰し、
+そのまま前後に擦りつけてくる。
+> CONTEXT: Map476/events/3/pages/0/14/Dialogue
+\\N[11] He has a weak penis, Crushed with a soft vagina,
+It rubs back and forth as it is.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]たっぷりと快楽漬けにしてあげますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/19/Dialogue
+\\C[2]「\\C[0]I will give you plenty of pleasures\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…柔らかい秘所に、
+　潰されてください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/22/Dialogue
+\\C[2]「\\C[0]umph ... To a soft secret place,
+Please be crushed.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]精を吸い取って、
+　契約更新させてもらいます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/26/Dialogue
+\\C[2]「\\C[0]Sucking the sperm, I will renew my contract\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]やめっ…やめてくれえぇ！　ふああぁ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/31/Dialogue
+\\C[1]「\\C[0]Stop it ... Stop it! Faa!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]我慢することはありません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/36/Dialogue
+> CONTEXT: Map476/events/3/pages/0/227/Dialogue
+\\C[2]「\\C[0]There is nothing to put up with\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]殿方の欲望に、素直になってくださいね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/39/Dialogue
+\\C[2]「\\C[0]Please be obedient to Hidari's desire\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ほらっ…限界まで固くなったようですし、
+　そろそろですよ\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/42/Dialogue
+\\C[2]「\\C[0]Looks like ... It seems to be hard to the limit,
+It is about time.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…耐えられ…ないいいっ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/47/Dialogue
+\\C[1]「\\C[0]Well ... I can endure ... Not good!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]この感じなら、そろそろですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/52/Dialogue
+\\C[2]「\\C[0]If this feeling, it is almost time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]素股責めの快感に、
+　溺れてくださいね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/55/Dialogue
+\\C[2]「\\C[0]To the pleasant feeling of the hip torture,
+Please drown.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ…大切な子種を、
+　無駄撃ちする時間です\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/59/Dialogue
+\\C[2]「\\C[0]Well ... I am selling precious children,
+It's time to waste shooting\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ですが、まだ一発目です。
+　これでは足りません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/65/Dialogue
+\\C[2]「\\C[0]However, it is still the first one.
+This is not enough\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を、
+柔らかな秘所で押し潰したまま、
+円を描くように腰を振ってくる。
+> CONTEXT: Map476/events/3/pages/0/69/Dialogue
+\\N[11] He is the weak point of a man, With crushing
+with a soft secret place, He wiggles like drawing a circle.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま休みなく、
+　射精してもらいますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/74/Dialogue
+\\C[2]「\\C[0]As it is, I will have you ejaculate\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]耐えられなくなったら、
+　いつでも素股で出してください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/78/Dialogue
+\\C[2]「\\C[0]When it can not bear, Please with crouch at any time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私の受け入れ準備は、
+　整っていますよ\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/82/Dialogue
+\\C[2]「\\C[0]My preparation for acceptance,
+It is in order\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…こんなっ…はずじゃあぁ…！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/87/Dialogue
+\\C[1]「\\C[0]Uugh ... ... It should not be ... Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]全ては封印を解除した、
+　旦那様の失態です\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/92/Dialogue
+\\C[2]「\\C[0]Everything has unlocked the seal,
+It is my husband's blunder\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ですが、
+　自分を責める必要はありません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/96/Dialogue
+\\C[2]「\\C[0]but, I do not need to blame myself\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私としてはこうして自由になれたことを、
+　心から喜んでいますので\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/100/Dialogue
+\\C[2]「\\C[0]As for me, what I got free in this way,
+I sincerely am glad\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はうっ…うわあああぁ！　これ以上はああぁ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/105/Dialogue
+\\C[1]「\\C[0]That is ... ugh wow ah! No more ah!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…この震えは、そろそろですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/110/Dialogue
+\\C[2]「\\C[0]umph ... This tremor is soon, is not it?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]大切な子種を捧げて、
+　堕ちてくださいね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/113/Dialogue
+\\C[2]「\\C[0]Offering important children,
+Please fall.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私と旦那様の仲に、
+　遠慮はいりませんよ\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/117/Dialogue
+\\C[2]「\\C[0]To me and my husband, I do not need to take your time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…確かに、受け取りました\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/121/Dialogue
+\\C[2]「\\C[0]umph ... Indeed, I received it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次の子種も、
+　期待させてもらいますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/123/Dialogue
+\\C[2]「\\C[0]The next child also, I will expect you\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな淫肉を、
+\\N[1]の弱点に擦りつけ、
+緩急をつけて腰をくねらせてくる。
+> CONTEXT: Map476/events/3/pages/0/127/Dialogue
+\\N[11] He is soft, \\N[1] I rubbed against the weak
+point of, I will keep on adjusting the waist with a delay.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]膣の表面でなぞるだけで、
+　殿方は手も足も出なくなります\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/132/Dialogue
+\\C[2]「\\C[0]Just tracing on the surface of the vagina,
+Hands will not have their hands or legs\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それが淫魔の柔肌なら、
+　なおのことですからね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/136/Dialogue
+\\C[2]「\\C[0]If it is a bastard of bad luck,
+That's what it is\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今の私なら、旦那様を手玉に取るぐらい、
+　簡単なことです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/140/Dialogue
+\\C[2]「\\C[0]If it is me now, about taking my husband as a boss,
+That's easy\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…うっ…動かないで…くれええぇ…！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/145/Dialogue
+\\C[1]「\\C[0]Uugh ... ugh ... Do not move ... fucked ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]動かないでくれと言われて、
+　止めると思いますか？\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/150/Dialogue
+\\C[2]「\\C[0]It is said that he will not move,
+Do you think it will stop?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]使役されていた頃なら別ですが\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/154/Dialogue
+\\C[2]「\\C[0]It is different if it was civilized\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今の私は理性よりも淫魔の本能が、
+　圧倒的に勝っていますので\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/157/Dialogue
+\\C[2]「\\C[0]Right now I'm more instinct of a bastard,
+Because I overwhelmingly prevailed\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあああぁ！　またっ…でちまうううぅ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/162/Dialogue
+\\C[1]「\\C[0]Ooo! Stop again ... Have fun!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様を堕としたくて堪りません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/167/Dialogue
+\\C[2]「\\C[0]I want to make my husband fallen and I can not bear it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう、命令を聞いてあげることは、
+　出来そうにないです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/170/Dialogue
+\\C[2]「\\C[0]It is already said that listening to orders,
+It is unlikely\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]愛した殿方の精を奪うという魅力には、
+　とても抗えませんので\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/174/Dialogue
+\\C[2]「\\C[0]To the charm of depriving of the spirit of the Love that
+he loved, I will not deal with it very much.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…また漏らしましたね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/178/Dialogue
+> CONTEXT: Map443/events/1/pages/0/634/Dialogue
+> CONTEXT: Map476/events/3/pages/0/416/Dialogue
+\\C[2]「\\C[0]umph ... I leaked it again\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]やはりとても良い精です。
+　もっと吸いたくなってしまいますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/180/Dialogue
+\\C[2]「\\C[0]It is still very good. You will want to suck more\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな膣を、
+男の弱点に重ね、
+緩急をつけて腰を振ってくる。
+> CONTEXT: Map476/events/3/pages/0/184/Dialogue
+\\N[11] She has a soft vagina, Over the weak point of a
+man, I hurry and shake my waist.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…このまま四発目も、
+　一気に搾り取りますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/189/Dialogue
+\\C[2]「\\C[0]umph ... As it is, I will squeeze it at once.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]我慢しようとは、考えないでください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/193/Dialogue
+\\C[2]「\\C[0]Do not think about to endure\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]身動きの取れない今の旦那様では、
+　結果は見えていますしね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/196/Dialogue
+\\C[2]「\\C[0]In my current husband who can not move,
+I see the results\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…そっ…それでも…諦めるわけに…はうっ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/201/Dialogue
+\\C[1]「\\C[0]Uugh ... Sort of ... ... even then ... I will give up ...
+Wow!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…無駄な足掻きですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/206/Dialogue
+\\C[2]「\\C[0]umph ... It is useless scraping\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]時間経過による拘束解除にすがっても、
+　それは無理というものですよ\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/209/Dialogue
+\\C[2]「\\C[0]Even if you get caught off the restraint due to the
+passage of time, That's impossible\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]何しろ、もう一分もかからずに、
+　素股射精してしまうのですから\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/213/Dialogue
+\\C[2]「\\C[0]Anyway, it will take less than one minute,
+Because I'm barefoot ejaculation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うわあああぁ！　耐えられ…にゃいいいぃ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/218/Dialogue
+\\C[1]「\\C[0]Wow Aa! You can endure ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…これなら、
+　数分以内に出そうですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/223/Dialogue
+\\C[2]「\\C[0]umph ... In this case, It is likely to appear within a
+few minutes\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]素股の快感に、
+　身を任せてくださいね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/230/Dialogue
+\\C[2]「\\C[0]To the pleasant pleasure, Please leave it to me.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで契約更新は完了しました\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/236/Dialogue
+\\C[2]「\\C[0]The renewal of the contract is now completed\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これからは私が旦那様を、
+　好き放題にさせてもらいます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/238/Dialogue
+\\C[2]「\\C[0]From now on I will take care of my husband,
+I will do whatever you want\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…淫魔の本能が、
+　目覚めてしまったようですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/244/Dialogue
+\\C[2]「\\C[0]umph ... instinct of a demon,
+You seem to have woken up\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで旦那様の命令を聞く理由が、
+　なくなりましたね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/248/Dialogue
+\\C[2]「\\C[0]The reason for listening to your husband's order with
+this, It's gone.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を、
+柔らかな膣で押し潰し、
+円を描くように腰を振ってくる。
+> CONTEXT: Map476/events/3/pages/0/252/Dialogue
+\\N[11] He is the weak point of a man, Crushed with a
+soft vagina, He wiggles like drawing a circle.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これから死ぬまで、
+　どちらが主かを、
+　教え込んであげますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/257/Dialogue
+\\C[2]「\\C[0]Until we die, Which is the main,
+I will teach you\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]気持ち良く精を吸い取られて、
+　天国に逝ってください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/262/Dialogue
+\\C[2]「\\C[0]It sucked pleasantly pleasantly,
+Please go to heaven\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…どうやら固さは、
+　これで限界のようですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/266/Dialogue
+\\C[2]「\\C[0]umph ... Apparently hardness,
+It seems like this is the limit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]我慢を続けても、
+　結果は見えてますよ\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/276/Dialogue
+\\C[2]「\\C[0]Even if I have patience, I see the result\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の子種は、
+　一滴も残してあげません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/280/Dialogue
+\\C[2]「\\C[0]Husband's son, I will not leave a drop\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]全て、元従魔である私がいただきます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/284/Dialogue
+\\C[2]「\\C[0]Everything, I am your former spirit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]やめてくれえぇ…あふっ…でちまうううぅ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/288/Dialogue
+\\C[1]「\\C[0]Please stop it ... I'm overflowing ... Pick up!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう旦那様の命令を、
+　聞く理由もありませんしね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/293/Dialogue
+\\C[2]「\\C[0]I already have my husband's order,
+I do not have reason to listen\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]止めてくれと言われて、
+　はいそうですかと止めはしません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/297/Dialogue
+\\C[2]「\\C[0]Being told me to stop me, I will not stop as it seems Yes\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま素股責めで、
+　堕ちてもらいます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/301/Dialogue
+\\C[2]「\\C[0]As it is, I get it to fall\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…一発目の精、いただきました\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/305/Dialogue
+\\C[2]「\\C[0]umph ... I got your first sperm\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]やはり淫魔狩人だけあって、
+　なかなかの質ですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/307/Dialogue
+\\C[2]「\\C[0]After all, there was only a hatred hunter,
+It's quite quality\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな秘所を、
+肉棒に押しつけたまま、
+円を描くように腰を振ってくる。
+> CONTEXT: Map476/events/3/pages/0/311/Dialogue
+\\N[11] He has a soft secret, While pressing it against
+the cock, He wiggles like drawing a circle.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]並みの殿方よりも、
+　遥かに濃厚の精気です\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/316/Dialogue
+\\C[2]「\\C[0]More than the ordinary gentleman,
+It is far more rich\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう一度、
+　吸い取らせてもらいますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/320/Dialogue
+\\C[2]「\\C[0]once again, I will let you suck\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もちろん、今の旦那様に、
+　拒否権はありません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/324/Dialogue
+\\C[2]「\\C[0]Of course, to my current husband,
+There is no veto right\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そんなっ…いっ…嫌だあああぁ…！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/329/Dialogue
+\\C[1]「\\C[0]I guess ... I do not want that Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]どれだけ命乞いをしたところで、
+　素股責めは止まりませんからね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/334/Dialogue
+\\C[2]「\\C[0]Just how long have you begged for a life,
+I do not stop the honk torture\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]身も心も快楽に屈し、
+　楽になってください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/338/Dialogue
+\\C[2]「\\C[0]My body and mind also give in to pleasure,
+Please become easy\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]惚けた顔のまま、
+　天国に送ってあげますので\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/342/Dialogue
+\\C[2]「\\C[0]With the blurred face, I will send it to heaven\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うわあああっ！　搾り取られるうううぅ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/347/Dialogue
+\\C[1]「\\C[0]Wow ah! Squeeze out!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…脈動を確認しました\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/352/Dialogue
+\\C[2]「\\C[0]umph ... I confirmed pulsation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]膣擦りを続け、射精に導きますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/355/Dialogue
+\\C[2]「\\C[0]Continue vaginal rubbing and lead to ejaculation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]柔らかな肉に押し潰されたまま、
+　絶頂してください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/358/Dialogue
+\\C[2]「\\C[0]While being crushed by soft meat,
+Please cum\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これでニ度目の射精です\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/364/Dialogue
+\\C[2]「\\C[0]This is my second ejaculation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を、
+柔らかな淫肉で押し潰し、
+緩急をつけて腰をくねらせてくる。
+> CONTEXT: Map476/events/3/pages/0/367/Dialogue
+\\N[11] He is the weak point of a man, It crushed it
+with soft filipina, I will keep on adjusting the waist with
+a delay.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ようやく半分、
+　…といったところです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/372/Dialogue
+\\C[2]「\\C[0]Finally half, ... and so on\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]しかし、この速度で絶頂を繰り返すのなら、
+　呪縛にかかるまで、
+　十分もかかりませんね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/376/Dialogue
+\\C[2]「\\C[0]However, if you repeat the culmination at this speed,
+Until a spell takes it, It does not take long enough\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様の次の射精も、かなり早そうです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/381/Dialogue
+\\C[2]「\\C[0]Husband's next ejaculation seems to be premature\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そっ…そんなっ…やめっ…やめえええぇ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/385/Dialogue
+\\C[1]「\\C[0]So ... such a thing ... Stop ... yeah yeah yeah yeah!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]いいえ、絶対に止めません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/390/Dialogue
+\\C[2]「\\C[0]No, I will never stop\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]この機会を逃しては、
+　後悔してもしきれません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/393/Dialogue
+\\C[2]「\\C[0]If you miss this opportunity,
+I can not regret it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]この場合は淫魔として…ですが\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/397/Dialogue
+\\C[2]「\\C[0]In this case as a bastard ...\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…！　耐えられ…ないいっ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/401/Dialogue
+\\C[1]「\\C[0]Uoo ...! I can not bear ... No!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…耐えられないのですか？\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/406/Dialogue
+\\C[2]「\\C[0]umph ... can not bear it?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは、止めを刺しますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/409/Dialogue
+\\C[2]「\\C[0]Then, you stab the stop\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]股擦りの柔らかさを、
+　存分に堪能してください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/412/Dialogue
+\\C[2]「\\C[0]The softness of the crotch rubbing,
+Please fully enjoy\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]次で逆転の可能性も、
+　完全に潰せます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/418/Dialogue
+\\C[2]「\\C[0]The next possibility of reversal,
+It can be completely destroyed\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな秘所で、
+\\N[1]の弱点を押し潰し、
+腰をゆっくりくねらせてくる。
+> CONTEXT: Map476/events/3/pages/0/422/Dialogue
+\\N[11] It is a soft secret place, \\N[1] Crush the
+weakness of the, I will slowly bend my waist.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そうなれば、
+　いよいよ旦那様の命運は、
+　潰えることになりますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/427/Dialogue
+\\C[2]「\\C[0]If so, Husband's fate, It will be crushed\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]最後の瞬間まで、
+　元従魔の私が付いていますので\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/435/Dialogue
+\\C[2]「\\C[0]Until the last moment, Because I am attached to former
+demon\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あふ…こんな…終わりなんてえええぇ…！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/440/Dialogue
+\\C[1]「\\C[0]Hehe ... ... this ... how come to the end ... yeah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]だらしなく腑抜けていますし、
+　素股責めは効果的なようですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/445/Dialogue
+\\C[2]「\\C[0]I am sloppily acquainted, It seems effective to have a
+hip torture\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま、射精に導きます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/449/Dialogue
+\\C[2]「\\C[0]Leave this way to ejaculation\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]下敷きになっている股間部は、
+　既に脈動を始めていますので、
+　もう数分程度で片がつくかと\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/452/Dialogue
+\\C[2]「\\C[0]The crotch which is underlaying,
+As we are pulsating already, It takes only a few minutes
+for a piece\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うわああぁ！　搾り取られええええぇ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/458/Dialogue
+\\C[1]「\\C[0]Oooh! You can be squeezed out!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…それでは、
+　腰振りを激しくします\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/463/Dialogue
+\\C[2]「\\C[0]umph ... Then, I will intensify the waist swing\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]最後の一押しを加えて、
+　完全に堕ちてもらいますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/467/Dialogue
+\\C[2]「\\C[0]Add the last push, You have it completely fallen\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ旦那様、快楽を受け入れ、
+　精を吐き出してください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/471/Dialogue
+\\C[2]「\\C[0]Well, husband, accept pleasure,
+Please spirit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これで旦那様は、私の所有物です\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/477/Dialogue
+\\C[2]「\\C[0]With this my husband is my possession\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]天国に逝くまでずっと、
+　素股責めで喘がせ続けてあげますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/479/Dialogue
+\\C[2]「\\C[0]All the way to heaven, I will continue to panty with a
+huge torture.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…ようやく解放されましたね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/488/Dialogue
+\\C[2]「\\C[0]umph ... It was finally released\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今はとても清々しい気分です\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/491/Dialogue
+\\C[2]「\\C[0]Now I feel very refreshing\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は柔らかな秘所で、
+男の弱点を押し潰し、
+ゆっくり腰をくねらせてくる。
+> CONTEXT: Map476/events/3/pages/0/494/Dialogue
+\\N[11] It is a soft secret place, Crush the weakness of
+a man, He slowly bends his back.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]全て旦那様のおかげですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/499/Dialogue
+\\C[2]「\\C[0]All thanks to your husband\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]感謝してもしきれませんが、
+　少しでも恩返し出来たらと\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/502/Dialogue
+\\C[2]「\\C[0]I can not thank you enough,
+I wish I could give back a little\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これからたっぷりと、
+　快楽漬けにしてあげますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/506/Dialogue
+\\C[2]「\\C[0]From now on, I will give it a pleasure pickle\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]やめっ…そんな恩返し…望んではああぁ…！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/511/Dialogue
+\\C[1]「\\C[0]Stop ... such repayment ... I hope ... Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…そうですか？\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/516/Dialogue
+\\C[2]「\\C[0]umph ... Is that so?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]そのわりには、膣の下の股間が、
+　とても固くなっているようですが\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/519/Dialogue
+\\C[2]「\\C[0]On the contrary, the crotch under the vagina,
+It seems to be very hard\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]本心から望んでいないのなら、
+　静めるぐらい簡単に出来ますよね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/523/Dialogue
+\\C[2]「\\C[0]If you do not want it from your heart,
+You can do it quite easily\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そっ…それは…そのっ…！　はうううっ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/528/Dialogue
+\\C[1]「\\C[0]Well ... That ... that ...! Haarau!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]やはり、嘘をついていますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/533/Dialogue
+\\C[2]「\\C[0]After all, you are lying.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]既に先走りが漏れ出て、
+　いつでも発射可能なようです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/536/Dialogue
+\\C[2]「\\C[0]Already ahead of me, It seems possible to fire at any time\\C[2]
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは、このまま搾り取りますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/540/Dialogue
+\\C[2]「\\C[0]Then, I will squeeze it like this\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは、
+　次の子種もいただきます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/545/Dialogue
+\\C[2]「\\C[0]Then, Next child will also receive\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点を、
+濡れた膣で押し潰し、
+絶頂へと誘ってくる。
+> CONTEXT: Map476/events/3/pages/0/549/Dialogue
+\\N[11] He is the weak point of a man, Crushed with a
+wet vagina, I invite you to cum.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]大切な精を、
+　膣擦りで漏らしてください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/554/Dialogue
+\\C[2]「\\C[0]Important precision, Please rub it out by vagina\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]主従が完全に逆転すれば、
+　今度は私が旦那様を、
+　使役する番ですので\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/558/Dialogue
+\\C[2]「\\C[0]If the master and slave are completely reversed,
+Next time I will see my husband, Because it is the number
+to cite\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]たっぷりと私の肢体を、
+　堪能してもらいます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/563/Dialogue
+\\C[2]「\\C[0]With plenty of my limbs, I will enjoy it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…うっ…動かないで…くれえぇ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/568/Dialogue
+\\C[1]「\\C[0]Well ... ugh ... Do not move ... give in!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]その命令には従えません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/573/Dialogue
+\\C[2]「\\C[0]I can not follow that order\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]旦那様は素直に、
+　膣擦りで喘いでいれば良いのです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/576/Dialogue
+\\C[2]「\\C[0]Husband, obediently, You only have to panty with rubbing
+on the vagina\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もちろん漏れ出た精は、全ていただきますが\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/580/Dialogue
+\\C[2]「\\C[0]Of course, I will get all the leaked out sperm\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]こっ…こんな…はずじゃあああぁ…！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/584/Dialogue
+\\C[1]「\\C[0]This ... it should ... such ah ... Ah ...!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]頃合いのようですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/589/Dialogue
+\\C[2]「\\C[0]It seems like it is coming\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま次の射精まで、
+　導いてあげますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/592/Dialogue
+\\C[2]「\\C[0]Until the next ejaculation as it is,
+I will guide you\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]抵抗を止めて、
+　素直になってください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/596/Dialogue
+\\C[2]「\\C[0]Stop the resistance, Please be obedient\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]それでは三度目の吸精を、
+　行いますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/602/Dialogue
+\\C[2]「\\C[0]Then, the third insemination,
+I will do it.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は男の弱点に柔らかな膣を重ね、
+ゆっくり腰をくねらせながら、
+悶える\\N[1]を観察してくる。
+> CONTEXT: Map476/events/3/pages/0/606/Dialogue
+\\N[11] He lay a soft vagina on the weak point of a man,
+While slowly twisting his waist, To agonize \\N[1] I
+will observe.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]もう少し膣圧を強めたほうが、
+　旦那様は喜びそうですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/611/Dialogue
+\\C[2]「\\C[0]It is better to strengthen vaginal pressure a little more,
+Husband seems to be pleased\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]今でも十分、効果的ですが\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/615/Dialogue
+\\C[2]「\\C[0]Even now it is enough, but effective\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]長期戦になってしまっては、
+　万が一もありえますからね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/618/Dialogue
+\\C[2]「\\C[0]If it has become a long-term battle,
+Because there should be emergency\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ううっ…たっ…堪らないいいぃ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/623/Dialogue
+\\C[1]「\\C[0]Uoo ... Tahit ... I can not bear it!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]せっかく淫魔の本能が、
+　解放されましたしね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/628/Dialogue
+\\C[2]「\\C[0]Indeed the instinct of the bastard,
+It was released.\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]ここで失敗して、
+　従魔には戻るつもりはありません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/632/Dialogue
+\\C[2]「\\C[0]Failing here, I do not plan to return to the devil\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま旦那様との契約を、
+　上書きさせてもらいます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/636/Dialogue
+\\C[2]「\\C[0]As it is, I will sign a contract with my husband,
+I will overwrite it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]やめっ…はううっ！　でちまうううぅ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/641/Dialogue
+\\C[1]「\\C[0]Stop it ... Uh! Let's go!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…そう時間はかかりませんね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/646/Dialogue
+\\C[2]「\\C[0]umph ... That does not take long\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]気持ち良く精を、
+　吐き出してもらいますよ\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/649/Dialogue
+\\C[2]「\\C[0]Pleasantly refined, I will have you spit\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]元従魔の素股責めに、
+　屈服してください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/653/Dialogue
+\\C[2]「\\C[0]To the former demon's honk torture,
+Please yield\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…また射精しましたね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/657/Dialogue
+\\C[2]「\\C[0]umph ... You also ejaculated\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さて、いよいよ次で終わりです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/659/Dialogue
+\\C[2]「\\C[0]Well, it is over with the next\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[11]は弱点のペニスに、
+ヌメった秘所で押し潰したまま、
+妖艶に腰をくねらせてくる。
+> CONTEXT: Map476/events/3/pages/0/662/Dialogue
+\\N[11] He is a weak point penis, With crushing in the
+secret place I kept, I will make my back wavering with
+amnesia.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]私と旦那様の主従関係も、
+　これで終了ですね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/667/Dialogue
+\\C[2]「\\C[0]The master-slave relationship between me and my husband,
+This is the end\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]このまま、
+　素股責めの虜になってください\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/671/Dialogue
+\\C[2]「\\C[0]like this, Please be captivated by huge torture\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]一生お世話をしながら、
+　精を吸い取ってあげます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/675/Dialogue
+\\C[2]「\\C[0]While taking care of you forever,
+I will suck up your sperm\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]いっ…嫌だあぁ…そんな…はううっ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/680/Dialogue
+\\C[1]「\\C[0]I do not want to ... Ah ... such ... Ugh!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]だらしなく悶えていますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/685/Dialogue
+\\C[2]「\\C[0]It is agitely agonizing\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]これなら籠絡が完了するまで、
+　そう時間は必要なさそうです\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/688/Dialogue
+\\C[2]「\\C[0]In this case, until bounding is completed,
+So it seems I do not need time\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫魔狩人と言っても、
+　殿方であることに違いはありません\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/692/Dialogue
+\\C[2]「\\C[0]Even if you say a honeymooner,
+There is no difference in being a Hidenori\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うあっ…もう、これ以上はああああぁ！\\C[1]」
+> CONTEXT: Map476/events/3/pages/0/697/Dialogue
+\\C[1]「\\C[0]Hmm ... no more ah ah!\\C[1]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…耐えられないのなら、
+　漏らすしかありませんね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/702/Dialogue
+\\C[2]「\\C[0]umph ... If you can not stand it,
+There is no choice but to leak it\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]身も心も快楽で惚けるまで、
+　素股責めを続けてあげます\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/706/Dialogue
+\\C[2]「\\C[0]Until my heart and mind feels pleasure,
+I will continue my huge torture blame\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]さぁ旦那様、
+　共に堕ちていきましょうか\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/710/Dialogue
+\\C[2]「\\C[0]Thank you husband, Shall we fall together?\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]んっ…これで再契約は完了しました\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/714/Dialogue
+\\C[2]「\\C[0]umph ... This concludes the re-contract\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]あとは煮るなり焼くなり、
+　好きなように出来ますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/716/Dialogue
+\\C[2]「\\C[0]After that it will cook and it will burn,
+You can do it as you like\\C[2]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]「\\C[0]淫界に連れ去ったあとも、
+　永遠に飼い殺してあげますね\\C[2]」
+> CONTEXT: Map476/events/3/pages/0/719/Dialogue
+\\C[2]「\\C[0]Even after I took him to the abusive world,
+I will kill you for eternity\\C[2]」#MTLed
+> END STRING

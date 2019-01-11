@@ -1,0 +1,62 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「そう言えばアイツらは今、
+　何処でどうしているやら」
+> CONTEXT: Map109/events/4/pages/0/6/Dialogue
+「By saying so, I wonder where I'm going」#MTLed
+> END STRING
+
+> BEGIN STRING
+「俺と別れてから全く連絡がとれないが、
+　無事でやっていれば良いが」
+> CONTEXT: Map109/events/4/pages/0/9/Dialogue
+「I can not contact at all after I broke up with me,
+I hope I can do it safely」#MTLed
+> END STRING
+
+> BEGIN STRING
+「風のうわさでは淫魔に襲われたと聞いたが、
+　まさか…アイツらに限って…な」
+> CONTEXT: Map109/events/4/pages/0/12/Dialogue
+「I heard that in the rumor of the wind it was attacked by
+a female horse, No way ... I'm limited to them ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「このところ、夫は何かに悩んでいるようで、
+　私が声をかけても上の空で…」
+> CONTEXT: Map109/events/5/pages/0/6/Dialogue
+「My husband seems to be suffering from something recently,
+Even though I call out ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+「それが朝や昼だけなら良いのですが、
+　夜にまで影響すると…正直…その」
+> CONTEXT: Map109/events/5/pages/0/9/Dialogue
+「I wish it was only in the morning and the afternoon,
+When it affects even at night ... honestly ... that」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ええもう、私…性的欲求不満が溜まって、
+　ベッドの上に無理やり押し倒してしまおうかと、
+　毎夜悶々としちゃうのですよ！」
+> CONTEXT: Map109/events/5/pages/0/12/Dialogue
+「Yeah, I ... Sexual frustration accumulated,
+Whether to forcibly push it down on the bed,
+It makes me cringe every night!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「はぁ…もう、どうやって夫の気を惹こうかしら？」
+> CONTEXT: Map109/events/5/pages/0/16/Dialogue
+「Haa ... I wonder how to attract her husband?」#MTLed
+> END STRING
+
+> BEGIN STRING
+航海に必要な道具が、色々としまわれている。
+> CONTEXT: Map109/events/6/pages/1/6/Dialogue
+> CONTEXT: Map109/events/7/pages/1/6/Dialogue
+The tools necessary for navigation are variously stamped.#MTLed
+> END STRING

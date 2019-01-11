@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+花の泉　中央
+> CONTEXT: Map082/display_name/
+Flower springs center#MTLed
+> END STRING
