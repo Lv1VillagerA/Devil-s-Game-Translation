@@ -1,0 +1,164 @@
+﻿#battle messages
+Context: States/*/message#/
+Context: Skills/*/message#/
+Do: TL;PRLineCharLimit:=60
+
+#Battle messages (already TLed)
+Context: Scripts/Vocab/*
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+#Lvl1 Scripts
+Context: Scripts/Simple Variable Updater/*
+Do: NO_TL
+
+#Party Command
+Context: Scripts/Window_PartyCommand/*
+JapText: "*"
+Do: TL;LineLimit:=1;EngStructure:="*"
+JapText: ELSE
+Do: NO_TL
+
+Ennemy book(already TLed)
+Context: Scripts/悪魔全書【設定】*
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+#Ennemy book(to do)
+Context: Scripts/悪魔全書【本体】*
+JapText: /<*\>/
+Do: NO_TL
+JapText: ELSE
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+#Custom title screen
+Context: Scripts/戦闘中変数表示/*
+JapText: *[A-Za-z]*
+Do: NO_TL
+JapText: ELSE
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+#Custom battle screen
+Context: Scripts/音量調節/*
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false;LineCharLimit:=60
+
+Context: Scripts/スキルツリー/*
+JapText: /<*\>/
+Do: NO_TL
+JapText: ELSE
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+Context: Scripts/アイテム預かり所/1[1-6]#:*
+Do: NO_TL
+
+Context: Scripts/アイテム預かり所/*
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+Context: Scripts/戦闘レイアウト/*
+JapText: "*!"
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+JapText: ELSE
+Do: NO_TL
+
+Context: Scripts/簡易メッセージ/*
+JapText: "\\\\I**]\\\\C**}\\\\C[[]0]を\[#]{n}入手"
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false;EngStructure:="\#{n} \\\\I**] \\\\C**}\\\\C[0] obtained."
+JapText: "\[#]{@num}個"
+Do: NO_TL;"\#{@num}"
+JapText: ELSE
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+Context: Scripts/アイテム合成/*
+Do: TL;SpecialCharactersList:=\r\n♡「」♪ '?１２３４５６９０▲●←↑→↓（）▽★・、～▼■＠.,abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*"+-()-_[]{}<>|:：…！?…。『』？―~\/／－;TestVariableTypes:=false
+
+Context: Scripts/*
+Do: NO_TL
+
+#-------------------------------------
+
+#/Dialogue
+Context: */Dialogue
+Do: TL;LineCharLimit:=60;MinBufferLen:=40
+Context: */DialogueFace
+Do: TL;LineCharLimit:=50;MinBufferLen:=30
+
+#Choice
+Context: */Choice/#
+JapText: *if(**)*
+Do: TL;LineLimit:=1;EngStructure:=*if(**)*
+JapText: *en(**)*
+Do: TL;LineLimit:=1;EngStructure:=*en(**)*
+JapText: ELSE
+Do: TL;LineLimit:=1
+
+#Map inline scripts
+Context: Map*/events/*/InlineScript/*
+JapText: */*
+Do: NO_TL
+JapText: [A-Za-z]
+Do: NO_TL
+JapText: "*"
+Do: TL;LineLimit:=1;EngStructure:="*"
+JapText: ELSE
+Do: NO_TL
+
+#-------------------------------------
+#Items
+
+#Items name
+Context: */name/
+Do: TL;LineLimit:=1;PRLineCharLimit:=24;UpperCaseWords:=true
+
+#Descriptions (items/actors/weapons/skills)
+Context: */description/
+Do: TL;LineLimit:=2;LineCharLimit:=60;MinBufferLen:=60;AllowSizeChange:=True;PRMinLineChar:=50
+
+#-------------------------------------
+#other inline scripts TL_limit "*" = 26 -> -1
+Context: */InlineScript/*
+JapText: */*
+JapText: [A-Za-z]
+Do: NO_TL
+JapText: "*"
+Do: TL;LineLimit:=1;PRLineCharLimit:=26;EngStructure:="*"
+
+#-------------------------------
+#System
+Context: System/currency_unit/
+Do: NO_TL
+
+#system terms
+Context: System/terms/*
+Do: TL;LineCharLimit:=60
+
+#system elements
+Context: System/*
+Do: TL;LineCharLimit:=60
+
+#------------------------------
+#Notes and comments (experimental)
+Context: Enemies/*/Note
+JapText: *<図鑑説明:*>*
+Do: TL;TLAfterTagColon:=True;ReplaceList:=",'
+JapText: *<図鑑特徴:*>*
+Do: TL;TLAfterTagColon:=True;ReplaceList:=",'
+JapText: ELSE
+Do: NO_TL
+
+Context: */Note
+Do: NO_TL
+
+Context: Map###/*/Comment
+JapText: <namepop *>
+Do: TL;ReplaceList:=What? ,?,What?,?,  ,_, ,_,",'
+JapText: ELSE
+Do: NO_TL
+
+Context: */Comment
+Do: NO_TL
+
+#---------------------------
+#Pictures (experimental)
+Context: .png
+Path: *
+Do: OCR;7
+Path: ELSE
+Do: NO_OCR
